@@ -1,0 +1,88 @@
+{
+  "primary_themes": {
+    "invisibility_through_pattern": {
+      "statement": "In an algorithmic world, the way to disappear is not to be absent, but to look exactly like what the system expects to see.",
+      "manifestations": [
+        "Ghost containers looking 'normal' to port AI by having correct sensor signatures",
+        "Pharmacy robbers invisible during system reboots they trigger",
+        "Burglars knowing when apartments are empty by being algorithmic, not observant",
+        "Service workers invisible to wealthy residents, making them perfect data sources",
+        "Criminals hiding in the noise of legitimate patterns"
+      ],
+      "character_connections": {
+        "Sara": "Feels invisible as her profession becomes obsolete to automation",
+        "Yusuf": "Uses his understanding of how systems see (or don't see) Rosengård residents",
+        "Chen": "Hides in plain sight as 'just another' logistics coordinator",
+        "Katarina": "Cleaning workers are invisible; she weaponizes that invisibility"
+      },
+      "resolution": "Partial. Human insight (Sara's) can see what algorithms miss, but it doesn't scale."
+    },
+    "data_exhaust_as_weapon": {
+      "statement": "Every system that watches you creates information that can be used against you. Your patterns are the crime scene before the crime happens.",
+      "manifestations": [
+        "Smart locks tracking resident schedules enable burglaries",
+        "Port automation patterns reveal when containers won't be inspected",
+        "Customer service automation creates predictable security vulnerabilities",
+        "Even police patrol patterns become exploitable data",
+        "Legitimate work (cleaning, delivery) generates criminal intelligence"
+      ],
+      "character_connections": {
+        "Sara": "Her investigation generates data that could be exploited - the hunters are hunted",
+        "Emil": "Understands this intellectually but it drives his cynicism",
+        "Criminals": "All three criminal operations exploit data exhaust from legitimate systems"
+      },
+      "resolution": "Unresolved. The surveillance infrastructure that creates data exhaust is the system itself. Can't solve it by arresting individuals."
+    },
+    "human_obsolescence_vs_necessity": {
+      "statement": "Algorithms are replacing human judgment everywhere, but only human insight can see what the algorithms miss. We're obsolete and essential at the same time.",
+      "manifestations": [
+        "Automated port systems efficient but exploitable",
+        "Police AI tools helpful but create overreliance",
+        "Sara's detective work vs Emil's technical analysis - need both",
+        "Criminals use algorithmic tools but need human creativity to exploit them",
+        "Service workers replaced by automation, but their human access is valuable to criminals"
+      ],
+      "character_connections": {
+        "Sara": "Her father made obsolete by automation. She fears the same fate.",
+        "Emil": "His technical skills racing against obsolescence as criminals innovate faster",
+        "Yusuf": "Talented but couldn't get hired - algorithmic screening rejected him",
+        "Katarina": "Lost teaching job to budget cuts, now in precarious gig economy",
+        "Chen": "Sophisticated logistics coordinator reduced to helping smugglers to survive"
+      },
+      "resolution": "Affirmed. Sara wins by doing what algorithms can't - unpredictable trust and ethics. But individual victories don't solve systemic displacement."
+    }
+  },
+  "secondary_themes": {
+    "class_and_surveillance": "The wealthy buy privacy; the poor are surveilled. But surveillance creates exploitable data that enables crimes against the wealthy. The surveillance state serves and victimizes everyone.",
+    "immigrant_marginalization": "Chen and Yusuf both show how economic and social marginalization pushes talented people into criminal economies. The system creates its own enemies.",
+    "professionalization_of_crime": "Crime used to be violent and obvious. Algorithmic crime is white-collar, technical, and invisible. This makes it more insidious and harder to prosecute.",
+    "collaborative_vs_competitive": "Sara and Emil succeed through collaboration. Criminals mostly work alone. Human connection is the advantage against algorithmic isolation."
+  },
+  "thematic_questions": {
+    "asked_not_answered": [
+      "Can traditional law enforcement adapt fast enough to algorithmic crime?",
+      "Is algorithmic crime a symptom of economic inequality, and if so, is prosecution just?",
+      "What happens when the surveillance infrastructure becomes the crime infrastructure?",
+      "Are we creating a world where only criminals and corporations understand the systems that govern us?"
+    ],
+    "answered_partially": [
+      "Can human insight beat algorithmic prediction? (Yes, sometimes, but it doesn't scale)",
+      "Should we trust the systems we don't understand? (No, but we have to use them anyway)",
+      "Is there ethical algorithmic crime? (No, but there are sympathetic algorithmic criminals)"
+    ]
+  },
+  "symbolic_elements": {
+    "the_ghost_container": "Physical object that's invisible to algorithms. Represents how presence and absence are algorithmic constructs.",
+    "the_phone_running_fake_signatures": "Machine pretending to be another machine. Identity is just data patterns.",
+    "the_cleaning_workers": "Literally invisible to residents. Their visibility is our vulnerability.",
+    "rosengard": "Marginalized neighborhood full of talent the system wastes. Represents algorithmic discrimination in geographic form.",
+    "turning_torso": "Malmö's iconic modern building. Smart, surveilled, vulnerable. The future of housing is the future of crime.",
+    "limhamn_harbor": "Where global capitalism meets local exploitation. Automation enables crime at scale."
+  },
+  "tonal_elements": {
+    "nordic_noir_meets_cyberpunk": "Cold, clinical, morally gray. Technology is the new noir landscape.",
+    "procedural_realism": "Show the work. Investigations are methodical, not magical.",
+    "dry_swedish_humor": "Understatement and irony, never melodrama",
+    "empathy_without_excuse": "Understand criminals without excusing crimes. Understand systems without surrendering to them."
+  }
+}

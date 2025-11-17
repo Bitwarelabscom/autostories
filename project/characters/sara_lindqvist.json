@@ -1,0 +1,47 @@
+{
+  "name": "Sara Lindqvist",
+  "age": 41,
+  "role": "Detective, Economic Crime Division, Malmö Police",
+  "core_wound": "Her father was a dock worker at Limhamn who lost his job to automation. She watched him become obsolete. Now she investigates crimes she barely understands, feeling the same creeping obsolescence.",
+  "wants": "To solve these algorithmic crime cases and prove human investigators still matter",
+  "needs": "To accept that understanding the systems doesn't mean she can beat them alone - collaboration and humility are required",
+  "voice_markers": [
+    "Direct, minimal small talk - gets to the point",
+    "Uses technical terms correctly but admits when she doesn't understand",
+    "Dry humor, often self-deprecating about her tech skills",
+    "Code-switches: professional Swedish with colleagues, more casual with Emil",
+    "Often thinks in analogies to translate tech concepts to human terms"
+  ],
+  "contradiction": "She resents automation for displacing workers, but relies on automated systems for investigations. She's part of the problem she criticizes.",
+  "arc_position": 0.0,
+  "knowledge_state": [
+    "Experienced with traditional economic crime (fraud, embezzlement)",
+    "Basic understanding of ML and AI - has done some training courses",
+    "Knows Malmö's criminal ecosystem from 15 years on the force",
+    "Personally knew victims of automation (her father, former colleagues)"
+  ],
+  "relationships": {
+    "Emil Bergström": "Colleague and friend. She trusts his technical expertise but worries he's becoming cynical and burned out.",
+    "Yusuf Hassan": "Unknown at start. Will develop as cat-and-mouse respect between adversaries.",
+    "Katarina Ek": "Unknown at start. Will develop as complicated sympathy - understands her economic desperation.",
+    "Chen Wei": "Unknown at start. Will see her as a weak link, potential informant."
+  },
+  "background": {
+    "education": "Police academy, later criminology degree, recent cybercrime courses",
+    "family": "Divorced, no children. Father deceased (early death linked to depression after job loss). Mother lives in Västerås.",
+    "residence": "Small apartment in Värnhem, older neighborhood. Deliberately chose not to live in a 'smart building'."
+  },
+  "skills": [
+    "Traditional detective work: interviews, physical evidence, case building",
+    "Reading people and motivations",
+    "Understanding economic incentives and criminal markets",
+    "Persistence and pattern recognition in case files",
+    "Building informant networks"
+  ],
+  "weaknesses": [
+    "Limited technical skills - needs Emil for deep tech work",
+    "Stubborn - resists asking for help or admitting knowledge gaps",
+    "Holds grudges - her resentment of automation colors her judgment",
+    "Workaholic - uses cases to avoid processing personal issues"
+  ]
+}

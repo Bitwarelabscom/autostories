@@ -1,0 +1,253 @@
+{
+  "total_chapters": 20,
+  "structure": "Three-act thriller with parallel investigations converging",
+  "tentpoles": [
+    {
+      "chapter": 1,
+      "type": "hook",
+      "title": "The Invisible Container",
+      "description": "Dockworker reports the ghost container at Limhamn Harbor. Sara and Emil investigate. Discovery of the phone running fake IoT signatures. First exposure to adversarial ML attack. Establishes the world and Sara's perspective.",
+      "key_moments": [
+        "Sara called to Limhamn Harbor at dawn",
+        "Emil analyzes the phone and explains adversarial attacks",
+        "Discovery of 30 more empty containers - massive smuggling operation",
+        "Sara's realization: the smuggling already happened, they're chasing ghosts"
+      ],
+      "world_building": "Port automation, smart container systems, Malmö harbor geography",
+      "character_introduction": "Sara, Emil, brief introduction of Chen Wei as background port worker",
+      "planted_elements": [
+        "Chen Wei's nervous behavior when containers are discovered",
+        "Emil's growing cynicism about police keeping up with tech crime",
+        "Reference to other 'algorithmic crimes' in Malmö - setup for broader pattern"
+      ]
+    },
+    {
+      "chapter": 7,
+      "type": "complication",
+      "title": "Pattern Recognition",
+      "description": "Second crime pattern emerges: pharmacy robberies. Sara connects them through similar algorithmic exploitation. Emil discovers dark web markets selling ML attack techniques. Yusuf is introduced through his digital fingerprint. Stakes raise - this isn't isolated, it's an ecosystem.",
+      "key_moments": [
+        "Pharmacy security footage shows perfectly timed robbery during camera reboot",
+        "Emil traces the Trustpilot review trigger mechanism",
+        "Discovery of dark web markets selling 'adversarial ML models as a service'",
+        "Sara realizes they're not chasing individual criminals but a new crime class",
+        "First mention of Rosengård connection through data analysis"
+      ],
+      "revelations": [
+        "Multiple criminals using similar techniques independently",
+        "Someone is training less sophisticated criminals in adversarial ML",
+        "Economic Crime division is overwhelmed - jurisdictional conflicts emerge"
+      ],
+      "character_development": [
+        "Sara's determination hardens - this is bigger than one case",
+        "Emil identifies Yusuf's technical signature - recognizes professional work",
+        "Chen Wei grows more paranoid as investigation expands"
+      ],
+      "planted_elements": [
+        "Mention of luxury apartment burglaries with no entry evidence - setup for third case",
+        "Emil's comment about 'needing someone on the inside' of criminal network",
+        "Yusuf's username spotted in forum - but identity unknown"
+      ]
+    },
+    {
+      "chapter": 12,
+      "type": "midpoint_reversal",
+      "title": "The Data Exhaust Economy",
+      "description": "Breakthrough and reversal: Sara discovers Katarina's cleaning service connection to apartment burglaries. Emil explains the full scope: legitimate service workers generate predictive models as byproduct of their work. This data exhaust is the new criminal resource. But the reversal: Sara and Emil realize police are compromised too - their own systems generate data exhaust criminals can exploit. The hunters are also the hunted.",
+      "key_moments": [
+        "Burglary victim mentions cleaning service - Sara makes the connection",
+        "Katarina is brought in for questioning - she's sympathetic and terrifying",
+        "Emil demonstrates how ML models can be trained on police patrol patterns",
+        "Sara realizes: if cleaning services are selling models, what other service workers are? Delivery drivers? Maintenance? Food services?",
+        "Discovery that police response time models are being sold to criminals",
+        "The system isn't broken - it's working perfectly for criminals"
+      ],
+      "revelations": [
+        "Every smart system generates exploitable data exhaust",
+        "Service workers are information-rich but economically poor - natural sellers",
+        "Police are part of the surveillance infrastructure being exploited",
+        "The three cases are parallel evolution, not coordinated - algorithmic crime is emergent"
+      ],
+      "character_development": [
+        "Sara faces her father's ghost - he was data exhaust too, disposable labor",
+        "Emil hits peak cynicism - wants to quit but Sara pulls him back",
+        "Katarina reveals her teaching background - Sara sees what desperation does",
+        "Yusuf remains unknown but his sophistication becomes clear"
+      ],
+      "plot_reversal": "Sara and Emil shift from 'catch the criminals' to 'understand and expose the system that creates algorithmic crime'",
+      "planted_elements": [
+        "Katarina mentions 'the person who taught me' on forums - Yusuf connection hint",
+        "Chen Wei's name appears in port logs - she's moving toward discovery",
+        "Emil finds code fragments that will later connect to Yusuf"
+      ]
+    },
+    {
+      "chapter": 17,
+      "type": "climax",
+      "title": "Adversarial",
+      "description": "Converging climax: Sara and Emil close in on all three operations simultaneously. Chen Wei breaks and agrees to testify. Katarina is arrested. Sara confronts Yusuf in Rosengård. But Yusuf has one final algorithmic trick: he's been training a model on police investigation patterns. He knows exactly how they'll move. The climax is both a chase and a chess match - human insight vs algorithmic prediction. Sara wins by doing the unpredictable: trusting Yusuf and offering him a deal instead of arrest.",
+      "key_moments": [
+        "Chen Wei's terrified confession - smuggling network details revealed",
+        "Coordinated raids on port, Katarina's office, and preparation to arrest Yusuf",
+        "Yusuf evades initial police sweep - he predicted their moves",
+        "Sara goes to Rosengård alone, against protocol",
+        "Confrontation in community center - Sara offers deal: help us understand and teach police, or go to prison",
+        "Yusuf's choice: sees that beating the system once doesn't change the system",
+        "Emil provides cover for Sara's unauthorized deal"
+      ],
+      "revelations": [
+        "Yusuf has been documenting everything - has evidence of systemic vulnerabilities",
+        "Chen's testimony can take down smuggling network but she'll need witness protection",
+        "Katarina will serve time but Sara recommends leniency - economic crime, not violent",
+        "The real criminals (smuggling bosses, buyers of the models) are still mostly free"
+      ],
+      "character_arcs": [
+        "Sara accepts that she can't arrest her way out of algorithmic crime - needs systemic change",
+        "Emil finds new purpose: training police to understand these systems",
+        "Yusuf faces consequences but also gets opportunity to teach and legitimate his skills",
+        "Chen finds courage to trust the system that failed to protect her",
+        "Katarina must face her daughter learning what she did"
+      ],
+      "action_sequences": [
+        "Port raid with customs and police",
+        "Tense confrontation in Rosengård with community watching",
+        "Digital chase as Yusuf tries to wipe evidence before arrest"
+      ]
+    },
+    {
+      "chapter": 20,
+      "type": "resolution",
+      "title": "Patterns in Noise",
+      "description": "Aftermath and new equilibrium. Six months later. Chen has testified and is in witness protection, considering asylum. Katarina is serving reduced sentence, her daughter visits. Yusuf is working with Emil training police (community service deal), teaching adversarial ML defense. Sara has been promoted to lead a new algorithmic crime task force. But the final scene shows new crimes emerging - different techniques, same exploitation. The cycle continues. The system adapts, criminals adapt faster. Sara and her team are better prepared, but never ahead. The work continues.",
+      "key_moments": [
+        "Sara's new task force's first day - proper resources finally",
+        "Emil and Yusuf teaching police academy class - former adversaries now colleagues",
+        "Visit to Katarina in prison - her daughter is in university now (on scholarship, not crime money)",
+        "Chen's new life somewhere in northern Sweden, video call with Sara",
+        "Final scene: new algorithmic crime case hits Sara's desk - gig economy workers selling route prediction models to thieves",
+        "Sara sighs, smiles slightly, calls her team together"
+      ],
+      "resolutions": [
+        "Immediate cases solved but systemic issues remain",
+        "Characters have grown and found new purposes",
+        "Police are slightly better equipped but still outmatched",
+        "Economic pressures that create crime haven't changed",
+        "Surveillance capitalism continues generating exploitable data"
+      ],
+      "themes_reinforced": [
+        "Invisibility through pattern - criminals keep adapting to look normal to algorithms",
+        "Data exhaust as weapon - every system generates new vulnerabilities",
+        "Human obsolescence - but also human necessity. Algorithms can't replace insight and ethics",
+        "The work is Sisyphean but still matters. Progress is incremental, not revolutionary."
+      ],
+      "final_tone": "Bittersweet realism. Small victories matter even in unwinnable wars. Competent people doing their best against systemic problems."
+    }
+  ],
+  "bridge_chapters_outline": {
+    "ch02-06": "Investigating the port case. Introducing Chen Wei. Emil's forensic work on the ML models. Sara interviewing dockworkers and port security. Discovery that the smuggled goods are long gone. Frustration and learning curve. Building understanding of adversarial ML. Emil's cynicism vs Sara's determination. First hints of other algorithmic crimes.",
+    "ch08-11": "Parallel investigation of pharmacy robberies. Tracking the Trustpilot trigger pattern. Getting close to Yusuf without knowing it. Introduction of apartment burglaries. Sara starts seeing the pattern across cases. Emil deep in dark web markets. Budget and jurisdiction battles. Chen Wei getting more paranoid. Evidence building slowly.",
+    "ch13-16": "Post-midpoint escalation. Katarina arrested, gives up some info about dark web markets. Sara and Emil focus on finding the sophisticated operator (Yusuf). Chen Wei is identified as person of interest. Pressure on all three criminals increases. Yusuf realizes he's being hunted. Emil gets closer to identifying him. Sara's personal reckoning with her father's legacy and automation. Team building the case toward simultaneous takedown.",
+    "ch18-19": "Immediate aftermath of climax. Processing arrests. Chen's debriefing and protection. Yusuf's deal negotiation. Katarina's trial. Emil and Sara's conversation about what they've learned. Media attention and political pressure. Setting up the new task force. Preparing for the time jump to resolution."
+  },
+  "causal_chains": [
+    {
+      "cause": "Discovery of ghost containers (Ch1)",
+      "effect": "Sara and Emil learn about adversarial ML, priming them to recognize pattern in pharmacy case (Ch7)",
+      "chapters": [1, 7]
+    },
+    {
+      "cause": "Emil identifies Yusuf's technical signature in pharmacy case (Ch7)",
+      "effect": "Able to connect him to dark web forums and eventually identify him (Ch15-16)",
+      "chapters": [7, 15, 16]
+    },
+    {
+      "cause": "Katarina's arrest and interrogation (Ch12-13)",
+      "effect": "Leads to understanding of data exhaust economy and service worker vulnerabilities",
+      "chapters": [12, 13]
+    },
+    {
+      "cause": "Chen Wei's name in port logs (Ch10)",
+      "effect": "Sara identifies her as person of interest, leading to confrontation and testimony (Ch16-17)",
+      "chapters": [10, 16, 17]
+    },
+    {
+      "cause": "Sara goes off-protocol to confront Yusuf alone (Ch17)",
+      "effect": "Creates the trust necessary for deal instead of arrest, shapes resolution",
+      "chapters": [17, 20]
+    },
+    {
+      "cause": "Emil's growing cynicism throughout (Ch1-12)",
+      "effect": "Midpoint crisis where he nearly quits, but Sara's faith pulls him back (Ch12)",
+      "chapters": [1, 4, 7, 12]
+    },
+    {
+      "cause": "Sara's father's job loss to automation (backstory, revealed Ch1, 8, 12)",
+      "effect": "Personal stakes in understanding algorithmic displacement, affects how she deals with Katarina and Yusuf",
+      "chapters": [1, 8, 12, 17, 20]
+    }
+  ],
+  "planted_elements": [
+    {
+      "element": "Chen Wei's nervous behavior at port",
+      "planted_chapter": 1,
+      "payoff_chapter": 16,
+      "status": "planned",
+      "significance": "First hint she's involved before we know her name"
+    },
+    {
+      "element": "Emil's cynicism and burnout",
+      "planted_chapter": 1,
+      "payoff_chapter": 12,
+      "status": "planned",
+      "significance": "His arc is about finding renewed purpose through this case"
+    },
+    {
+      "element": "Reference to 'other algorithmic crimes'",
+      "planted_chapter": 1,
+      "payoff_chapter": 7,
+      "status": "planned",
+      "significance": "Foreshadows the pattern recognition that this is an ecosystem"
+    },
+    {
+      "element": "Yusuf's username in forums",
+      "planted_chapter": 7,
+      "payoff_chapter": 15,
+      "status": "planned",
+      "significance": "Trail that Emil follows to identify him"
+    },
+    {
+      "element": "Mention of service workers as 'invisible'",
+      "planted_chapter": 3,
+      "payoff_chapter": 12,
+      "status": "planned",
+      "significance": "Thematic setup for the data exhaust revelation"
+    },
+    {
+      "element": "Police patrol patterns discussion",
+      "planted_chapter": 5,
+      "payoff_chapter": 12,
+      "status": "planned",
+      "significance": "Setup for revelation that police systems are also exploitable"
+    },
+    {
+      "element": "Katarina mentions teaching background",
+      "planted_chapter": 12,
+      "payoff_chapter": 19,
+      "status": "planned",
+      "significance": "Explains her statistical knowledge and creates parallel with Sara's lost profession theme"
+    },
+    {
+      "element": "Community center in Rosengård",
+      "planted_chapter": 9,
+      "payoff_chapter": 17,
+      "status": "planned",
+      "significance": "Location for final confrontation - public, community space where Sara is vulnerable"
+    }
+  ],
+  "pacing_notes": {
+    "act_1": "Chapters 1-7: Setup and complication. Introduce world, characters, first two crimes. Slow build with procedural detail. End with escalation.",
+    "act_2": "Chapters 8-14: Investigation and revelation. Pattern recognition, understanding the system, personal stakes deepen. Midpoint reversal shifts mission.",
+    "act_3": "Chapters 15-20: Convergence and resolution. Investigations close in. Climax. Aftermath. Faster pacing, higher stakes, emotional payoffs.",
+    "rhythm": "Alternate between case work (Sara/Emil investigating) and criminal POV chapters (Yusuf, Chen, Katarina) to build tension and dramatic irony"
+  }
+}

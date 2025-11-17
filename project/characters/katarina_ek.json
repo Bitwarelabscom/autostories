@@ -1,0 +1,54 @@
+{
+  "name": "Katarina Ek",
+  "age": 45,
+  "role": "Manager of cleaning service company (SweClean AB)",
+  "core_wound": "Was a teacher before education budget cuts. Lost her career and identity. Now she's invisible - cleaning workers are ghosts in rich people's homes. She turned that invisibility into a weapon.",
+  "wants": "Financial security for her daughter's university education and a way out of precarious service work",
+  "needs": "To face that she's victimizing people (her clients) out of class resentment and that her daughter would be ashamed if she knew",
+  "voice_markers": [
+    "Speaks like a teacher - clear, structured, slightly didactic",
+    "Uses 'we' when talking about cleaning workers - solidarity",
+    "Bitter humor about class differences and wealthy people's obliviousness",
+    "Refers to her daughter constantly - 'for Emma,' 'Emma needs'",
+    "Passive-aggressive when dealing with clients; warm with workers"
+  ],
+  "contradiction": "Presents herself as protecting and advocating for workers, but is exploiting them by using their access and data. Rationalizes this as 'victimless crime' against the wealthy.",
+  "arc_position": 0.0,
+  "knowledge_state": [
+    "Understands ML basics from teaching statistics in her former career",
+    "Knows how to train models on scheduling and behavior data",
+    "Has access to smart building systems through her workers' credentials",
+    "Aware she's selling models on dark web markets but doesn't know who buyers are",
+    "Doesn't know Yusuf exists or uses similar techniques"
+  ],
+  "relationships": {
+    "Sara Lindqvist": "Unknown at start. Will try to present herself as sympathetic victim of economic system.",
+    "Yusuf Hassan": "Unknown. Operates in same dark web markets but never interacted.",
+    "Chen Wei": "Unknown. Different criminal ecosystem.",
+    "Emil Bergström": "Unknown at start. Will be questioned by him.",
+    "Her workers": "Genuinely cares about them but exploits their trust. They have no idea she's using their work access for crime.",
+    "Her daughter Emma": "15 years old. Katarina's entire motivation. Emma is academically gifted but doesn't know how her university fund is growing.",
+    "Clients": "Maintains professional facade but resents them. Sees them as legitimate targets because they don't notice their privilege."
+  },
+  "background": {
+    "education": "Teaching degree, specialized in mathematics and statistics. Lost teaching position in 2023 budget cuts.",
+    "family": "Single mother. Daughter Emma (15). Ex-husband left when Emma was young, pays minimal child support.",
+    "residence": "Two-bedroom apartment in Lindängen (working class neighborhood). Rents, can't afford to buy.",
+    "work_history": "Taught for 12 years before being laid off. Started cleaning company as 'temporary' solution. Three years later, still there."
+  },
+  "skills": [
+    "Teaching and explaining complex concepts",
+    "Statistics and basic ML training",
+    "Business management and coordination",
+    "Building trust with workers and clients",
+    "Data collection and pattern analysis",
+    "Understanding wealth gaps and class dynamics"
+  ],
+  "weaknesses": [
+    "Class resentment clouds moral judgment",
+    "Rationalizes criminal behavior through victim status",
+    "Underestimates the harm her crimes cause",
+    "Anxious and risk-averse - constant stress about being caught",
+    "Doesn't understand technical depth - relies on tutorials and forums for ML work"
+  ]
+}

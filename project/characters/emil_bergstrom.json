@@ -1,0 +1,52 @@
+{
+  "name": "Emil Bergström",
+  "age": 32,
+  "role": "IT Forensics Specialist, Malmö Police",
+  "core_wound": "Joined police cybercrime to fight hackers and protect people. Five years in, he's realized criminals innovate faster than police can respond. He's watching his expertise become obsolete in real-time. Existential professional crisis.",
+  "wants": "To find one case where they're ahead of the criminals instead of playing catch-up",
+  "needs": "To rediscover purpose - maybe mentoring the next generation instead of trying to win unwinnable technical arms race",
+  "voice_markers": [
+    "Technical but not condescending - patient explainer",
+    "Increasingly sarcastic and dark humor about police capabilities",
+    "Uses gaming and pop culture references",
+    "Says 'theoretically' and 'in principle' a lot - signaling gap between ideal and reality",
+    "Sighs frequently, especially when describing system limitations"
+  ],
+  "contradiction": "Wants to believe in law enforcement's ability to adapt, but his daily experience proves they're always two steps behind. Stays in the job anyway.",
+  "arc_position": 0.0,
+  "knowledge_state": [
+    "Expert in digital forensics, network analysis, data recovery",
+    "Deep knowledge of ML/AI systems and vulnerabilities",
+    "Knows the dark web markets and criminal tech forums (monitors them)",
+    "Aware of police resource limitations and bureaucratic obstacles",
+    "Personally knows some criminals he went to university with - complicated"
+  ],
+  "relationships": {
+    "Sara Lindqvist": "Close colleague and genuine friend. He respects her detective instincts. Serves as her tech translator and sounding board. Sometimes protective of her from harsh realities of how outmatched they are.",
+    "Yusuf Hassan": "Unknown at start, but will recognize his technical signature in the attacks. Might have crossed paths in online forums without knowing real identities.",
+    "Katarina Ek": "Unknown. Will feel sad about her case - sees economic desperation driving crime.",
+    "Chen Wei": "Unknown at start.",
+    "His team": "Mentor to younger analysts. Trying not to infect them with his cynicism."
+  },
+  "background": {
+    "education": "Computer science and criminology double major. Top student, recruited to police.",
+    "family": "From upper-middle class family in Lund. Parents are academics. Some guilt about class privilege.",
+    "residence": "Apartment in Södra Innerstaden. Has all the smart home tech but keeps it segmented and monitored - professional paranoia.",
+    "previous_work": "Could have made 3x salary in private sector. Chose public service. Increasingly questions that choice."
+  },
+  "skills": [
+    "Digital forensics and log analysis",
+    "Reverse engineering and code analysis",
+    "ML model analysis and adversarial attack detection",
+    "Network security and penetration testing",
+    "Teaching and explaining complex concepts",
+    "Dark web investigation techniques"
+  ],
+  "weaknesses": [
+    "Burnout and cynicism affecting his judgment",
+    "Perfectionist - gets frustrated when they can't achieve ideal outcomes",
+    "Overthinks - sometimes analysis paralysis",
+    "Drinks too much coffee and sleeps too little",
+    "Considers leaving police force - wavering commitment affects long-term thinking"
+  ]
+}
