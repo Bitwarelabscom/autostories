@@ -1,0 +1,135 @@
+{
+  "chapter": 7,
+  "word_count": 2483,
+  "timeline": "Six days after Sterling's death, evening",
+  "location": "Reeves' apartment, Harrington's office at Mass General, Thai restaurant, Sterling's brownstone",
+  "characters_present": ["Detective_Reeves", "Dr_Chen", "Dr_Harrington", "Ethan_Cross"],
+  "character_states": {
+    "Detective_Reeves": {
+      "knows": [
+        "All previous knowledge from Ch 1",
+        "Sterling destroyed 15+ careers systematically",
+        "Dr. Chen's final report: all tests show natural causes, no poisons found",
+        "Harrington borrowed 'The Art of Quiet Death' 3 months ago",
+        "Book is about undetectable poisons, has chapter on digitalis",
+        "Book is now missing from Sterling's house",
+        "Harrington visited 3 days before death to 'return' book",
+        "Harrington has perfect alibi - was at NYC conference with 300 witnesses",
+        "Harrington admits she had motive - Sterling sabotaged her career",
+        "Harrington is cardiologist specializing in pharmacology",
+        "Harrington claims book was left on Sterling's desk",
+        "Theoretically possible to engineer delayed-release cardiac poison",
+        "Such poison would need sophisticated knowledge and equipment",
+        "All evidence points to natural death - but his instinct says murder"
+      ],
+      "emotional_state": "Frustrated, doubting himself, haunted by Webb parallel, obsessive",
+      "arc_position": 0.35,
+      "location": "Outside Sterling's brownstone at end of chapter"
+    },
+    "Dr_Harrington": {
+      "knows": [
+        "Police are investigating as potential murder",
+        "Reeves suspects her specifically",
+        "Her alibi has been checked",
+        "She successfully appears cooperative and innocent",
+        "The poison left no detectable trace as planned",
+        "Book evidence is circumstantial at best"
+      ],
+      "emotional_state": "Controlled tension, careful performance of innocence, slight guilt showing through",
+      "arc_position": 0.35,
+      "location": "Her office at Mass General"
+    },
+    "Dr_Chen": {
+      "knows": [
+        "All previous knowledge",
+        "Ran every possible toxicology test - all negative",
+        "Found minor hypoxic cell damage (can't definitively explain it)",
+        "Theoretically possible to create delayed-release cardiac poison",
+        "Such poison could fully degrade if designed properly",
+        "Reeves is obsessed with proving murder",
+        "Webb's case parallel is driving Reeves"
+      ],
+      "emotional_state": "Concerned for Reeves, scientifically frustrated, doubting",
+      "arc_position": 0.3,
+      "location": "Thai restaurant with Reeves"
+    },
+    "Ethan_Cross": {
+      "knows": [
+        "All previous knowledge",
+        "Found that book was about undetectable poisons",
+        "Harrington borrowed it 3 months ago",
+        "Book is now missing",
+        "Verified Harrington's alibi - solid, multiple witnesses",
+        "Reeves still believes it's murder despite alibis and lack of evidence"
+      ],
+      "emotional_state": "Excited by the lead but confused by perfect alibi",
+      "arc_position": 0.25,
+      "location": "Unknown - sent text to Reeves"
+    },
+    "Victoria_Sterling": {
+      "knows": [
+        "All previous knowledge",
+        "Told police about Harrington borrowing the poison book",
+        "Told police Harrington returned it 3 days before death"
+      ],
+      "emotional_state": "Uninvolved this chapter",
+      "arc_position": 0.0,
+      "location": "Unknown"
+    }
+  },
+  "revealed_to_reader": [
+    "Sterling systematically destroyed 15 careers over 10 years",
+    "All forensic tests show natural causes - no poisons detected",
+    "Harrington borrowed a book specifically about undetectable poisons",
+    "The book is now missing despite Harrington claiming she returned it",
+    "Harrington has perfect alibi - at conference in NYC with 300 witnesses",
+    "Harrington admits motive openly (seems like honesty)",
+    "Theoretically possible to create delayed-release cardiac poison that degrades",
+    "Such sophistication would require years of research and specialized knowledge",
+    "Harrington is exactly the kind of expert who could do this",
+    "Every piece of evidence either points to natural death or is circumstantial",
+    "Reeves is beginning to doubt whether he can ever prove it"
+  ],
+  "planted": [
+    {
+      "element": "Hypoxic cell damage that Chen can't fully explain",
+      "payoff_chapter": 12,
+      "significance": "Will become evidence of oxygen deprivation from the poison's mechanism"
+    },
+    {
+      "element": "Delayed-release poison concept introduced",
+      "payoff_chapter": 17,
+      "significance": "This is exactly what Harrington created"
+    },
+    {
+      "element": "Chen's description of 'someone who thinks several moves ahead'",
+      "payoff_chapter": 17,
+      "significance": "Foreshadows Harrington's careful planning"
+    },
+    {
+      "element": "The missing poison book",
+      "payoff_chapter": 14,
+      "significance": "Will be found hidden in Harrington's office with her notes"
+    },
+    {
+      "element": "Reeves questioning his own judgment (Webb parallel)",
+      "payoff_chapter": 20,
+      "significance": "Character arc - will learn to trust himself but also accept limits"
+    }
+  ],
+  "active_tensions": [
+    "Reeves suspects Harrington but she has perfect alibi",
+    "All scientific evidence says natural death",
+    "Reeves' obsession with Webb case clouding judgment?",
+    "How can he prove murder when everything points to natural causes?",
+    "Is Harrington innocent or perfectly careful?",
+    "Missing book - where is it?",
+    "Can Reeves solve this in time or will case be closed?"
+  ],
+  "world_changes": [
+    "Official investigation reaching dead end",
+    "Dr. Harrington now aware she's a suspect",
+    "Harrington's alibi verified",
+    "Case may be closed soon if no new evidence emerges"
+  ]
+}

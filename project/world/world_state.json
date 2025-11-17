@@ -1,0 +1,33 @@
+{
+  "genre": "Detective Mystery Thriller",
+  "setting": {
+    "time_period": "Present day, winter",
+    "primary_location": "Boston, Massachusetts - Beacon Hill neighborhood and downtown",
+    "atmosphere": "Cold, precise, intellectual - emphasis on logic over emotion"
+  },
+  "rules": {
+    "murder_method": {
+      "description": "Victim appears to have died of natural causes (cardiac arrest)",
+      "constraint": "No physical evidence of foul play exists",
+      "truth": "Sophisticated poison that mimics natural death and degrades within 48 hours"
+    },
+    "detection_rules": {
+      "forensics": "State-of-the-art but follows real-world limitations",
+      "no_magic": "Pure deduction and evidence-based investigation",
+      "timeline_strict": "All events must follow realistic timelines",
+      "witness_reliability": "Witnesses can lie, misremember, or have agendas"
+    },
+    "technology_level": "Current era - smartphones, digital forensics, surveillance cameras, but no sci-fi tech",
+    "social_structures": [
+      "Old money Boston elite (insular, protective)",
+      "Police department hierarchy (bureaucratic, political pressure)",
+      "Academic circles (Harvard connections, intellectual rivalries)"
+    ]
+  },
+  "themes": [
+    "Intelligence vs. wisdom",
+    "The illusion of perfection",
+    "Justice vs. truth"
+  ],
+  "tone": "Cerebral, methodical, with underlying tension. Think classic locked-room mystery meets modern forensic procedural."
+}

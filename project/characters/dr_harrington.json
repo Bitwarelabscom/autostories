@@ -1,0 +1,25 @@
+{
+  "name": "Dr. Olivia Harrington",
+  "core_wound": "Watched her mother die slowly from a painful disease, couldn't help despite being a doctor",
+  "wants": "To maintain her reputation and freedom",
+  "needs": "To confess and accept consequences",
+  "voice_markers": [
+    "Speaks with controlled emotion, very measured",
+    "Medical terminology slips into casual conversation",
+    "Uses phrases like 'statistically speaking' and 'clinically'"
+  ],
+  "contradiction": "Committed murder out of compassion but is terrified of being caught",
+  "arc_position": 0.0,
+  "knowledge_state": [
+    "Knows she killed Professor Sterling",
+    "Knows the poison method",
+    "Doesn't know if anyone suspects her"
+  ],
+  "relationships": {
+    "Detective_Reeves": "Fears his intelligence, tries to appear helpful and cooperative",
+    "Professor_Sterling": "Was her mentor and tormentor - complex guilt and relief",
+    "Victoria_Sterling": "Deep sympathy mixed with guilt - avoided her after the death",
+    "Dr_Chen": "Professional rivalry, mutual respect"
+  },
+  "background": "45-year-old cardiologist at Mass General, Harvard Medical School professor. Sterling's former student. Known for pioneering work in cardiac pharmacology."
+}

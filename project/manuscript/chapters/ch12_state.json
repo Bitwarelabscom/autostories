@@ -1,0 +1,135 @@
+{
+  "chapter": 12,
+  "word_count": 2156,
+  "timeline": "Two weeks after Sterling's death, March",
+  "location": "Captain Walsh's office, forensic lab, Harrington's brownstone (exterior), Reeves' car",
+  "characters_present": ["Detective_Reeves", "Captain_Walsh", "Ethan_Cross", "Dr_Chen", "Dr_Harrington"],
+  "character_states": {
+    "Detective_Reeves": {
+      "knows": [
+        "All previous knowledge",
+        "Microscopic puncture mark found in Sterling's scalp",
+        "Injection made approximately 72 hours before death",
+        "Injection site hidden in hairline, partially healed",
+        "This is definitive proof of murder",
+        "Timing matches Harrington's visit exactly",
+        "Delayed-release poison theory confirmed by injection timing",
+        "Hypoxic damage shows specific cellular pattern",
+        "Pattern matches modified digitalis derivatives (cardiotoxic glycosides)",
+        "Poison was synthetic, manufactured by someone",
+        "DA won't issue search warrant - insufficient evidence",
+        "Need to prove Harrington created the poison",
+        "Must track her movements, lab access, chemical orders for 3 months"
+      ],
+      "emotional_state": "Vindicated but frustrated, determined, focused on long investigation ahead",
+      "arc_position": 0.60,
+      "location": "Car outside Harrington's brownstone"
+    },
+    "Dr_Harrington": {
+      "knows": [
+        "All previous knowledge",
+        "Doesn't know puncture mark has been found",
+        "Believes she's safe - alibi checked, case closing",
+        "Poison designed to be completely undetectable",
+        "Hidden injection site carefully chosen"
+      ],
+      "emotional_state": "False sense of security, believes murder was perfect",
+      "arc_position": 0.35,
+      "location": "Her brownstone"
+    },
+    "Dr_Chen": {
+      "knows": [
+        "All previous knowledge",
+        "Found the puncture mark with Ethan's help",
+        "Confirmed injection site, approximately 72 hours pre-death",
+        "Hypoxic damage pattern analyzed",
+        "Pattern indicates modified digitalis derivatives",
+        "Synthetic compound, manufactured not natural",
+        "Reeves was right all along about murder",
+        "Poison can't be chemically detected - fully degraded",
+        "Can only prove cellular damage pattern"
+      ],
+      "emotional_state": "Excited by discovery, apologetic for doubting Reeves, determined to help",
+      "arc_position": 0.65,
+      "location": "Forensic lab"
+    },
+    "Ethan_Cross": {
+      "knows": [
+        "All previous knowledge",
+        "Found the puncture mark by analyzing lamp positioning",
+        "Injection site in scalp, hidden in hairline",
+        "His instinct about staged scene led to breakthrough",
+        "Reeves values his intuition now",
+        "Beginning extensive investigation of Harrington's activities"
+      ],
+      "emotional_state": "Elated and validated, eager to prove himself further",
+      "arc_position": 0.70,
+      "location": "Unknown, received call from Reeves"
+    },
+    "Captain_Walsh": {
+      "knows": [
+        "Puncture mark proves injection",
+        "Injection timing matches Harrington's visit",
+        "Poison theory plausible but unproven",
+        "Evidence is circumstantial",
+        "DA won't issue warrant",
+        "Reeves is probably right but conviction unlikely with current evidence"
+      ],
+      "emotional_state": "Pragmatically supportive, concerned about case viability",
+      "arc_position": 0.0,
+      "location": "Police station"
+    }
+  },
+  "revealed_to_reader": [
+    "DEFINITIVE PROOF: Microscopic puncture mark found - Sterling was injected",
+    "Injection made 72 hours before death - day of Harrington's visit",
+    "Delayed-release poison theory confirmed by timing",
+    "Lamp was positioned to illuminate body for injection - Ethan's instinct was correct",
+    "Cellular damage pattern matches modified digitalis derivatives",
+    "Poison was synthetic, manufactured",
+    "But: poison can't be chemically detected, fully degraded",
+    "DA won't issue search warrant - evidence too circumstantial",
+    "Perfect murder: evidence exists but can't be used legally",
+    "Investigation shifts to proving Harrington created the poison",
+    "Chen can analyze cellular pattern to narrow down compound class",
+    "Reeves and team beginning months-long investigation"
+  ],
+  "planted": [
+    {
+      "element": "Modified digitalis derivatives mentioned",
+      "payoff_chapter": 14,
+      "significance": "Will track chemical orders to Harrington's lab"
+    },
+    {
+      "element": "Need to track lab access and chemical orders",
+      "payoff_chapter": 15,
+      "significance": "Paper trail will show suspicious patterns"
+    },
+    {
+      "element": "Harrington's false sense of security",
+      "payoff_chapter": 17,
+      "significance": "Will make her vulnerable to Reeves' trap"
+    },
+    {
+      "element": "Reeves thinking about evidence in Harrington's house/office/lab",
+      "payoff_chapter": 14,
+      "significance": "The missing book will be found there with her notes"
+    }
+  ],
+  "active_tensions": [
+    "Murder is proven but can't get warrant",
+    "How to prove Harrington created the poison?",
+    "Harrington doesn't know they found the puncture mark",
+    "Will chemical/lab records reveal enough?",
+    "Can they build case strong enough for conviction?",
+    "Reeves' vindication vs. inability to act immediately"
+  ],
+  "world_changes": [
+    "Murder definitively proven (puncture mark)",
+    "Investigation shifts from 'is it murder?' to 'can we prove Harrington did it?'",
+    "Ethan validated - his instincts matter",
+    "Dr. Chen fully on board, analyzing cellular patterns",
+    "Long-term investigation begins - tracking Harrington's activities",
+    "Harrington unaware she's been discovered"
+  ]
+}

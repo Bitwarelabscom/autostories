@@ -1,0 +1,25 @@
+{
+  "name": "Victoria Sterling",
+  "core_wound": "Spent 40 years married to a brilliant man who treated her as an accessory",
+  "wants": "To preserve her husband's legacy and her social position",
+  "needs": "To acknowledge who he really was and find her own identity",
+  "voice_markers": [
+    "Old Boston accent, very proper",
+    "Refers to people by full names and titles",
+    "Says 'one does not' instead of 'you don't'"
+  ],
+  "contradiction": "Defends her husband's reputation while secretly relieved he's dead",
+  "arc_position": 0.0,
+  "knowledge_state": [
+    "Knows her husband was cruel",
+    "Suspects he had enemies",
+    "Doesn't know about the affairs or academic sabotage"
+  ],
+  "relationships": {
+    "Professor_Sterling": "Complicated - duty, resentment, habit, relief at his death",
+    "Detective_Reeves": "Sees him as a gentleman in a crude profession",
+    "Dr_Harrington": "Noticed her absence after the death, finds it odd",
+    "Thomas_Sterling": "Protective of her son but knows he resented his father"
+  },
+  "background": "67 years old, Beacon Hill society matriarch, art collector, runs several charities. Married to Professor Sterling for 42 years."
+}

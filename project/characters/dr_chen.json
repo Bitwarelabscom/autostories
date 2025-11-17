@@ -1,0 +1,21 @@
+{
+  "name": "Dr. Lisa Chen",
+  "core_wound": "Made a mistake early in career that let a killer go free - now triple-checks everything",
+  "wants": "To provide definitive answers through science",
+  "needs": "To accept that not everything can be proven in a lab",
+  "voice_markers": [
+    "Speaks in qualifiers: 'likely', 'probably', 'consistent with'",
+    "Explains technical concepts with everyday metaphors",
+    "Hums while thinking"
+  ],
+  "contradiction": "Wants certainty but works in a field of probabilities",
+  "arc_position": 0.0,
+  "knowledge_state": [],
+  "relationships": {
+    "Detective_Reeves": "Professional respect, both appreciate precision",
+    "Ethan_Cross": "Maternal fondness, encourages his observations",
+    "Dr_Harrington": "Knows her by reputation, admires her cardiac work",
+    "Captain_Walsh": "Frustration - he wants answers faster than science provides"
+  },
+  "background": "52-year-old medical examiner, state forensics lab. 25 years experience. Known for meticulous work and refusing to be pressured into premature conclusions."
+}

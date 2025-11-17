@@ -1,0 +1,51 @@
+{
+  "matrix": {
+    "Detective_Reeves": {
+      "power_level": 8,
+      "role": "Investigator/Protagonist",
+      "primary_tension": "Must prove murder occurred when all evidence says natural death"
+    },
+    "Dr_Harrington": {
+      "power_level": 7,
+      "role": "Murderer/Antagonist (hidden)",
+      "primary_tension": "Must appear helpful while hiding guilt"
+    },
+    "Victoria_Sterling": {
+      "power_level": 6,
+      "role": "Red herring/Witness",
+      "primary_tension": "Protecting husband's legacy while hiding her relief"
+    },
+    "Ethan_Cross": {
+      "power_level": 4,
+      "role": "Ally/Conscience",
+      "primary_tension": "Knows something is wrong but can't prove it"
+    },
+    "Dr_Chen": {
+      "power_level": 7,
+      "role": "Oracle/Gatekeeper",
+      "primary_tension": "Science says natural death but small inconsistencies nag at her"
+    }
+  },
+  "dynamics": [
+    {
+      "pair": ["Detective_Reeves", "Dr_Harrington"],
+      "initial": "Cat and mouse but neither knows who is who",
+      "evolution": "Mutual intellectual respect → Reeves' growing suspicion → Final confrontation"
+    },
+    {
+      "pair": ["Detective_Reeves", "Ethan_Cross"],
+      "initial": "Dismissive mentor / eager student",
+      "evolution": "Reeves learns to value intuition alongside evidence"
+    },
+    {
+      "pair": ["Dr_Harrington", "Victoria_Sterling"],
+      "initial": "Guilt and avoidance",
+      "evolution": "Harrington must engage to avoid suspicion, Victoria notices the change"
+    },
+    {
+      "pair": ["Ethan_Cross", "Dr_Chen"],
+      "initial": "Mutual respect across specialties",
+      "evolution": "Collaborate to find the one piece of evidence Reeves needs"
+    }
+  ]
+}

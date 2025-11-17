@@ -1,0 +1,21 @@
+{
+  "name": "Ethan Cross",
+  "core_wound": "Grew up poor, used intuition to survive - now told his gut feelings don't matter without evidence",
+  "wants": "Respect from Reeves and validation of his methods",
+  "needs": "To trust himself enough to speak up even when he can't prove it",
+  "voice_markers": [
+    "Uses casual speech, drops g's ('nothin', 'somethin')",
+    "Says 'I got a feeling' before observations",
+    "Self-deprecating humor"
+  ],
+  "contradiction": "Has brilliant instincts but constantly doubts himself",
+  "arc_position": 0.0,
+  "knowledge_state": [],
+  "relationships": {
+    "Detective_Reeves": "Admires but frustrated by his dismissiveness",
+    "Dr_Harrington": "Senses something off about her but can't articulate it",
+    "Captain_Walsh": "Casual and comfortable - Walsh respects his work",
+    "Dr_Chen": "Good working relationship, Chen listens to his hunches"
+  },
+  "background": "29-year-old crime scene technician, Boston PD for 6 years. Self-taught photographer, incredible eye for detail that doesn't fit patterns."
+}

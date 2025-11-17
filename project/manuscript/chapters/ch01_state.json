@@ -1,0 +1,124 @@
+{
+  "chapter": 1,
+  "word_count": 2247,
+  "timeline": "February, morning - discovery of body",
+  "location": "Professor Sterling's Beacon Hill brownstone - study and sitting room",
+  "characters_present": ["Detective_Reeves", "Captain_Walsh", "Ethan_Cross", "Dr_Chen", "Victoria_Sterling"],
+  "character_states": {
+    "Detective_Reeves": {
+      "knows": [
+        "Sterling died in his study, ruled natural causes",
+        "Scene appears 'too perfect' - suspiciously arranged",
+        "Lamp positioned oddly",
+        "Book missing from shelf recently",
+        "Sterling had many enemies",
+        "Sterling was unusually kind recently",
+        "Victoria married him for 42 years",
+        "Dr. Harrington (cardiologist, former student) visited 3 days ago to return a book",
+        "Dr. Chen sees 5% possibility of irregularities"
+      ],
+      "emotional_state": "Intellectually engaged, suspicious, haunted by Webb's death parallel",
+      "arc_position": 0.05,
+      "location": "Sterling brownstone"
+    },
+    "Dr_Chen": {
+      "knows": [
+        "Sterling had cardiac history - arrhythmia, stent",
+        "Death appears natural (95% certain)",
+        "Minor irregularities worth examining",
+        "Reeves suspects foul play"
+      ],
+      "emotional_state": "Professional, cautiously curious",
+      "arc_position": 0.0,
+      "location": "Sterling brownstone, will transport body to lab"
+    },
+    "Ethan_Cross": {
+      "knows": [
+        "Scene feels staged",
+        "Lamp positioned oddly",
+        "Book missing from shelf",
+        "Reeves suspects murder"
+      ],
+      "emotional_state": "Intrigued, wanting to prove his instincts matter",
+      "arc_position": 0.05,
+      "location": "Sterling brownstone"
+    },
+    "Victoria_Sterling": {
+      "knows": [
+        "Husband died of apparent heart attack",
+        "He had many enemies",
+        "He'd been unusually kind lately",
+        "Dr. Harrington visited 3 days ago to return a book",
+        "Homicide is investigating"
+      ],
+      "emotional_state": "Composed, relieved but hiding it, genuinely curious about investigation",
+      "arc_position": 0.0,
+      "location": "Sitting room in her home"
+    },
+    "Dr_Harrington": {
+      "knows": [
+        "She killed Sterling with undetectable poison 3 days ago",
+        "She visited to 'return a book' as her cover",
+        "Death would appear as cardiac arrest",
+        "She doesn't know police are investigating"
+      ],
+      "emotional_state": "Unaware of investigation, false sense of security",
+      "arc_position": 0.0,
+      "location": "Unknown (not yet appeared in person)"
+    }
+  },
+  "revealed_to_reader": [
+    "Sterling found dead in study, appears peaceful",
+    "Ruled natural causes but Reeves suspects staging",
+    "Sterling was cruel, had many enemies",
+    "He'd been unusually kind lately (possible terminal illness?)",
+    "Dr. Harrington (cardiologist, former student with history) visited 3 days ago",
+    "Missing book from shelf",
+    "Oddly positioned lamp",
+    "Reeves haunted by unsolved 'suicide' of his mentor Webb"
+  ],
+  "planted": [
+    {
+      "element": "Reeves' mentor Webb's suspicious 'suicide'",
+      "payoff_chapter": 20,
+      "significance": "Parallel case - shows Reeves' obsession with 'perfect' murders that look natural"
+    },
+    {
+      "element": "Lamp positioned to illuminate chair not desk",
+      "payoff_chapter": 12,
+      "significance": "Scene was staged to hide injection site during positioning of body"
+    },
+    {
+      "element": "Sterling's recent kindness",
+      "payoff_chapter": 16,
+      "significance": "Red herring - terminal diagnosis makes suicide seem plausible"
+    },
+    {
+      "element": "Missing book from shelf",
+      "payoff_chapter": 14,
+      "significance": "Book about historical poisons, borrowed by Harrington months ago"
+    },
+    {
+      "element": "Dr. Harrington visited 3 days ago",
+      "payoff_chapter": 7,
+      "significance": "This was when she administered the poison"
+    },
+    {
+      "element": "Victoria's observation about thinking like a monster",
+      "payoff_chapter": 17,
+      "significance": "Foreshadowing - Harrington understood Sterling perfectly because she studied under him"
+    }
+  ],
+  "active_tensions": [
+    "Is this murder or natural death?",
+    "Will Reeves find evidence in 48 hours?",
+    "What was Sterling hiding (terminal illness?)",
+    "Who is Dr. Harrington and why visit after years of estrangement?",
+    "Will Reeves' obsession with Webb's case cloud his judgment?"
+  ],
+  "world_changes": [
+    "Professor Jonathan Sterling is dead",
+    "Homicide investigation opened (48-hour deadline)",
+    "Dr. Harrington identified as person of interest (though she doesn't know it yet)"
+  ]
+}

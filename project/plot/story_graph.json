@@ -1,0 +1,93 @@
+{
+  "tentpoles": [
+    {
+      "chapter": 1,
+      "type": "hook",
+      "description": "Professor Jonathan Sterling found dead in his study - apparent heart attack. Reeves notices tiny inconsistencies that suggest murder, but Dr. Chen's autopsy shows natural causes. Reeves refuses to close the case."
+    },
+    {
+      "chapter": 7,
+      "type": "complication",
+      "description": "Reeves discovers Sterling was systematically destroying careers of former students. Dr. Harrington emerges as a suspect with motive - but she has a perfect alibi and all forensics still show natural death. Reeves realizes he might never prove it was murder."
+    },
+    {
+      "chapter": 12,
+      "type": "midpoint",
+      "description": "Ethan Cross finds a microscopic puncture mark hidden in Sterling's scalp. Dr. Chen confirms: someone injected something that mimicked cardiac arrest. It WAS murder. But the poison is undetectable and already degraded. Now Reeves knows HOW but still can't prove WHO."
+    },
+    {
+      "chapter": 17,
+      "type": "climax",
+      "description": "Reeves sets a trap: he tells each suspect privately that the poison was found. Only Dr. Harrington reacts with precise knowledge she shouldn't have. In the confrontation, she confesses - Sterling was destroying lives for ego. She chose mercy killing over exposing him and ruining more careers posthumously."
+    },
+    {
+      "chapter": 20,
+      "type": "resolution",
+      "description": "Reeves has the confession but faces an impossible choice: prosecute a doctor who saved future victims from a cruel man, or let the perfect murder stand. He chooses truth - arrests her but testifies to the mitigating circumstances. Justice served, but hollow victory. Sterling's victims come forward, validating Harrington's motives."
+    }
+  ],
+  "causal_chains": [
+    {
+      "cause": "Sterling's cruelty to students (revealed in Ch 4-6)",
+      "effect": "Multiple suspects with motive (Ch 7)",
+      "chapters": [4, 5, 6, 7]
+    },
+    {
+      "cause": "Ethan's intuition about the scene feeling 'staged' (Ch 2)",
+      "effect": "Re-examination that finds the puncture mark (Ch 12)",
+      "chapters": [2, 12]
+    },
+    {
+      "cause": "Dr. Harrington's medical knowledge (established Ch 3)",
+      "effect": "Her ability to create undetectable poison (revealed Ch 17)",
+      "chapters": [3, 17]
+    },
+    {
+      "cause": "Reeves' mentor's unsolved 'suicide' (mentioned Ch 1)",
+      "effect": "Reeves' obsession with proving this murder (throughout)",
+      "chapters": [1, 20]
+    },
+    {
+      "cause": "Victoria Sterling noticing Harrington's absence (Ch 8)",
+      "effect": "Key timeline evidence about guilt (Ch 15)",
+      "chapters": [8, 15]
+    }
+  ],
+  "planted_elements": [
+    {
+      "element": "Reeves' mentor's death parallel",
+      "planted_chapter": 1,
+      "payoff_chapter": 20,
+      "status": "pending",
+      "significance": "Both cases about 'perfect' murders ruled natural/suicide - Reeves learns acceptance"
+    },
+    {
+      "element": "Ethan's observation about the lamp position",
+      "planted_chapter": 2,
+      "payoff_chapter": 12,
+      "status": "pending",
+      "significance": "Staged scene to hide injection site - leads to finding puncture mark"
+    },
+    {
+      "element": "Dr. Harrington's mother's painful death",
+      "planted_chapter": 5,
+      "payoff_chapter": 17,
+      "status": "pending",
+      "significance": "Motivation - she couldn't save her mother, but could 'save' Sterling's future victims"
+    },
+    {
+      "element": "Sterling's rare book about historical poisons",
+      "planted_chapter": 3,
+      "payoff_chapter": 14,
+      "status": "pending",
+      "significance": "Harrington borrowed it months ago - shows premeditation"
+    },
+    {
+      "element": "Victoria's comment about her husband's 'kindness lately'",
+      "planted_chapter": 1,
+      "payoff_chapter": 16,
+      "status": "pending",
+      "significance": "Sterling knew he was dying (terminal diagnosis) - red herring suggesting suicide"
+    }
+  ]
+}

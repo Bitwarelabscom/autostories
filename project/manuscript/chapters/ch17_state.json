@@ -1,0 +1,137 @@
+{
+  "chapter": 17,
+  "word_count": 2614,
+  "timeline": "Four weeks after Chapter 12, April - raining",
+  "location": "Captain Walsh's office, Dr. Harrington's office at Mass General",
+  "characters_present": ["Detective_Reeves", "Captain_Walsh", "Dr_Harrington"],
+  "character_states": {
+    "Detective_Reeves": {
+      "knows": [
+        "All previous knowledge",
+        "Search warrant executed on Harrington's office",
+        "Found the missing book in her locked drawer",
+        "Book contains Harrington's handwritten notes on delayed-release mechanisms",
+        "47 late-night lab access instances documented",
+        "Chemical requisitions for glycoside synthesis found",
+        "Has trap prepared: tell her poison was found, watch her reaction",
+        "She revealed specific knowledge only killer would have",
+        "Full confession obtained",
+        "Harrington's journal with complete formula and process",
+        "Motivation: Sterling was going to destroy more careers, had targeted Sarah Kim",
+        "Harrington views it as mercy killing",
+        "She wanted credit for her 'perfect' work"
+      ],
+      "emotional_state": "Victorious but hollow, thinking of Webb, complex feelings about justice",
+      "arc_position": 0.90,
+      "location": "Harrington's office"
+    },
+    "Dr_Harrington": {
+      "knows": [
+        "All previous knowledge",
+        "Police found the puncture mark",
+        "Police executed search warrant on her office",
+        "Police found the book with her notes",
+        "Police have lab access logs and chemical requisitions",
+        "Reeves set a trap with the 'found poison' claim",
+        "She fell for it by revealing specific technical knowledge",
+        "Case is over - she's caught",
+        "Decides to confess fully and claim responsibility"
+      ],
+      "emotional_state": "Initial fear, then resignation, finally relief at unburdening truth",
+      "arc_position": 1.0,
+      "location": "Her office, arrested"
+    },
+    "Captain_Walsh": {
+      "knows": [
+        "All previous knowledge",
+        "Reeves' trap strategy",
+        "Evidence collected: lab logs, chemical orders, book with notes",
+        "Search warrant executed",
+        "One shot to get confession before she lawyers up"
+      ],
+      "emotional_state": "Cautiously supportive, nervous about legal risks",
+      "arc_position": 0.0,
+      "location": "Police station"
+    },
+    "Ethan_Cross": {
+      "knows": [
+        "All previous knowledge from weeks of investigation",
+        "Not present but contributed to finding evidence"
+      ],
+      "emotional_state": "Unknown this chapter",
+      "arc_position": 0.8,
+      "location": "Unknown"
+    },
+    "Dr_Chen": {
+      "knows": [
+        "All previous knowledge",
+        "Provided cellular analysis used in confrontation",
+        "Not present but key to case"
+      ],
+      "emotional_state": "Unknown this chapter",
+      "arc_position": 0.8,
+      "location": "Unknown"
+    }
+  },
+  "revealed_to_reader": [
+    "Search warrant executed - book found in Harrington's locked drawer",
+    "Book contains her handwritten notes on delayed-release mechanisms",
+    "47 late-night lab visits documented",
+    "Chemical requisitions for glycoside synthesis found",
+    "Reeves' trap: claimed poison was found, watched for reaction",
+    "Harrington revealed knowledge only the killer would have",
+    "Full confession: she killed Sterling with designed compound",
+    "Motivation revealed: Sterling targeted Sarah Kim, was suicidal",
+    "Harrington saw it as stopping future harm",
+    "Sterling laughed when confronted about ruining careers",
+    "Harrington's philosophy: killing one cruel man vs. letting him destroy 20 more",
+    "She wanted 'credit' for her perfect work",
+    "Gave journal with complete formula, synthesis, timing, everything",
+    "Formal confession, lawyer called, arrest made",
+    "Reeves wins but feels hollow - Webb's case still haunts him"
+  ],
+  "planted": [
+    {
+      "element": "Sarah Kim mentioned as Sterling's latest victim",
+      "payoff_chapter": 20,
+      "significance": "Will testify about Sterling's cruelty, context for Harrington's sentencing"
+    },
+    {
+      "element": "Journal with complete formula",
+      "payoff_chapter": 20,
+      "significance": "Used as evidence in trial, shows premeditation"
+    },
+    {
+      "element": "Harrington wants accountability and truth on record",
+      "payoff_chapter": 20,
+      "significance": "Sets up her court testimony and victim statements"
+    },
+    {
+      "element": "347 painted hearts - patients saved",
+      "payoff_chapter": 20,
+      "significance": "Symbol of her life's work vs. one murder - moral complexity"
+    },
+    {
+      "element": "Reeves' hollow victory feeling",
+      "payoff_chapter": 20,
+      "significance": "Character arc resolution - understanding justice vs. truth"
+    }
+  ],
+  "active_tensions": [
+    "Will confession hold up in court?",
+    "How will jury view mercy killing vs. premeditated murder?",
+    "What happens to Harrington now?",
+    "How do Reeves and team feel about solving it?",
+    "Was Harrington right that Sterling deserved it?",
+    "What about all the victims Sterling destroyed?",
+    "Reeves' unresolved feelings about Webb case"
+  ],
+  "world_changes": [
+    "Dr. Harrington arrested for murder",
+    "Full confession obtained",
+    "Journal with complete murder methodology seized",
+    "Perfect murder solved",
+    "Truth revealed: mercy killing to stop serial career destruction",
+    "Reeves vindicated but emotionally complex"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Detective Marcus Reeves",
+  "core_wound": "Failed to save his mentor who was murdered in what was ruled a suicide - never found proof it was murder",
+  "wants": "To solve the 'unsolvable' case and prove his brilliance",
+  "needs": "To accept that being right isn't the same as serving justice",
+  "voice_markers": [
+    "Uses precise, almost academic language",
+    "Often references historical murder cases",
+    "Pauses mid-sentence when thinking, says 'Wait—' frequently"
+  ],
+  "contradiction": "Believes in absolute truth but works in a system built on compromise",
+  "arc_position": 0.0,
+  "knowledge_state": [],
+  "relationships": {
+    "Captain_Walsh": "Respectful but tense - Walsh wants results, Reeves wants perfection",
+    "Dr_Harrington": "Suspicious and intrigued - sees her as both suspect and intellectual equal",
+    "Ethan_Cross": "Dismissive of the crime scene tech's intuition-based approach",
+    "Victoria_Sterling": "Protective sympathy that blinds him to possibilities"
+  },
+  "background": "Former physics PhD candidate who switched to law enforcement after his mentor's death. 38 years old, Boston PD Homicide for 8 years, known for closing cold cases."
+}

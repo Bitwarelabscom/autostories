@@ -1,0 +1,145 @@
+{
+  "chapter": 20,
+  "word_count": 2145,
+  "timeline": "Six months after arrest (trial), then 3 months later (letter), then almost a year after Sterling's death (December)",
+  "location": "Courtroom, park outside courthouse, Harvard physics building, Reeves' kitchen",
+  "characters_present": ["Detective_Reeves", "Dr_Harrington", "Judge_Morrison", "Ethan_Cross", "Dr_Chen", "Victoria_Sterling", "Captain_Walsh"],
+  "character_states": {
+    "Detective_Reeves": {
+      "knows": [
+        "All previous knowledge",
+        "Trial lasted 3 weeks",
+        "Jury found Harrington guilty in 4 hours",
+        "15 of Sterling's victims testified",
+        "Victoria testified about 42 years with a 'brilliant monster'",
+        "Sarah Kim had attempted suicide after Sterling's accusations",
+        "Harrington sentenced to 15 years, parole after 7",
+        "Allowed to practice medicine in prison",
+        "Letter from Harrington 3 months later - teaching chemistry, saved 2 more lives",
+        "Sterling-Kim Fellowship created by Harvard after acknowledging systematic harassment",
+        "Made peace with Webb case - deleted the file",
+        "Learned wisdom: being right isn't same as serving justice",
+        "Accepted that some mysteries stay mysteries",
+        "New similar case has emerged"
+      ],
+      "emotional_state": "Reconciled, at peace, wise, ready to continue his work with new perspective",
+      "arc_position": 1.0,
+      "location": "Leaving his house for new case"
+    },
+    "Dr_Harrington": {
+      "knows": [
+        "All previous knowledge",
+        "Convicted of first-degree murder",
+        "Sentenced to 15 years, eligible for parole after 7",
+        "Allowed to continue practicing medicine in prison",
+        "Sterling's victims testified on her behalf",
+        "Teaching chemistry to inmates",
+        "Saved 2 more lives (counts as 349 and 350)",
+        "Saw Reeves delete Webb file - understands his growth",
+        "Acknowledges her crime but doesn't seek forgiveness",
+        "Understands perfection is lonely"
+      ],
+      "emotional_state": "Accepting consequences, finding purpose in prison, at peace with her choice",
+      "arc_position": 1.0,
+      "location": "Prison"
+    },
+    "Ethan_Cross": {
+      "knows": [
+        "All previous knowledge",
+        "Trial outcome and sentencing",
+        "Learned from Reeves to trust intuition backed by evidence",
+        "His discovery was crucial to solving case"
+      ],
+      "emotional_state": "Uncertain about moral complexity, learning, validated",
+      "arc_position": 1.0,
+      "location": "Park with Reeves"
+    },
+    "Dr_Chen": {
+      "knows": [
+        "All previous knowledge",
+        "Trial outcome",
+        "Moral complexity of the case",
+        "Reeves' growth and reconciliation"
+      ],
+      "emotional_state": "Thoughtful, accepting of complexity",
+      "arc_position": 1.0,
+      "location": "Park with Reeves"
+    },
+    "Victoria_Sterling": {
+      "knows": [
+        "All previous knowledge",
+        "Testified against her husband's character",
+        "Called him a 'brilliant monster'",
+        "Doesn't mourn him"
+      ],
+      "emotional_state": "Freed, honest, finding her own identity",
+      "arc_position": 1.0,
+      "location": "Courtroom"
+    },
+    "Dr_Sarah_Kim": {
+      "knows": [
+        "Sterling falsely accused her, destroyed her career",
+        "Was suicidal",
+        "Harrington stopped Sterling",
+        "Fellowship named partly for her",
+        "Justice achieved through institutional change"
+      ],
+      "emotional_state": "Healing, grateful for both Harrington's action and institutional recognition",
+      "arc_position": 1.0,
+      "location": "Unknown - mentioned in news"
+    }
+  },
+  "revealed_to_reader": [
+    "Trial lasted 3 weeks, verdict in 4 hours: guilty first-degree murder",
+    "15 of Sterling's victims testified about his systematic abuse",
+    "Victoria testified about 42 years with 'brilliant monster', doesn't mourn him",
+    "Sarah Kim testified about contemplating suicide after Sterling's false accusations",
+    "Victims created petition asking for leniency for Harrington",
+    "Sentence: 15 years, parole eligible after 7",
+    "Allowed to practice medicine in prison - recognizing her life's work",
+    "Judge acknowledges moral complexity - context matters",
+    "Three months later: Harrington teaching chemistry, saved 2 more lives (349-350)",
+    "Harrington's letter: thanks Reeves, acknowledges crossing lines, notes perfection is lonely",
+    "Harrington saw Reeves delete Webb file in parking lot",
+    "Reeves makes peace with Webb case - deletes file, accepts mystery",
+    "Character arc complete: being right ≠ serving justice, accepts imperfection",
+    "Harvard creates Sterling-Kim Fellowship after acknowledging systematic harassment",
+    "Year later: new similar case emerges",
+    "Reeves ready to investigate again - cycle continues",
+    "Ending: someone has to care, especially about perfect deaths"
+  ],
+  "planted": [
+    {
+      "element": "New case at the end - similar to Sterling's",
+      "payoff_chapter": null,
+      "significance": "Cyclical ending - Reeves will continue this work, story could continue"
+    }
+  ],
+  "active_tensions": [
+    "None - all resolved"
+  ],
+  "world_changes": [
+    "Harrington convicted and imprisoned",
+    "Sterling's victims validated publicly",
+    "Harvard acknowledges systematic harassment, creates fellowship",
+    "Institutional change achieved (imperfect justice)",
+    "Reeves has grown - accepts limits of truth-seeking",
+    "Webb case emotionally resolved (file deleted)",
+    "New case begins - cycle continues"
+  ],
+  "themes_resolved": [
+    "Intelligence vs. wisdom: Reeves gains wisdom by accepting limits",
+    "The illusion of perfection: Perfect murder was lonely, imperfect justice was better",
+    "Justice vs. truth: Both matter, both are imperfect, both are necessary",
+    "Being right vs. serving justice: Not the same, both valuable",
+    "Persistence vs. obsession: Learning when to let go",
+    "Individual action vs. systemic change: Both occurred, fellowship = lasting impact"
+  ],
+  "character_arcs_completed": {
+    "Reeves": "0.0 → 1.0: From needing to prove rightness to accepting imperfection, from haunted by Webb to at peace, still seeks truth but with wisdom",
+    "Harrington": "0.0 → 1.0: From hidden guilt to public accountability, from seeking perfection to accepting consequences, continues saving lives",
+    "Ethan": "0.0 → 1.0: From doubting instincts to trusting gut + evidence, validated by mentor",
+    "Chen": "0.0 → 1.0: From demanding certainty to accepting scientific limitations and moral complexity",
+    "Victoria": "0.0 → 1.0: From dutiful wife hiding relief to honest about 'brilliant monster', finding own identity"
+  }
+}
