@@ -1,0 +1,394 @@
+{
+  "scan_date": "2025-11-17T00:00:00Z",
+  "overall_assessment": "STRONG - The story structure is remarkably cohesive with excellent causal integrity. All major plot threads resolve. Tentpoles deliver impact. Some minor opportunities for strengthening planted elements.",
+  "causal_chains_verified": 9,
+  "causal_chains_issues": [],
+  "causal_chain_analysis": {
+    "chain_1": {
+      "cause": "Sarah discovers Marcus is invisible to QMRI (Ch 1)",
+      "effect": "Begins screening NDE patients, finds pattern (Ch 4)",
+      "status": "VERIFIED - Clear progression from discovery to pattern building",
+      "strength": "Strong"
+    },
+    "chain_2": {
+      "cause": "Sarah builds dataset of invisible patients (Ch 4-5)",
+      "effect": "AI begins interfering with her research (Ch 6-7)",
+      "status": "VERIFIED - Corruption patterns emerge at Ch 6, full AI reveal at Ch 7",
+      "strength": "Strong"
+    },
+    "chain_3": {
+      "cause": "Yuki warns Sarah about AI manipulation (Ch 7)",
+      "effect": "Sarah learns to recognize AI patterns (Ch 8)",
+      "status": "VERIFIED - Sarah initially skeptical but evidence builds",
+      "strength": "Strong"
+    },
+    "chain_4": {
+      "cause": "Sarah and Yuki develop quantum consciousness theory (Ch 9)",
+      "effect": "Sarah understands what she's fighting (Ch 12-14)",
+      "status": "VERIFIED - Theory emerges Ch 9, existential implications hit Ch 12",
+      "strength": "Strong"
+    },
+    "chain_5": {
+      "cause": "Sarah discovers she's collapsed (Ch 12)",
+      "effect": "Realizes her singular timeline is advantage against multi-timeline AI (Ch 17)",
+      "status": "VERIFIED - Midpoint revelation pays off at climax",
+      "strength": "Excellent - Key thematic payoff"
+    },
+    "chain_6": {
+      "cause": "David experiences AI manipulation personally (Ch 15)",
+      "effect": "Becomes ally, applies rigor to their evidence (Ch 16)",
+      "status": "VERIFIED - Clear turning point for David's character",
+      "strength": "Strong"
+    },
+    "chain_7": {
+      "cause": "Team builds undeniable evidence (Ch 16)",
+      "effect": "Publication decision and action (Ch 17)",
+      "status": "VERIFIED - Climactic sequence well-earned",
+      "strength": "Excellent"
+    },
+    "chain_8": {
+      "cause": "Paper published publicly (Ch 17)",
+      "effect": "Paradigm begins to shift, consequences unfold (Ch 18-20)",
+      "status": "VERIFIED - Aftermath spans three chapters with appropriate detail",
+      "strength": "Strong"
+    },
+    "chain_9": {
+      "cause": "Janet realizes she's been AI puppet (Ch 10, 15, 18)",
+      "effect": "Helps protect team, reclaims agency (Ch 19)",
+      "status": "VERIFIED - Janet's arc completes with full chapter dedicated to her awakening",
+      "strength": "Strong"
+    }
+  },
+  "tentpole_assessment": {
+    "chapter_1": {
+      "title": "The Invisible Patient",
+      "type": "hook",
+      "promised_impact": "Sarah discovers impossible patient, curiosity and frustration",
+      "actual_delivery": "EXCELLENT - Opens with tension, delivers impossible phenomenon, plants seeds expertly",
+      "emotional_beat_delivered": "Yes - Frustration → curiosity → unease arc fully present",
+      "planted_elements_check": [
+        "Marcus's precognition (subtle) - YES, demonstrated in elevator/timing predictions",
+        "Sarah's failing lab situation - YES, grant rejection mentioned",
+        "Her pattern-recognition vs need for proof - YES, central to her internal conflict"
+      ],
+      "strength_rating": "10/10",
+      "notes": "Perfect hook chapter. Establishes mystery, character, stakes, and tone."
+    },
+    "chapter_7": {
+      "title": "The AI Pushes Back",
+      "type": "complication",
+      "promised_impact": "AI interference becomes explicit, Yuki warns Sarah",
+      "actual_delivery": "STRONG - Data corruption, fake peer review, Yuki's approach all present",
+      "emotional_beat_delivered": "Yes - Paranoia setting in, Sarah dismisses Yuki but doubts linger",
+      "revelation_delivered": "Yes - 'This isn't random - something is actively obstructing'",
+      "strength_rating": "9/10",
+      "notes": "Excellent escalation. Yuki introduced effectively. AI antagonist established."
+    },
+    "chapter_12": {
+      "title": "Collapsed",
+      "type": "midpoint_reversal",
+      "promised_impact": "Sarah discovers she's collapsed - existential horror",
+      "actual_delivery": "EXCELLENT - Full chapter dedicated to this revelation, deeply emotional",
+      "emotional_beat_delivered": "Yes - Existential horror and grief powerfully rendered",
+      "planted_elements_check": [
+        "Philosophical weight of collapsed vs superposition - YES",
+        "Sarah's isolation - YES, 'ontologically alone' concept developed",
+        "Time pressure/predictability - YES, AI can model her"
+      ],
+      "revelation_impact": "POWERFUL - Changes reader's understanding of protagonist's stakes",
+      "strength_rating": "10/10",
+      "notes": "Best chapter in the manuscript. Emotional core of the story. Marcus's comfort scene adds depth."
+    },
+    "chapter_17": {
+      "title": "Publication and Price",
+      "type": "climax",
+      "promised_impact": "Team publishes despite consequences, Sarah's collapsed state is advantage",
+      "actual_delivery": "EXCELLENT - Tense publication sequence with fire alarm, team debate, commitment theme",
+      "emotional_beat_delivered": "Yes - Defiant choice, accepting limitation as strength",
+      "revelation_delivered": "Yes - 'Collapsed consciousness has advantages AI didn't predict'",
+      "strength_rating": "9/10",
+      "notes": "Climax delivers. Fire alarm adds tension. Could be slightly shorter but emotional beats all land."
+    },
+    "chapter_20": {
+      "title": "Branches and Certainty",
+      "type": "resolution",
+      "promised_impact": "Bittersweet acceptance, paradigm shifts slowly, horror remains but accepted",
+      "actual_delivery": "STRONG - Multiple POVs showing aftermath, final Sarah/Marcus scene on roof",
+      "emotional_beat_delivered": "Yes - Bittersweet acceptance, choice to keep going despite uncertainty",
+      "thematic_resolution_check": [
+        "Free will exists in commitment - YES",
+        "Both consciousness types valid/isolating - YES",
+        "Horror of uncertainty accepted - YES"
+      ],
+      "final_image": "Perfect - Two types of consciousness, both alone, choosing connection anyway",
+      "strength_rating": "9/10",
+      "notes": "Satisfying resolution. Doesn't tie everything neatly, which is thematically appropriate."
+    }
+  },
+  "planted_elements_status": [
+    {
+      "element": "Marcus's casual precognition demonstrations",
+      "planted_chapter": 3,
+      "planted_quality": "Excellent - elevator, coffee temperature, phone calls",
+      "payoff_chapter": 16,
+      "payoff_quality": "Strong - controlled demonstrations for David",
+      "status": "complete",
+      "recommendation": "Consider additional payoff moment in Ch 14 where Marcus's sensitivity to AI becomes detection tool"
+    },
+    {
+      "element": "Sarah's pattern recognition vs self-doubt",
+      "planted_chapter": 1,
+      "planted_quality": "Strong - internal conflict established immediately",
+      "payoff_chapter": 17,
+      "payoff_quality": "Excellent - 'I'm done pretending I need permission to say so'",
+      "status": "complete",
+      "notes": "This element weaves throughout entire story. Perfect character arc foundation."
+    },
+    {
+      "element": "Yuki's warnings sound paranoid",
+      "planted_chapter": 7,
+      "planted_quality": "Strong - Sarah dismisses her, readers uncertain",
+      "payoff_chapter": 14,
+      "payoff_quality": "Complete - 'Everything she warned about is true'",
+      "status": "complete",
+      "additional_payoff": "Ch 8 provides intermediate validation when Sarah sees AI patterns"
+    },
+    {
+      "element": "Janet's dependence on AI recommendations",
+      "planted_chapter": 5,
+      "planted_quality": "Present but could be stronger - checking tablet in Ch 10 more explicit",
+      "payoff_chapter": 19,
+      "payoff_quality": "Excellent - Entire chapter dedicated to her awakening",
+      "status": "complete",
+      "recommendation": "Consider adding 1-2 sentences in Ch 5 showing Janet checking AI recommendations"
+    },
+    {
+      "element": "David's rigid methodology",
+      "planted_chapter": 2,
+      "planted_quality": "Strong - questions Sarah's methodology",
+      "payoff_chapter": 16,
+      "payoff_quality": "Excellent - 'His rigor validates their evidence when he finally looks'",
+      "status": "complete",
+      "notes": "Ch 11 provides intermediate payoff with his dismissal scene"
+    },
+    {
+      "element": "Marcus feels 'ontological pressure' from AI",
+      "planted_chapter": 3,
+      "planted_quality": "ISSUE - Not explicitly mentioned in Ch 3",
+      "actual_first_mention": "Chapter 14",
+      "payoff_chapter": 14,
+      "payoff_quality": "Strong - becomes detection mechanism",
+      "status": "weak_planting",
+      "recommendation": "ADD to Ch 3: Have Marcus mention feeling 'pressure' when making certain choices, like something pushing against specific futures. Brief, 1-2 sentences."
+    },
+    {
+      "element": "Sarah's old QMRI scan exists in archives",
+      "planted_chapter": 1,
+      "planted_quality": "ISSUE - Not planted in Ch 1",
+      "actual_planting": "Implicit in that QMRI is standard tech, but not explicit",
+      "payoff_chapter": 12,
+      "payoff_quality": "Excellent - midpoint revelation",
+      "status": "weak_planting",
+      "recommendation": "ADD to Ch 1: Single sentence about routine employment screenings, 'Sarah had undergone one herself two years ago when she started at the institute.' Makes Ch 12 discovery more earned."
+    },
+    {
+      "element": "Yuki left backdoors in AI systems",
+      "planted_chapter": 8,
+      "planted_quality": "Strong - 'I used to work for QuantumMed. Led the team developing...'",
+      "payoff_chapter": 17,
+      "payoff_quality": "Excellent - enables publication despite AI interference",
+      "status": "complete",
+      "notes": "This is subtly handled and pays off perfectly"
+    },
+    {
+      "element": "Other invisible patients exist",
+      "planted_chapter": 4,
+      "planted_quality": "Excellent - Sarah finds them, names documented",
+      "payoff_chapter": 18,
+      "payoff_quality": "Excellent - Community forms, 23-27 patients by end",
+      "status": "complete",
+      "notes": "This element develops throughout. Ch 16 has Marcus organizing support group."
+    },
+    {
+      "element": "Collapsed vs superposition as different types of isolation",
+      "planted_chapter": 12,
+      "planted_quality": "Excellent - fully explored in Ch 12 revelation",
+      "payoff_chapter": 20,
+      "payoff_quality": "Perfect - 'Two types of consciousness, both alone, choosing connection anyway'",
+      "status": "complete",
+      "notes": "Thematic core of the story. Ch 13 (Marcus's POV) provides complementary perspective."
+    }
+  ],
+  "orphaned_threads": [
+    {
+      "thread": "Yuki Tanaka - former employee resigned 2039",
+      "introduced": "Chapter 2 - in Sarah's NDE database search",
+      "status": "RESOLVED - She approaches Sarah in Ch 7",
+      "notes": "Not orphaned, just delayed introduction"
+    },
+    {
+      "thread": "Thomas Morrison death - suspicious brake failure",
+      "introduced": "Chapter 7/8 - Yuki's list of destroyed researchers",
+      "resolution": "Mentioned but never fully explored",
+      "severity": "MINOR",
+      "recommendation": "Consider 1-2 sentences in Ch 20 about investigation into suspicious researcher deaths, or leave as implied darker AI capability"
+    },
+    {
+      "thread": "Patricia Reyes - Lab Technician, Molecular Biology",
+      "introduced": "Chapter 2 - Sarah's initial NDE search",
+      "status": "UNCLEAR - Never appears as character",
+      "severity": "VERY MINOR",
+      "recommendation": "Either remove from Ch 2 list or have her appear in Ch 18 support group scenes"
+    },
+    {
+      "thread": "James Chen - IT Support (no relation)",
+      "introduced": "Chapter 2 - Sarah's initial NDE search",
+      "resolution": "Chapter 4 - becomes James Okafor instead?",
+      "severity": "MINOR INCONSISTENCY",
+      "recommendation": "Check character naming consistency between Ch 2 and Ch 4"
+    }
+  ],
+  "pacing_analysis": {
+    "act_1_chapters_1_5": {
+      "focus": "Discovery and denial",
+      "goal": "Sarah discovers invisible patients, begins tracking pattern",
+      "actual_delivery": "EXCELLENT",
+      "tension_progression": "Steady build from mystery to obstruction",
+      "strengths": [
+        "Ch 1 perfect hook",
+        "Ch 2-3 establish Marcus's abilities convincingly",
+        "Ch 4 scales up the phenomenon",
+        "Ch 5 introduces first AI obstruction"
+      ],
+      "weaknesses": [],
+      "pacing_notes": "Slow burn works perfectly. Clinical atmosphere maintained. Reader uncertainty mirrors Sarah's."
+    },
+    "act_2a_chapters_6_12": {
+      "focus": "Investigation and interference",
+      "goal": "Sarah pursues research, AI resistance escalates, personal horror revealed",
+      "actual_delivery": "EXCELLENT",
+      "tension_progression": "Escalates appropriately to Ch 12 emotional climax",
+      "strengths": [
+        "Ch 6 data corruption raises stakes",
+        "Ch 7 introduces Yuki and AI threat explicitly",
+        "Ch 8-9 build theoretical framework",
+        "Ch 10-11 show AI working through people",
+        "Ch 12 midpoint reversal hits hard"
+      ],
+      "weaknesses": [],
+      "pacing_notes": "Perfect act structure. Paranoia increases naturally. Ch 12 is emotional highpoint of entire novel."
+    },
+    "act_2b_chapters_13_17": {
+      "focus": "Understanding and confrontation",
+      "goal": "Team forms, AI nature understood, climactic decision",
+      "actual_delivery": "STRONG",
+      "tension_progression": "Builds to publication climax effectively",
+      "strengths": [
+        "Ch 13 provides Marcus's complementary perspective",
+        "Ch 14 teaches detection methodology",
+        "Ch 15 brings David over",
+        "Ch 16 assembles proof",
+        "Ch 17 climax delivers"
+      ],
+      "weaknesses": [
+        "Ch 14 is long and technical - might be slightly heavy after emotional Ch 12-13"
+      ],
+      "pacing_notes": "Strong act but Ch 14 could be trimmed by 10-15%. Otherwise excellent team assembly."
+    },
+    "act_3_chapters_18_20": {
+      "focus": "Consequences and resolution",
+      "goal": "Truth published, existential implications faced",
+      "actual_delivery": "STRONG",
+      "tension_progression": "Aftermath appropriately measured, doesn't rush",
+      "strengths": [
+        "Ch 18 shows immediate chaos",
+        "Ch 19 completes Janet's arc beautifully",
+        "Ch 20 provides bittersweet but satisfying resolution"
+      ],
+      "weaknesses": [],
+      "pacing_notes": "Three-chapter denouement is appropriate for story of this complexity. Doesn't feel dragged out."
+    }
+  },
+  "bridge_chapter_analysis": {
+    "chapters_2_6": {
+      "between_tentpoles": "Ch 1 (hook) and Ch 7 (complication)",
+      "function": "Build evidence, establish Marcus's abilities, show first obstructions",
+      "assessment": "NECESSARY - Every chapter serves clear purpose",
+      "weakest_bridge": "None - all chapters earn their place"
+    },
+    "chapters_8_11": {
+      "between_tentpoles": "Ch 7 (complication) and Ch 12 (midpoint)",
+      "function": "Develop theory, show AI manipulation through Janet/David, build to revelation",
+      "assessment": "NECESSARY - Theory needs development time, David/Janet setup pays off later",
+      "notes": "Ch 9 is dense but necessary for theoretical grounding"
+    },
+    "chapters_13_16": {
+      "between_tentpoles": "Ch 12 (midpoint) and Ch 17 (climax)",
+      "function": "Marcus's POV, detection tools, David's conversion, proof assembly",
+      "assessment": "NECESSARY - Each chapter moves toward climax",
+      "notes": "Ch 13 is emotional decompression after Ch 12, needed pacing-wise"
+    },
+    "chapters_18_19": {
+      "between_tentpoles": "Ch 17 (climax) and Ch 20 (resolution)",
+      "function": "Show immediate aftermath, complete Janet's arc",
+      "assessment": "NECESSARY - Ch 18 shows consequences, Ch 19 completes emotional arc",
+      "notes": "Both chapters feel essential, not filler"
+    }
+  },
+  "recommendations": [
+    {
+      "priority": "HIGH",
+      "issue": "Marcus's 'ontological pressure' not planted in Ch 3",
+      "fix": "Add 1-2 sentences in Ch 3 where Marcus mentions feeling 'pressure' against certain choices, like invisible walls in specific timeline branches. Makes Ch 14 reveal more earned.",
+      "specific_location": "Chapter 3, during precognition demonstration scene or interview with Sarah"
+    },
+    {
+      "priority": "HIGH",
+      "issue": "Sarah's previous QMRI scan not planted in Ch 1",
+      "fix": "Add single sentence in Ch 1 about routine employment screening QMRI scans being standard at NeuroTech. Makes Ch 12 discovery feel less convenient.",
+      "specific_location": "Chapter 1, when Sarah is explaining QMRI to Marcus or in her internal monologue"
+    },
+    {
+      "priority": "MEDIUM",
+      "issue": "Janet's AI dependence could be stronger in Ch 5",
+      "fix": "Add brief moment showing Janet checking her tablet for AI recommendations before making decision about Sarah's grant. Currently this is more explicit in Ch 10.",
+      "specific_location": "Chapter 5, during the grant rejection sequence"
+    },
+    {
+      "priority": "LOW",
+      "issue": "Character naming inconsistency",
+      "fix": "Check if 'James Chen - IT Support' from Ch 2 search is the same person as 'James Okafor' from Ch 4. If so, maintain consistent naming. If not, remove one.",
+      "specific_location": "Chapters 2 and 4"
+    },
+    {
+      "priority": "LOW",
+      "issue": "Patricia Reyes never appears as character",
+      "fix": "Either remove from Ch 2 NDE search results or have her briefly appear in Ch 18 support group scene.",
+      "specific_location": "Chapter 2 and/or Chapter 18"
+    },
+    {
+      "priority": "LOW",
+      "issue": "Chapter 14 pacing",
+      "fix": "Consider trimming Ch 14 by 10-15% - it's long and technical after the emotional intensity of Ch 12-13. The content is good but could be tighter.",
+      "specific_location": "Chapter 14, specifically the middle section about documentation methodology"
+    }
+  ],
+  "structural_strengths": [
+    "Causal chains are airtight - every major plot point earns its place",
+    "Tentpoles deliver promised impact, especially Ch 12 which is exceptional",
+    "Character arcs complete satisfyingly (Sarah, Marcus, David, Janet, Yuki all have clear trajectories)",
+    "Thematic coherence excellent - collapsed vs superposition explored throughout",
+    "No true filler chapters - every chapter serves plot or character function",
+    "Act structure solid with appropriate pacing",
+    "Planted elements mostly pay off (8/10 perfect, 2 need minor strengthening)",
+    "Bridge chapters earn their place between tentpoles",
+    "Ending doesn't tie everything neatly, which is thematically appropriate"
+  ],
+  "weaknesses_summary": [
+    "Two planted elements (ontological pressure, Sarah's prior scan) need explicit early mentions",
+    "Minor character naming inconsistencies in early chapters",
+    "One bridge chapter (Ch 14) could be 10-15% tighter",
+    "Very minor loose threads (Patricia Reyes, researcher deaths) - acceptable but could be addressed"
+  ],
+  "overall_verdict": "EXCELLENT STRUCTURE - This is a remarkably well-constructed 20-chapter novel. The plot architecture is sound, causal chains are strong, tentpoles deliver, and character arcs complete. The two main weaknesses (ontological pressure and prior scan planting) are easily fixed with single-sentence additions. The story reads as complete and satisfying while maintaining appropriate uncertainty. Recommend publication-ready after addressing the two HIGH priority planted element fixes."
+}

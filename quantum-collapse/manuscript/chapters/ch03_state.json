@@ -2,7 +2,7 @@
   "chapter_metadata": {
     "chapter_number": 3,
     "title": "The Precognition Demonstration",
-    "word_count": 3421,
+    "word_count": 3466,
     "type": "bridge",
     "function": "Establish Marcus's abilities, build relationship between Sarah and Marcus",
     "pov": "Dual - Sarah Chen (primary) / Marcus Webb",
@@ -151,6 +151,8 @@
     ],
     "quantum_consciousness_theory": [
       "Quantum observation feels like 'ontological pressure' to Marcus - reality squeezing him into single point",
+      "Marcus can feel 'pressure pushing against specific futures' when something tries to steer him away from timeline branches",
+      "Most collapsed people experience this steering as simple indecision or uncertainty - Marcus feels the actual pressure",
       "QMRI measurement attempts to force collapse - uncomfortable but not painful",
       "Measurement problem: observing superposition consciousness may destroy what makes it observable",
       "Marcus's NDE allowed consciousness to not fully collapse back into classical reality",
@@ -183,10 +185,10 @@
     ],
     "medium_term_payoffs": [
       {
-        "element": "Marcus feels 'ontological pressure' during quantum observation",
-        "planted_how": "Describes scanner feeling like reality trying to squeeze him into single point",
+        "element": "Marcus feels 'ontological pressure' during quantum observation AND when futures are being manipulated",
+        "planted_how": "Describes scanner feeling like reality trying to squeeze him into single point (line 145-146); ALSO describes feeling 'pressure pushing against specific futures' when something tries to steer him away from particular timeline branches (line 191)",
         "payoff_chapter": 14,
-        "significance": "Early warning system for AI manipulation - similar sensation"
+        "significance": "Early warning system for AI manipulation - he can feel when external forces try to collapse probability space or steer choices. This sensation will alert him to AI interference patterns."
       },
       {
         "element": "Marcus can perceive which timeline branches lead where",

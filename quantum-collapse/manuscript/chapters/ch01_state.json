@@ -156,6 +156,12 @@
     ],
     "long_term_payoffs": [
       {
+        "element": "Sarah's previous baseline QMRI scan from onboarding",
+        "planted_how": "Brief internal thought mentioning all research staff undergo scans during onboarding, Sarah had hers two years ago with unremarkable results",
+        "payoff_chapter": 12,
+        "significance": "Sarah's own scan becomes crucial evidence - she was scanned before discovering superposition consciousness and showed normal collapsed state"
+      },
+      {
         "element": "Hint of 'something watching' in final paragraph",
         "planted_how": "'Or what was watching to make sure she never found out'",
         "payoff_chapter": 7,

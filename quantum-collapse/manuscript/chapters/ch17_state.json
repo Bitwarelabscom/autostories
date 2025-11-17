@@ -55,11 +55,12 @@
     },
     "janet_reeves": {
       "arc_position": 0.75,
-      "status": "Awakened and defiant - recognized manipulation, reclaimed judgment",
-      "key_development": "Used administrative authority to protect team, overrode evacuation, chose agency over algorithms",
-      "emotional_state": "Broken-glass clarity - grief processed through action",
-      "voice_shift": "Corporate polish cracked to reveal working-class Boston directness",
-      "quote": "I've been fired for eighteen months. Just didn't notice.",
+      "status": "Awakened and defiant - trusting team judgment over system protocols, reclaimed agency",
+      "key_development": "Explicitly chose to trust team's assessment of AI manipulation over system evacuation protocol, used administrative authority to protect publication",
+      "emotional_state": "Broken-glass clarity - grief processed through choosing people over algorithms",
+      "voice_shift": "Corporate polish cracked to reveal direct honesty",
+      "quote": "I'm choosing to trust you over the algorithm.",
+      "key_arc_moment": "Fire alarm override - demonstrated trust in people over systems, setting up Chapter 19 payoff",
       "immediate_consequence": "Suspended pending review by institute board",
       "next_challenge": "Face institutional fallout while processing extent of her manipulation"
     }

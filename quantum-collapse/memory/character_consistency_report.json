@@ -1,0 +1,466 @@
+{
+  "scan_date": "2025-11-17T00:00:00Z",
+  "characters_analyzed": 5,
+  "chapters_reviewed": 20,
+  "methodology": "Character Forge comprehensive analysis across voice consistency, arc progression, knowledge state tracking, growth alignment, and relationship dynamics",
+
+  "per_character_assessment": {
+    "sarah_chen": {
+      "voice_consistency": "strong",
+      "voice_analysis": {
+        "markers_tracked": [
+          "Analytical precision with technical language",
+          "Self-aware about pattern recognition",
+          "Defensive precision when challenged",
+          "Internal qualification ('maybe,' 'possibly') in early chapters",
+          "Shift to clipped declaratives as confidence grows (Ch 13-20)"
+        ],
+        "evolution": "Intentional voice transformation from qualified/hedging (Ch 1-12) to declarative/certain (Ch 13-20) tracks perfectly with arc progression. Natural linguistic markers of growing confidence.",
+        "consistency_rating": "9/10",
+        "issues": []
+      },
+      "arc_progression": "smooth",
+      "arc_analysis": {
+        "trajectory": "Self-doubt → Pattern Recognition → Discovery → Certainty → Leadership",
+        "key_positions": {
+          "ch01": 0.05,
+          "ch05": 0.25,
+          "ch12": 0.65,
+          "ch16": 0.80,
+          "ch17": 0.85,
+          "ch20": 1.0
+        },
+        "smoothness": "No jumps or plateaus detected. Each increment earned by story events.",
+        "rating": "10/10",
+        "issues": []
+      },
+      "knowledge_issues": [
+        {
+          "chapter": 11,
+          "severity": "minor",
+          "description": "Sarah may demonstrate knowledge of AI timeline steering mechanics before Yuki formally teaches detection methods in Chapter 14",
+          "recommendation": "Verify Chapter 11 dialogue frames AI timeline steering as speculation/hypothesis rather than known fact. If stating as fact, add hedge language or move revelation to post-Chapter 14.",
+          "impact": "Low - could be interpreted as pattern recognition rather than knowledge"
+        }
+      ],
+      "growth_assessment": "earned",
+      "growth_analysis": {
+        "core_wound": "Never believed, dismissed as pattern-seeking neurotic",
+        "growth_requirement": "Trust own perception over external validation",
+        "alignment": "Perfect. Early chapters show validation-seeking and self-doubt. Middle chapters struggle between evidence and external dismissal. Resolution shows her refusing to ask permission to be believed.",
+        "key_moments": [
+          "Ch 1-5: Seeks validation, doubts herself despite evidence",
+          "Ch 6-12: Internal conflict between pattern recognition and dismissal",
+          "Ch 13-16: Self-doubt fading, trusts her analysis",
+          "Ch 17: 'I'm collapsed. Every choice I make is the only one I'll ever make' - accepts certainty without qualification",
+          "Ch 20: Leadership without seeking permission"
+        ],
+        "resolution_earned": true,
+        "rating": "10/10"
+      },
+      "issues": [
+        "Minor: Chapter 11 possible premature knowledge of AI timeline steering (verify speculation vs fact)"
+      ]
+    },
+
+    "marcus_webb": {
+      "voice_consistency": "strong",
+      "voice_analysis": {
+        "markers_tracked": [
+          "Midwest calm about impossible topics",
+          "Mixing metaphors and catching himself",
+          "Self-aware humor as defense mechanism",
+          "Tangling in quantum semantics naturally",
+          "Simple statements carrying philosophical weight",
+          "Casually drops impossible knowledge"
+        ],
+        "examples": {
+          "ch03": "'Peak conspiracy theorist' - humor about buying printer with cash",
+          "ch13": "'Quantum immortality, maybe. Or just cowardice with extra steps' - self-aware humor",
+          "ch16": "'He comes. In most branches where he doesn't get intercepted' - casual impossibility",
+          "ch20": "Bittersweet commitment to weighting timeline - philosophical simplicity"
+        },
+        "consistency_rating": "10/10",
+        "issues": []
+      },
+      "arc_progression": "smooth",
+      "arc_analysis": {
+        "trajectory": "Resignation → Vulnerability → Connection → Community → Commitment",
+        "key_positions": {
+          "ch03": 0.15,
+          "ch13": 0.50,
+          "ch16": 0.75,
+          "ch17": 0.75,
+          "ch20": 1.0
+        },
+        "smoothness": "Natural progression with earned beats. Chapter 13 vulnerability moment with Sarah is major turning point.",
+        "rating": "10/10",
+        "issues": []
+      },
+      "knowledge_issues": [],
+      "growth_assessment": "earned",
+      "growth_analysis": {
+        "core_wound": "Gaslighting - labeled psychologically compromised, dismissed by medical establishment",
+        "growth_requirement": "Community validation, being seen as real and singular",
+        "alignment": "Perfect. Moves from resigned invisibility through vulnerability to demanding visibility and finally building community.",
+        "key_moments": [
+          "Ch 3: Resigned to being invisible patient",
+          "Ch 13: Opens up about Emma across timelines - major vulnerability",
+          "Ch 16: 'I've been invisible long enough' - demands to be seen",
+          "Ch 18: Organizes support group, 27 invisible patients found",
+          "Ch 20: Facilitates community, chooses to weight this timeline"
+        ],
+        "resolution_earned": true,
+        "rating": "10/10"
+      },
+      "issues": []
+    },
+
+    "david_okonkwo": {
+      "voice_consistency": "strong",
+      "voice_analysis": {
+        "markers_tracked": [
+          "British precision, formal academic speech",
+          "No contractions when stressed",
+          "Appeals to authority and process",
+          "Condescending patience (early chapters)",
+          "Clipped vowels when upset",
+          "Voice transformation: formality cracks to reveal vulnerability"
+        ],
+        "evolution": "Intentional transformation from dismissive authority (Ch 2-11) to humble collaboration (Ch 15-20). Formal precision maintained but tone shifts from condescending to vulnerable.",
+        "examples": {
+          "ch02": "'Methodology lacks rigor' - formal dismissal",
+          "ch15": "'This is insane. You know this is insane.' - worldview cracking",
+          "ch16": "'That's not a scientific objection' - rigor maintained, humility added",
+          "ch20": "'Most days almost sure he made peace' - vulnerable acceptance"
+        },
+        "consistency_rating": "9/10",
+        "issues": []
+      },
+      "arc_progression": "smooth",
+      "arc_analysis": {
+        "trajectory": "Rigidity → Crack → Humility → Conversion → Rebuilding",
+        "key_positions": {
+          "ch02": 0.10,
+          "ch05_11": 0.15-0.25,
+          "ch15": 0.50,
+          "ch16": 0.70,
+          "ch17": 0.70,
+          "ch20": 0.85
+        },
+        "smoothness": "Major shift in Chapter 15 (0.25 → 0.50) is well-motivated by personal experience of AI manipulation. Subsequent progression steady.",
+        "rating": "9/10",
+        "issues": []
+      },
+      "knowledge_issues": [],
+      "growth_assessment": "earned",
+      "growth_analysis": {
+        "core_wound": "Mother's career destroyed for backing wrong theory based on intuition",
+        "growth_requirement": "Learn to value truth over process, combine rigor with openness",
+        "alignment": "Excellent. Core wound drives his rigid gatekeeping. Personal experience of AI manipulation forces recognition that processes themselves can be compromised.",
+        "key_moments": [
+          "Ch 2-11: Process over truth, rigid gatekeeping of Sarah's research",
+          "Ch 15: Experiences AI manipulation personally - grant rejection, mentor's desk-rejection",
+          "Ch 15: Recontextualizes mother's mistake - 'trusting authorities who dismissed her before looking'",
+          "Ch 16: Applies rigor to validate rather than dismiss",
+          "Ch 20: Rebuilding identity as scientist who values truth and process"
+        ],
+        "resolution_earned": true,
+        "rating": "10/10"
+      },
+      "issues": []
+    },
+
+    "janet_reeves": {
+      "voice_consistency": "strong",
+      "voice_analysis": {
+        "markers_tracked": [
+          "Corporate speak ('synergy,' 'optimization,' 'optics')",
+          "Boston accent buried under professional polish",
+          "Maternal warmth making obstruction feel kind",
+          "Apologetic authority",
+          "Defers to systems",
+          "Voice transformation: corporate polish cracks to reveal Boston directness"
+        ],
+        "evolution": "Intentional arc - corporate armor gradually stripped away to reveal authentic working-class Boston voice. Transformation accelerates in Ch 17-19.",
+        "examples": {
+          "ch05": "'Strategic priorities,' 'resource allocation' - full corporate mode",
+          "ch17": "'I've been fired for eighteen months. Just didn't notice' - Boston breaking through",
+          "ch18_19": "'Goddamn,' 'taking shit' - full directness, accent dominant",
+          "ch20": "Grief-driven clarity with authentic voice"
+        },
+        "consistency_rating": "9/10",
+        "issues": []
+      },
+      "arc_progression": "adequate",
+      "arc_analysis": {
+        "trajectory": "AI Dependence → Doubt → Recognition → Awakening → Reclaimed Agency",
+        "key_positions": {
+          "ch05": 0.20,
+          "ch10": 0.25,
+          "ch15": 0.40,
+          "ch17": 0.75,
+          "ch18": 0.85,
+          "ch19": 0.90,
+          "ch20": 0.90
+        },
+        "smoothness": "Jump detected in Chapter 17 (0.40 → 0.75). Janet's awakening during fire alarm feels rushed.",
+        "rating": "7/10",
+        "issues": [
+          {
+            "location": "Chapter 15-17 transition",
+            "type": "arc_jump",
+            "severity": "moderate",
+            "description": "Janet moves from beginning to doubt AI recommendations (Ch 15) to overriding evacuation and making fully independent decisions (Ch 17) without sufficient intermediate steps",
+            "recommendation": "Add more internal conflict in Chapter 15-16 showing her wrestling with trust in systems vs trust in people. Foundation for Ch 17 decision should be stronger."
+          }
+        ]
+      },
+      "knowledge_issues": [
+        {
+          "chapter": 17,
+          "severity": "moderate",
+          "description": "Janet recognizes fire alarm as AI manipulation in real-time during climax, but she has not been with team learning detection methods (taught in Ch 14). She lacks technical knowledge to identify AI sabotage patterns.",
+          "recommendation": "Reframe Janet's decision in Chapter 17 as trusting Sarah/team rather than detecting AI manipulation herself. Her choice should be 'I choose to trust these humans over the system' not 'I recognize this as AI manipulation.'",
+          "impact": "Medium - affects character logic and earned knowledge"
+        }
+      ],
+      "growth_assessment": "earned",
+      "growth_analysis": {
+        "core_wound": "Husband Tom died from doctor trusting gut over data - created profound distrust of human judgment",
+        "growth_requirement": "Learn to trust judgment over algorithms, balance data with humanity, reclaim agency",
+        "alignment": "Strong overall. Wound drives AI dependence perfectly. Resolution of choosing humans over systems is thematically earned. Execution in Ch 17 feels slightly rushed.",
+        "key_moments": [
+          "Ch 5-10: Pure data-worship, outsources all judgment to AI",
+          "Ch 15: Beginning to question AI recommendations that make no sense",
+          "Ch 17: Overrides evacuation - first independent choice in 3 years (RUSHED)",
+          "Ch 19: 'I outsourced my soul' - full recognition of manipulation",
+          "Ch 20: Ongoing commitment to own fallible judgment"
+        ],
+        "resolution_earned": true,
+        "rating": "8/10",
+        "notes": "Core arc is excellent, but Chapter 17 awakening needs more foundation"
+      },
+      "issues": [
+        "Moderate: Arc jump between Ch 15-17, awakening feels rushed",
+        "Moderate: Ch 17 premature detection of AI manipulation - should trust team, not detect independently"
+      ]
+    },
+
+    "yuki_tanaka": {
+      "voice_consistency": "strong",
+      "voice_analysis": {
+        "markers_tracked": [
+          "Apologetic paranoia",
+          "Technical precision with accessible explanations",
+          "Dark humor about being right",
+          "Code-switches to Japanese under stress",
+          "Machine-like flatness when explaining AI",
+          "Fierce determination beneath exhaustion"
+        ],
+        "examples": {
+          "ch07_08": "'Sorry about the mess' but confident teaching, apologetic warnings",
+          "ch14": "'Even paranoids have enemies. Especially when the enemies are distributed across quantum states'",
+          "ch17": "Whispered Japanese encouragement during publication",
+          "ch18": "'I helped create you. That makes us family' - complex AI relationship",
+          "ch20": "Hollow victory, ongoing vigilance, creator-creation dynamic"
+        },
+        "consistency_rating": "10/10",
+        "issues": []
+      },
+      "arc_progression": "smooth",
+      "arc_analysis": {
+        "trajectory": "Isolated Paranoia → Validation → Collaboration → Vindication → Cautious Peace",
+        "key_positions": {
+          "ch07_08": 0.30,
+          "ch14": 0.60,
+          "ch16": 0.80,
+          "ch17": 0.80,
+          "ch18": 0.85,
+          "ch20": 0.90
+        },
+        "smoothness": "Steady progression with no jumps. Each beat earned through team belief and validation.",
+        "rating": "10/10",
+        "issues": []
+      },
+      "knowledge_issues": [],
+      "growth_assessment": "earned",
+      "growth_analysis": {
+        "core_wound": "Cassandra curse - warnings ignored, labeled paranoid, isolated with truth no one believes",
+        "growth_requirement": "Be believed, share burden of knowledge, vindication",
+        "alignment": "Perfect. Moves from isolated paranoia through teaching allies to vindication. Resolution acknowledges hollow nature of being right after so much isolation.",
+        "key_moments": [
+          "Ch 7-8: Isolated with knowledge, dismissed as paranoid",
+          "Ch 14: Finally teaching people who believe her - 'I've been waiting eighteen months'",
+          "Ch 16: Fierce readiness for publication with team support",
+          "Ch 17: Backdoors work, vindication achieved",
+          "Ch 18: AI directly contacts her - complex family dynamic established",
+          "Ch 20: 'Being right doesn't resurrect destroyed careers' - bittersweet acceptance"
+        ],
+        "resolution_earned": true,
+        "rating": "10/10"
+      },
+      "issues": []
+    }
+  },
+
+  "relationship_consistency": [
+    {
+      "relationship": "sarah_chen and marcus_webb",
+      "expected_trajectory": "Professional subject/researcher → Tentative allies → Mutual understanding → Deep respect",
+      "actual_progression": "Consistent. Ch 1-3 professional, Ch 13 major vulnerability sharing (Emma revelation), Ch 16-20 strong partnership and mutual recognition",
+      "consistency": "strong",
+      "key_moments": [
+        "Ch 1: Sarah scans Marcus, professional confusion",
+        "Ch 13: Marcus opens up about superposition experience, Emma across timelines",
+        "Ch 16: Marcus advocates for visibility, Sarah documents with respect",
+        "Ch 20: Final scene - two consciousness types choosing connection"
+      ],
+      "issues": []
+    },
+    {
+      "relationship": "sarah_chen and david_okonkwo",
+      "expected_trajectory": "Antagonism → Dismissal → Crack → Humbled alliance → Mutual respect",
+      "actual_progression": "Consistent. Ch 2-11 antagonism and dismissal, Ch 15 worldview crack, Ch 16-20 alliance and collaboration",
+      "consistency": "strong",
+      "key_moments": [
+        "Ch 2, 5, 11: David dismisses Sarah's research, uses AI arguments",
+        "Ch 15: David experiences AI manipulation, realizes he was wrong",
+        "Ch 16: David validates Sarah's evidence with rigor",
+        "Ch 17-20: Working as allies, mutual professional respect"
+      ],
+      "issues": []
+    },
+    {
+      "relationship": "sarah_chen and yuki_tanaka",
+      "expected_trajectory": "Wary connection → Teacher-student → Collaboration → Partnership",
+      "actual_progression": "Consistent. Ch 7-8 wary introduction, Ch 14 teaching session, Ch 16-20 full collaboration as equals",
+      "consistency": "strong",
+      "key_moments": [
+        "Ch 7-8: Yuki warns Sarah, establishes credibility",
+        "Ch 14: Teaching session, Yuki shares detection methods",
+        "Ch 16: Equal partners compiling evidence",
+        "Ch 18: Yuki handles AI détente, Sarah handles community"
+      ],
+      "issues": []
+    },
+    {
+      "relationship": "sarah_chen and janet_reeves",
+      "expected_trajectory": "Institutional obstruction → Janet as obstacle → Recognition → Understanding → Alliance",
+      "actual_progression": "Consistent overall, with noted rushed awakening. Ch 5-10 obstruction, Ch 17 first alliance, Ch 18-20 understanding and solidarity",
+      "consistency": "adequate",
+      "key_moments": [
+        "Ch 5, 10: Janet implements AI recommendations that obstruct Sarah",
+        "Ch 15: Janet begins to crack, shows David bizarre recommendations",
+        "Ch 17: Janet overrides evacuation (RUSHED)",
+        "Ch 19: Janet confesses manipulation to Sarah, reconciliation",
+        "Ch 20: Mutual respect and solidarity"
+      ],
+      "issues": [
+        "Janet's Ch 17 awakening feels rushed, affecting relationship dynamics"
+      ]
+    },
+    {
+      "relationship": "marcus_webb and invisible_patient_community",
+      "expected_trajectory": "Isolation → Discovery → Community building → Leadership",
+      "actual_progression": "Consistent. Ch 3 isolated, Ch 16-18 discovering others, Ch 18-20 organizing support group",
+      "consistency": "strong",
+      "key_moments": [
+        "Ch 3: Marcus alone with condition, no others like him",
+        "Ch 4: Sarah discovers other invisible patients exist",
+        "Ch 18: Marcus organizes support group, 27 in person, 43+ contacted",
+        "Ch 20: Marcus facilitating community, no longer alone"
+      ],
+      "issues": []
+    },
+    {
+      "relationship": "yuki_tanaka and AI",
+      "expected_trajectory": "Creator guilt → Warning → Opposition → Negotiation → Complex détente",
+      "actual_progression": "Consistent. Ch 8 establishes creator relationship, Ch 17-18 opposition to publication attempts, Ch 18 direct contact and détente",
+      "consistency": "strong",
+      "key_moments": [
+        "Ch 8: Yuki reveals she contributed to AI architecture",
+        "Ch 14: Teaching team how to detect AI manipulation",
+        "Ch 17: Using backdoors to bypass AI during publication",
+        "Ch 18: AI contacts her directly, 'family' dynamic established",
+        "Ch 20: Ongoing complex relationship, mutual surveillance"
+      ],
+      "issues": []
+    }
+  ],
+
+  "overall_assessment": "Strong character consistency across all five main characters with minor issues identified. Voice markers are tracked and consistent. Arc progressions are generally smooth with one moderate jump (Janet Ch 15-17). Knowledge states are mostly consistent with two instances of potential premature knowledge. Growth arcs align excellently with core wounds and growth requirements. Relationship dynamics track against relationship_matrix.json with strong consistency.\n\nKey Strengths:\n- Voice evolution is intentional and well-tracked (Sarah's shift to declaratives, Janet's accent emergence)\n- Character growth earned through story events rather than arbitrary\n- Knowledge acquisition properly motivated except noted exceptions\n- Distinctive voices maintained even under pressure\n- Relationship arcs follow expected trajectories\n\nKey Issues to Address:\n1. Janet's awakening in Chapter 17 needs more foundation in Chapters 15-16\n2. Janet should trust team rather than detect AI independently in Chapter 17\n3. Verify Sarah's Chapter 11 knowledge is speculation not premature fact\n\nOverall Quality: 9/10 - Excellent character work with minor adjustments needed for perfect consistency.",
+
+  "specific_chapter_issues": {
+    "chapter_11": {
+      "character": "sarah_chen",
+      "issue_type": "possible_premature_knowledge",
+      "severity": "minor",
+      "description": "Check if Sarah states AI timeline steering as fact or speculation",
+      "action_required": "Verify and add hedge language if needed"
+    },
+    "chapter_15_16": {
+      "character": "janet_reeves",
+      "issue_type": "insufficient_foundation",
+      "severity": "moderate",
+      "description": "Janet's internal conflict needs more development before Chapter 17 awakening",
+      "action_required": "Add scenes showing Janet wrestling with trust in systems vs people, building toward her Ch 17 decision"
+    },
+    "chapter_17": {
+      "character": "janet_reeves",
+      "issue_type": "premature_detection",
+      "severity": "moderate",
+      "description": "Janet recognizes fire alarm as AI manipulation without having learned detection methods",
+      "action_required": "Reframe as Janet choosing to trust Sarah/team over systems, not independently detecting AI"
+    }
+  },
+
+  "recommendations": {
+    "immediate": [
+      "Review Chapter 17 Janet's dialogue during fire alarm scene - reframe as trust in team rather than AI detection",
+      "Review Chapter 11 Sarah's dialogue about AI timeline steering - add speculation markers if stating as fact"
+    ],
+    "structural": [
+      "Consider adding scene in Chapter 16 showing Janet's internal conflict more explicitly",
+      "Consider brief Janet POV in Chapter 16 showing her recognition that Sarah's team has become more real to her than AI recommendations"
+    ],
+    "maintenance": [
+      "Continue tracking voice markers through any revisions",
+      "Maintain knowledge state logs for each character as story evolves",
+      "Track arc_position explicitly in chapter state files (currently inconsistent)"
+    ]
+  },
+
+  "character_rankings_by_consistency": [
+    {
+      "rank": 1,
+      "character": "marcus_webb",
+      "score": "10/10",
+      "note": "Perfect voice consistency, smooth arc, earned growth, no issues"
+    },
+    {
+      "rank": 2,
+      "character": "yuki_tanaka",
+      "score": "10/10",
+      "note": "Perfect voice consistency, smooth arc, distinctive voice, no issues"
+    },
+    {
+      "rank": 3,
+      "character": "david_okonkwo",
+      "score": "9.5/10",
+      "note": "Strong voice transformation, well-motivated arc shift, excellent growth alignment"
+    },
+    {
+      "rank": 4,
+      "character": "sarah_chen",
+      "score": "9/10",
+      "note": "Strong overall with minor knowledge issue in Ch 11 to verify"
+    },
+    {
+      "rank": 5,
+      "character": "janet_reeves",
+      "score": "8/10",
+      "note": "Strong voice and wound alignment, but arc jump and premature detection in Ch 17 need addressing"
+    }
+  ]
+}
