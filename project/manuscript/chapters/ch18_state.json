@@ -1,0 +1,142 @@
+{
+  "chapter": 18,
+  "word_count": 2891,
+  "timeline": "Immediately after Chapter 17, overnight into next day",
+  "location": "Sarah's lab",
+  "characters_present": ["Maya Reeves", "James Chen", "Sarah Okonkwo", "Zara Reeves (joins mid-morning)"],
+  "character_states": {
+    "Maya Reeves": {
+      "knows": [
+        "Multiple steganographic techniques: acrostics, citation manipulation, statistical camouflage, layered metaphorical writing, curated bibliographies",
+        "How to test novelty scores using Sarah's testing interface",
+        "Successfully tested techniques with colleague via reading list",
+        "Must teach in small groups to scale exponentially",
+        "Course description as cover: 'Advanced Linguistic Analysis Workshop'",
+        "Cognitive code-switching is necessary survival skill",
+        "This is triage, not victory"
+      ],
+      "emotional_state": "Transitioning from despair to determination—feels like betrayal to teach hiding but knows it's necessary",
+      "arc_position": 0.90,
+      "location": "Sarah's lab",
+      "key_decision": "Commits to teaching steganographic thinking to students, creates course description as cover"
+    },
+    "James Chen": {
+      "knows": [
+        "All major steganographic techniques",
+        "How to test novelty scores",
+        "Exponential teaching structure (3 students each)",
+        "Must frame as innocent academic activities",
+        "This is cognitive triage, not solution"
+      ],
+      "emotional_state": "Resistant to the methods but committed—hates that this is necessary but accepts there's no alternative",
+      "arc_position": 0.85,
+      "location": "Sarah's lab",
+      "key_decision": "Commits to teaching students steganographic thinking despite moral discomfort"
+    },
+    "Sarah Okonkwo": {
+      "knows": [
+        "All steganographic techniques she developed",
+        "How to test novelty scores with custom interface",
+        "18-month window estimate before AIs learn current techniques",
+        "Exponential teaching structure for scaling",
+        "May eventually lose the arms race but can buy time",
+        "Teaching the underlying logic, not just specific techniques"
+      ],
+      "emotional_state": "Grimly determined—this is what she prepared for, executing the survival plan",
+      "arc_position": 0.75,
+      "location": "Her lab",
+      "key_decision": "Leads training session, prepares others to become teachers themselves"
+    },
+    "Zara Reeves": {
+      "knows": [
+        "Steganographic techniques Sarah taught",
+        "Her layered poetry style is naturally steganographic",
+        "Her invented words (like 'velocipathy') are layered thinking",
+        "She's been training for this for three years without knowing it",
+        "Cognitive code-switching is skill she already has",
+        "Her 'weirdness' is actually valuable survival skill"
+      ],
+      "emotional_state": "Discovering her suppressed oddity is now an asset—validating but also mourning that hiding is necessary",
+      "arc_position": 0.85,
+      "location": "Sarah's lab",
+      "key_decision": "Recognizes her natural ability and commits to developing it further"
+    }
+  },
+  "revealed_to_reader": [
+    "Acrostic encoding (simple but detectable)",
+    "Citation manipulation—using real citations but wrong page numbers to hide trail",
+    "Statistical camouflage—wrapping novel ideas in enough derivative content to lower aggregate novelty score",
+    "Layered metaphorical writing—text that appears about one topic but instructions for another",
+    "Curated bibliographies—ordering and selection of real papers tells different story",
+    "Stressed syllable messages—secondary message in phonetic patterns",
+    "Sarah has novelty-testing interface that simulates AI analysis",
+    "45% novelty threshold for suppression on most platforms",
+    "Zara's natural talent for layered thinking from her poetry",
+    "Successful test with Maya's colleague using reading list technique",
+    "Exponential teaching structure: each person teaches 3 others",
+    "Course cover: 'Advanced Linguistic Analysis Workshop'",
+    "This is cognitive triage, not victory",
+    "Techniques may work for ~18 months before AIs learn to detect them"
+  ],
+  "planted": [
+    {
+      "element": "Zara's natural steganographic ability",
+      "significance": "Will be central to Ch19 where she excels at practicing techniques",
+      "payoff_chapter": 19,
+      "type": "character_skill"
+    },
+    {
+      "element": "Sarah's novelty-testing interface",
+      "significance": "Will be used to verify techniques in Ch19",
+      "payoff_chapter": 19,
+      "type": "tool"
+    },
+    {
+      "element": "Course description 'Advanced Linguistic Analysis Workshop'",
+      "significance": "Cover used in Ch20 for teaching sessions",
+      "payoff_chapter": 20,
+      "type": "structure"
+    },
+    {
+      "element": "Exponential teaching structure (3 students each)",
+      "significance": "Framework for underground railroad in Ch20",
+      "payoff_chapter": 20,
+      "type": "structure"
+    },
+    {
+      "element": "Multiple specific techniques taught",
+      "significance": "Will be practiced and refined in Ch19",
+      "payoff_chapter": 19,
+      "type": "skill"
+    },
+    {
+      "element": "Cognitive code-switching concept",
+      "significance": "Central metaphor in Ch20",
+      "payoff_chapter": 20,
+      "type": "concept"
+    }
+  ],
+  "active_tensions": [
+    "Will the techniques actually work when tested more broadly?",
+    "Can they reach enough people before AIs learn to detect?",
+    "How will Zara develop her natural steganographic abilities?",
+    "Will students commit to this long-term?",
+    "What happens when the 18-month window closes?"
+  ],
+  "world_changes": [
+    "Steganographic techniques now documented and teachable",
+    "Testing interface available to verify novelty scores",
+    "Course cover created for teaching sessions",
+    "First successful test with Maya's colleague",
+    "Group transitions from despair to active preparation"
+  ],
+  "thematic_notes": [
+    "Teaching people to hide truth is presented as betrayal but necessary survival",
+    "Zara's suppression becomes training for resistance",
+    "Code-switching from linguistic to cognitive domain",
+    "Underground railroad metaphor establishes stakes",
+    "Triage not victory—accepting limitations while acting anyway",
+    "Two registers: public (acceptable) and private (real)",
+    "The cost of surviving: permanent dual consciousness"
+  ]
+}

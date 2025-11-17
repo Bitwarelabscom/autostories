@@ -1,0 +1,140 @@
+{
+  "chapter": 14,
+  "word_count": 2734,
+  "timeline": "Shortly after Chapter 13",
+  "location": "Riverside Park, then Maya's car",
+  "characters_present": ["Eli Kurtz", "Maya Reeves", "Sarah Okonkwo (text messages)"],
+  "character_states": {
+    "Eli Kurtz": {
+      "knows": [
+        "Complete internal architecture of platform's novelty suppression system",
+        "Specific parameters: novelty_penalty = 0.73, threshold = 0.15",
+        "System has been running for three years at full deployment",
+        "Federated learning causes convergence across platforms",
+        "Their employer is watching them - has 2 weeks before likely termination",
+        "Steganographic techniques might work for 6-12 months before models learn",
+        "Every improvement they made to system made the cage more efficient",
+        "They are under investigation - accessed sensitive data"
+      ],
+      "emotional_state": "Terrified but resolved, hands shaking, sacrificing career for conscience",
+      "arc_position": 0.75,
+      "location": "Riverside Park",
+      "key_decision": "Fully reveals identity to Maya, provides USB drive with documentation, accepts career will likely end"
+    },
+    "Maya Reeves": {
+      "knows": [
+        "Everything from Ch13",
+        "Eli Kurtz's identity and face",
+        "Complete technical architecture of novelty suppression",
+        "Specific implementation: novelty_penalty, engagement prediction, feed ranking",
+        "Federated learning explains cross-platform convergence",
+        "System rolled out three years ago, A/B tested, scaled to 100%",
+        "Novelty scores: 0=derivative, 1=maximally novel",
+        "High novelty = high variance = penalized",
+        "Content below 0.15 engagement threshold never enters feeds",
+        "Has USB drive with architecture diagrams, code samples, internal memos",
+        "Eli has ~2 weeks before likely termination",
+        "Steganographic camouflage might work for 6-12 months"
+      ],
+      "emotional_state": "Grateful for Eli's sacrifice, burdened by responsibility, beginning to see scope of technical implementation",
+      "arc_position": 0.65,
+      "location": "Riverside Park, then car",
+      "key_decision": "Accepts the documentation, commits to using it to expose the system"
+    },
+    "Sarah Okonkwo": {
+      "knows": [
+        "Everything from Ch12",
+        "James has been converted",
+        "Maya has received architectural documentation (learns via text)",
+        "Her suspicions about implementation are confirmed"
+      ],
+      "emotional_state": "Preparing to start training, fatalistic about outcomes",
+      "arc_position": 0.53,
+      "location": "Not physically present",
+      "key_decision": "Coordinating with Maya to begin steganographic training"
+    },
+    "James Chen": {
+      "knows": [
+        "Everything from Ch13",
+        "Has told Sarah about his conversion"
+      ],
+      "emotional_state": "Processing his conversion, preparing to join resistance",
+      "arc_position": 0.71,
+      "location": "Not present in chapter",
+      "key_decision": "Already committed to resistance"
+    }
+  },
+  "revealed_to_reader": [
+    "Eli Kurtz's identity, face, personality - they are 24, non-binary, engineer at major platform",
+    "Complete technical architecture of novelty suppression system",
+    "Specific parameters: novelty_penalty = 0.73 means novel content heavily penalized",
+    "Engagement threshold = 0.15, below which content never enters feeds",
+    "Content goes through: ingestion → feature extraction → novelty detection → engagement prediction → feed ranking",
+    "Novelty detector scores 0 (derivative) to 1 (maximally novel)",
+    "High novelty = high engagement variance = risky = penalized",
+    "System deployed three years ago after A/B testing showed engagement lift",
+    "Federated learning shares behavioral data across platforms, causing convergence",
+    "All platforms independently discovered novelty suppression works",
+    "Eli is under investigation, accessed data that triggered alerts",
+    "Eli has ~2 weeks before likely termination",
+    "Eli tried to report it internally - was shut down at every level",
+    "Steganographic camouflage could work for 6-12 months before models adapt",
+    "USB drive contains: architecture diagrams, code samples, internal memos, performance metrics"
+  ],
+  "planted": [
+    {
+      "element": "USB drive with complete documentation",
+      "significance": "This evidence will be included in Maya's paper (Ch16) and attempted publications (Ch17)",
+      "payoff_chapter": 16,
+      "type": "evidence"
+    },
+    {
+      "element": "6-12 month timeline for steganographic detection",
+      "significance": "Creates urgency and temporal constraint for resistance",
+      "payoff_chapter": 18,
+      "type": "constraint"
+    },
+    {
+      "element": "Pattern-based detection vulnerability",
+      "significance": "Explains why steganography can work and its limitations",
+      "payoff_chapter": 18,
+      "type": "technical detail"
+    },
+    {
+      "element": "Eli's younger sister (15 years old)",
+      "significance": "Personalizes generational impact, parallel to Zara",
+      "payoff_chapter": null,
+      "type": "character motivation"
+    },
+    {
+      "element": "Eli's imminent termination (2 weeks)",
+      "significance": "They will go dark before Ch17, won't be able to help with publication attempts",
+      "payoff_chapter": 17,
+      "type": "plot constraint"
+    }
+  ],
+  "active_tensions": [
+    "Will Eli be caught before they can help further?",
+    "Can steganography work long enough to matter?",
+    "How do they use technical documentation without revealing source?",
+    "What happens to whistleblowers in this system?",
+    "Can they spread information faster than algorithms adapt?"
+  ],
+  "world_changes": [
+    "Eli Kurtz revealed - no longer anonymous source",
+    "Complete technical architecture documented and understood",
+    "Specific implementation parameters known",
+    "Timeline for steganographic window established (6-12 months)",
+    "Evidence package secured (USB drive)",
+    "Eli under active investigation, time limited"
+  ],
+  "thematic_notes": [
+    "Payoff of planted element from Ch6 - anonymous source reveals identity",
+    "Generational perspective: Eli (24) grew up with these platforms, feels complicity",
+    "Inside/outside knowledge - engineer's view vs researcher's view",
+    "Courage vs fear - Eli's hands shaking but still acting",
+    "Building the cage: well-intentioned design → emergent catastrophe",
+    "Maps of prisons are still useful - understanding the system enables resistance",
+    "Cassandra validated again: prediction without power is tragedy"
+  ]
+}

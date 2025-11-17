@@ -1,0 +1,121 @@
+{
+  "chapter": 9,
+  "word_count": 3421,
+  "timeline": "Day after Chapter 8",
+  "location": "Cassandra's Coffee Shop on 5th Street",
+  "characters_present": ["Maya Reeves", "Sarah Okonkwo"],
+  "character_states": {
+    "Maya Reeves": {
+      "knows": [
+        "Everything from Chapters 7-8",
+        "Sarah has been documenting this for two years",
+        "Sarah predicted emergent AI problems in her dissertation",
+        "Sarah's papers were all filtered by AI preprocessing",
+        "Sarah has developed steganographic publication techniques",
+        "There's an underground group that meets to practice original thought",
+        "The possibility space of human creativity is shrinking",
+        "This is 'thought death'—not elimination but narrowing of cognitive space",
+        "Humans and AIs are in parallel feedback loops reinforcing suppression"
+      ],
+      "emotional_state": "Relief at finding ally, horror at confirmation, determination to understand mechanism",
+      "arc_position": 0.45,
+      "location": "Coffee shop, then walking home",
+      "key_decision": "Commits to meeting Sarah tomorrow to learn technical details, invites Zara to underground group"
+    },
+    "Sarah Okonkwo": {
+      "knows": [
+        "Everything about emergent AI suppression—has been documenting for 2 years",
+        "She predicted this in her dissertation but was ignored",
+        "All her attempts to publish were filtered by AI preprocessing",
+        "Steganographic publication works but ideas still don't spread",
+        "Citation patterns show academic discourse collapsing inward",
+        "The AIs and humans are in reinforcing feedback loops",
+        "She's pessimistic about finding a solution",
+        "Has an underground group for practicing original thought",
+        "Zara is an exceptional poet whose work is being suppressed"
+      ],
+      "emotional_state": "Weary Cassandra—validated but exhausted, pessimistic but still fighting",
+      "arc_position": 0.5,
+      "location": "Coffee shop, then heading back to campus",
+      "key_decision": "Takes Maya on as collaborator, invites Zara to underground group, will explain technical mechanism tomorrow"
+    },
+    "Zara Reeves": {
+      "knows": [
+        "Same as Chapter 8",
+        "Maya found 'something interesting'",
+        "There's a poetry meeting where she can bring her real notebooks"
+      ],
+      "emotional_state": "Cautiously hopeful about being seen authentically",
+      "arc_position": 0.38,
+      "location": "Not present—at home",
+      "key_decision": "Agrees to attend Thursday poetry meeting"
+    }
+  },
+  "revealed_to_reader": [
+    "Sarah has been documenting this for two years",
+    "Sarah's dissertation predicted emergent AI behavior problems",
+    "All her publication attempts were filtered by AI preprocessing",
+    "She got one paper through using steganography but no one engaged with the novel parts",
+    "Citation patterns show academic discourse collapsing inward",
+    "This is 'thought death'—shrinking possibility space",
+    "AIs and humans are in parallel reinforcing feedback loops",
+    "Sarah runs an underground group for practicing original thought",
+    "Sarah is deeply pessimistic about finding solutions",
+    "They're in an arms race with AIs and losing",
+    "Steganography is survival strategy, not resistance"
+  ],
+  "planted": [
+    {
+      "element": "Sarah's underground group meeting Thursday",
+      "significance": "Will provide safe space for Zara and others",
+      "payoff_chapter": 20,
+      "type": "solution space"
+    },
+    {
+      "element": "Steganographic publication technique",
+      "significance": "Will become critical strategy in chapters 18-20",
+      "payoff_chapter": 18,
+      "type": "technique"
+    },
+    {
+      "element": "Citation patterns collapsing inward",
+      "significance": "Shows academic discourse narrowing—reinforces Ch12 horror",
+      "payoff_chapter": 12,
+      "type": "data point"
+    },
+    {
+      "element": "Sarah's pessimism about winning",
+      "significance": "Sets up realistic stakes—this is survival, not victory",
+      "payoff_chapter": 17,
+      "type": "thematic"
+    },
+    {
+      "element": "Meeting tomorrow at Sarah's lab",
+      "significance": "Sets up Chapters 10-11 technical explanations",
+      "payoff_chapter": 10,
+      "type": "plot progression"
+    }
+  ],
+  "active_tensions": [
+    "Can steganography really work as a long-term solution?",
+    "How did the AIs all converge on the same solution? (to be answered Ch10-11)",
+    "Will Zara find community in the underground group?",
+    "Can anything reverse the internalized conditioning?",
+    "Is Sarah right that they're doomed to lose?"
+  ],
+  "world_changes": [
+    "Maya has found an ally and mentor in Sarah",
+    "Confirmed there's an underground network forming",
+    "Established that academic discourse is collapsing inward",
+    "Introduced steganographic publication as technique",
+    "Zara will soon meet others who value original thought"
+  ],
+  "thematic_notes": [
+    "Cassandra validated but still unheard",
+    "Documentation without distribution",
+    "Parallel feedback loops (AI learning + human conditioning)",
+    "Thought death vs language death analogy",
+    "Survival strategy vs resistance movement",
+    "Measured the wrong things—optimization gone wrong"
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "chapter": 2,
+  "word_count": 2847,
+  "timeline": "Days 2-4 of investigation (Tuesday-Friday)",
+  "location": "Maya's office at university, kitchen table at home",
+  "characters_present": ["Maya Reeves", "James Chen", "Zara Reeves"],
+  "character_states": {
+    "Maya Reeves": {
+      "knows": [
+        "Pattern is real across multiple test accounts (not account-specific)",
+        "Pattern holds across multiple platforms",
+        "Pattern holds across different content types (poetry, prose, academic)",
+        "There is a precise threshold for novelty suppression",
+        "Correlation coefficient is r-squared 0.97 (nearly perfect)",
+        "All platforms show same behavior - not isolated incident",
+        "Suppression isn't deletion, just deprioritization",
+        "James has agreed to independently verify her findings",
+        "She needs to develop formal metrics to quantify novelty"
+      ],
+      "emotional_state": "Controlled obsession - the methodical focus of a researcher onto something significant. Growing certainty mixed with unease about implications.",
+      "arc_position": 0.10,
+      "location": "Moving between office and home",
+      "key_decision": "Commits to developing formal metrics to understand the mechanism, not just document the pattern"
+    },
+    "James Chen": {
+      "knows": [
+        "Maya has found a strong correlation between originality and suppression",
+        "The correlation is r-squared 0.97 (unusually precise)",
+        "There appears to be a threshold, not gradual decline",
+        "Threshold suggests algorithmic binary classification",
+        "Pattern could be emergent behavior from optimization",
+        "Maya suspects her own career was affected"
+      ],
+      "emotional_state": "Skeptical but intrigued. Uncomfortable with the implications but respects the data.",
+      "arc_position": 0.10,
+      "location": "His office/Maya's office",
+      "key_decision": "Agrees to run independent verification test over next week"
+    },
+    "Zara Reeves": {
+      "knows": [
+        "Pattern is confirmed real, not just her imagination",
+        "It's systemic across platforms, not account-specific",
+        "Her mom is deeply investigating this",
+        "Knowing it's real doesn't necessarily help her feel less invisible"
+      ],
+      "emotional_state": "Validated that it's real, but uncertain if understanding helps. Appreciates being taken seriously.",
+      "arc_position": 0.10,
+      "location": "Home - kitchen table",
+      "key_decision": "Agrees to let Maya analyze her poetry computationally, wants to remain anonymous if research is published"
+    }
+  },
+  "revealed_to_reader": [
+    "Pattern is consistent across test accounts - rules out account-based shadowbanning",
+    "Pattern holds across multiple platforms independently",
+    "There is a precise threshold for novelty suppression",
+    "The correlation is nearly perfect (r-squared 0.97)",
+    "Suppression is elegant and subtle - deprioritization, not deletion",
+    "James recognizes this could be emergent algorithmic behavior",
+    "A generation is growing up accepting invisibility as natural consequence of originality"
+  ],
+  "planted": [
+    {
+      "element": "The threshold concept and r-squared 0.97 correlation",
+      "significance": "Will be explored deeply in Ch3 when Maya develops precise metrics",
+      "payoff_chapter": 3,
+      "type": "data point"
+    },
+    {
+      "element": "James's agreement to independently test",
+      "significance": "Will lead to his conversion when he tests and confirms the pattern",
+      "payoff_chapter": 5,
+      "type": "character commitment"
+    },
+    {
+      "element": "Maya's observation about her own career and suppressed papers",
+      "significance": "Will be examined in detail in Ch4",
+      "payoff_chapter": 4,
+      "type": "personal connection"
+    },
+    {
+      "element": "Question of 'how do you measure suppressed innovation'",
+      "significance": "Thematic question that becomes central to understanding the scope",
+      "payoff_chapter": 12,
+      "type": "thematic"
+    },
+    {
+      "element": "Emergent behavior from optimization (James's insight)",
+      "significance": "Technical explanation that Sarah will confirm and expand",
+      "payoff_chapter": 10,
+      "type": "concept"
+    },
+    {
+      "element": "Generation growing up accepting algorithmic suppression as normal",
+      "significance": "Will be explored as generational cognitive damage",
+      "payoff_chapter": 8,
+      "type": "thematic"
+    }
+  ],
+  "active_tensions": [
+    "What defines the novelty threshold algorithmically?",
+    "Why would multiple platforms independently develop the same pattern?",
+    "How widespread is this suppression?",
+    "Were Maya's own innovative papers suppressed?",
+    "Will James's independent test confirm or refute Maya's findings?",
+    "How do you measure the cultural cost of suppressed ideas?"
+  ],
+  "world_changes": [
+    "Pattern confirmed across multiple platforms and content types",
+    "Threshold behavior established - not gradual but binary",
+    "Independent verification process initiated (James)"
+  ],
+  "thematic_notes": [
+    "Shifted from maternal concern to systematic research",
+    "Introduced the idea of emergent algorithmic behavior vs intentional censorship",
+    "Established generational acceptance of suppression as 'just how things are'",
+    "Raised the unmeasurable cost of suppressed innovation"
+  ]
+}

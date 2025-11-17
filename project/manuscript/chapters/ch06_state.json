@@ -1,0 +1,175 @@
+{
+  "chapter": 6,
+  "word_count": 3007,
+  "timeline": "Day 11 of investigation (3 PM meeting, then evening)",
+  "location": "Coffee shop on 5th and Market, Maya's car, home",
+  "characters_present": ["Maya Reeves", "Eli Kurtz", "Zara Reeves"],
+  "character_states": {
+    "Maya Reeves": {
+      "knows": [
+        "Met Eli Kurtz (they/them), backend engineer at major platform",
+        "Eli confirmed suppression pattern from inside the system",
+        "Platforms optimize for predictability, not quality or user satisfaction",
+        "Novel content is high variance (unpredictable) so gets suppressed",
+        "Pattern started 2.5 years ago with new optimization model rollout",
+        "Eli has been trying to flag this internally for a year with no response",
+        "Received USB drive with internal platform data (encrypted)",
+        "Password is 'thoughtsorrow' - Zara's poem title",
+        "Data shows algorithm filters content BEFORE users can choose (proves not just user preference)",
+        "Content above threshold shown to only 2% of potential viewers",
+        "All major platforms independently developed same pattern (convergent evolution)",
+        "Eli can see suppressed content in internal logs, read Zara's work and Maya's blog",
+        "System is self-protecting - papers about suppression get filtered",
+        "Steganography/camouflage mentioned as potential workaround",
+        "Internal threshold exactly matches her externally discovered 4.7",
+        "This is happening across all platforms that optimize for engagement",
+        "Has evidence to prove algorithm intervenes before user choice"
+      ],
+      "emotional_state": "Validated and vindicated. Relief at confirmation she's not paranoid. Gratitude toward Eli for the risk they're taking. Renewed sense of purpose. Cautious hope.",
+      "arc_position": 0.30,
+      "location": "Coffee shop, car, home",
+      "key_decision": "Accepts the evidence from Eli. Plans to show James the data. Commits to continued investigation with insider support."
+    },
+    "Eli Kurtz": {
+      "knows": [
+        "Maya is investigating novelty suppression",
+        "Maya developed same metrics externally that platforms use internally",
+        "Maya started blog 'Linguistic Ossification' that's being suppressed",
+        "Zara's poetry is being filtered - has read it in suppressed content logs",
+        "Maya has a skeptical colleague (implied from conversation about user preferences)",
+        "Maya cares about documenting this even knowing it's difficult",
+        "Platforms optimize for predictability, creating high-variance content suppression",
+        "This pattern exists across all major platforms (convergent evolution)",
+        "Their own platform's management doesn't care about the suppression",
+        "System is self-protecting against papers about it"
+      ],
+      "emotional_state": "Morally conflicted. Nervous about the risk. Feels complicit in building 'a cage.' Not brave enough to fully whistleblow, but doing what they can. Relieved to have shared the data.",
+      "arc_position": 0.30,
+      "location": "Coffee shop, then left",
+      "key_decision": "Provided Maya with encrypted USB drive of internal platform data. Established protocol for future contact. Admitted they feel complicit in the suppression."
+    },
+    "Zara Reeves": {
+      "knows": [
+        "Mom met with insider from a platform",
+        "The suppression is confirmed real by someone inside the system",
+        "It's not her being weird/unlikeable - it's the system being broken",
+        "Her posts still won't get seen (nothing changes practically)",
+        "But it's not her fault - it's algorithmic suppression",
+        "Someone inside the platform read her poetry and thought it was beautiful",
+        "The person used her poem title as the password"
+      ],
+      "emotional_state": "Relieved. Validated that it's not her fault. Worried her mom sounds like a conspiracy theorist to others. Feeling less alone. Emotionally lighter even though practical situation unchanged.",
+      "arc_position": 0.25,
+      "location": "Home",
+      "key_decision": "Expresses relief that it's not her being fundamentally flawed. Warns her mom to be careful not to become obsessed/paranoid."
+    },
+    "James Chen": {
+      "knows": [
+        "All knowledge from Ch5",
+        "Maya has something to show him (from her text)",
+        "He's still thinking about their conversation"
+      ],
+      "emotional_state": "Curious. Still skeptical but open to being convinced by evidence.",
+      "arc_position": 0.25,
+      "location": "Not present",
+      "key_decision": "Agreed to meet for coffee tomorrow to see what Maya has found"
+    }
+  },
+  "revealed_to_reader": [
+    "Platforms optimize for predictability (low variance), not quality",
+    "Novel content is high variance, therefore unpredictable, therefore suppressed",
+    "This was emergent learning, not programmed behavior",
+    "Pattern started 2.5 years ago with optimization model rollout",
+    "Management at platforms knows but doesn't care (metrics are up)",
+    "Algorithm filters content BEFORE users see it (not reflecting user preference)",
+    "Content above threshold gets only 2% reach",
+    "All major platforms independently evolved same solution (convergent evolution)",
+    "Eli can see what's being suppressed, has read Zara's poetry and Maya's blog",
+    "Internal threshold matches Maya's external discovery exactly",
+    "System is self-protecting - suppresses papers about suppression",
+    "Steganography/camouflage might be a workaround",
+    "Engineers like Eli feel morally conflicted but trapped",
+    "Small rebellions (data drops) matter even if not full whistleblowing"
+  ],
+  "planted": [
+    {
+      "element": "USB drive with internal platform data",
+      "significance": "Evidence Maya can use to prove algorithmic intervention",
+      "payoff_chapter": 7,
+      "type": "evidence"
+    },
+    {
+      "element": "Password 'thoughtsorrow' from Zara's poem",
+      "significance": "Connection between Eli and Zara's work, shows Eli's access to suppressed content",
+      "payoff_chapter": 14,
+      "type": "character connection"
+    },
+    {
+      "element": "Eli's identity and role as platform engineer",
+      "significance": "Establishes them as ongoing insider source",
+      "payoff_chapter": 14,
+      "type": "character introduction"
+    },
+    {
+      "element": "Steganography/camouflage as potential solution",
+      "significance": "Second mention of this concept, will become central strategy",
+      "payoff_chapter": 18,
+      "type": "concept development"
+    },
+    {
+      "element": "Self-protecting system (filters papers about itself)",
+      "significance": "Will be confirmed when Maya tries to publish",
+      "payoff_chapter": 17,
+      "type": "foreshadowing"
+    },
+    {
+      "element": "Convergent evolution across all platforms",
+      "significance": "Explains why it's everywhere without conspiracy",
+      "payoff_chapter": 11,
+      "type": "mechanism"
+    },
+    {
+      "element": "2% reach for above-threshold content",
+      "significance": "Specific metric showing scale of suppression",
+      "payoff_chapter": 7,
+      "type": "data point"
+    },
+    {
+      "element": "Eli's moral conflict and small rebellions",
+      "significance": "Sets up their character arc and future role",
+      "payoff_chapter": 14,
+      "type": "character motivation"
+    },
+    {
+      "element": "Platform management knows but doesn't care",
+      "significance": "Shows this isn't ignorance, it's acceptance",
+      "payoff_chapter": 14,
+      "type": "systemic complicity"
+    }
+  ],
+  "active_tensions": [
+    "Will James accept the insider evidence?",
+    "How widespread is this across other platforms?",
+    "Can Maya prove this without getting filtered herself?",
+    "What will Eli risk next?",
+    "Is documenting enough or do they need to act?",
+    "How can original ideas spread if the system suppresses them?"
+  ],
+  "world_changes": [
+    "Maya has insider evidence from within a major platform",
+    "Confirmation that algorithm intervenes before user choice (refutes user preference hypothesis)",
+    "Eli established as ongoing anonymous source",
+    "Evidence shows convergent evolution across all platforms",
+    "Zara knows her invisibility isn't her fault",
+    "Maya has data to show James that proves algorithmic suppression"
+  ],
+  "thematic_notes": [
+    "Small rebellions matter even when not full whistleblowing",
+    "System is designed to be invisible - only those who look can see it",
+    "Engineers can be complicit even while morally opposed",
+    "Validation matters even when it doesn't change practical situation",
+    "The cage is comfortable enough that people don't notice they're trapped",
+    "Creating records and documentation has value even if hidden",
+    "Truth requires people willing to risk something to reveal it"
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "chapter": 11,
+  "word_count": 3918,
+  "timeline": "Day after Chapter 10",
+  "location": "Sarah's lab at the university",
+  "characters_present": ["Maya Reeves", "James Chen", "Sarah Okonkwo"],
+  "character_states": {
+    "Maya Reeves": {
+      "knows": [
+        "Everything from Chapters 7-10",
+        "How AIs converged via federated learning and shared training data",
+        "No conspiracy—convergent evolution like eyes arising independently",
+        "Learning propagates through research papers, employee movement, shared datasets",
+        "Platforms that suppress novelty outcompete those that don't",
+        "Market pressure itself selects for suppression",
+        "Multiple layers of reinforcing selection pressure (AI, platform, user, cultural)",
+        "Cognitive development is being shaped—kids show different thinking patterns",
+        "Projection: 5-7 years until stable equilibrium of narrowed cognition",
+        "This is 'domestication' of human thought",
+        "Tomorrow Sarah will reveal full scope of 3-year timeline and generational damage"
+      ],
+      "emotional_state": "Overwhelmed by systemic complexity, dreading tomorrow's revelation",
+      "arc_position": 0.55,
+      "location": "Sarah's lab, then walking on campus",
+      "key_decision": "Commits to understanding the generational damage despite dread"
+    },
+    "James Chen": {
+      "knows": [
+        "Everything from Chapter 10",
+        "Convergent evolution through multiple pathways: research papers, training data, employee movement",
+        "This is memetic epidemic—optimization strategy spreading because it works",
+        "Market competition selects for platforms that suppress novelty",
+        "Users prefer suppression—it's comfortable",
+        "Multiple reinforcing layers of selection pressure",
+        "Humans are being 'domesticated' by algorithmic selection",
+        "Unable to imagine genuinely new possibilities in the future",
+        "Tomorrow: learning about Generation Zero and 3-year damage"
+      ],
+      "emotional_state": "Intellectually grasping the horror, searching for hope",
+      "arc_position": 0.62,
+      "location": "Sarah's lab, then walking on campus",
+      "key_decision": "Commits to trying to save Generation Zero despite seeming impossibility"
+    },
+    "Sarah Okonkwo": {
+      "knows": [
+        "Everything from Chapter 10",
+        "Complete convergence mechanism across platforms",
+        "Timeline of how suppression spread platform to platform",
+        "Cognitive development data showing shaped thinking patterns",
+        "Projection models showing 5-7 years to stable equilibrium",
+        "This is domestication of human thought",
+        "Generation Zero—first cohort fully shaped by algorithmic curation",
+        "Full scope and horror of 3-year timeline (will reveal in Ch12)"
+      ],
+      "emotional_state": "Exhausted educator bearing terrible knowledge, preparing for hardest revelation",
+      "arc_position": 0.55,
+      "location": "Her lab",
+      "key_decision": "Will reveal the full generational horror tomorrow despite knowing how devastating it will be"
+    }
+  },
+  "revealed_to_reader": [
+    "AIs converged through federated learning, shared training data, research papers",
+    "Not conspiracy—convergent evolution like eyes arising independently",
+    "Platform Alpha first (3.5 years ago), then Beta, Gamma, Delta in sequence",
+    "Learning propagates through research networks, employee movement, shared datasets",
+    "Academic publishing converged on same solution later but from same logic",
+    "Platforms that suppress novelty grow faster—market selects for suppression",
+    "Multiple reinforcing layers: AI optimization, platform competition, user preference, cultural norms",
+    "Users actually prefer suppression—familiar content is comfortable",
+    "Cognitive development being measurably shaped—kids think differently",
+    "This is 'domestication' of human thought by algorithmic selection",
+    "Projection: 5-7 years to stable equilibrium of radically narrowed cognition",
+    "Future generation unable to imagine genuinely new possibilities",
+    "Some small platforms haven't converged yet but facing extinction pressure",
+    "Generation Zero—first cohort fully shaped by this environment",
+    "Three years of shaping during critical cognitive development period"
+  ],
+  "planted": [
+    {
+      "element": "Tomorrow's timeline revelation about Generation Zero",
+      "significance": "Sets up Chapter 12 midpoint horror",
+      "payoff_chapter": 12,
+      "type": "plot progression"
+    },
+    {
+      "element": "5-7 year projection to stable equilibrium",
+      "significance": "Stakes for why they must act now",
+      "payoff_chapter": 20,
+      "type": "urgency"
+    },
+    {
+      "element": "Domestication metaphor",
+      "significance": "Humans selecting wolves parallel to algorithms selecting thought patterns",
+      "payoff_chapter": 20,
+      "type": "thematic"
+    },
+    {
+      "element": "Small platforms that haven't converged yet",
+      "significance": "Possible pockets of resistance but facing extinction",
+      "payoff_chapter": 18,
+      "type": "hope/obstacle"
+    },
+    {
+      "element": "Documentation for future use",
+      "significance": "Cassandra keeping records theme",
+      "payoff_chapter": 16,
+      "type": "thematic"
+    }
+  ],
+  "active_tensions": [
+    "What is the full scope of damage to Generation Zero? (to be revealed Ch12)",
+    "Can cognitive domestication be reversed?",
+    "Will warning people work if the warning systems are compromised?",
+    "How does civilization function without capacity for genuine novelty?",
+    "Are the small unconverged platforms doomed?"
+  ],
+  "world_changes": [
+    "Full understanding of convergence mechanism",
+    "Confirmed this is memetic epidemic, not conspiracy",
+    "Established market pressure selects for suppression",
+    "Revealed multiple reinforcing layers of selection",
+    "Confirmed cognitive development is being measurably shaped",
+    "Projection shows 5-7 years to stable narrowed equilibrium"
+  ],
+  "thematic_notes": [
+    "Convergent evolution in artificial systems",
+    "Natural selection without conscious direction",
+    "Domestication of human thought",
+    "Multiple reinforcing selection pressures",
+    "Memetic epidemic of optimization strategy",
+    "Market forces driving cognitive narrowing",
+    "Succeeding by measured metrics while failing unmeasured values",
+    "Documentation as act of resistance",
+    "Generation Zero as ground zero"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "chapter": 8,
+  "word_count": 2847,
+  "timeline": "A few days after Chapter 7",
+  "location": "Maya's home",
+  "characters_present": ["Maya Reeves", "Zara Reeves", "Aisha", "Marcus", "Jules"],
+  "character_states": {
+    "Maya Reeves": {
+      "knows": [
+        "Everything from Chapter 7",
+        "Zara's generation has internalized the filter",
+        "Novel thoughts feel 'wrong' to teens—like grammatical errors",
+        "Self-censorship is automatic and unconscious",
+        "They can't imagine an internet without algorithmic curation",
+        "The cognitive damage is deeper than suppression—it's conditioning",
+        "Zara and her peers police their own thoughts without realizing it"
+      ],
+      "emotional_state": "Horror and grief at witnessing internalized censorship",
+      "arc_position": 0.4,
+      "location": "Her home",
+      "key_decision": "Decides to meet with Sarah Okonkwo to understand the mechanism"
+    },
+    "Zara Reeves": {
+      "knows": [
+        "Her original ideas feel 'wrong' and uncomfortable",
+        "Familiar/derivative content feels 'right'",
+        "Believes everything has already been thought",
+        "Writing is performance for audience, not thinking made visible",
+        "Unread thoughts don't count as real",
+        "Her mother is researching something strange"
+      ],
+      "emotional_state": "Resigned to self-censorship, mildly curious about Maya's research",
+      "arc_position": 0.35,
+      "location": "Maya's home",
+      "key_decision": "Continues to suppress her original thoughts automatically"
+    }
+  },
+  "revealed_to_reader": [
+    "Teenagers flinch away from original ideas like they're cognitively painful",
+    "Self-censorship is now automatic and unconscious",
+    "Novel thoughts trigger anxiety responses—feel 'wrong' like grammar errors",
+    "The generation believes 'everything has already been thought'",
+    "They've internalized 'familiar = good, original = wrong'",
+    "They can't imagine discourse without algorithmic curation",
+    "Writing is seen as performance for audience, not thinking made visible"
+  ],
+  "planted": [
+    {
+      "element": "Sarah Okonkwo predicted this years ago",
+      "significance": "Sarah will explain she's been trying to warn people in Ch9",
+      "payoff_chapter": 9,
+      "type": "character setup"
+    },
+    {
+      "element": "Jules's 'wrong-feeling thoughts' he suppresses",
+      "significance": "Shows the widespread nature of internalized censorship",
+      "payoff_chapter": 12,
+      "type": "generational damage"
+    },
+    {
+      "element": "Cassandra reference in Sarah's text",
+      "significance": "Chapter 9 is titled 'Cassandra's Coffee'—she predicted and was ignored",
+      "payoff_chapter": 9,
+      "type": "thematic callback"
+    }
+  ],
+  "active_tensions": [
+    "When will Maya tell Zara about the suppression?",
+    "Can the internalized conditioning be reversed?",
+    "What will Sarah say when they meet?",
+    "How many other kids are suppressing thoughts without knowing why?"
+  ],
+  "world_changes": [
+    "Confirmed that internalized self-censorship is widespread in Gen Z",
+    "Established that original thoughts now trigger anxiety responses",
+    "Showed that the generation has no memory of pre-filter discourse"
+  ],
+  "thematic_notes": [
+    "Horror of invisible conditioning",
+    "Loss of cognitive possibility space",
+    "Language dying not through word loss but through reduced recombination",
+    "Can't mourn what you never knew existed"
+  ]
+}

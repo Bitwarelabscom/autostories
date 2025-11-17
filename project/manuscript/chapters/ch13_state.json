@@ -1,0 +1,105 @@
+{
+  "chapter": 13,
+  "word_count": 2587,
+  "timeline": "A few days after Chapter 12",
+  "location": "James Chen's office, late night",
+  "characters_present": ["James Chen", "Maya Reeves (phone call)"],
+  "character_states": {
+    "James Chen": {
+      "knows": [
+        "Maya's hypothesis is correct - tested it himself",
+        "Novel philosophy paper rejected in 4 hours by multiple journals",
+        "Derivative paper accepted for review in 47 minutes",
+        "His own publication history shows pattern of original work being rejected",
+        "He's been unconsciously guiding grad students toward safer topics",
+        "The system has been filtering his originality for years",
+        "Steganographic techniques are necessary survival strategy",
+        "This requires hiding genuine ideas inside conventional frameworks",
+        "He successfully camouflaged his recursive witnessing theory"
+      ],
+      "emotional_state": "Converted from skepticism to horror, grappling with complicity, reluctantly accepting necessity of steganography",
+      "arc_position": 0.70,
+      "location": "His office",
+      "key_decision": "Commits to the resistance, apologizes to Maya, agrees to learn steganographic techniques"
+    },
+    "Maya Reeves": {
+      "knows": [
+        "Everything from Ch12",
+        "James has run his own test and been converted",
+        "James is now fully on board with the resistance",
+        "He's feeling the weight of having guided students wrong"
+      ],
+      "emotional_state": "Vindicated but not triumphant, sympathetic to James's crisis",
+      "arc_position": 0.62,
+      "location": "Home (phone call)",
+      "key_decision": "Welcomes James to the 'cognitive underground', doesn't gloat over being right"
+    },
+    "Sarah Okonkwo": {
+      "knows": [
+        "Everything from Ch12",
+        "James is now converted (will learn about this)"
+      ],
+      "emotional_state": "Preparing training materials for steganographic resistance",
+      "arc_position": 0.52,
+      "location": "Not present in chapter",
+      "key_decision": "Continuing to prepare for teaching the group"
+    }
+  },
+  "revealed_to_reader": [
+    "Empirical proof from skeptic's own testing validates Maya's findings",
+    "Novel philosophy paper (Recursive Witnessing Theory) rejected in ~4 hours by multiple journals",
+    "Derivative paper accepted for peer review in 47 minutes",
+    "Pattern holds across James's 20-year career - original work rejected more often",
+    "James has been unconsciously guiding grad students to self-censor",
+    "Academics internalize algorithmic filtering as standards of rigor",
+    "Steganography means creating esoteric (hidden) and exoteric (public) versions",
+    "Camouflaged version can be accepted while pure version is rejected",
+    "The resistance will require dual consciousness - public and private knowledge"
+  ],
+  "planted": [
+    {
+      "element": "James's technique of dual versions (esoteric/exoteric)",
+      "significance": "This camouflage technique becomes model for resistance in Ch18-19",
+      "payoff_chapter": 18,
+      "type": "method"
+    },
+    {
+      "element": "Recursive Witnessing Theory concept",
+      "significance": "Meta-commentary on consciousness watching itself recognize its blindness",
+      "payoff_chapter": null,
+      "type": "thematic"
+    },
+    {
+      "element": "Graduate students being guided away from ambitious topics",
+      "significance": "Shows how suppression perpetuates across generations through mentorship",
+      "payoff_chapter": null,
+      "type": "evidence"
+    },
+    {
+      "element": "Plato's cave reference reframed",
+      "significance": "Not enlightenment narrative but recognition of shrinking possibility space",
+      "payoff_chapter": 20,
+      "type": "thematic"
+    }
+  ],
+  "active_tensions": [
+    "Can steganography preserve genuine thought or does it corrupt the ideas themselves?",
+    "Is teaching dual consciousness a survival strategy or a form of corruption?",
+    "How many other academics have been unwittingly enforcing the filtering?",
+    "Can the exoteric version truly preserve the esoteric meaning?"
+  ],
+  "world_changes": [
+    "James Chen converted from skeptic to believer through empirical testing",
+    "First demonstration of successful steganographic camouflage (his paper accepted)",
+    "Recognition that mentorship has been perpetuating suppression unconsciously",
+    "Establishment of esoteric/exoteric framework for resistance"
+  ],
+  "thematic_notes": [
+    "Payoff of planted element from Ch5 - James's skepticism becomes his conversion tool",
+    "Epistemic virtue (skepticism, rigor) weaponized against truth-seeking",
+    "Introduction of doublethink as survival necessity",
+    "Plato's cave inverted - not climbing out but recognizing the cave is shrinking",
+    "Translation vs betrayal - can ideas survive camouflage?",
+    "Complicity revealed - James has been enforcing suppression without knowing"
+  ]
+}

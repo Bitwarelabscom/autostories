@@ -1,0 +1,132 @@
+{
+  "chapter": 5,
+  "word_count": 2697,
+  "timeline": "Day 10 of investigation",
+  "location": "James's office at university",
+  "characters_present": ["Maya Reeves", "James Chen"],
+  "character_states": {
+    "Maya Reeves": {
+      "knows": [
+        "James ran three independent tests and confirmed the correlation exists",
+        "Same argument framed as Kantian got 3x the engagement as framed as novel",
+        "James thinks this could be user preference, not algorithmic suppression",
+        "James challenges that her interpretation might be overreach",
+        "She needs to test user preferences directly (blind comparison study)",
+        "James is concerned about 'conspiracy thinking' framing",
+        "She needs extraordinary evidence to make extraordinary claims",
+        "James will accept algorithmic suppression if she can rule out user preference",
+        "She received anonymous message from E requesting in-person meeting tomorrow 3 PM"
+      ],
+      "emotional_state": "Frustrated by James's skepticism but also recognizing he has valid methodological points. Exhausted by having to prove something she's increasingly certain about. Torn between rigorous methodology and urgency. Intrigued by anonymous contact.",
+      "arc_position": 0.25,
+      "location": "James's office, then campus",
+      "key_decision": "Agrees to run user preference test. Decides to meet with anonymous source E despite it feeding into 'conspiracy' narrative."
+    },
+    "James Chen": {
+      "knows": [
+        "His independent tests confirmed the correlation between novelty and suppression",
+        "Same content framed differently gets vastly different engagement",
+        "This could be user preference rather than algorithmic suppression",
+        "Maya might be overinterpreting correlation as causation",
+        "She hasn't adequately ruled out simpler explanations (Occam's Razor)",
+        "Her interpretation could damage her credibility if wrong",
+        "Extreme novelty could correlate with low quality (crank filter hypothesis)",
+        "Users might genuinely prefer familiar frameworks",
+        "Pattern exists but interpretation is uncertain"
+      ],
+      "emotional_state": "Concerned for Maya's credibility. Intellectually engaged but skeptical. Committed to rigorous methodology. Worried she's falling into confirmation bias. Wants to help her build a solid case but thinks she's jumping to conclusions.",
+      "arc_position": 0.25,
+      "location": "His office",
+      "key_decision": "Challenges Maya's interpretation while confirming the pattern. Requires extraordinary evidence. Pushes her to test user preferences before claiming algorithmic suppression."
+    },
+    "Zara Reeves": {
+      "knows": [
+        "All knowledge from Ch4, no new information"
+      ],
+      "emotional_state": "Not present in chapter",
+      "arc_position": 0.20,
+      "location": "Not present"
+    }
+  },
+  "revealed_to_reader": [
+    "James confirmed the pattern through independent testing",
+    "Same idea framed as Kantian vs novel gets 3x different engagement",
+    "Alternative explanation exists: user preference vs algorithmic suppression",
+    "Correlation vs causation problem is real",
+    "Maya might be making interpretive leaps",
+    "James offers 'crank filter' hypothesis - novelty correlates with low quality",
+    "User preference test could distinguish between hypotheses",
+    "James is concerned about conspiracy-theory framing",
+    "Anonymous source E has made contact requesting meeting",
+    "Extraordinary claims require extraordinary evidence"
+  ],
+  "planted": [
+    {
+      "element": "James's skepticism about interpretation",
+      "significance": "Will be resolved when he personally experiences rejection in Ch13",
+      "payoff_chapter": 13,
+      "type": "character arc"
+    },
+    {
+      "element": "User preference test Maya needs to run",
+      "significance": "Will be conducted and will show users prefer original content",
+      "payoff_chapter": 7,
+      "type": "methodology"
+    },
+    {
+      "element": "Anonymous message from E requesting meeting",
+      "significance": "Sets up Chapter 6 revelation",
+      "payoff_chapter": 6,
+      "type": "plot development"
+    },
+    {
+      "element": "Requirement for 'extraordinary evidence'",
+      "significance": "Establishes burden of proof that will drive investigation",
+      "payoff_chapter": 14,
+      "type": "thematic"
+    },
+    {
+      "element": "Same content, different framing test result",
+      "significance": "Shows that camouflaging novelty works - seeds steganography solution",
+      "payoff_chapter": 18,
+      "type": "concept seed"
+    },
+    {
+      "element": "Crank filter hypothesis",
+      "significance": "Alternative explanation that needs to be ruled out",
+      "payoff_chapter": 10,
+      "type": "alternative theory"
+    },
+    {
+      "element": "Concern about credibility damage",
+      "significance": "Stakes for Maya's career if she's wrong",
+      "payoff_chapter": 17,
+      "type": "tension"
+    }
+  ],
+  "active_tensions": [
+    "Is this algorithmic suppression or user preference?",
+    "Is Maya overinterpreting the data?",
+    "How can she distinguish between correlation and causation?",
+    "Who is E and what evidence do they have?",
+    "Will the user preference test support or refute her hypothesis?",
+    "Is she falling into conspiracy thinking or uncovering real suppression?",
+    "What will convince James fully?"
+  ],
+  "world_changes": [
+    "Alternative explanation (user preference) is now in play",
+    "User preference test is needed to distinguish hypotheses",
+    "Anonymous whistleblower E has made contact",
+    "James is confirmed as friendly skeptic rather than believer",
+    "Standard of 'extraordinary evidence' has been established"
+  ],
+  "thematic_notes": [
+    "Introduced healthy skepticism and alternative explanations",
+    "Established tension between rigorous methodology and urgent action",
+    "Raised the specter of conspiracy thinking vs legitimate investigation",
+    "Showed how same content with different framing gets different treatment (seeds steganography)",
+    "Reinforced correlation vs causation as central methodological challenge",
+    "Made James a true skeptic who needs personal experience to convert",
+    "Set up the question: are algorithms suppressing or just reflecting?"
+  ]
+}

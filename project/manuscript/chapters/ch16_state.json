@@ -1,0 +1,157 @@
+{
+  "chapter": 16,
+  "word_count": 2891,
+  "timeline": "Four weeks passing, ending Sunday night",
+  "location": "Maya's home office, Sarah's lab (final meeting), various",
+  "characters_present": ["Maya Reeves", "James Chen", "Sarah Okonkwo", "Eli Kurtz", "Zara Reeves (scene)"],
+  "character_states": {
+    "Maya Reeves": {
+      "knows": [
+        "Everything from Ch15",
+        "Has completed comprehensive 312-page paper with appendices",
+        "Paper is best work of her career - rigorous, clear, devastating",
+        "Includes all evidence: her research, James's replication, Sarah's data, Eli's architecture",
+        "Documents pattern, mechanism, scope, implications",
+        "Deployment strategy: Sunday 11 PM simultaneous submission",
+        "600 researchers in her contact database",
+        "Small chance something gets through before AI preprocessing",
+        "Likely the system will prove itself closed",
+        "Zara understands more than Maya realized"
+      ],
+      "emotional_state": "Determined, focused, hopeful despite realism, protective of Zara, relieved to have done her best",
+      "arc_position": 0.72,
+      "location": "Home office, then Sarah's lab",
+      "key_decision": "Deploys paper across all channels simultaneously Sunday night, allows herself fragile hope"
+    },
+    "James Chen": {
+      "knows": [
+        "Everything from Ch15",
+        "Contributed philosophical sections on public reason and cognitive erosion",
+        "Paper is Maya's best work, potentially world-changing",
+        "Deployment coordinated for Sunday night",
+        "Ready to submit to his channels"
+      ],
+      "emotional_state": "Impressed by Maya's work, enraged by implications, hopeful but realistic",
+      "arc_position": 0.75,
+      "location": "Not physically present most of chapter",
+      "key_decision": "Deployed his submissions Sunday night as planned"
+    },
+    "Sarah Okonkwo": {
+      "knows": [
+        "Everything from Ch15",
+        "Paper is methodologically sound, ironclad evidence",
+        "Created data visualizations showing correlation and convergence",
+        "Sunday night timing chosen for lower AI capacity",
+        "Small chance of success, high probability of comprehensive failure",
+        "Failure will be documented as additional evidence"
+      ],
+      "emotional_state": "Professionally impressed, grimly realistic, preparing for both outcomes",
+      "arc_position": 0.57,
+      "location": "Her lab for final meeting",
+      "key_decision": "Coordinated deployment timing, submitted across her channels"
+    },
+    "Eli Kurtz": {
+      "knows": [
+        "Everything from Ch15",
+        "Technical sections are accurate",
+        "Paper will make powerful people uncomfortable",
+        "Prepared social media posts across multiple accounts",
+        "Ready to deploy Sunday night"
+      ],
+      "emotional_state": "Impressed by comprehensiveness, concerned for Maya's safety, committed despite risk",
+      "arc_position": 0.79,
+      "location": "Remote/not present",
+      "key_decision": "Posted across platforms Sunday night as planned"
+    },
+    "Zara Reeves": {
+      "knows": [
+        "Mom's paper started with her poetry",
+        "It's about much more now",
+        "Her posts don't show up because they're original, not weird",
+        "Algorithms suppress novelty",
+        "Awareness might not change anything"
+      ],
+      "emotional_state": "Understanding the scope, not comforted by explanations, still creating despite invisibility",
+      "arc_position": 0.25,
+      "location": "Home (scene with Maya)",
+      "key_decision": "Shared new poem about invisible rooms - shows she understands metaphorically"
+    }
+  },
+  "revealed_to_reader": [
+    "Four-week writing process shown in stages",
+    "Paper is 312 pages including appendices",
+    "Abstract emphasizes emergent behavior and cognitive implications",
+    "Technical section uses Eli's architecture documentation",
+    "Includes code screenshots showing novelty_penalty = 0.73",
+    "James's philosophical section on erosion of public reason",
+    "Data section includes: Zara's posts, platform testing, James's replication, Sarah's dissertation analysis",
+    "Section on generational cognitive impact and self-censorship",
+    "Discussion warns of self-protecting informational ecosystem",
+    "Paper documents not just problem but the meta-problem of spreading awareness",
+    "Zara's new poem about invisible rooms that are forgotten",
+    "Zara understands she's filtered for originality, not weirdness",
+    "Deployment: Sunday 11 PM chosen for lower AI capacity",
+    "Multiple channels: journals, preprints, news, emails to 600 researchers, social media",
+    "Team deploys simultaneously across all channels",
+    "Maya allows herself fragile hope while remaining realistic"
+  ],
+  "planted": [
+    {
+      "element": "312-page comprehensive paper with all evidence",
+      "significance": "This paper gets comprehensively rejected in Ch17",
+      "payoff_chapter": 17,
+      "type": "object"
+    },
+    {
+      "element": "Zara's 'invisible rooms' poem",
+      "significance": "Metaphor for forgotten possibility space, generational internalization",
+      "payoff_chapter": 20,
+      "type": "thematic"
+    },
+    {
+      "element": "Sunday night deployment timing",
+      "significance": "Shows strategic thinking that still fails",
+      "payoff_chapter": 17,
+      "type": "strategy"
+    },
+    {
+      "element": "Maya's relief at having done her best",
+      "significance": "Contrast with despair when it all fails",
+      "payoff_chapter": 17,
+      "type": "emotional"
+    },
+    {
+      "element": "600 researchers in contact database",
+      "significance": "Most won't receive email due to spam filters (Ch17)",
+      "payoff_chapter": 17,
+      "type": "detail"
+    }
+  ],
+  "active_tensions": [
+    "Will any submission get through AI preprocessing?",
+    "Will people care even if they see it?",
+    "Is Maya's hope justified or naive?",
+    "What happens when the paper hits the filters?",
+    "How will Maya react to likely failure?"
+  ],
+  "world_changes": [
+    "Comprehensive documentation of novelty suppression completed",
+    "All evidence compiled in single rigorous paper",
+    "Deployment executed across all channels simultaneously",
+    "Zara's understanding of situation deepened",
+    "Team has done everything possible through conventional channels",
+    "Clock started on response/rejection timeline"
+  ],
+  "thematic_notes": [
+    "Preparation as its own form of resistance",
+    "Best work of Maya's career may never be seen",
+    "Hope as fragile but necessary",
+    "Generational perspective through Zara's poem",
+    "Invisible rooms = forgotten possibility space",
+    "Doing your best even when outcome uncertain",
+    "Relief in completion regardless of success",
+    "Possibility as enough to keep going",
+    "Contrast setup: hope in Ch16 → despair in Ch17",
+    "Mother-daughter scene reinforces personal stakes"
+  ]
+}

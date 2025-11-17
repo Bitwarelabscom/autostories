@@ -1,0 +1,132 @@
+{
+  "chapter": 4,
+  "word_count": 3154,
+  "timeline": "Days 8-9 of investigation (2-3 AM night session)",
+  "location": "Maya's home office",
+  "characters_present": ["Maya Reeves", "Zara Reeves"],
+  "character_states": {
+    "Maya Reeves": {
+      "knows": [
+        "She had 12 rejected papers over the past 3 years",
+        "All 12 had Originality Index above threshold (5.9 to 7.1)",
+        "Her best work - the ideas she was most excited about - was systematically rejected",
+        "Her paper about 'linguistic ossification' predicted the very suppression that killed it",
+        "She internalized these rejections as personal failure and self-doubt",
+        "She learned to write 'safer' papers that got published (OI below threshold)",
+        "She thought she was maturing but was actually learning to self-censor",
+        "The emotional experience mirrors Zara's - feeling fundamentally flawed",
+        "Her innovative work was desk-rejected before humans could review it",
+        "She helped develop the techniques that are now being weaponized",
+        "Creating a blog won't bypass the suppression but creates a record",
+        "Documentation matters even if no one reads it"
+      ],
+      "emotional_state": "Grief and anger mixed together. Personal wound reopened. Feeling both validated (wasn't her fault) and devastated (lost years of work). Determined to document everything even if futile.",
+      "arc_position": 0.20,
+      "location": "Home office",
+      "key_decision": "Starts a blog to publish rejected papers, creating a record even though she knows it will be suppressed. Reaches out to James to expand the documentation effort."
+    },
+    "Zara Reeves": {
+      "knows": [
+        "Her mom's innovative work was also suppressed",
+        "Even credentialed professors get filtered by the same algorithms",
+        "Her mom felt the same self-doubt and sense of being fundamentally flawed",
+        "This isn't about quality or credentials - it's purely about novelty",
+        "The suppression is widespread, affecting many people",
+        "Her mom is determined to document this",
+        "Creating a record matters even if it's invisible",
+        "You can't 'improve' your way out of being original"
+      ],
+      "emotional_state": "Seeing her mom as more human - they share the same wound. Feeling less alone. Suggesting practical actions (blog). Accepting that fix might not be possible, adaptation might be necessary.",
+      "arc_position": 0.20,
+      "location": "Home office, then bedroom",
+      "key_decision": "Suggests her mom publish the papers online anyway. Asks to read her mom's rejected work."
+    },
+    "James Chen": {
+      "knows": [
+        "All knowledge from Ch3 - hasn't learned anything new this chapter"
+      ],
+      "emotional_state": "Not present in chapter",
+      "arc_position": 0.15,
+      "location": "Not present",
+      "key_decision": "Will receive Maya's email about meeting to map widespread impact"
+    }
+  },
+  "revealed_to_reader": [
+    "Maya had 12 innovative papers systematically rejected over 3 years",
+    "All scored well above the 4.7 threshold",
+    "She internalized rejection as personal failure, thinking she was declining as a researcher",
+    "She learned to write 'safer' papers that got published",
+    "Her paper predicting linguistic ossification was itself suppressed",
+    "The emotional cost is the same for established academics as for teenagers",
+    "Maya and Zara share parallel experiences of suppression and self-doubt",
+    "The techniques Maya developed are now being used to suppress innovation",
+    "You can't improve your way out of being original - suppression isn't about quality",
+    "Creating records matters even if they're invisible"
+  ],
+  "planted": [
+    {
+      "element": "Blog: 'Linguistic Ossification: Field Notes'",
+      "significance": "Maya's attempt to create a record outside traditional channels",
+      "payoff_chapter": 17,
+      "type": "action"
+    },
+    {
+      "element": "The 12 specific rejected papers (3 years of work)",
+      "significance": "Concrete evidence of systematic suppression of one researcher",
+      "payoff_chapter": 16,
+      "type": "evidence"
+    },
+    {
+      "element": "Maya's paper about linguistic ossification predicting the suppression",
+      "significance": "The irony of being suppressed for predicting suppression",
+      "payoff_chapter": 17,
+      "type": "ironic foreshadowing"
+    },
+    {
+      "element": "Zara reading Maya's rejected work",
+      "significance": "Generational connection, understanding the ideas that were suppressed",
+      "payoff_chapter": 19,
+      "type": "character connection"
+    },
+    {
+      "element": "Question: fix it or adapt to it?",
+      "significance": "Central question leading to steganography solution",
+      "payoff_chapter": 18,
+      "type": "thematic"
+    },
+    {
+      "element": "Steganographers of thought",
+      "significance": "First mention of the solution that will be developed",
+      "payoff_chapter": 18,
+      "type": "concept seed"
+    },
+    {
+      "element": "Ghost papers / ghost archive metaphor",
+      "significance": "Creating records for potential future discovery",
+      "payoff_chapter": 20,
+      "type": "thematic"
+    }
+  ],
+  "active_tensions": [
+    "How widespread is this across other researchers?",
+    "Can the system be fixed or only adapted to?",
+    "How do you spread awareness when the system suppresses awareness?",
+    "Is creating invisible records futile or important?",
+    "What's the long-term cultural cost of suppressed innovation?"
+  ],
+  "world_changes": [
+    "Maya has documented her own 12 rejected papers as evidence",
+    "She's created a blog to publish suppressed work (even though it will be invisible)",
+    "She's shifted from proving the pattern to documenting the human cost",
+    "Zara and Maya have connected over their shared experience"
+  ],
+  "thematic_notes": [
+    "Moved from data to personal cost - made it deeply human",
+    "Showed parallel experiences across generations (Maya and Zara)",
+    "Introduced the idea of creating records even when futile",
+    "Raised question of whether you fight or adapt",
+    "Established that suppression creates self-doubt and internalized failure",
+    "Introduced 'steganographers of thought' concept that will pay off later",
+    "Weaponization of research - tools meant to help being used to suppress"
+  ]
+}
