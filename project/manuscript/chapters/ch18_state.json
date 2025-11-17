@@ -1,0 +1,165 @@
+{
+  "chapter": 18,
+  "word_count": 2347,
+  "timeline": "Day after arrest (Chapter 17), late evening",
+  "location": "Boston Police headquarters - booking room, conference room, Reeves' office",
+  "characters_present": ["Detective_Reeves", "Dr_Harrington", "Ethan_Cross", "Dr_Chen", "Captain_Walsh"],
+  "character_states": {
+    "Detective_Reeves": {
+      "knows": [
+        "All previous knowledge",
+        "Harrington formally booked and processed",
+        "Has read complete journal with detailed methodology",
+        "Journal contains fourteen months of planning",
+        "Rebecca Martinez incident triggered the decision",
+        "Sarah Kim was the final catalyst",
+        "Harrington's utilitarian philosophy: saving future victims justified one death",
+        "347 painted hearts representing lives saved",
+        "Harrington views it as triage, not murder",
+        "Media frenzy has begun - story gone national",
+        "Sterling's former victims are coming forward publicly",
+        "Multiple people want to testify: Rebecca Martinez, Alan Hartley, Michael Park, Sarah Kim",
+        "Victims are calling Harrington a hero",
+        "Public opinion is dividing on hero vs murderer question"
+      ],
+      "emotional_state": "Deeply conflicted, hollow victory, questioning whose hands are bloodier - Harrington's or the system's, thinking of Webb, grappling with moral complexity",
+      "arc_position": 0.92,
+      "location": "His office, alone at midnight"
+    },
+    "Dr_Harrington": {
+      "knows": [
+        "All previous knowledge",
+        "Has been formally booked, fingerprinted, photographed",
+        "Personal effects taken",
+        "Held without bail pending arraignment",
+        "Media knows about her arrest",
+        "Her confession and journal are now evidence"
+      ],
+      "emotional_state": "Clinically detached, composed, accepting consequences, no regret visible",
+      "arc_position": 1.0,
+      "location": "Holding cell"
+    },
+    "Ethan_Cross": {
+      "knows": [
+        "All previous knowledge",
+        "Has read Harrington's journal",
+        "Understands the complete methodology and motivation",
+        "Knows about Sterling's destruction of 23 careers",
+        "Three attempted suicides, one successful",
+        "Sarah Kim was next target",
+        "Harrington's utilitarian justification",
+        "347 lives saved vs 1 life taken calculation"
+      ],
+      "emotional_state": "Morally conflicted, questioning whether Harrington was wrong, challenging authority figures about right vs guilt",
+      "arc_position": 0.85,
+      "location": "Conference room, then left"
+    },
+    "Dr_Chen": {
+      "knows": [
+        "All previous knowledge",
+        "Spent 2 hours analyzing journal",
+        "Complete understanding of poison synthesis",
+        "Timeline of planning (14 months)",
+        "Rebecca Martinez as trigger",
+        "Sarah Kim as final catalyst",
+        "Harrington's philosophical framework",
+        "Technical brilliance of the compound"
+      ],
+      "emotional_state": "Awed by brilliance, horrified by application, engaging with trolley problem philosophy, uncertain about moral judgment",
+      "arc_position": 0.85,
+      "location": "Conference room, then left"
+    },
+    "Captain_Walsh": {
+      "knows": [
+        "All previous knowledge",
+        "Full details of journal",
+        "Media frenzy is building",
+        "Sterling's dark history is emerging publicly",
+        "Victims are speaking out",
+        "Public opinion dividing"
+      ],
+      "emotional_state": "Focused on politics and optics, trying to keep case clear-cut despite moral complexity, avoiding the deeper question",
+      "arc_position": 0.0,
+      "location": "Press conference, then left"
+    }
+  },
+  "revealed_to_reader": [
+    "Harrington processed through booking with clinical detachment",
+    "Journal analysis reveals 14 months of meticulous planning",
+    "Rebecca Martinez incident (Sterling destroying thesis defense) was trigger",
+    "Sarah Kim accusation was final catalyst",
+    "Harrington researched for 6 months, synthesis took 4 months",
+    "Utilitarian philosophy: saving 20-50 future careers justified one death",
+    "347 painted hearts - lives saved as doctor",
+    "Harrington wrote: 'This is not murder. This is triage.'",
+    "Team debate: Is she guilty (yes) vs. Was she wrong (unclear)",
+    "Trolley problem parallel - 5 lives vs 1 life",
+    "Press conference - media frenzy begins",
+    "Headlines divide: Mercy Killer vs Murderer",
+    "Sterling's victims coming forward publicly",
+    "Rebecca Martinez grateful Harrington stopped Sterling",
+    "Sarah Kim confirms accusations were false and malicious",
+    "Multiple academics want to testify about Sterling's conduct",
+    "Messages flooding in from victims wanting to be heard",
+    "Reeves alone at midnight, questioning whose hands are bloodier",
+    "Final journal entry: 'I wonder if they will let me paint in prison.'",
+    "Reeves realizes case is just beginning, not ending"
+  ],
+  "planted": [
+    {
+      "element": "Rebecca Martinez wants to testify",
+      "payoff_chapter": 19,
+      "significance": "Will be one of victims who testify for Harrington"
+    },
+    {
+      "element": "Sarah Kim statement through attorney",
+      "payoff_chapter": 19,
+      "significance": "Will meet with Reeves, provide context for Harrington's motive"
+    },
+    {
+      "element": "Multiple victims contacting Reeves",
+      "payoff_chapter": 19,
+      "significance": "Sets up victim testimony movement"
+    },
+    {
+      "element": "Public opinion dividing on hero vs murderer",
+      "payoff_chapter": 20,
+      "significance": "Context for trial and sentencing considerations"
+    },
+    {
+      "element": "Harrington's prison painting reference",
+      "payoff_chapter": 20,
+      "significance": "Payoff - she does continue her work in prison"
+    },
+    {
+      "element": "Reeves questioning whose hands are bloodier",
+      "payoff_chapter": 20,
+      "significance": "Character arc - will resolve this moral complexity"
+    },
+    {
+      "element": "Team moral debate about right vs guilty",
+      "payoff_chapter": 20,
+      "significance": "Establishes moral complexity that judge will acknowledge"
+    }
+  ],
+  "active_tensions": [
+    "Is Harrington a hero or murderer?",
+    "Was she morally right even if legally guilty?",
+    "How will jury view utilitarian justification?",
+    "Will victims testify for or against her?",
+    "How does Reeves reconcile solving perfect murder with moral complexity?",
+    "System protected Sterling for 20 years - who's responsible?",
+    "Can justice system handle mercy killing case?",
+    "What will victims' testimony do to the case?"
+  ],
+  "world_changes": [
+    "Harrington formally booked and held without bail",
+    "Story goes national",
+    "Media frenzy begins - multiple news outlets",
+    "Sterling's dark history becomes public knowledge",
+    "Victims begin coming forward publicly",
+    "Public opinion divides on mercy killing vs murder",
+    "Academic community reacting to Sterling's legacy",
+    "Multiple witnesses volunteering to testify about Sterling"
+  ]
+}

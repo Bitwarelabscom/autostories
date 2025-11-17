@@ -1,0 +1,170 @@
+{
+  "chapter": 5,
+  "word_count": 2493,
+  "timeline": "Two days after Sterling's death, day of interviews",
+  "location": "Community college (Patricia Voss), Bradford's apartment in Somerville, Reeves' apartment",
+  "characters_present": ["Detective_Reeves", "Ethan_Cross", "Patricia_Voss", "Michael_Bradford", "Dr_Chen (phone call)"],
+  "character_states": {
+    "Detective_Reeves": {
+      "knows": [
+        "All knowledge from Chapters 1-4",
+        "Patricia Voss's career destroyed by Sterling's letter and phone call in January 2018",
+        "Sterling destroyed Voss for correcting him publicly in seminar 3 years earlier",
+        "Voss met Harrington 2 years ago at conference, they discussed Sterling",
+        "Harrington's mother died from cancer - long, slow, painful",
+        "Harrington said 'sometimes kindest thing is to end suffering quickly before it spreads'",
+        "Harrington seemed to have 'certainty' and 'peace' 2 years ago",
+        "Michael Bradford's cardiac research was stolen by Sterling in 2016",
+        "Sterling fabricated emails to make Bradford look unstable",
+        "Bradford's field was delayed-action cardiac compounds (same as Harrington)",
+        "Bradford wanted Sterling to suffer, not quick death",
+        "Bradford has no alibi but Reeves believes he didn't do it",
+        "Dr. Chen's preliminary autopsy: all tests negative, appears natural death",
+        "Minor hypoxic cell damage consistent with existing cardiac condition",
+        "Anyone who killed Sterling had medical expertise and pharmacological knowledge",
+        "Theory: This wasn't revenge, it was mercy killing - stopping Sterling from creating more victims",
+        "Theory: Someone with medical training would check body, adjust scene (lamp position)",
+        "Theory: Harrington did it as clinical prevention, not rage-driven revenge"
+      ],
+      "emotional_state": "Certain of Harrington's guilt, understanding her motivation, frustrated by lack of proof, intellectually engaged",
+      "arc_position": 0.25,
+      "location": "His apartment, piecing together evidence"
+    },
+    "Ethan_Cross": {
+      "knows": [
+        "All knowledge from previous chapters",
+        "Heard both victims' stories firsthand",
+        "Saw Bradford's wall of rejection letters",
+        "Heard about Harrington's mother's painful death",
+        "Knows Bradford also worked in delayed-action compounds",
+        "Both Bradford and Voss had strong motives"
+      ],
+      "emotional_state": "Sympathetic to victims, understanding why someone would kill Sterling, conflicted",
+      "arc_position": 0.2,
+      "location": "With Reeves during investigations"
+    },
+    "Dr_Chen": {
+      "knows": [
+        "All knowledge from Chapter 1",
+        "Completed preliminary autopsy",
+        "All toxicology tests negative",
+        "Cardiac arrest appears natural",
+        "Minor hypoxic cell damage present",
+        "Everything points to natural death",
+        "Has gut feeling something is off but can't prove it",
+        "Knows killer would need medical expertise and pharmacological knowledge",
+        "Aware of Reeves' suspicions"
+      ],
+      "emotional_state": "Frustrated by inability to find evidence, scientifically puzzled, trusts Reeves' instincts",
+      "arc_position": 0.25,
+      "location": "Forensics lab"
+    },
+    "Patricia_Voss": {
+      "knows": [
+        "Sterling destroyed her Yale position in 2018",
+        "Keeps documented evidence of her destruction",
+        "Met Harrington 2 years ago at conference",
+        "Knows about Harrington's mother's death",
+        "Knows Harrington seemed to have 'certainty' and peace",
+        "Police are investigating as potential murder",
+        "Wants to thank whoever killed Sterling"
+      ],
+      "emotional_state": "Bitter, damaged but surviving, grateful to potential killer, no remorse about Sterling's death",
+      "arc_position": 0.0,
+      "location": "Community college office"
+    },
+    "Michael_Bradford": {
+      "knows": [
+        "Sterling stole his cardiac research in 2016",
+        "Sterling fabricated evidence of harassment",
+        "Lost entire academic career",
+        "Now works as data analyst",
+        "Police investigating as potential murder",
+        "His research was on delayed-action cardiac compounds"
+      ],
+      "emotional_state": "Bitter, angry, wanted Sterling to suffer, wishes he'd had courage to kill him",
+      "arc_position": 0.0,
+      "location": "His apartment in Somerville"
+    },
+    "Dr_Harrington": {
+      "knows": [
+        "All knowledge from Chapter 4",
+        "Unaware of Voss and Bradford interviews",
+        "Doesn't know Voss revealed their conversation about mercy and suffering"
+      ],
+      "emotional_state": "Continuing normal life, performing surgeries, confident",
+      "arc_position": 0.2,
+      "location": "Unknown, likely at work"
+    }
+  },
+  "revealed_to_reader": [
+    "Patricia Voss's complete story - career destroyed for correcting Sterling publicly",
+    "Sterling fabricated evidence of instability about Bradford",
+    "Sterling had been destroying careers for decades using same methods",
+    "Harrington's mother died slowly from cancer about 2 years ago",
+    "Harrington told Voss 'sometimes kindest thing is to end suffering quickly before it spreads'",
+    "Harrington showed 'certainty' and 'peace' 2 years ago - had already decided?",
+    "Bradford also worked in delayed-action compounds but wanted Sterling to suffer",
+    "Dr. Chen's autopsy shows nothing - all tests negative",
+    "Minor hypoxic cell damage present but consistent with existing condition",
+    "Reeves theory: This was mercy killing, not revenge - stopping a disease",
+    "Someone with medical training would check body after death (lamp position explained)",
+    "Multiple victims had means and motive but different psychological profiles"
+  ],
+  "planted": [
+    {
+      "element": "Harrington's mother died slowly from cancer",
+      "payoff_chapter": 17,
+      "significance": "Major motivation - watching her mother suffer, unable to help as doctor, led to seeing mercy in ending suffering"
+    },
+    {
+      "element": "Harrington's line about 'ending suffering quickly before it spreads'",
+      "payoff_chapter": 17,
+      "significance": "She saw Sterling as spreading disease, killing him was preventive medicine"
+    },
+    {
+      "element": "Harrington showed 'certainty' and 'peace' 2 years ago",
+      "payoff_chapter": 17,
+      "significance": "She'd already decided to kill him, was preparing, researching"
+    },
+    {
+      "element": "Hypoxic cell damage that Chen can't fully explain",
+      "payoff_chapter": 12,
+      "significance": "Will become more important when they find injection site"
+    },
+    {
+      "element": "Theory about medical professional checking body and adjusting scene",
+      "payoff_chapter": 12,
+      "significance": "Harrington did return to verify death, moved lamp while checking"
+    },
+    {
+      "element": "Reeves' recognition this was mercy not revenge",
+      "payoff_chapter": 17,
+      "significance": "Understanding her motivation will be key to getting confession"
+    },
+    {
+      "element": "Bradford's wall of rejection letters as shrine",
+      "payoff_chapter": 20,
+      "significance": "Shows different responses to trauma - Bradford frozen in bitterness, Harrington moved forward"
+    }
+  ],
+  "active_tensions": [
+    "Autopsy shows natural death - how can Reeves prove murder?",
+    "Multiple suspects with means and motive - why focus on Harrington?",
+    "Reeves understands motive but has no physical evidence",
+    "Time pressure - case may be closed if no evidence found",
+    "Harrington's 2-year timeline of planning and certainty",
+    "Where is the physical evidence? Poison book? Injection site?",
+    "Will Chen find anything on re-examination?"
+  ],
+  "world_changes": [
+    "Two more victims interviewed and documented",
+    "Pattern of Sterling's systematic destruction fully revealed",
+    "Autopsy completed - officially appears natural death",
+    "Reeves' theory evolved: mercy killing not revenge",
+    "Harrington's mother's death and influence established",
+    "Timeline extended: Harrington planning for at least 2 years",
+    "Multiple suspects established but Reeves focusing on Harrington",
+    "Case officially stalling without physical evidence"
+  ]
+}

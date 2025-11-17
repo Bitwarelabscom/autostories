@@ -1,0 +1,151 @@
+{
+  "chapter": 10,
+  "word_count": 2389,
+  "timeline": "Twelve days after Sterling's death, late afternoon to evening",
+  "location": "Police station, Captain Walsh's office, Reeves' desk",
+  "characters_present": ["Detective_Reeves", "Captain_Walsh", "Ethan_Cross", "Dr_Chen"],
+  "character_states": {
+    "Detective_Reeves": {
+      "knows": [
+        "All previous knowledge from Ch 9",
+        "Captain Walsh has officially closed the Sterling case",
+        "Case ruled suspicious but unproven, filed away",
+        "Walsh reassigning him to active homicide cases tomorrow",
+        "Commissioner Hayes pressuring Walsh about wasting resources",
+        "Three actual homicides (Roxbury, Dorchester, Mattapan) need attention",
+        "DA refused warrants - all evidence circumstantial",
+        "Walsh's assessment: could-be isn't proof, maybes don't prosecute",
+        "All chemical orders, background research, motive work - insufficient for case",
+        "Perfect alibi (300 witnesses at NYC conference) can't be broken",
+        "No physical evidence of poison - tox screen completely clean",
+        "Hypoxic damage has 'multiple possible explanations' per Chen",
+        "Has failed to prove what he knows to be true - Webb parallel complete",
+        "Justice has limits and he's found them"
+      ],
+      "emotional_state": "Defeated, hollow, questioning himself, haunted by Webb parallel, feeling like he's failed again, accepting he must move on despite knowing the truth",
+      "arc_position": 0.50,
+      "location": "Empty office, going home for the night"
+    },
+    "Captain_Walsh": {
+      "knows": [
+        "All of Reeves' evidence and theories",
+        "Everything is circumstantial - no prosecutable case",
+        "Commissioner Hayes pressuring about resource allocation",
+        "Three actual homicides need detective attention",
+        "Reeves is obsessed and needs to move on",
+        "Sterling case officially closed as suspicious but unproven",
+        "Reeves is talented but chasing a phantom on this one"
+      ],
+      "emotional_state": "Pragmatic, sympathetic but firm, doing his job managing resources",
+      "arc_position": 0.0,
+      "location": "Police station office"
+    },
+    "Dr_Harrington": {
+      "knows": [
+        "All previous knowledge from Ch 9",
+        "Doesn't know case has been officially closed",
+        "Doesn't know Reeves has been reassigned",
+        "Confident in her safety - alibi solid, poison undetectable",
+        "Believes perfect crime has succeeded"
+      ],
+      "emotional_state": "Secure, going about normal life, sleeping peacefully",
+      "arc_position": 0.35,
+      "location": "Unknown, likely at home"
+    },
+    "Ethan_Cross": {
+      "knows": [
+        "All previous knowledge from Ch 9",
+        "Case officially closed by Walsh",
+        "Reeves is devastated",
+        "Still has instinct about staged scene but case is over",
+        "Will keep thinking about it despite closure"
+      ],
+      "emotional_state": "Sympathetic, troubled, unable to let it go despite official closure",
+      "arc_position": 0.40,
+      "location": "Unknown, texted Reeves"
+    },
+    "Dr_Chen": {
+      "knows": [
+        "All previous knowledge from Ch 9",
+        "Walsh closed the case",
+        "Reeves is moving on to other cases",
+        "Hypoxic damage still bothers her but can't prove anything",
+        "Feels bad for Reeves"
+      ],
+      "emotional_state": "Sympathetic, scientifically frustrated, supportive",
+      "arc_position": 0.42,
+      "location": "Unknown, phone conversation"
+    },
+    "Victoria_Sterling": {
+      "knows": [
+        "All previous knowledge from Ch 8"
+      ],
+      "emotional_state": "Not present this chapter",
+      "arc_position": 0.15,
+      "location": "Unknown"
+    }
+  },
+  "revealed_to_reader": [
+    "Case officially CLOSED by Captain Walsh - ruled suspicious but unproven",
+    "Walsh's detailed breakdown of why case can't be prosecuted: all circumstantial",
+    "Commissioner Hayes pressuring about resource allocation",
+    "DA refused search warrants - insufficient probable cause",
+    "Perfect alibi (300 witnesses) can't be overcome",
+    "Chemical orders prove nothing - she's a cardiac pharmacologist, of course she orders cardiac compounds",
+    "Right-to-die advocacy doesn't prove murder tendency",
+    "Motive doesn't equal method or evidence",
+    "Reeves being reassigned to actual homicides tomorrow",
+    "Reeves accepting defeat - locking file away",
+    "Webb parallel complete - Reeves has failed to prove what he knows",
+    "Theme: justice has limits, perfect crimes can exist",
+    "Harrington sleeping peacefully, believing she won",
+    "Both Reeves and Ethan can't let it go despite closure",
+    "LOW POINT of story - defeat, hollowness, surrender"
+  ],
+  "planted": [
+    {
+      "element": "Reeves and Ethan both 'can't let it go' despite closure",
+      "payoff_chapter": 11,
+      "significance": "Ethan will obsessively review photos leading to lamp discovery"
+    },
+    {
+      "element": "Case file locked in drawer - officially closed",
+      "payoff_chapter": 12,
+      "significance": "Will be dramatically reopened when puncture mark found"
+    },
+    {
+      "element": "Harrington's false security - believes she won",
+      "payoff_chapter": 12,
+      "significance": "Will be shattered when she learns they found evidence"
+    },
+    {
+      "element": "Reeves' questions: 'What did I miss? What detail slipped past me?'",
+      "payoff_chapter": 12,
+      "significance": "The detail he missed was the injection mark Ethan will find"
+    },
+    {
+      "element": "Theme of justice having limits",
+      "payoff_chapter": 20,
+      "significance": "Will be subverted when they do get justice, but resolution is still morally complex"
+    }
+  ],
+  "active_tensions": [
+    "Case officially closed despite Reeves' certainty of murder",
+    "Reeves must move on but can't mentally let go",
+    "Ethan also can't let go - instinct about staging persists",
+    "Harrington believes she's won - false security",
+    "Webb parallel fulfilled - Reeves has failed like his mentor",
+    "Question: Is perfect crime really possible or is detail still findable?",
+    "Both detectives will keep obsessing despite official closure",
+    "Reader knows this is low point before breakthrough"
+  ],
+  "world_changes": [
+    "Sterling case OFFICIALLY CLOSED - ruled suspicious but unproven",
+    "Reeves reassigned to active homicides starting tomorrow",
+    "Case file locked away",
+    "Investigation over per police department",
+    "Harrington unaware case is closed, sleeping peacefully",
+    "Timeline: 12 days since death, case closure",
+    "LOW POINT reached - complete defeat for investigators"
+  ]
+}

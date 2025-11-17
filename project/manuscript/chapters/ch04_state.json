@@ -1,0 +1,140 @@
+{
+  "chapter": 4,
+  "word_count": 2311,
+  "timeline": "Present day (after Ch3) + flashback to October 15 (3 months earlier)",
+  "location": "Present: Harrington's car at Mass General. Flashback: Sterling's Harvard office. Present: Reeves' apartment",
+  "characters_present": ["Dr_Harrington (POV)", "Professor_Sterling (flashback)", "Detective_Reeves (brief present)"],
+  "narrative_note": "POV shift - first sustained internal perspective from Harrington. Reader now knows she's guilty. Creates dramatic irony for rest of novel.",
+  "character_states": {
+    "Dr_Harrington": {
+      "knows": [
+        "All knowledge from Chapter 3",
+        "She killed Sterling with delayed-release poison",
+        "Injection was in scalp, small and hidden",
+        "Poison designed to activate 3 days later",
+        "Poison mimics natural cardiac arrest and degrades completely",
+        "She borrowed the poison book to research historical methods",
+        "She synthesized the poison as part of 'legitimate' research cover",
+        "She placed book on Sterling's desk but removed it later",
+        "Reeves suspects her but she believes proof is impossible",
+        "Her delayed-release compound research was published, celebrated",
+        "She sees herself as achieving justice, not committing murder",
+        "She carried rage for 20 years before acting",
+        "Sterling never noticed her preparing or administering injection"
+      ],
+      "emotional_state": "Controlled calm, no remorse, exhaustion from carrying rage, satisfaction at justice, clinical detachment, confidence in perfection of crime",
+      "arc_position": 0.2,
+      "location": "Heading to surgery at Mass General"
+    },
+    "Detective_Reeves": {
+      "knows": [
+        "All knowledge from Chapter 3",
+        "Studying Sterling's journal - 23 names with motives",
+        "Recognizes Harrington's published research is the weapon",
+        "KNOWS in his gut that Harrington is guilty",
+        "Recognizes she 'built weapon in plain sight'",
+        "Understands knowing vs proving distinction",
+        "Searching for missing poison book"
+      ],
+      "emotional_state": "Certain of guilt, frustrated by lack of proof, intellectually engaged in matching wits, determined",
+      "arc_position": 0.2,
+      "location": "His apartment, studying evidence"
+    },
+    "Professor_Sterling": {
+      "knows": [
+        "Flashback only - already dead in present",
+        "In flashback: didn't suspect Harrington's true purpose",
+        "Remained condescending and cruel to the end",
+        "Never recognized her as a threat"
+      ],
+      "emotional_state": "Flashback: superior, dismissive, casually cruel",
+      "arc_position": "Dead",
+      "location": "N/A"
+    },
+    "Ethan_Cross": {
+      "knows": [
+        "All knowledge from Chapter 3",
+        "Not present this chapter"
+      ],
+      "emotional_state": "Not present",
+      "arc_position": 0.15,
+      "location": "Unknown"
+    }
+  },
+  "revealed_to_reader": [
+    "HARRINGTON IS GUILTY - direct confirmation to reader",
+    "She borrowed book specifically to research undetectable poisons",
+    "Sterling was condescending and cruel even during book loan",
+    "Harrington synthesized delayed-release poison over months",
+    "Injection was hidden in Sterling's scalp",
+    "Poison designed to activate 3 days later and degrade completely",
+    "She placed book on Sterling's desk but removed it (lied about leaving it)",
+    "Her published research on delayed-release compounds was the weapon",
+    "She sees herself as achieving justice, not committing murder",
+    "Carried rage for 20 years before acting",
+    "Sterling cataloged her 'unusual resilience' without realizing it made her dangerous",
+    "She administered poison during the visit 3 days before death",
+    "Reeves knows she's guilty but needs proof"
+  ],
+  "planted": [
+    {
+      "element": "Injection hidden in scalp where Sterling wouldn't feel it",
+      "payoff_chapter": 12,
+      "significance": "Ethan will find the microscopic puncture mark in Sterling's scalp"
+    },
+    {
+      "element": "Harrington placed book on desk then removed it later",
+      "payoff_chapter": 14,
+      "significance": "Book will be found in her office - she never returned it"
+    },
+    {
+      "element": "Her delayed-release compound research was published and celebrated",
+      "payoff_chapter": 7,
+      "significance": "Dr. Chen will discuss this research as theoretically possible"
+    },
+    {
+      "element": "Harrington's 20 years of carried rage",
+      "payoff_chapter": 17,
+      "significance": "In confession, this will be key to understanding motive"
+    },
+    {
+      "element": "Sterling's line 'how something visible can be made invisible again'",
+      "payoff_chapter": 17,
+      "significance": "Sterling almost understood but dismissed the threat"
+    },
+    {
+      "element": "Harrington's exhaustion from rage, not triumph",
+      "payoff_chapter": 20,
+      "significance": "She will express this in final confrontation - she didn't want to kill, wanted him to stop"
+    },
+    {
+      "element": "Her belief that 'suspicion isn't evidence'",
+      "payoff_chapter": 17,
+      "significance": "This confidence will make her careless when Reeves sets trap"
+    },
+    {
+      "element": "Sterling's dismissiveness about her 'accomplishments'",
+      "payoff_chapter": 17,
+      "significance": "His final cruelty was still not recognizing her as threat"
+    }
+  ],
+  "active_tensions": [
+    "Reader knows Harrington is guilty but Reeves must still prove it (dramatic irony)",
+    "Will Reeves find the missing poison book?",
+    "Can perfect crime be proven?",
+    "Is Harrington's confidence justified?",
+    "Where is the injection site?",
+    "Will forensics ever find evidence?",
+    "How will Reeves prove what he knows in his gut?"
+  ],
+  "world_changes": [
+    "Reader perspective shifted - now watching Reeves chase what we know is true",
+    "Dramatic irony established for remainder of novel",
+    "Harrington's guilt confirmed",
+    "Method partially revealed (injection, delayed-release, scalp hiding spot)",
+    "Reeves' certainty solidified",
+    "Tension shifts from 'whodunit' to 'can he prove it'",
+    "Book placement timeline clarified (placed on desk, removed later)"
+  ],
+  "narrative_structure_note": "This chapter deliberately breaks from detective POV to create dramatic irony. Reader now knows Harrington is guilty while watching Reeves work to prove it. This shifts tension from mystery to inevitability of discovery."
+}

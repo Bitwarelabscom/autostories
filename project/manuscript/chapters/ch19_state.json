@@ -1,0 +1,292 @@
+{
+  "chapter": 19,
+  "word_count": 4127,
+  "timeline": "Three weeks after arrest, leading up to trial start",
+  "location": "DA's office, BPD interview room, conference room, courtroom, Suffolk County Jail",
+  "characters_present": ["Detective_Reeves", "DA_Jennifer_Lawson", "Sarah_Kim", "Victoria_Sterling", "Dr_Harrington", "Defense_Attorney_Thomas_Chen", "Judge_Morrison", "Ethan_Cross", "Dr_Chen", "Captain_Walsh"],
+  "character_states": {
+    "Detective_Reeves": {
+      "knows": [
+        "All previous knowledge",
+        "DA Jennifer Lawson sees this as clear-cut first-degree murder",
+        "17 victims want to testify FOR Harrington",
+        "Petition has 8,000 signatures asking for leniency",
+        "Harvard Office of General Counsel calling about liability",
+        "Victoria Sterling will testify against her husband's character",
+        "Sarah Kim was on Longfellow Bridge contemplating suicide",
+        "Harrington talked Sarah down, saved her life that night",
+        "Sarah Kim's accusation was false, malicious, career-destroying attempt",
+        "Sarah getting PhD only happened because Sterling died",
+        "Victoria kept diary for 30 years, wrote she felt 'peaceful' when Sterling died",
+        "Victoria knew about Sterling's cruelty, felt powerless to stop him",
+        "Victoria calls Sterling a 'brilliant monster'",
+        "17 victims will testify about Sterling's pattern of abuse",
+        "Defense attorney is Thomas Chen (unrelated to Dr. Lisa Chen)",
+        "Judge Morrison will allow limited testimony about Sterling's conduct",
+        "Harrington received 8,000+ letters of support",
+        "Trial set for three weeks from pre-trial conference",
+        "He will testify about investigation and confession",
+        "Harrington doesn't regret her choice, would do it again",
+        "Harrington wanted to be caught eventually, to name Sterling publicly",
+        "Harrington knows about Webb, recognizes Reeves carries unsolved truth",
+        "Harrington advises letting Webb case go",
+        "Harrington may be allowed to practice medicine in prison",
+        "Put Webb file in closet box, not deleted but set aside"
+      ],
+      "emotional_state": "Wrestling with complexity, recognizing both guilt and context, beginning to accept that being right and serving justice aren't same thing, taking steps to let Webb go, supported by team",
+      "arc_position": 0.95,
+      "location": "Home, then preparing for trial"
+    },
+    "Dr_Harrington": {
+      "knows": [
+        "All previous knowledge",
+        "In Suffolk County Jail awaiting trial",
+        "17 victims want to testify for her",
+        "8,000+ petition signatures",
+        "Victoria will testify truthfully about Sterling",
+        "Sarah Kim will testify about being saved",
+        "Thomas Chen is her defense attorney",
+        "Judge Morrison will allow limited Sterling conduct testimony",
+        "Trial starting soon",
+        "Reeves visited her before trial",
+        "Told Reeves about Webb parallel",
+        "May be allowed to practice medicine in prison if convicted",
+        "Expects conviction, curious about sentencing"
+      ],
+      "emotional_state": "Calm, accepting, no regret about choice, willing to face consequences, still believes it was necessary, interested in trial as moral exploration",
+      "arc_position": 1.0,
+      "location": "Suffolk County Jail"
+    },
+    "DA_Jennifer_Lawson": {
+      "knows": [
+        "Overwhelming evidence for first-degree murder",
+        "Confession, journal, formula, complete premeditation",
+        "17 victims want to testify for defense",
+        "8,000 signature petition for leniency",
+        "Harvard concerned about liability",
+        "Victoria Sterling will testify against her husband",
+        "Public opinion divided",
+        "Media calling Harrington potential hero",
+        "Legal case is clear, moral case is complex"
+      ],
+      "emotional_state": "Professionally confident but aware of complications, focused on law not morality, concerned about jury sympathy for defendant",
+      "arc_position": 0.0,
+      "location": "DA's office, courtroom"
+    },
+    "Sarah_Kim": {
+      "knows": [
+        "Sterling falsely accused her of data fabrication",
+        "Harrington reviewed her work, confirmed it was perfect",
+        "Sterling destroyed 23+ careers before her",
+        "Was on Longfellow Bridge at 2 AM contemplating suicide",
+        "Harrington talked her down, stayed on phone for an hour",
+        "Harrington told her about helplessness and her mother's death",
+        "Three weeks after bridge incident, Sterling died",
+        "Investigation into her was dropped after Sterling's death",
+        "Got her PhD without objection",
+        "Harrington saved her life twice - bridge and career",
+        "Harrington committed murder",
+        "Will testify at trial for Harrington"
+      ],
+      "emotional_state": "Grateful, determined, finding strength, wants to fight for Harrington like Harrington taught her to fight",
+      "arc_position": 0.9,
+      "location": "Met with Reeves at BPD"
+    },
+    "Victoria_Sterling": {
+      "knows": [
+        "All previous knowledge",
+        "Prosecution wants her to humanize Sterling",
+        "Will testify truthfully instead",
+        "Kept diary for 30 years",
+        "Wrote 'felt peaceful' when Sterling died",
+        "Loved him once at 23, watched brilliance become disease",
+        "Knew about his systematic cruelty to students",
+        "Saw students leave in tears from dinner parties",
+        "Harvard protected him because of grants and reputation",
+        "Felt powerless as 'just his wife'",
+        "Not surprised by Harrington's arrest",
+        "Sterling created enemies methodically",
+        "His actions had no consequences for 42 years",
+        "Harrington gave him consequences",
+        "Failed to stop Sterling out of fear"
+      ],
+      "emotional_state": "Honest, regretful about her inaction, ready to speak truth, seeing Harrington's courage as contrast to her own fear, freed from protecting Sterling's legacy",
+      "arc_position": 0.9,
+      "location": "Met with Reeves at BPD"
+    },
+    "Defense_Attorney_Thomas_Chen": {
+      "knows": [
+        "Facts of case are not disputed - Harrington killed Sterling",
+        "Has 17 victim witnesses ready to testify",
+        "Sterling had 20-year pattern of systematic abuse",
+        "8,000+ letters of support for client",
+        "Context and mitigating factors are defense strategy",
+        "Judge will allow limited Sterling conduct testimony",
+        "Harrington wants full truth heard",
+        "Client has confessed and accepts consequences"
+      ],
+      "emotional_state": "Passionate, believes in the case, focused on context not disputing facts, energetic",
+      "arc_position": 0.0,
+      "location": "Pre-trial conference"
+    },
+    "Judge_Morrison": {
+      "knows": [
+        "Case facts: confession, journal, premeditation",
+        "17 victim witnesses want to testify",
+        "Extraordinary public interest",
+        "Defendant accepts guilt, wants full truth heard",
+        "Both legal clarity and moral complexity exist"
+      ],
+      "emotional_state": "Professional, stern, fair, will allow limited context testimony, focused on running tight courtroom",
+      "arc_position": 0.0,
+      "location": "Courtroom"
+    },
+    "Ethan_Cross": {
+      "knows": [
+        "All previous knowledge",
+        "Trial starting tomorrow",
+        "Will attend to support Reeves",
+        "Moral complexity of case"
+      ],
+      "emotional_state": "Supportive, loyal to Reeves, engaged with moral questions",
+      "arc_position": 0.9,
+      "location": "Texted Reeves support"
+    },
+    "Dr_Chen": {
+      "knows": [
+        "All previous knowledge",
+        "Trial starting tomorrow",
+        "Ran additional analysis on compound",
+        "Finds work fascinating though horrifying",
+        "Will attend trial"
+      ],
+      "emotional_state": "Scientifically interested, supportive of Reeves, accepting complexity",
+      "arc_position": 0.9,
+      "location": "Lab, then going to trial"
+    },
+    "Captain_Walsh": {
+      "knows": [
+        "All previous knowledge",
+        "Trial starting",
+        "Case complications with victim testimony"
+      ],
+      "emotional_state": "Focused on conviction outcome, avoiding moral complexity",
+      "arc_position": 0.0,
+      "location": "Unknown - didn't contact Reeves"
+    }
+  },
+  "revealed_to_reader": [
+    "DA sees case as clear-cut but complicated by victim support",
+    "17 victims emailing to testify for Harrington",
+    "8,000 signature petition for leniency",
+    "Newspapers running editorials debating hero vs murderer",
+    "Harvard concerned about liability for Sterling's conduct",
+    "Legal options existed but wouldn't have worked - institutions protect stars",
+    "Reeves having 'complexity' not doubts",
+    "Sarah Kim detailed story: Sterling's false accusations, contemplating suicide on Longfellow Bridge at 2 AM",
+    "Harrington talked Sarah down, stayed on phone for hour",
+    "Harrington told Sarah about her mother, about helplessness",
+    "Three weeks after bridge, Sterling died - Sarah's investigation dropped, got PhD",
+    "Sarah: 'Harrington saved my life twice'",
+    "Sarah will testify despite DA opposition",
+    "Victoria kept 30-year diary, wrote felt 'peaceful' when Sterling died",
+    "Victoria loved him once, watched brilliance become disease",
+    "Victoria knew about cruelty, saw students cry, felt powerless as 'just his wife'",
+    "Harvard protected Sterling for grants ($millions) and reputation",
+    "Victoria: Sterling 'created enemies methodically'",
+    "Victoria: 'Harrington gave him consequences' after 42 years of none",
+    "Victoria will testify truthfully, call him 'brilliant monster'",
+    "Victoria regrets her fear and inaction, sees Harrington's courage",
+    "Pre-trial: Judge Morrison allows limited Sterling conduct testimony",
+    "Thomas Chen is defense attorney, passionate and believing",
+    "Harrington speaks in court: admits guilt, asks for full truth, will accept verdict",
+    "Reeves visits Harrington night before trial",
+    "Harrington doesn't regret choice, would do it again",
+    "Harrington wanted to be caught eventually, to name Sterling publicly",
+    "Harrington knows about Webb, recognizes Reeves' burden",
+    "Harrington: 'Being right isn't the same as serving justice'",
+    "Harrington may practice medicine in prison",
+    "Harrington certain of conviction, curious about sentencing",
+    "Harrington advises Reeves to let Webb go",
+    "Reeves puts Webb file in closet box - not deleted, but set aside",
+    "Ethan and Chen will attend trial to support Reeves",
+    "Trial starts at 9 AM",
+    "Everyone is right and everyone is wrong"
+  ],
+  "planted": [
+    {
+      "element": "17 victims will testify about Sterling's pattern of abuse",
+      "payoff_chapter": 20,
+      "significance": "Becomes '15 victims testified' in trial - sets up victim testimony"
+    },
+    {
+      "element": "Victoria will testify truthfully, call Sterling 'brilliant monster'",
+      "payoff_chapter": 20,
+      "significance": "Exact phrase appears in Ch20 - '42 years with brilliant monster'"
+    },
+    {
+      "element": "Sarah Kim's suicide attempt on Longfellow Bridge",
+      "payoff_chapter": 20,
+      "significance": "Becomes 'attempted suicide after Sterling's accusations' testimony"
+    },
+    {
+      "element": "8,000 signature petition for leniency",
+      "payoff_chapter": 20,
+      "significance": "Victims petition mentioned in trial outcome"
+    },
+    {
+      "element": "Harrington may practice medicine in prison",
+      "payoff_chapter": 20,
+      "significance": "Payoff - sentence includes 'allowed to practice medicine in prison'"
+    },
+    {
+      "element": "Reeves putting Webb file in closet box",
+      "payoff_chapter": 20,
+      "significance": "Final payoff - Reeves deletes Webb file, Harrington sees it"
+    },
+    {
+      "element": "Judge Morrison as fair but strict",
+      "payoff_chapter": 20,
+      "significance": "Same judge delivers sentence with acknowledgment of moral complexity"
+    },
+    {
+      "element": "Harrington's certainty about conviction, curiosity about sentencing",
+      "payoff_chapter": 20,
+      "significance": "Sets up trial outcome - guilty but mitigated sentence"
+    },
+    {
+      "element": "Thomas Chen's passion about context mattering",
+      "payoff_chapter": 20,
+      "significance": "Defense strategy plays out at trial"
+    },
+    {
+      "element": "Reeves accepting both-and thinking (hero AND murderer)",
+      "payoff_chapter": 20,
+      "significance": "Character arc resolution - wisdom over rightness"
+    }
+  ],
+  "active_tensions": [
+    "Will jury convict despite victim support?",
+    "How will victim testimony affect trial?",
+    "What sentence will Judge Morrison give?",
+    "Can Reeves testify effectively while grappling with moral complexity?",
+    "Will public opinion affect verdict?",
+    "How will Reeves resolve Webb case emotionally?",
+    "Is legal justice same as moral justice?",
+    "Everyone right, everyone wrong - what does jury decide?"
+  ],
+  "world_changes": [
+    "DA preparing prosecution despite complications",
+    "17 Sterling victims ready to testify for defense",
+    "8,000+ petition signatures for leniency gathered",
+    "Victoria Sterling ready to testify against husband's character",
+    "Sarah Kim ready to testify about near-suicide and false accusations",
+    "Harvard aware of liability issues regarding Sterling",
+    "Public debate intensifying about hero vs murderer",
+    "Defense strategy established: admit guilt, argue context",
+    "Trial date set, all parties prepared",
+    "Reeves beginning to let go of Webb case",
+    "Team (Ethan, Chen) supporting Reeves through moral complexity",
+    "Harrington at peace with consequences, ready for trial"
+  ]
+}

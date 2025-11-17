@@ -1,0 +1,184 @@
+{
+  "chapter": 11,
+  "word_count": 2518,
+  "timeline": "Fourteen days after Sterling's death, early morning (3 AM - 5 AM)",
+  "location": "Ethan's apartment (Allston), forensic lab",
+  "characters_present": ["Ethan_Cross", "Detective_Reeves", "Dr_Chen"],
+  "character_states": {
+    "Ethan_Cross": {
+      "knows": [
+        "All previous knowledge from Ch 10",
+        "Case closed two days ago but he can't let it go",
+        "Obsessively reviewing crime scene photos at 3 AM",
+        "Desk lamp was ON during afternoon with ample window light - unusual",
+        "Lamp angled at Sterling's chair/head, NOT at desk for reading",
+        "Lamp positioned to illuminate left side of Sterling's head specifically",
+        "This positioning would be perfect for illuminating injection site",
+        "Time of death: 3:47 PM, March afternoon, south-facing windows = bright light",
+        "Lamp being on and angled this way is DELIBERATE, not accidental",
+        "Enhanced photos show tiny mark (2mm) in left temple hairline area",
+        "Mark could be injection site - partially healed after 3 days",
+        "Mark is exactly where lamp was focused",
+        "Pattern recognition: lamp + mark + staging feeling = injection theory",
+        "Needs UV/infrared imaging to confirm mark is puncture wound",
+        "Called Reeves at 4 AM with discovery",
+        "Reeves validated his instinct, said he should have trusted it earlier",
+        "Meeting Reeves at lab at 5 AM",
+        "Chen called, skeptical but coming to re-examine body",
+        "His instinct about staging was RIGHT all along",
+        "Lamp left on = Harrington's one mistake"
+      ],
+      "emotional_state": "Excited, validated, energized, finally confident in his instincts, determined to prove the discovery",
+      "arc_position": 0.70,
+      "location": "Forensic lab with Reeves"
+    },
+    "Detective_Reeves": {
+      "knows": [
+        "All previous knowledge from Ch 10",
+        "Can't sleep, still obsessing despite case closure",
+        "Ethan called at 4 AM with lamp discovery",
+        "Lamp was on during bright afternoon - shouldn't need to be",
+        "Lamp angled wrong for desk reading - focused on chair/head",
+        "Lamp positioned to illuminate left temple area",
+        "This would be perfect for finding injection site in hairline",
+        "Enhanced photos show possible puncture mark in exact spot",
+        "Mark could be partially healed injection site from 3 days pre-death",
+        "Timing matches Harrington's visit perfectly",
+        "Ethan's staging instinct was correct from day one",
+        "Should have trusted Ethan's intuition earlier",
+        "If Chen confirms puncture mark, case reopens",
+        "This is physical evidence - what Walsh said they needed",
+        "Called Chen to re-examine body at 5 AM",
+        "One shot to prove murder and vindicate himself"
+      ],
+      "emotional_state": "Cautiously hopeful, energized by possibility, regretful he didn't trust Ethan sooner, determined",
+      "arc_position": 0.55,
+      "location": "Forensic lab with Ethan"
+    },
+    "Dr_Chen": {
+      "knows": [
+        "All previous knowledge from Ch 9-10",
+        "Case was closed two days ago",
+        "Reeves called at ~5 AM about possible puncture mark discovery",
+        "Ethan found irregularity in enhanced crime scene photos",
+        "Mark in left temple hairline area",
+        "Lamp positioning suggests deliberate illumination for injection",
+        "Skeptical but curious - willing to re-examine",
+        "Heading to lab early morning"
+      ],
+      "emotional_state": "Skeptical but intrigued, professional curiosity engaged, willing to verify",
+      "arc_position": 0.45,
+      "location": "En route to forensic lab"
+    },
+    "Dr_Harrington": {
+      "knows": [
+        "All previous knowledge from Ch 9",
+        "Doesn't know case was closed",
+        "Doesn't know Ethan discovered lamp positioning",
+        "Doesn't know they're looking for puncture mark",
+        "Doesn't know Chen is being called to re-examine body",
+        "Believes she's completely safe",
+        "Unaware her one mistake (leaving lamp on) has been found"
+      ],
+      "emotional_state": "Sleeping peacefully, confident in perfect crime, completely unaware",
+      "arc_position": 0.35,
+      "location": "Home, asleep"
+    },
+    "Captain_Walsh": {
+      "knows": [
+        "All previous knowledge from Ch 10",
+        "Doesn't know about lamp discovery yet",
+        "Case closed, Reeves reassigned",
+        "Not present this chapter"
+      ],
+      "emotional_state": "Not present - unaware of developments",
+      "arc_position": 0.0,
+      "location": "Unknown, likely home asleep"
+    },
+    "Victoria_Sterling": {
+      "knows": [
+        "All previous knowledge from Ch 8"
+      ],
+      "emotional_state": "Not present this chapter",
+      "arc_position": 0.15,
+      "location": "Unknown"
+    }
+  },
+  "revealed_to_reader": [
+    "ETHAN'S POV - his chapter, his breakthrough",
+    "Ethan obsessively reviewing photos at 3 AM, can't let case go",
+    "Desk lamp discovery: ON during bright afternoon, angled wrong",
+    "Lamp focused on Sterling's head (left temple), NOT on desk",
+    "This positioning deliberate - for illuminating injection site",
+    "Enhanced photos show 2mm mark in left temple hairline",
+    "Mark exactly where lamp was focused",
+    "Timing: 3:47 PM death, March, south windows = no need for lamp",
+    "Lamp + mark + staging instinct = injection theory proven",
+    "Ethan's instinct about staging was RIGHT from day one",
+    "4 AM call to Reeves - sharing discovery",
+    "Reeves validates Ethan, regrets not trusting him earlier",
+    "5 AM meeting at forensic lab",
+    "Chen called, skeptical but coming to verify",
+    "Ethan using UV/infrared imaging to enhance mark visibility",
+    "THEME: Trusting instinct over pure logic, intuition as fast pattern recognition",
+    "Harrington's ONE MISTAKE: leaving lamp on",
+    "Setup for Ch 12: Chen will confirm puncture mark, case reopens",
+    "Ethan's character arc payoff: instincts validated, confidence earned",
+    "Perfect crime had one imperfect detail: the lamp"
+  ],
+  "planted": [
+    {
+      "element": "Puncture mark discovered in enhanced photos",
+      "payoff_chapter": 12,
+      "significance": "Chen will confirm with physical examination - proof of injection"
+    },
+    {
+      "element": "Lamp positioning proves deliberate staging",
+      "payoff_chapter": 12,
+      "significance": "Shows premeditation, careful planning, consciousness of guilt"
+    },
+    {
+      "element": "Left temple hairline location",
+      "payoff_chapter": 12,
+      "significance": "Specific location for Chen to examine with microscope"
+    },
+    {
+      "element": "Ethan's validation and confidence",
+      "payoff_chapter": 17,
+      "significance": "He'll continue trusting instincts in later investigation stages"
+    },
+    {
+      "element": "Reeves' regret for not trusting Ethan earlier",
+      "payoff_chapter": 20,
+      "significance": "Character growth - learning to value different kinds of intelligence"
+    },
+    {
+      "element": "Harrington's 'one mistake' - the lamp",
+      "payoff_chapter": 17,
+      "significance": "Will be mentioned in confrontation/confession"
+    }
+  ],
+  "active_tensions": [
+    "Will Chen confirm the puncture mark or is it nothing?",
+    "Can they reopen closed case based on this discovery?",
+    "Will Walsh accept lamp positioning as evidence?",
+    "Is mark really injection site or something else?",
+    "Harrington still unaware they're closing in",
+    "Two weeks have passed - is trail too cold?",
+    "Ethan's reputation on the line - if wrong, credibility damaged",
+    "Physical evidence finally found - but is it enough?",
+    "TURNING POINT from defeat to hope"
+  ],
+  "world_changes": [
+    "Major discovery: lamp positioning reveals staging",
+    "Potential puncture mark identified in photos",
+    "Case potentially reopening after 2-day closure",
+    "Chen called back to re-examine body",
+    "Ethan's instincts fully validated",
+    "Reeves energized and hopeful again",
+    "Timeline: 14 days since death, 2 days since closure",
+    "TURNING POINT: from low point to breakthrough",
+    "Physical evidence potentially found",
+    "Harrington's one mistake discovered"
+  ]
+}

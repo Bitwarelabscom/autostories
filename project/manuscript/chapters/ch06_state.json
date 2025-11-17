@@ -1,0 +1,195 @@
+{
+  "chapter": 6,
+  "word_count": 2489,
+  "timeline": "Three days after Sterling's death, autopsy results delivered",
+  "location": "Dr. Chen's forensics lab office, hallway, various",
+  "characters_present": ["Detective_Reeves", "Dr_Chen", "Ethan_Cross", "Captain_Walsh (phone)"],
+  "character_states": {
+    "Detective_Reeves": {
+      "knows": [
+        "All knowledge from Chapters 1-5",
+        "Chen's final autopsy report: all tests negative, cardiac arrest appears completely natural",
+        "No poisons detected, no injection marks visible, no trauma",
+        "Hypoxic cell damage is consistent with natural cardiac arrest",
+        "Death is medically indistinguishable from natural causes",
+        "Theoretically possible with delayed-release cardiac compounds",
+        "15 researchers worldwide doing this level work, 3 in Boston",
+        "Harrington's work is most advanced - if anyone could do this, it's her",
+        "Harrington has perfect alibi: NYC medical conference with 300 witnesses",
+        "Conference badge scans show her at multiple sessions day of death, last scan 9 PM",
+        "Delayed-release compound wouldn't require her presence at death",
+        "The poison book 'The Art of Quiet Death' is missing - not in house or Harvard office",
+        "Harrington lied about returning it (or someone else took it)",
+        "Sterling's body positioning was unnaturally peaceful for cardiac arrest",
+        "Lamp was positioned wrong - pointing at chair not desk",
+        "Someone with medical training might have checked body and moved lamp",
+        "Persian rug edge shows fold that appeared during initial investigation",
+        "Fold appeared between 9:47-10:12 AM first morning",
+        "Theory: Harrington may have come to house that morning to verify death",
+        "Victoria may have called Harrington after finding body",
+        "Captain Walsh giving him only 48 hours to find evidence or case closes",
+        "Plan: Return to house, document everything again, find the book"
+      ],
+      "emotional_state": "Frustrated by lack of proof, certain of guilt, under time pressure, determined, recognizing brilliance of crime",
+      "arc_position": 0.3,
+      "location": "Leaving forensics lab with Ethan"
+    },
+    "Dr_Chen": {
+      "knows": [
+        "All knowledge from Chapter 5",
+        "Completed full autopsy - all tests conclusively show natural death",
+        "No evidence of any compounds or poisons",
+        "Theoretically possible to create delayed-release cardiac poison",
+        "Harrington has most advanced research in field",
+        "3-day delayed release would require genius-level pharmacological engineering",
+        "Body positioning was unusually peaceful for cardiac arrest",
+        "Lamp positioning suggests someone checked body after death",
+        "Rug fold suggests someone entered room during investigation",
+        "Concerned for Reeves - person this methodical is dangerous",
+        "Understanding difference between knowing and proving"
+      ],
+      "emotional_state": "Scientifically frustrated, can't find evidence but senses something wrong, worried about Reeves' obsession",
+      "arc_position": 0.3,
+      "location": "Forensics lab"
+    },
+    "Ethan_Cross": {
+      "knows": [
+        "All knowledge from previous chapters",
+        "Verified Harrington's alibi - solid, multiple witnesses, badge scans",
+        "Poison book is missing from both locations",
+        "Noticed lamp positioning from day one",
+        "Discovered rug fold that appeared during investigation",
+        "Someone entered study between 9:47-10:12 AM that first day",
+        "Theory: medical professional would check body and move lamp",
+        "48-hour deadline to find evidence",
+        "Plan to return to house and document everything again"
+      ],
+      "emotional_state": "Detail-oriented, his observations becoming crucial, invested in solving case, protective of Reeves",
+      "arc_position": 0.25,
+      "location": "Leaving with Reeves"
+    },
+    "Captain_Walsh": {
+      "knows": [
+        "Autopsy shows natural death",
+        "No evidence of foul play",
+        "Commissioner's office pressuring to close case",
+        "Family and university want closure",
+        "Reeves believes it's murder but has no proof",
+        "Political pressure is mounting"
+      ],
+      "emotional_state": "Under pressure from above, sympathetic but practical, giving Reeves 48 hours",
+      "arc_position": 0.0,
+      "location": "Unknown"
+    },
+    "Dr_Harrington": {
+      "knows": [
+        "All knowledge from Chapter 4",
+        "Unaware of specific evidence Reeves is gathering",
+        "Believes investigation will close soon (correct assessment)",
+        "Confident in perfection of crime",
+        "May not know about lamp/rug details being noticed"
+      ],
+      "emotional_state": "Satisfied, confident, continuing normal work, believes she's been perfect",
+      "arc_position": 0.25,
+      "location": "Mass General, finishing surgical notes"
+    },
+    "Victoria_Sterling": {
+      "knows": [
+        "All knowledge from Chapter 2",
+        "Told Ethan about Harrington bringing book in satchel",
+        "May have called Harrington the morning of discovery (not confirmed yet)"
+      ],
+      "emotional_state": "Not present this chapter",
+      "arc_position": 0.1,
+      "location": "Sterling brownstone"
+    }
+  },
+  "revealed_to_reader": [
+    "Final autopsy results: completely natural death, no evidence of any compounds",
+    "Death is medically indistinguishable from natural causes",
+    "Harrington has perfect alibi - NYC conference with 300 witnesses",
+    "Poison book is confirmed missing from both locations",
+    "Body positioning was unnaturally peaceful for cardiac arrest",
+    "Lamp was repositioned - someone checked body after death",
+    "Rug fold appeared during investigation window (9:47-10:12 AM)",
+    "Theory: Harrington may have come to house that morning",
+    "Captain Walsh giving 48-hour deadline",
+    "Reeves plans to return to house, find the book",
+    "Chen recognizes this level of planning makes Harrington dangerous",
+    "Harrington believes she's been perfect but doesn't know about small details"
+  ],
+  "planted": [
+    {
+      "element": "Lamp repositioning - someone checked body after death",
+      "payoff_chapter": 12,
+      "significance": "Harrington did check the body, this will be part of timeline reconstruction"
+    },
+    {
+      "element": "Rug fold during investigation window",
+      "payoff_chapter": 8,
+      "significance": "Will investigate whether Harrington came to house that morning"
+    },
+    {
+      "element": "Missing poison book - not in either location",
+      "payoff_chapter": 14,
+      "significance": "Will be found in Harrington's office with notes"
+    },
+    {
+      "element": "Body positioning too peaceful for cardiac arrest",
+      "payoff_chapter": 12,
+      "significance": "Sterling was already dying/dead when positioned, or positioning was post-death"
+    },
+    {
+      "element": "48-hour deadline",
+      "payoff_chapter": 7,
+      "significance": "Increases pressure on Reeves, forces next moves"
+    },
+    {
+      "element": "Chen's warning that methodical people are different kind of dangerous",
+      "payoff_chapter": 17,
+      "significance": "Harrington's danger is her certainty she's right, not violence"
+    },
+    {
+      "element": "Reeves' certainty vs. Harrington's certainty",
+      "payoff_chapter": 20,
+      "significance": "Both believe truth is on their side - central theme"
+    }
+  ],
+  "active_tensions": [
+    "Final autopsy shows natural death - strongest evidence against murder theory",
+    "Harrington has perfect alibi - wasn't present at death",
+    "48-hour deadline to find proof or case closes",
+    "Missing poison book is key evidence but can't be found",
+    "Small details (lamp, rug) suggest staging but aren't definitive proof",
+    "Political pressure vs. detective's instinct",
+    "Knowing guilt vs. proving guilt",
+    "Will Reeves find book in time?",
+    "Did Harrington come to house the morning after death?"
+  ],
+  "world_changes": [
+    "Autopsy officially complete - natural death ruling stands",
+    "Harrington's alibi verified - she was 250 miles away",
+    "Case under 48-hour deadline before closure",
+    "New physical evidence noticed (lamp, rug fold)",
+    "Theory: Harrington may have returned to scene morning after",
+    "Investigation entering final desperate phase",
+    "Reeves fully committed despite lack of evidence",
+    "Political pressure forcing timeline"
+  ],
+  "alignment_with_chapter_7": {
+    "note": "Chapter 6 ends with Reeves having all knowledge needed for Chapter 7",
+    "confirmed_alignments": [
+      "Knows Sterling destroyed 15+ careers (Ch 2-5)",
+      "Knows Chen's final report shows natural causes (this chapter)",
+      "Knows Harrington borrowed poison book 3 months ago (Ch 3)",
+      "Knows book is about undetectable poisons (Ch 3)",
+      "Knows book is missing (this chapter)",
+      "Knows Harrington visited 3 days before death (Ch 1-2)",
+      "Knows Harrington has perfect alibi (this chapter)",
+      "Knows Harrington admits motive (Ch 3)",
+      "Knows Harrington is cardiologist specializing in pharmacology (Ch 3)",
+      "Understands theoretically possible to engineer delayed-release poison (this chapter)"
+    ],
+    "ready_for_chapter_7": true
+  }
+}

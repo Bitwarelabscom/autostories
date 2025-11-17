@@ -1,0 +1,154 @@
+{
+  "chapter": 14,
+  "word_count": 2512,
+  "timeline": "Day after Chapter 13, March - morning",
+  "location": "Dr. Harrington's office at Mass General, police conference room",
+  "characters_present": ["Detective_Reeves", "Captain_Walsh", "Ethan_Cross", "Dr_Chen", "Porterfield"],
+  "character_states": {
+    "Detective_Reeves": {
+      "knows": [
+        "All previous knowledge from Ch13",
+        "Warrant executed on Harrington's office",
+        "Found missing poison book in locked drawer",
+        "Book contains Harrington's extensive handwritten annotations on poison methods",
+        "Detailed notes on synthesizing undetectable cardiac poison",
+        "Four-page research document: 'Project Analysis' - designing murder method",
+        "Timeline showing December-February poison development",
+        "47-entry lab notebook matching all late-night lab visits",
+        "Final entry: 'Project complete... destroy synthesis notes from lab'",
+        "Letter from Sterling dated Jan 20 refusing to support Sarah Kim",
+        "Sterling was going to destroy another career, Harrington intervened",
+        "Harrington documented entire perfect murder methodology",
+        "Complete premeditation proven",
+        "Chemical formulas match Chen's synthesis pathway theory",
+        "Units moving to arrest Harrington after her surgery ends",
+        "Need to interview Sarah Kim for complete motive picture"
+      ],
+      "emotional_state": "Vindicated, case solidified, questioning why she kept the evidence",
+      "arc_position": 0.70,
+      "location": "Police conference room reviewing evidence"
+    },
+    "Dr_Harrington": {
+      "knows": [
+        "All previous knowledge",
+        "Still doesn't know office was searched (she's in surgery)",
+        "About to be arrested when surgery ends",
+        "Doesn't know they found the book and notes",
+        "Thinks evidence is safely hidden in locked drawer"
+      ],
+      "emotional_state": "Unaware, performing surgery, about to have world collapse",
+      "arc_position": 0.45,
+      "location": "Operating room at Mass General"
+    },
+    "Dr_Chen": {
+      "knows": [
+        "All previous knowledge from Ch13",
+        "Found missing poison book with Harrington's notes",
+        "Chemical formulas in notes match her synthesis pathway theory exactly",
+        "Harrington predicted exact cellular damage pattern found in autopsy",
+        "Modified glycoside structure would create indistinguishable cardiac arrest",
+        "This is extraordinary but criminal scientific work",
+        "Computer hard drive being pulled for digital forensics",
+        "Sarah Kim is Harrington's research assistant, brilliant young woman"
+      ],
+      "emotional_state": "Analytically impressed but morally appalled, clear about criminality",
+      "arc_position": 0.75,
+      "location": "Conference room analyzing chemical formulas"
+    },
+    "Ethan_Cross": {
+      "knows": [
+        "All previous knowledge from Ch13",
+        "His instincts led to finding the missing book",
+        "Discovered dust pattern showing book's former location",
+        "Found locked drawer and opened it",
+        "Photographed all evidence in detail",
+        "Sterling's letter shows he was targeting Sarah Kim",
+        "Harrington killed to stop Sterling from destroying another career",
+        "Understanding the 'why' behind the perfect crime"
+      ],
+      "emotional_state": "Validated by another successful instinct, trying to understand Harrington's psychology",
+      "arc_position": 0.80,
+      "location": "Conference room studying photographs"
+    },
+    "Captain_Walsh": {
+      "knows": [
+        "All previous knowledge from Ch13",
+        "Search warrant successfully executed",
+        "Found comprehensive evidence of premeditation",
+        "First-degree murder case is solid",
+        "Harrington will likely lawyer up immediately",
+        "Units deployed to arrest her after surgery",
+        "Hospital administration being informed"
+      ],
+      "emotional_state": "Professionally satisfied, focused on arrest logistics",
+      "arc_position": 0.0,
+      "location": "Conference room coordinating arrest"
+    }
+  },
+  "revealed_to_reader": [
+    "MAJOR EVIDENCE DISCOVERED: Missing poison book found in locked drawer",
+    "Book filled with Harrington's handwritten annotations on medieval poison methods",
+    "Four-page 'Project Analysis' document detailing murder method design",
+    "Hypothesis: 'Can cardiac event be induced medically indistinguishable from natural death?'",
+    "Constraints listed: no trauma, no detectable residue after 48 hours, delayed activation, covert delivery",
+    "Complete synthesis pathway for modified glycoside compound",
+    "Timeline: December 12 (begin synthesis) to February 8 (deployment successful)",
+    "47-entry lab notebook matching every late-night lab visit",
+    "Each entry shows progress toward perfect poison",
+    "Final entry Feb 9: 'Project complete... move all documentation to secure location'",
+    "Harrington knew it would be indistinguishable from natural death",
+    "Letter from Sterling dated Jan 20 dismissing Sarah Kim",
+    "Sterling was about to destroy another brilliant student's career",
+    "Harrington tried to intervene, Sterling refused dismissively",
+    "Motive revealed: stopping Sterling from ruining more lives (Sarah Kim trigger)",
+    "Harrington documented perfect crime like a research project",
+    "Chemical formulas match Chen's synthesis theory exactly",
+    "Harrington predicted exact cellular damage they found in autopsy",
+    "First-degree premeditated murder proven beyond doubt",
+    "Harrington about to be arrested, doesn't know they found evidence yet"
+  ],
+  "planted": [
+    {
+      "element": "Sarah Kim mentioned as Sterling's latest target",
+      "payoff_chapter": 15,
+      "significance": "Interview with Sarah Kim will reveal Sterling's cruelty pattern"
+    },
+    {
+      "element": "Harrington's detailed documentation of methodology",
+      "payoff_chapter": 17,
+      "significance": "She wants recognition for her brilliance - will respond to Reeves' trap"
+    },
+    {
+      "element": "'Why would someone brilliant keep evidence of their crime?'",
+      "payoff_chapter": 17,
+      "significance": "She wants someone to understand - sets up confession"
+    },
+    {
+      "element": "Harrington's final note about moving documentation to secure location",
+      "payoff_chapter": 17,
+      "significance": "Shows she knew evidence was dangerous but couldn't destroy her 'masterpiece'"
+    }
+  ],
+  "active_tensions": [
+    "Harrington doesn't know she's about to be arrested",
+    "Will she confess or lawyer up?",
+    "Why did she keep such detailed evidence?",
+    "Was saving Sarah Kim the real motive or just justification?",
+    "How will Harrington react when confronted with her own notes?",
+    "What will Sarah Kim's interview reveal about Sterling?",
+    "Team has evidence but still needs to understand the 'why'",
+    "Perfect crime solved, but moral complexity remains"
+  ],
+  "world_changes": [
+    "Warrant executed successfully on Harrington's office",
+    "Missing poison book recovered with extensive annotations",
+    "Complete documentation of murder methodology found",
+    "Lab notebook with 47 entries documenting poison development",
+    "Sterling's letter about Sarah Kim reveals immediate trigger",
+    "Premeditation definitively proven",
+    "First-degree murder case established",
+    "Arrest warrant being executed",
+    "Harrington's brilliant criminal methodology exposed",
+    "Hospital administration informed of findings"
+  ]
+}

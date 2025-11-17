@@ -1,0 +1,165 @@
+{
+  "chapter": 9,
+  "word_count": 2461,
+  "timeline": "Eight to nine days after Sterling's death, afternoon to evening",
+  "location": "Serenity House Hospice (Brookline), Reeves' car",
+  "characters_present": ["Detective_Reeves", "Patricia_Chen", "Dr_Chen"],
+  "character_states": {
+    "Detective_Reeves": {
+      "knows": [
+        "All previous knowledge from Ch 8",
+        "Sarah Harrington suffered from ALS for 18 months total, 3 months in hospice",
+        "Olivia was devoted caretaker, visited twice daily",
+        "Olivia expressed deep frustration about helplessness: 'I can't even ease it. There's no mercy in that.'",
+        "Sarah died after life support removed per her DNR/advanced directive",
+        "Olivia made substantial donation to hospice for 'compassionate end-of-life care'",
+        "Olivia became involved with right-to-die advocacy groups",
+        "Olivia listed hospice director as reference for assisted-death organizations",
+        "After mother's death, Olivia became 'harder, more controlled, distant'",
+        "Patricia Chen's observation: Olivia 'locked something away' after trauma",
+        "Dr. Chen researched synthetic cardiac glycosides that could induce arrest",
+        "These compounds degrade in 48-72 hours, would be undetectable",
+        "Creating such poison requires Ph.D.-level expertise, lab access, months/years of work",
+        "Hypoxic damage could be explained by these theoretical compounds",
+        "Ethan found unusual chemical orders from 6 months ago",
+        "Complete motive now clear: watched helpless suffering, then saw chance to stop purposeful suffering",
+        "Understanding Harrington's philosophy but can't prove she acted on it"
+      ],
+      "emotional_state": "Deeply conflicted - understands and partially empathizes with Harrington's motive, but committed to proving murder; haunted by parallel to Webb; questioning nature of mercy vs. justice",
+      "arc_position": 0.45,
+      "location": "Car, driving through Boston evening"
+    },
+    "Dr_Harrington": {
+      "knows": [
+        "All previous knowledge from Ch 8",
+        "Doesn't know Reeves visited hospice or learned details of mother's death",
+        "Doesn't know her advocacy group involvement is now part of investigation",
+        "Doesn't know Dr. Chen identified theoretical poison class",
+        "Doesn't know chemical orders are being traced",
+        "Still believes she's safe due to alibi and degraded poison"
+      ],
+      "emotional_state": "Confident, continuing normal life, unaware investigation is deepening",
+      "arc_position": 0.35,
+      "location": "Mass General Hospital"
+    },
+    "Dr_Chen": {
+      "knows": [
+        "All previous knowledge from Ch 7-8",
+        "Researched synthetic cardiac glycosides that could cause undetectable cardiac arrest",
+        "These compounds designed to degrade in 48-72 hours",
+        "Would require Ph.D.-level expertise to synthesize",
+        "Hypoxic damage pattern consistent with these theoretical poisons",
+        "Reeves is investigating Harrington's mother's death as motive",
+        "Understanding the mercy-killing philosophy Reeves is exploring",
+        "Shared story of oncologist colleague radicalized by sister's suffering",
+        "Knows 'could be' isn't proof - still no evidence"
+      ],
+      "emotional_state": "Intellectually engaged, troubled by ethical implications, supportive of Reeves but worried about lack of proof",
+      "arc_position": 0.40,
+      "location": "Unknown, phone conversation"
+    },
+    "Ethan_Cross": {
+      "knows": [
+        "All previous knowledge from Ch 8",
+        "Tracking unusual chemical orders from 6 months ago",
+        "Deep dive into research logs ongoing",
+        "Working to build paper trail"
+      ],
+      "emotional_state": "Methodically pursuing leads",
+      "arc_position": 0.38,
+      "location": "Unknown, sent text to Reeves"
+    },
+    "Victoria_Sterling": {
+      "knows": [
+        "All previous knowledge from Ch 8"
+      ],
+      "emotional_state": "Not present this chapter",
+      "arc_position": 0.15,
+      "location": "Unknown"
+    },
+    "Patricia_Chen": {
+      "knows": [
+        "Cared for Sarah Harrington in final 3 months",
+        "Witnessed Olivia's devotion and suffering",
+        "Remembers Olivia's statement about 'no mercy' in mother's death",
+        "Aware Olivia changed after mother's death - became harder, more distant",
+        "Knows Olivia donated to hospice and joined right-to-die groups",
+        "Now suspects Reeves is investigating Olivia for a crime",
+        "Defended Olivia's character but acknowledged the changes in her"
+      ],
+      "emotional_state": "Protective of former patient's daughter, troubled by Reeves' questions, uncertain",
+      "arc_position": 0.0,
+      "location": "Serenity House Hospice"
+    }
+  },
+  "revealed_to_reader": [
+    "Complete backstory of Sarah Harrington's ALS death",
+    "Olivia was devoted but deeply traumatized by helplessness",
+    "Olivia's explicit statement: 'There's no mercy in that' - about inability to ease mother's suffering",
+    "Olivia removed mother's life support per DNR - experienced 'mercy killing' legally",
+    "After mother's death, Olivia joined right-to-die advocacy groups",
+    "Olivia became 'harder, more controlled, distant' - locked emotions away",
+    "Dr. Chen identified theoretical poison class: synthetic cardiac glycosides",
+    "These poisons would degrade in 48-72 hours, be undetectable",
+    "Creating them requires Ph.D. expertise, months/years of work - exactly Harrington's profile",
+    "Chemical orders from 6 months ago being traced",
+    "Complete motive established: radicalized by mother's suffering, saw Sterling as inflicting purposeful suffering",
+    "Reeves understands and partially empathizes with motive",
+    "Philosophical debate: mercy vs. murder, justice vs. vigilantism",
+    "Reeves internally conflicted - understands why Harrington might have done it",
+    "Story of Chen's colleague radicalized by sister's cancer - parallel to Harrington",
+    "Time pressure increasing - Walsh wants case closed"
+  ],
+  "planted": [
+    {
+      "element": "Synthetic cardiac glycosides identified as theoretical poison class",
+      "payoff_chapter": 17,
+      "significance": "This is the actual poison used - will be confirmed in confession"
+    },
+    {
+      "element": "Right-to-die advocacy group involvement",
+      "payoff_chapter": 15,
+      "significance": "Paper trail showing philosophical evolution toward accepting euthanasia"
+    },
+    {
+      "element": "Chemical orders from 6 months ago",
+      "payoff_chapter": 14,
+      "significance": "Will trace to specific compounds used in poison synthesis"
+    },
+    {
+      "element": "Reeves' internal conflict about mercy vs. justice",
+      "payoff_chapter": 20,
+      "significance": "Character arc - will struggle with arrest decision despite understanding motive"
+    },
+    {
+      "element": "Harrington's emotional lockdown after mother's death",
+      "payoff_chapter": 17,
+      "significance": "Explains her controlled performance, but also her eventual breakdown in confession"
+    },
+    {
+      "element": "Question of who gets to 'play God' and decide life value",
+      "payoff_chapter": 20,
+      "significance": "Central ethical question of resolution"
+    }
+  ],
+  "active_tensions": [
+    "Reeves fully understands motive but still can't prove murder",
+    "Growing empathy for Harrington conflicting with duty to justice",
+    "Synthetic glycosides identified but no proof they were used",
+    "Chemical orders being traced but takes time",
+    "Time pressure from Walsh mounting",
+    "Philosophical question: is mercy killing of cruel person murder or justice?",
+    "Reeves questioning his own certainty about right and wrong",
+    "Webb parallel intensifying - helplessness, watching someone suffer",
+    "Evidence 'could be' but isn't definitive"
+  ],
+  "world_changes": [
+    "Harrington's complete motive now established in investigation",
+    "Theoretical poison class identified",
+    "Right-to-die advocacy connections discovered",
+    "Chemical paper trail being developed",
+    "Reeves emotionally invested and conflicted",
+    "Case becoming philosophical as much as forensic",
+    "Timeline: 8-9 days since death"
+  ]
+}

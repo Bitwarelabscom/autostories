@@ -1,0 +1,200 @@
+{
+  "chapter": 16,
+  "word_count": 2547,
+  "timeline": "Day after Chapter 15, morning - late afternoon",
+  "location": "Police conference room, Reeves' home",
+  "characters_present": ["Detective_Reeves", "Captain_Walsh", "Ethan_Cross", "Dr_Chen"],
+  "character_states": {
+    "Detective_Reeves": {
+      "knows": [
+        "All previous knowledge from Ch15",
+        "MAJOR DISCOVERY: Sterling had Stage IV pancreatic cancer",
+        "Diagnosis: October 18, 3-6 months prognosis",
+        "Sterling declined treatment, chose palliative care only",
+        "Sterling told NO ONE about diagnosis - wanted privacy",
+        "Four months between diagnosis and death",
+        "Sterling was NOT in significant pain at time of death",
+        "February 1: Sterling 'at peace with diagnosis', discussing legacy",
+        "Sterling's 'kindness' was him making amends before death",
+        "February 7: Sterling wrote to Harrington inviting her to discuss Sarah Kim",
+        "Sterling was going to APOLOGIZE and reinstate support for Sarah",
+        "Sterling also wanted to 'discuss broader impact' of his evaluations",
+        "Harrington didn't know about terminal diagnosis",
+        "Harrington's notes show NO mercy killing motivation",
+        "Harrington thought she was stopping future harm, not ending suffering",
+        "Sterling was trying to fix his legacy, writing letters to past victims",
+        "Harrington injected him BEFORE he could apologize",
+        "Murder based on incomplete information - Sterling was changing",
+        "Delayed-release poison gave Sterling 3 days of normal life before death",
+        "Sterling spent those 3 days making amends, not knowing he'd been poisoned",
+        "NOT suicide - Sterling was making peace, not killing himself",
+        "NOT mercy killing - Harrington didn't know he was dying",
+        "Premeditated murder with conditional execution - she brought poison ready to use",
+        "Terminal diagnosis doesn't change legal case but adds complexity",
+        "Plan: Tell Harrington they found the poison (lie), watch her reaction",
+        "Confrontation scheduled for tomorrow",
+        "She'll want to know how they found 'undetectable' poison - will reveal knowledge"
+      ],
+      "emotional_state": "Case complete but morally complex, preparing for confrontation, Webb parallels",
+      "arc_position": 0.80,
+      "location": "Conference room, then home"
+    },
+    "Dr_Harrington": {
+      "knows": [
+        "All previous knowledge from Ch15",
+        "Still in custody with attorney",
+        "Doesn't know about Sterling's terminal diagnosis",
+        "Thought she was stopping Sterling from destroying more careers",
+        "Never knew Sterling invited her to apologize about Sarah",
+        "Never knew Sterling was changing his mind",
+        "Doesn't know team found medical records",
+        "Still proud of poison design, wants recognition for brilliance"
+      ],
+      "emotional_state": "In custody, scared but proud, doesn't know about diagnosis irony",
+      "arc_position": 0.60,
+      "location": "Holding cell"
+    },
+    "Dr_Chen": {
+      "knows": [
+        "All previous knowledge from Ch15",
+        "Sterling had Stage IV pancreatic cancer, 3-6 months to live",
+        "Sterling declined treatment, wanted palliative care only",
+        "Sterling was NOT in significant pain yet",
+        "Harrington's notes show no mercy killing motivation",
+        "This was murder to prevent future harm, not end suffering",
+        "Terminal diagnosis doesn't legally change the case",
+        "Murder is murder regardless of victim's prognosis",
+        "Defense will use diagnosis to create complexity",
+        "Plan to lie about finding poison and watch reaction"
+      ],
+      "emotional_state": "Morally clear but playing devil's advocate, understanding defense strategy",
+      "arc_position": 0.85,
+      "location": "Conference room"
+    },
+    "Ethan_Cross": {
+      "knows": [
+        "All previous knowledge from Ch15",
+        "Sterling had terminal cancer, was dying anyway",
+        "Sterling was making amends - writing letters, fixing legacy",
+        "Sterling invited Harrington to apologize about Sarah Kim",
+        "Harrington killed him before he could speak",
+        "Sterling had 3 days between injection and death",
+        "Spent those 3 days making peace, not knowing he was poisoned",
+        "Tragic irony - both Sterling and Harrington acting on incomplete information",
+        "Crime scene papers were legacy planning, not random notes"
+      ],
+      "emotional_state": "Empathetic to tragedy, seeing human complexity in crime",
+      "arc_position": 0.90,
+      "location": "Conference room"
+    },
+    "Captain_Walsh": {
+      "knows": [
+        "All previous knowledge from Ch15",
+        "Sterling had terminal pancreatic cancer",
+        "Sterling was trying to make amends before death",
+        "Not suicide, not mercy killing - premeditated murder",
+        "Terminal diagnosis adds complexity but doesn't change legal case",
+        "Defense will use diagnosis to argue mitigation",
+        "Plan to confront Harrington with lie about finding poison",
+        "Confrontation tomorrow"
+      ],
+      "emotional_state": "Focused on legal strategy, concerned about complexity",
+      "arc_position": 0.0,
+      "location": "Conference room"
+    },
+    "Professor_Sterling": {
+      "knows": [
+        "Had Stage IV pancreatic cancer (discovered while alive)",
+        "Knew he had 3-6 months to live",
+        "Chose not to tell anyone - wanted privacy",
+        "Was trying to make amends to past victims",
+        "Invited Harrington to apologize about Sarah Kim",
+        "Never got to deliver apology - killed before he could speak",
+        "Spent final 3 days making peace, unknowingly poisoned"
+      ],
+      "emotional_state": "N/A - deceased",
+      "arc_position": 0.0,
+      "location": "N/A - deceased"
+    }
+  },
+  "revealed_to_reader": [
+    "RED HERRING REVEALED: Sterling had Stage IV pancreatic cancer",
+    "Diagnosis: October 18, four months before death",
+    "Prognosis: 3-6 months with palliative care, Sterling declined treatment",
+    "Sterling told NO ONE - not Victoria, not colleagues, wanted privacy",
+    "Sterling was NOT in significant pain yet (manageable levels)",
+    "February 1 (week before death): Sterling 'at peace', planning legacy",
+    "Sterling's unusual kindness = making amends before death",
+    "February 7: Sterling wrote letter inviting Harrington to meet",
+    "PURPOSE: Apologize about Sarah Kim, reinstate his support, discuss 'broader impact'",
+    "Sterling was GOING TO CONCEDE - Sarah was safe",
+    "Harrington came to meeting thinking she'd have to argue or deploy poison",
+    "Harrington had NO IDEA Sterling was going to apologize",
+    "Harrington DIDN'T KNOW about terminal diagnosis",
+    "Her notes show prevention motivation, not mercy killing",
+    "She injected him BEFORE he could apologize and explain",
+    "Tragic irony: Sterling was changing, Harrington didn't wait to find out",
+    "Papers on Sterling's desk = legacy planning, letters to past victims",
+    "Sterling trying to make peace before natural death",
+    "Delayed-release poison gave Sterling 3 'normal' days before cardiac arrest",
+    "Sterling spent those days making amends, unknowingly dying",
+    "NOT SUICIDE: Sterling was making peace, planning legacy, not suicidal",
+    "NOT MERCY KILLING: Harrington didn't know diagnosis, no mercy motivation in notes",
+    "VERDICT: Premeditated murder based on incomplete information",
+    "Harrington brought poison ready to use if Sterling stayed cruel",
+    "Never gave him chance to show he'd changed",
+    "Terminal diagnosis adds moral complexity but doesn't change legal case",
+    "Defense will argue: saved him pain, stopped potential backsliding, based on decades of cruelty",
+    "Plan: Tell Harrington they found the poison (LIE), watch her reaction",
+    "She's proud of undetectable compound - will want to know how they found it",
+    "In that reaction, she'll reveal knowledge only killer could have",
+    "Confrontation tomorrow - one chance to get confession"
+  ],
+  "planted": [
+    {
+      "element": "Plan to lie about finding the poison",
+      "payoff_chapter": 17,
+      "significance": "Reeves' trap - Harrington's pride makes her vulnerable"
+    },
+    {
+      "element": "Harrington acted on incomplete information - never knew Sterling was changing",
+      "payoff_chapter": 17,
+      "significance": "Key confession point - did she know what Sterling was going to say?"
+    },
+    {
+      "element": "Sterling's 3 days between poison and death spent making amends",
+      "payoff_chapter": 17,
+      "significance": "Tragic irony Harrington will have to face in confession"
+    },
+    {
+      "element": "Question of whether murder of dying reforming man is different from ordinary murder",
+      "payoff_chapter": 20,
+      "significance": "Reeves' final moral reckoning about justice"
+    }
+  ],
+  "active_tensions": [
+    "Will Harrington fall for the lie about finding the poison?",
+    "How will she react when confronted?",
+    "Will her pride in the compound's brilliance overcome caution?",
+    "Did she know Sterling was going to apologize, or did she inject him first?",
+    "Would knowing about terminal diagnosis have changed her decision?",
+    "Is murder of a dying man who's trying to reform different legally/morally?",
+    "How will defense use terminal diagnosis to argue mitigation?",
+    "Will jury see this as justified prevention or cold-blooded murder?",
+    "Sterling never got to deliver his apology - stolen redemption",
+    "Harrington's perfect plan based on imperfect information",
+    "Webb parallel - sometimes solving crime doesn't mean understanding justice"
+  ],
+  "world_changes": [
+    "Sterling's terminal diagnosis revealed to team",
+    "Understanding of Sterling's motivation shifted - he was making amends",
+    "Suicide theory ruled out",
+    "Mercy killing theory ruled out",
+    "Confirmed: premeditated murder based on incomplete information",
+    "Tragic irony revealed: Sterling was changing, Harrington didn't wait",
+    "Moral complexity deepened",
+    "Plan for confrontation set - lie about finding poison",
+    "Confrontation scheduled for next day",
+    "Team ready with all evidence and strategy"
+  ]
+}

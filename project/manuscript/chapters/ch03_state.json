@@ -1,0 +1,153 @@
+{
+  "chapter": 3,
+  "word_count": 2458,
+  "timeline": "Day after Sterling's death, morning",
+  "location": "Harvard History Department, Robinson Hall, Sterling's office",
+  "characters_present": ["Detective_Reeves", "Ethan_Cross", "Dr_Harrington", "Professor_Wendell (briefly)"],
+  "character_states": {
+    "Detective_Reeves": {
+      "knows": [
+        "All knowledge from Chapters 1-2",
+        "Found Sterling's journal with complete list of destroyed careers",
+        "Journal documents systematic sabotage over decades - hundreds of victims",
+        "Sterling had 'established protocols' for stealing research",
+        "Patricia Voss entry confirms career destruction January 2018",
+        "Michael Bradford entry confirms research theft June 2016",
+        "Harrington entry shows Sterling 'published her research preemptively' February 2004",
+        "Sterling noted Harrington had 'unusual resilience' and to 'continue monitoring'",
+        "Found loan card: Harrington borrowed 'The Art of Quiet Death: A History of Undetectable Poisons' on October 15 (3 months ago)",
+        "Book has not been returned despite Harrington claiming she returned it",
+        "Met Dr. Harrington in person - intelligent, controlled, careful",
+        "Harrington admits motive openly, says she's 'glad he's dead'",
+        "Harrington researches delayed-release pharmaceutical compounds that activate hours/days later",
+        "Harrington was discussing this exact research with Sterling during final visit",
+        "Harrington seems too willing to share incriminating information (suspicious?)",
+        "Twenty+ people in journal with strong motives"
+      ],
+      "emotional_state": "Intellectually engaged, suspicious of Harrington but unsure if she's too obvious, cold fury at Sterling's documented cruelty",
+      "arc_position": 0.15,
+      "location": "Leaving Harvard with journal as evidence"
+    },
+    "Ethan_Cross": {
+      "knows": [
+        "All knowledge from Chapters 1-2",
+        "Saw complete journal of Sterling's victims",
+        "Knows Harrington borrowed poison book 3 months ago",
+        "Book not returned despite her claim",
+        "Met Harrington - she openly discussed delayed-release compounds",
+        "Harrington admitted being glad Sterling is dead",
+        "Multiple suspects with motives"
+      ],
+      "emotional_state": "Shocked by Sterling's documented cruelty, suspicious of Harrington's openness, thinks she's playing chess moves",
+      "arc_position": 0.15,
+      "location": "Leaving with Reeves"
+    },
+    "Dr_Harrington": {
+      "knows": [
+        "Police are investigating as potential murder (confirmed)",
+        "Reeves found Sterling's journal with her entry",
+        "Reeves knows about the poison book loan",
+        "Reeves suspects her specifically",
+        "She successfully appeared cooperative and honest",
+        "She framed her delayed-release research as innocent academic work",
+        "She claimed she returned the book (they may know this is a lie)",
+        "Reeves asked directly if she killed Sterling"
+      ],
+      "emotional_state": "Controlled tension, performing calculated honesty mixed with selective truth, aware she's primary suspect",
+      "arc_position": 0.15,
+      "location": "Left Harvard, heading to Mass General for surgery"
+    },
+    "Victoria_Sterling": {
+      "knows": [
+        "All knowledge from Chapter 2",
+        "Arranged access to Harvard office"
+      ],
+      "emotional_state": "Not present this chapter",
+      "arc_position": 0.1,
+      "location": "Unknown"
+    },
+    "Dr_Chen": {
+      "knows": [
+        "All knowledge from Chapter 1",
+        "Unaware of Harvard office findings"
+      ],
+      "emotional_state": "Working on autopsy",
+      "arc_position": 0.0,
+      "location": "State forensics lab"
+    }
+  },
+  "revealed_to_reader": [
+    "Sterling's office reflects his true cold, precise nature",
+    "Sterling kept detailed journal documenting every career he destroyed",
+    "Hundreds of victims cataloged over decades with clinical detachment",
+    "Sterling had 'established protocols' for stealing research - systematic",
+    "Harrington's entry shows Sterling monitored her for years after destroying her career",
+    "Harrington borrowed 'The Art of Quiet Death' book about undetectable poisons 3 months ago",
+    "Book loan card shows no return date - book is missing",
+    "Harrington researches delayed-release pharmaceutical compounds (perfect murder method)",
+    "Harrington openly admits motive and being glad Sterling is dead",
+    "Harrington described her research to Sterling during final visit (establishing it wasn't secret knowledge)",
+    "Harrington is intellectually matched with Reeves - dangerous opponent",
+    "Twenty+ suspects with strong motives exist"
+  ],
+  "planted": [
+    {
+      "element": "Sterling's journal with complete victim list",
+      "payoff_chapter": 5,
+      "significance": "Will use to identify and interview Patricia Voss and Michael Bradford"
+    },
+    {
+      "element": "Loan card for 'The Art of Quiet Death' showing October 15 borrow date, no return",
+      "payoff_chapter": 14,
+      "significance": "Book will be found hidden in Harrington's office with her notes"
+    },
+    {
+      "element": "Harrington's delayed-release compound research",
+      "payoff_chapter": 17,
+      "significance": "This is exactly the method she used - delayed-release poison"
+    },
+    {
+      "element": "Harrington telling Reeves about her current research during final visit",
+      "payoff_chapter": 16,
+      "significance": "She was establishing plausible deniability - 'it wasn't secret'"
+    },
+    {
+      "element": "Harrington's 'unusual resilience' noted by Sterling",
+      "payoff_chapter": 17,
+      "significance": "She was resilient enough to plan perfect revenge over years"
+    },
+    {
+      "element": "Sterling's note to 'continue monitoring' Harrington",
+      "payoff_chapter": 16,
+      "significance": "Sterling knew she was still a threat - may have suspected something"
+    },
+    {
+      "element": "Harrington's line about 'universe achieving its own justice'",
+      "payoff_chapter": 17,
+      "significance": "She sees herself as justice, not a murderer"
+    },
+    {
+      "element": "Reeves noting Harrington might be 'smart enough to look innocent'",
+      "payoff_chapter": 17,
+      "significance": "Foreshadows the difficulty of proving guilt"
+    }
+  ],
+  "active_tensions": [
+    "Is Harrington being too obvious with motive and opportunity?",
+    "Where is the poison book she claimed to return?",
+    "Did she really discuss delayed-release compounds innocently or as confession?",
+    "How can Reeves prove she's lying when she seems so cooperative?",
+    "Twenty other suspects exist - is Harrington a red herring?",
+    "Why would someone guilty be so open about motive?",
+    "Can Reeves match wits with someone as intelligent as Harrington?",
+    "What will the autopsy reveal?"
+  ],
+  "world_changes": [
+    "Reeves has Sterling's complete victim journal as evidence",
+    "Harrington knows she's primary suspect",
+    "Direct confrontation between Reeves and Harrington established",
+    "Intellectual cat-and-mouse game begun",
+    "Evidence of poison book loan documented",
+    "Multiple suspects identified from journal"
+  ]
+}

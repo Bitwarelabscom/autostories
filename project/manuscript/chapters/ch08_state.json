@@ -1,0 +1,142 @@
+{
+  "chapter": 8,
+  "word_count": 2487,
+  "timeline": "Seven days after Sterling's death, morning",
+  "location": "Police station, Reeves' office",
+  "characters_present": ["Detective_Reeves", "Victoria_Sterling", "Ethan_Cross"],
+  "character_states": {
+    "Detective_Reeves": {
+      "knows": [
+        "All previous knowledge from Ch 7",
+        "Victoria Sterling reports Harrington is avoiding her completely",
+        "Harrington had regular contact with both Sterlings for 20 years",
+        "Harrington hasn't called, written, or attended memorial planning",
+        "This avoidance behavior is highly unusual given their relationship",
+        "Harrington's mother died of ALS 8 years ago",
+        "Harrington took leave from Mass General to care for her mother full-time",
+        "Mother suffered 18 months - progressive paralysis, mind intact",
+        "Harrington gave interview about helplessness and 'mercy'",
+        "Harrington said her mother's suffering 'changed how I think about medicine. About mercy.'",
+        "Pattern emerging: both cases involve suffering, powerlessness, but one was cruelty and one was disease",
+        "Theory forming: Harrington may see ending Sterling as merciful act",
+        "Avoidance of Victoria suggests guilt, not grief",
+        "Ethan notes crime scene 'feels staged' - too neat, too arranged",
+        "Next steps: dig into research logs, lab access, chemical orders"
+      ],
+      "emotional_state": "Increasingly convinced Harrington is guilty, frustrated by lack of proof, haunted by Webb parallel, determined to not fail again",
+      "arc_position": 0.40,
+      "location": "Police station office"
+    },
+    "Victoria_Sterling": {
+      "knows": [
+        "All previous knowledge",
+        "Dr. Harrington hasn't contacted her at all since death",
+        "This is very unusual behavior",
+        "Harrington and Jonathan were close, mentor relationship",
+        "She and Harrington were cordial, shared interests"
+      ],
+      "emotional_state": "Troubled by Harrington's absence, beginning to suspect something is wrong",
+      "arc_position": 0.15,
+      "location": "Sterling brownstone"
+    },
+    "Ethan_Cross": {
+      "knows": [
+        "All previous knowledge from Ch 7",
+        "Compiled extensive background on Harrington",
+        "Harrington's mother died of ALS after 18-month decline",
+        "Harrington cared for her mother, took career leave",
+        "Harrington has reputation as brilliant but distant",
+        "Harrington gave interview about mercy and suffering",
+        "Has instinct that crime scene 'feels staged'",
+        "Can't prove staging but senses something wrong about the setup",
+        "Reeves is taking his instincts more seriously"
+      ],
+      "emotional_state": "Engaged in the investigation, feeling more valued, trusting his instincts",
+      "arc_position": 0.35,
+      "location": "Police station"
+    },
+    "Dr_Harrington": {
+      "knows": [
+        "All previous knowledge from Ch 7",
+        "Doesn't know Victoria has noticed her absence",
+        "Doesn't know police are digging into her background",
+        "Doesn't know her mother's death is being analyzed as motive",
+        "Believes alibi and lack of forensic evidence keep her safe"
+      ],
+      "emotional_state": "Confident in her perfect crime, unable to face Victoria due to guilt, going about normal life",
+      "arc_position": 0.35,
+      "location": "Mass General Hospital (working)"
+    },
+    "Dr_Chen": {
+      "knows": [
+        "All previous knowledge from Ch 7"
+      ],
+      "emotional_state": "Not present this chapter",
+      "arc_position": 0.30,
+      "location": "Forensic lab"
+    }
+  },
+  "revealed_to_reader": [
+    "Harrington is avoiding Victoria completely - hasn't called or written",
+    "This is very unusual given their 20-year cordial relationship",
+    "Avoidance behavior suggests guilt, not grief",
+    "Harrington's mother died of ALS after 18-month suffering",
+    "Harrington was full-time caretaker, witnessed helpless suffering",
+    "Harrington gave interview about how mother's death changed her views on 'mercy'",
+    "Pattern: Harrington watched pointless suffering (mother) vs. Sterling causing purposeful suffering",
+    "Theory: Harrington may see Sterling's death as merciful end to suffering he caused others",
+    "Ethan has instinct that crime scene was 'staged' - too neat, too arranged",
+    "Reeves drawing parallel between Harrington's helplessness with mother and his with Webb",
+    "Investigation shifting to research logs, lab access, chemical orders",
+    "Time pressure: Captain Walsh asking when case will close"
+  ],
+  "planted": [
+    {
+      "element": "Harrington's 'mercy' philosophy from mother's death",
+      "payoff_chapter": 17,
+      "significance": "Core motivation for murder - mercy killing to prevent further suffering"
+    },
+    {
+      "element": "Ethan's instinct about staged crime scene",
+      "payoff_chapter": 11,
+      "significance": "Will drive him to obsessively review photos, leading to lamp discovery"
+    },
+    {
+      "element": "Avoidance of Victoria due to guilt",
+      "payoff_chapter": 15,
+      "significance": "Timeline evidence - behavioral pattern shows consciousness of guilt"
+    },
+    {
+      "element": "Plan to investigate lab access and chemical orders",
+      "payoff_chapter": 14,
+      "significance": "Will reveal paper trail of poison synthesis"
+    },
+    {
+      "element": "Reeves-Webb parallel deepening",
+      "payoff_chapter": 20,
+      "significance": "Character arc - learning to accept limits while trusting himself"
+    },
+    {
+      "element": "Harrington's confidence she's safe",
+      "payoff_chapter": 17,
+      "significance": "False security will make her vulnerable to Reeves' trap"
+    }
+  ],
+  "active_tensions": [
+    "Harrington's guilty behavior vs. perfect alibi and lack of evidence",
+    "Reeves' growing conviction vs. inability to prove anything",
+    "Ethan's instincts about staging vs. lack of concrete proof",
+    "Time pressure from Captain Walsh to close case",
+    "Pattern of mercy/suffering emerging but doesn't prove murder",
+    "Webb case parallel haunting Reeves - will he fail again?",
+    "Months of investigation needed but how much time do they have?"
+  ],
+  "world_changes": [
+    "Victoria Sterling now suspicious of Harrington's behavior",
+    "Police investigation expanding into Harrington's full background",
+    "Harrington's mother's death now part of investigation",
+    "Mercy theme established as potential motive",
+    "Ethan's role evolving - Reeves taking his instincts seriously",
+    "Timeline: one week since death, case pressure mounting"
+  ]
+}

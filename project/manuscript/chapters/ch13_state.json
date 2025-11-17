@@ -1,0 +1,156 @@
+{
+  "chapter": 13,
+  "word_count": 2487,
+  "timeline": "Three days after Chapter 12, March",
+  "location": "DA's office, police conference room, coffee shop near Mass General",
+  "characters_present": ["Detective_Reeves", "ADA_Brennan", "Captain_Walsh", "Ethan_Cross", "Dr_Chen", "Dr_Torres"],
+  "character_states": {
+    "Detective_Reeves": {
+      "knows": [
+        "All previous knowledge from Ch12",
+        "DA Brennan refused initial warrant request - insufficient probable cause",
+        "Need concrete evidence linking Harrington to poison creation",
+        "Strategy: track Harrington's preparation over months",
+        "Chemical requisitions show suspicious pattern - 3 orders for rare glycoside variants from different suppliers",
+        "47 late-night lab visits between midnight-5AM over 3 months",
+        "All lab visits showed no documented research output",
+        "Hospital policy requires documentation - Harrington violated this",
+        "Harrington accessed lab at 2AM day after Sterling's death",
+        "Interviews show Harrington working on 'delayed-release mechanisms'",
+        "Harrington kept research private, worked longer hours",
+        "Missing poison book from Sterling's collection - checked out 6 months ago",
+        "Warrant approved for Harrington's office at Mass General",
+        "This is their one shot - if they find nothing, case is over"
+      ],
+      "emotional_state": "Frustrated with legal system but energized by investigation, thinking of Webb parallel",
+      "arc_position": 0.65,
+      "location": "Conference room"
+    },
+    "Dr_Harrington": {
+      "knows": [
+        "All previous knowledge",
+        "Still doesn't know puncture mark was found",
+        "Still believes murder was perfect and undetectable",
+        "Believes investigation is going cold"
+      ],
+      "emotional_state": "False sense of security, sleeping peacefully",
+      "arc_position": 0.40,
+      "location": "Unknown, probably home"
+    },
+    "Dr_Chen": {
+      "knows": [
+        "All previous knowledge from Ch12",
+        "Chemical requisitions show pattern of rare glycoside variants",
+        "3 separate orders from different suppliers over 3 months",
+        "Compounds could theoretically synthesize delayed-release cardiotoxin",
+        "Pattern is deliberately obscured - not normal researcher behavior",
+        "47 lab visits with no documented research output",
+        "Hospital policy violation",
+        "Built theoretical synthesis pathway matching cellular damage",
+        "Warrant approved for office search"
+      ],
+      "emotional_state": "Analytically engaged, building scientific case",
+      "arc_position": 0.70,
+      "location": "Conference room"
+    },
+    "Ethan_Cross": {
+      "knows": [
+        "All previous knowledge from Ch12",
+        "Created investigation strategy and timeline",
+        "Mapped all 47 late-night lab visits on calendar",
+        "Cross-referenced hospital records showing no documented output",
+        "Harrington accessed lab 2AM after Sterling's death",
+        "Missing poison book connection",
+        "Warrant approved for tomorrow",
+        "Has strong feeling evidence is in office"
+      ],
+      "emotional_state": "Energized by investigation work, confident in instincts",
+      "arc_position": 0.75,
+      "location": "Conference room"
+    },
+    "Captain_Walsh": {
+      "knows": [
+        "All previous knowledge from Ch12",
+        "DA initially refused warrant",
+        "Lab logs show 47 unauthorized late-night visits",
+        "Chemical requisition patterns suspicious",
+        "Used hospital administration contacts to get records",
+        "Warrant approved for Harrington's office",
+        "Team has one shot at this"
+      ],
+      "emotional_state": "Supportive but aware of high stakes, sleep-deprived",
+      "arc_position": 0.0,
+      "location": "Conference room"
+    },
+    "ADA_Brennan": {
+      "knows": [
+        "Puncture mark exists but is 'consistent with' not definitive",
+        "Circumstantial timing and motive",
+        "47 undocumented lab visits showing unauthorized research",
+        "Chemical requisitions for suspicious compounds",
+        "Enough for warrant on office but not home",
+        "One chance - if search comes up empty, case is dead"
+      ],
+      "emotional_state": "Cautiously supportive, protecting conviction rate",
+      "arc_position": 0.0,
+      "location": "DA's office"
+    }
+  },
+  "revealed_to_reader": [
+    "DA refuses initial warrant - need more concrete evidence",
+    "Team shifts to methodical investigation of Harrington's preparation",
+    "Chemical requisitions show pattern: 3 rare glycoside variants from different suppliers",
+    "Compounds could theoretically synthesize delayed-release cardiotoxin",
+    "47 late-night lab visits (midnight-5AM) over 3 months with no documented output",
+    "Hospital policy requires documentation - Harrington deliberately violated this",
+    "Harrington accessed lab at 2AM the day after Sterling's death (cleanup?)",
+    "Interviews: Harrington working on 'delayed-release mechanisms', secretive, longer hours",
+    "Pattern: order compounds → late-night lab access → no official records",
+    "Missing poison book from Sterling's collection - checked out 6 months ago by Harrington",
+    "Warrant approved for Mass General office search",
+    "If they find book with Harrington's notes, that's the smoking gun",
+    "One shot - if search yields nothing, case dies",
+    "Harrington still thinks she's safe, doesn't know they're closing in"
+  ],
+  "planted": [
+    {
+      "element": "Missing poison book on historical toxins and medieval murders",
+      "payoff_chapter": 14,
+      "significance": "Ethan will find this in Harrington's office with her handwritten notes"
+    },
+    {
+      "element": "Harrington's lab access at 2AM day after Sterling's death",
+      "payoff_chapter": 14,
+      "significance": "She was moving evidence from lab to office"
+    },
+    {
+      "element": "Delayed-release mechanisms research mentioned by colleagues",
+      "payoff_chapter": 17,
+      "significance": "Her legitimate research became her murder weapon"
+    },
+    {
+      "element": "Pattern of Harrington keeping research private/secretive",
+      "payoff_chapter": 17,
+      "significance": "Character trait that led to documentation of crime"
+    }
+  ],
+  "active_tensions": [
+    "Will the office search find the evidence they need?",
+    "What if Harrington already destroyed everything?",
+    "One shot - if they fail, case is over",
+    "Harrington doesn't know they're coming",
+    "Legal system's demand for certainty vs. investigative reality",
+    "Time pressure - the longer they wait, more risk Harrington suspects something",
+    "Webb parallel - Reeves won't fail this time"
+  ],
+  "world_changes": [
+    "DA initially refuses warrant - legal obstacle",
+    "Team conducts extensive 3-day investigation",
+    "47 unauthorized lab visits documented",
+    "Suspicious chemical requisition pattern discovered",
+    "Warrant approved for office search based on unauthorized research",
+    "Missing poison book identified as key evidence",
+    "Search scheduled for next day",
+    "Team built substantial circumstantial case"
+  ]
+}

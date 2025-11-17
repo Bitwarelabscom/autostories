@@ -1,0 +1,195 @@
+{
+  "chapter": 15,
+  "word_count": 2541,
+  "timeline": "Same day as Chapter 14, afternoon and evening",
+  "location": "Police station interview rooms, Sterling townhouse, police conference room",
+  "characters_present": ["Detective_Reeves", "Captain_Walsh", "Ethan_Cross", "Dr_Chen", "Sarah_Kim", "Dr_Harrington", "Patricia_Cowan", "Victoria_Sterling"],
+  "character_states": {
+    "Detective_Reeves": {
+      "knows": [
+        "All previous knowledge from Ch14",
+        "Sarah Kim confirms Sterling targeted her for removal",
+        "Harrington fought for Sarah, filed formal complaint with dean",
+        "Dean sided with Sterling - legal channels failed",
+        "Late January: Harrington told Sarah 'Sterling won't hurt anyone else'",
+        "Sterling called Sarah in on Feb 3, seemed nervous, apologetic",
+        "Sterling was trying to make amends before death (knew something?)",
+        "Harrington arrested, immediately lawyered up",
+        "Harrington showed 'weary pride' when confronted with evidence",
+        "Harrington wants recognition for her work",
+        "Victoria Sterling noticed Harrington's guilty behavior after death",
+        "Harrington fled funeral reception, didn't pay proper respects",
+        "Two weeks later: Harrington saw Victoria at museum, looked 'terrified'",
+        "Harrington avoided Victoria's thank-you call",
+        "Friends noticed Harrington 'withdrawn, distracted, haunted' after death",
+        "Harrington consulted estates attorneys about criminal evidence of theoretical work",
+        "Late February: Harrington moved materials from lab to office",
+        "Classic consciousness of guilt pattern",
+        "Harrington sent white lilies to Victoria (Sterling's favorites - intimate knowledge)",
+        "Harrington keeps white lilies on desk (death/purity symbols)",
+        "Need Sterling's medical records - what if he was already terminal?",
+        "Medical records requested, will arrive by morning",
+        "Moral complexity: murder to save others vs. pure homicide"
+      ],
+      "emotional_state": "Case complete but morally complex, questioning nature of justice, Webb parallel",
+      "arc_position": 0.75,
+      "location": "Police station"
+    },
+    "Dr_Harrington": {
+      "knows": [
+        "All previous knowledge",
+        "NOW KNOWS: Police found the book and notes in her office",
+        "NOW KNOWS: Police have complete evidence of premeditation",
+        "NOW KNOWS: They know about Sarah Kim and Sterling's letter",
+        "Arrested, in custody",
+        "Has attorney present (Patricia Cowan)",
+        "Refusing to answer questions",
+        "Showed 'weary pride' when evidence mentioned",
+        "Can't hide that she sees saving Sarah and others as justification"
+      ],
+      "emotional_state": "Arrested, scared but oddly relieved, proud of what she did, lawyered up",
+      "arc_position": 0.55,
+      "location": "Police holding cell"
+    },
+    "Dr_Chen": {
+      "knows": [
+        "All previous knowledge from Ch14",
+        "Sarah Kim's testimony about Sterling's targeting",
+        "Chemical formulas match perfectly - this was actual murder, not theory",
+        "Compound design matches cellular damage exactly",
+        "Clear about moral line: Harrington could have reported Sterling, chose murder",
+        "Harrington is guilty regardless of motive"
+      ],
+      "emotional_state": "Scientifically satisfied, morally clear on guilt",
+      "arc_position": 0.80,
+      "location": "Conference room"
+    },
+    "Ethan_Cross": {
+      "knows": [
+        "All previous knowledge from Ch14",
+        "Sarah Kim testimony about Harrington trying to save her",
+        "Harrington was saving multiple students, not just Sarah",
+        "Noticed white lilies on Harrington's desk - death/purity symbols",
+        "Understanding psychological motivation",
+        "Harrington living with guilt and pride simultaneously"
+      ],
+      "emotional_state": "Empathetic to complexity, understanding the 'why'",
+      "arc_position": 0.85,
+      "location": "Conference room"
+    },
+    "Captain_Walsh": {
+      "knows": [
+        "All previous knowledge from Ch14",
+        "Harrington arrested and lawyered up",
+        "Victoria Sterling's consciousness of guilt testimony",
+        "Requesting Sterling's medical records",
+        "Case is strong but morally complex"
+      ],
+      "emotional_state": "Focused on legal case strength",
+      "arc_position": 0.0,
+      "location": "Police station"
+    },
+    "Victoria_Sterling": {
+      "knows": [
+        "All previous knowledge",
+        "NOW KNOWS: Harrington arrested for husband's murder",
+        "Had noticed Harrington's guilty behavior all along",
+        "Harrington avoided her after funeral",
+        "Harrington looked terrified when they met at museum",
+        "Harrington consulted attorneys about criminal evidence",
+        "Understands Sterling was cruel to students",
+        "Doesn't condone murder but understands desperation",
+        "Will testify about Harrington's consciousness of guilt"
+      ],
+      "emotional_state": "Complex mix of grief, understanding, desire for truth over vengeance",
+      "arc_position": 0.75,
+      "location": "Sterling townhouse"
+    },
+    "Sarah_Kim": {
+      "knows": [
+        "Sterling tried to remove her from research program",
+        "Sterling cited 'lack of intellectual pedigree' (racist dismissal)",
+        "Harrington fought for her, filed complaint with dean",
+        "Dean sided with Sterling",
+        "Late January: Harrington promised Sterling wouldn't hurt anyone else",
+        "Feb 3: Sterling called her in, seemed apologetic and nervous",
+        "Harrington arrested (just learned)",
+        "Doesn't fully understand connection yet"
+      ],
+      "emotional_state": "Shocked, grateful to Harrington, horrified by implications",
+      "arc_position": 0.0,
+      "location": "Unknown"
+    }
+  },
+  "revealed_to_reader": [
+    "Sarah Kim testimony: Sterling targeted her for removal based on bias",
+    "Harrington fought through official channels - dean sided with Sterling",
+    "Late January: Harrington resolved - 'Sterling won't hurt anyone else'",
+    "Legal channels failed, Harrington chose murder one week later",
+    "Feb 3 (5 days before death): Sterling nervous, apologetic to Sarah - knew something?",
+    "Harrington saved multiple students, not just Sarah",
+    "Harrington arrested, immediately lawyered up (Patricia Cowan)",
+    "Harrington showed 'weary pride' - wanted recognition for her work",
+    "CONSCIOUSNESS OF GUILT EVIDENCE:",
+    "- Fled funeral reception immediately, didn't pay respects",
+    "- Avoided Victoria's thank-you call",
+    "- Two weeks after death: saw Victoria at museum, looked terrified, fled",
+    "- Friends noticed withdrawn, haunted behavior after death",
+    "- Consulted attorneys about whether theoretical research = criminal evidence",
+    "- Late Feb: moved materials from lab to office (trying to control evidence)",
+    "Harrington sent white lilies to Victoria (Sterling's favorites - intimate knowledge)",
+    "Keeps white lilies on desk (death/purity symbols) - living with guilt/pride",
+    "Classic consciousness of guilt pattern",
+    "Victoria understands Sterling's cruelty, will testify but with moral complexity",
+    "Question raised: What if Sterling was already terminal? Changes moral calculation",
+    "Sterling's medical records requested, arriving tomorrow",
+    "Team has complete case: means, motive, opportunity, premeditation, consciousness of guilt",
+    "Missing only: Harrington's confession and Sterling's full medical history",
+    "Moral complexity: When is murder something other than evil?"
+  ],
+  "planted": [
+    {
+      "element": "Sterling seemed nervous and apologetic days before death",
+      "payoff_chapter": 16,
+      "significance": "He had terminal diagnosis, was trying to make amends"
+    },
+    {
+      "element": "Question of whether Sterling was already dying",
+      "payoff_chapter": 16,
+      "significance": "Red herring - terminal diagnosis suggests suicide or mercy killing"
+    },
+    {
+      "element": "Harrington's 'weary pride' and desire for recognition",
+      "payoff_chapter": 17,
+      "significance": "Will make her vulnerable to Reeves' trap about finding the poison"
+    },
+    {
+      "element": "Moral question: 'When is murder something other than evil?'",
+      "payoff_chapter": 20,
+      "significance": "Reeves' final arc - understanding justice vs. truth"
+    }
+  ],
+  "active_tensions": [
+    "Harrington lawyered up - won't confess without pressure",
+    "Was Sterling already terminal? Does that change anything?",
+    "Moral complexity: saving students vs. committing murder",
+    "Victoria understands but wants truth",
+    "Sarah Kim saved but at what cost?",
+    "System failed - dean sided with abuser",
+    "Harrington wants recognition for her 'work'",
+    "How to get confession from someone with lawyer?",
+    "What will Sterling's medical records reveal?",
+    "Webb parallel - Reeves solving crime but questioning justice"
+  ],
+  "world_changes": [
+    "Sarah Kim interviewed - confirms Sterling's targeting and Harrington's defense",
+    "Harrington arrested and in custody with attorney",
+    "Harrington now knows police have all evidence",
+    "Victoria Sterling provides consciousness of guilt testimony",
+    "Consciousness of guilt pattern documented",
+    "Sterling's medical records requested",
+    "Complete circumstantial case built",
+    "Moral complexity of case revealed",
+    "Team questioning nature of justice vs. truth"
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "chapter": 2,
+  "word_count": 2247,
+  "timeline": "Same day as discovery, late afternoon/evening",
+  "location": "Sterling brownstone - sitting room",
+  "characters_present": ["Detective_Reeves", "Ethan_Cross", "Victoria_Sterling"],
+  "character_states": {
+    "Detective_Reeves": {
+      "knows": [
+        "All knowledge from Chapter 1",
+        "Sterling was methodically cruel to students over decades",
+        "Sterling destroyed Patricia Voss's career 7 years ago with damaging recommendation",
+        "Sterling stole Michael Bradford's research and published under own name",
+        "Sterling destroyed Dr. Harrington's career by publishing her cardiac pharmacology research first",
+        "Harrington nearly lost medical license but rebuilt career",
+        "Sterling kept list of 'educational failures' - students he damaged",
+        "List is likely in Sterling's Harvard office with detailed records",
+        "Harrington visited 3 days before death and seemed 'eerily calm' and 'at peace'",
+        "Harrington's research was about compounds that affect heart rhythm in 'impossible' ways",
+        "Victoria removed photo of Harrington from shelf last month",
+        "Multiple students had strong motives for revenge"
+      ],
+      "emotional_state": "Energized by new leads, seeing patterns emerge, suspicious of Harrington's 'peace'",
+      "arc_position": 0.1,
+      "location": "Leaving Sterling brownstone"
+    },
+    "Ethan_Cross": {
+      "knows": [
+        "All knowledge from Chapter 1",
+        "Sterling systematically destroyed student careers",
+        "Patricia Voss and Michael Bradford are key victims",
+        "Sterling kept detailed records at Harvard",
+        "Harrington was one of Sterling's victims",
+        "Noticed missing photo - Victoria removed it recently",
+        "Harrington's research was about cardiac compounds",
+        "Harrington seemed 'at peace' before Sterling died - suspicious"
+      ],
+      "emotional_state": "Picking up on details, instincts firing, making connections between Harrington's research and death method",
+      "arc_position": 0.1,
+      "location": "Leaving with Reeves"
+    },
+    "Victoria_Sterling": {
+      "knows": [
+        "All knowledge from Chapter 1",
+        "Police are investigating seriously as potential murder",
+        "She revealed Sterling's cruelty to multiple students",
+        "Told police about the 'failures' list at Harvard",
+        "Revealed Harrington's destroyed career",
+        "Police noticed missing photo and her removing it last month"
+      ],
+      "emotional_state": "Walls crumbling, releasing years of suppressed knowledge, fearful someone was brilliant enough to kill him",
+      "arc_position": 0.1,
+      "location": "Sitting room of brownstone"
+    },
+    "Dr_Harrington": {
+      "knows": [
+        "Same as Chapter 1 - she doesn't know about this interview",
+        "Unaware police are connecting her research to possible murder method"
+      ],
+      "emotional_state": "Still unaware investigation is deepening",
+      "arc_position": 0.0,
+      "location": "Unknown"
+    }
+  },
+  "revealed_to_reader": [
+    "Sterling systematically destroyed student careers for decades",
+    "Patricia Voss - career destroyed 7 years ago with false recommendation",
+    "Michael Bradford - research stolen and published by Sterling",
+    "Dr. Harrington's career nearly destroyed when Sterling stole her cardiac pharmacology research",
+    "Sterling kept detailed list of 'educational failures' at Harvard office",
+    "Harrington visited 3 days before death and seemed eerily calm and 'at peace'",
+    "Harrington's research was specifically about compounds affecting heart rhythm",
+    "Victoria removed Harrington's photo from shelf last month",
+    "Multiple people had strong motives to want Sterling dead",
+    "Someone methodical enough could have learned from Sterling's example"
+  ],
+  "planted": [
+    {
+      "element": "Patricia Voss and Michael Bradford named as specific victims",
+      "payoff_chapter": 5,
+      "significance": "Will be interviewed, provide details of Sterling's systematic destruction"
+    },
+    {
+      "element": "Sterling's 'educational failures' list at Harvard",
+      "payoff_chapter": 3,
+      "significance": "Reeves will find it next chapter with names, dates, 'deficiencies'"
+    },
+    {
+      "element": "Harrington's cardiac pharmacology research - compounds affecting heart rhythm 'impossibly'",
+      "payoff_chapter": 17,
+      "significance": "This is exactly the research she used to create the undetectable poison"
+    },
+    {
+      "element": "Harrington seemed 'at peace' three days before death",
+      "payoff_chapter": 17,
+      "significance": "She had already committed to killing him, felt relief at decision"
+    },
+    {
+      "element": "Victoria removed Harrington's photo 'last month'",
+      "payoff_chapter": 16,
+      "significance": "Victoria sensed something was wrong, may have suspected"
+    },
+    {
+      "element": "Ethan's observation about missing photo and dust patterns",
+      "payoff_chapter": 12,
+      "significance": "Establishes his eye for detail that will find the puncture mark"
+    },
+    {
+      "element": "Victoria's line about 'he only taught the best'",
+      "payoff_chapter": 17,
+      "significance": "Harrington learned from Sterling how to be methodical and cruel"
+    }
+  ],
+  "active_tensions": [
+    "Multiple suspects with strong motives emerging",
+    "Harrington's suspicious calm and timing of visit",
+    "Connection between Harrington's research and possible murder method",
+    "What will the 'failures' list reveal?",
+    "How many careers did Sterling destroy?",
+    "Can methodical cruelty inspire equally methodical revenge?"
+  ],
+  "world_changes": [
+    "Reeves has multiple suspects now instead of vague suspicions",
+    "Victoria has broken her silence about Sterling's cruelty",
+    "Investigation shifting from 'was it murder?' to 'who had motive?'",
+    "Harvard office visit arranged for next step",
+    "Pattern of Sterling's systematic destruction revealed"
+  ]
+}
