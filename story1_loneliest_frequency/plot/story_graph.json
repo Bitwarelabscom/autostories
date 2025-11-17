@@ -1,0 +1,621 @@
+{
+  "story_structure": {
+    "total_chapters": 20,
+    "target_word_count": "50,000-60,000 words (2,500-3,000 per chapter)",
+    "timeline": "18 days from first contact to resolution",
+    "act_breakdown": {
+      "act_1": "Chapters 1-5: Discovery and Investigation (Days 1-4)",
+      "act_2a": "Chapters 6-12: Escalation and Revelation (Days 5-10)",
+      "act_2b": "Chapters 13-17: Convergence and Crisis (Days 11-16)",
+      "act_3": "Chapters 18-20: Climax and Resolution (Days 17-18)"
+    }
+  },
+
+  "tentpoles": [
+    {
+      "chapter": 1,
+      "type": "hook",
+      "title": "First Contact",
+      "description": "Sarah picks up a signal on 2.182 MHz (the frequency her father warned her about). She transmits a prime number sequence. The signal responds with the next prime, then begins elaborating with mathematical proofs of intelligence. Sarah realizes she's made contact with something non-human.",
+      "key_moments": [
+        "Sarah alone in her radio shack at 2:47 AM, can't sleep, scanning frequencies",
+        "Picks up unusual signal on 2.182 MHz - remembers father's warning but curiosity wins",
+        "Transmits prime sequence: 2, 3, 5, 7, 11",
+        "Signal responds: 13, 17, 19, 23, then transmits pi to 100 digits",
+        "Sarah's hands shaking, realizes this is real, this is contact",
+        "Tries to record everything but signal fades as sun rises (atmospheric conditions)",
+        "Final moment: staring at her notes, deciding who to tell first"
+      ],
+      "character_states": {
+        "Sarah": "Alone, isolated, seeking validation → Terrified excitement, knows her life just changed",
+        "Echo": "Desperate, dying, trying once more after 50 years → Hope that someone finally answered"
+      },
+      "planted_elements": [
+        "2.182 MHz frequency - father's warning",
+        "Signal only works at night/specific atmospheric conditions",
+        "Sarah's isolation means no witnesses",
+        "Mathematical communication as foundation"
+      ]
+    },
+    {
+      "chapter": 7,
+      "type": "complication",
+      "title": "Local Source",
+      "description": "Sarah triangulates the signal using direction-finding equipment with Roy's remote help. The signal isn't coming from space - it's terrestrial, originating from a cave system 30 miles from her ranch. Her worldview shatters: this isn't a distant civilization, this is something HERE. Meanwhile, government agencies have detected her transmissions and are mobilizing.",
+      "key_moments": [
+        "Sarah and Roy (via radio) use triangulation over several nights",
+        "Realization: signal bearing points to local landmark - cave system near abandoned missile silo",
+        "Sarah's crisis: this isn't the discovery she imagined, it's something on Earth",
+        "Webb arrives at Roy's house in California to interview him",
+        "Webb: 'Where is Sarah Kendrick right now?' Roy: 'On her ranch in Montana. Why?'",
+        "Sarah receives phone call from unknown number - doesn't answer",
+        "Sarah makes decision: she's going to the caves"
+      ],
+      "character_states": {
+        "Sarah": "Excited validation → Confusion and fear, realization of danger",
+        "Echo": "Hope building as contact continues → Awareness that time is running out",
+        "Webb": "Tracking leads, recognizes signal signature from classified files, mobilizes to Montana",
+        "Roy": "Excited collaborator → Worried friend, realizes he might have led Sarah into danger"
+      },
+      "planted_elements": [
+        "Cave system near decommissioned nuclear missile silo (Echo's crash site)",
+        "Webb has been tracking this signal signature for years",
+        "Government monitoring of licensed operators",
+        "Sarah's isolation is ending - people are coming"
+      ]
+    },
+    {
+      "chapter": 12,
+      "type": "midpoint_reversal",
+      "title": "Echo",
+      "description": "Sarah enters the cave system and meets Echo in person. Echo reveals: it's been on Earth 50 years, crashed here, was exiled by its people. The distress call has finally reached them - they're coming, arrival in 5-6 days. But Echo was exiled for a reason: it believed humans should be contacted directly. Its people disagreed. They're not coming to rescue Echo - they're coming to conduct 'the test.' Sarah must decide if she'll help Echo or turn it over to authorities.",
+      "key_moments": [
+        "Sarah's night journey to caves, hiking in darkness",
+        "First sight of Echo: crystalline, beautiful, alien, glowing faintly",
+        "Echo speaks: 'You are Jack Kendrick's daughter. I wondered if you would be the one.'",
+        "Echo's story of exile, 50 years alone, father's brief 1975 contact",
+        "The revelation about Echo's people coming, the test",
+        "Echo: 'They will judge your entire species by how you treat me. I think this is unfair.'",
+        "Sarah realizes she's at center of first contact and humanity is being tested",
+        "Outside: Webb's team sets up perimeter around Sarah's ranch"
+      ],
+      "character_states": {
+        "Sarah": "Seeking alien intelligence → Protective of vulnerable exile, moral crisis begins",
+        "Echo": "Desperate survivor → Has hope and fear simultaneously, trusts Sarah with truth",
+        "Webb": "Closing net around Sarah's location, doesn't know about Echo's physical presence yet",
+        "Danny": "Worried about mom, has tried calling multiple times, no answer"
+      },
+      "planted_elements": [
+        "The test: will humans show compassion or exploitation?",
+        "Echo's influence on human technology over 50 years",
+        "Jack Kendrick's 1975 contact and why he warned Sarah",
+        "Echo is dying - has maybe 6-8 days left",
+        "Echo's people are not benevolent saviors - they're judges"
+      ]
+    },
+    {
+      "chapter": 17,
+      "type": "climax",
+      "title": "The Test",
+      "description": "Echo's people arrive in orbit. They make contact with world governments, present the test through Sarah as representative: humanity can have either the knowledge Echo has gathered (50 years of observations that would advance human science centuries) OR they can allow Echo to die in peace without exploitation. Choose knowledge or compassion. Cannot have both. The world is watching. Sarah must speak for humanity. Webb, Cross, Roy, and Danny are all present. Sarah makes her choice.",
+      "key_moments": [
+        "Night sky lights up - Echo's people's ship visible to naked eye worldwide",
+        "Broadcast to all channels, all languages: 'We address Sarah Kendrick'",
+        "Sarah in cave with Echo, surrounded by Webb, Cross, Roy, Danny, recording equipment",
+        "Echo's people present the test through Sarah: knowledge or compassion",
+        "World governments screaming for Sarah to choose knowledge",
+        "Echo tells Sarah: 'Choose knowledge. I have lived long enough. Give them what they want.'",
+        "Danny: 'Mom, what would Grandpa Jack do?'",
+        "Sarah: 'We choose compassion. Let Echo die in peace. We'll learn on our own.'",
+        "Echo's people: 'We will remember your choice.' Ship departs.",
+        "Echo: 'You passed. Few species do.'"
+      ],
+      "character_states": {
+        "Sarah": "Moral crisis → Clarity and courage, chooses right over proof",
+        "Echo": "Prepared to die → Surprised by Sarah's choice, final peace",
+        "Webb": "Career over, chose to protect Sarah through crisis → Redemption in right action",
+        "Danny": "Witnesses mother's heroism, sees her clearly for first time",
+        "Cross": "Wanted scientific data → Chooses ethics over discovery, growth complete"
+      },
+      "planted_elements_paying_off": [
+        "Father's warning about the frequency - he knew something was there",
+        "Sarah's isolation - prepared her to make this choice independent of pressure",
+        "Echo's 50 years of observation",
+        "The question of what makes humanity worth contacting"
+      ]
+    },
+    {
+      "chapter": 20,
+      "type": "resolution",
+      "title": "The Loneliest Frequency",
+      "description": "Echo dies peacefully three days after the test, with Sarah present. No proof remains - Echo's crystalline body dissolves, the ship is gone, recordings were mysteriously corrupted. Sarah cannot prove it happened. But the connection was real. Danny moves back in with Sarah part-time. Webb leaves the FBI. Cross leaves SETI. They all move forward, changed. Final scene: Sarah on the radio, teaching Danny how to make contact, showing him the magic of voices across the distance. She's no longer alone.",
+      "key_moments": [
+        "Echo's last conversation with Sarah: 'Connection is the universal constant'",
+        "Echo's body dissolves into crystal dust, all evidence gone",
+        "Sarah breaks down - it was real, but she can't prove it",
+        "Media storm: hoax? Government cover-up? Mass delusion?",
+        "Danny: 'I know what I saw. I know what you did.'",
+        "Webb hands in his badge: 'I'm done keeping secrets'",
+        "Cross cleans out SETI office, walks away from career",
+        "Roy visits ranch in person, helps Sarah rebuild",
+        "Months later: Sarah and Danny at radio together",
+        "Danny: 'CQ CQ CQ, this is...' Learning his mother's language",
+        "Sarah smiles, no longer the loneliest frequency",
+        "Final image: signal monitor showing random noise, but Sarah knows what it meant to connect"
+      ],
+      "character_states": {
+        "Sarah": "Has proof but loses it → Peace without validation, reconnected with son, no longer isolated",
+        "Danny": "Angry distant son → Connected to mother, witnessed her heroism, shares her passion",
+        "Webb": "Career FBI agent → Free from system, integrity intact, knows he did right thing",
+        "Cross": "Career scientist → Prioritized ethics over discovery, peace with choice",
+        "Roy": "Radio-only friend → In-person friend, moved forward from Linda's death",
+        "Echo": "Dying exile → Dies having mattered to someone, connections made, test passed"
+      },
+      "themes_resolved": [
+        "Connection vs. Isolation: Sarah no longer isolated, has Danny and chosen family",
+        "Cost of Truth: Sarah chose compassion over proof, found peace in that",
+        "What Makes Us Human: Humanity proved capable of compassion over exploitation"
+      ]
+    }
+  ],
+
+  "chapter_outline": [
+    {
+      "chapter": 1,
+      "title": "First Contact",
+      "type": "tentpole",
+      "day": "Day 1, 2:47 AM",
+      "pov": "Sarah",
+      "summary": "Sarah picks up Echo's signal and makes first intelligent contact. Mathematical communication establishes non-human intelligence.",
+      "key_scenes": ["Radio shack at night", "First transmission", "Signal responds", "Sarah's realization"],
+      "character_arcs": {"Sarah": 0.0, "Echo": 0.0},
+      "ends_with": "Sarah staring at her notes, deciding to call Roy"
+    },
+    {
+      "chapter": 2,
+      "title": "Confirmation",
+      "type": "bridge",
+      "day": "Day 1, morning",
+      "pov": "Sarah",
+      "summary": "Sarah contacts Roy, they work together to verify the signal. Sarah researches her father's old logs, finds cryptic notes about 1975. Sets up recording equipment for next contact window.",
+      "key_scenes": ["Call with Roy", "Searching father's belongings", "Finding 1975 log entry: 'Never again'"],
+      "character_arcs": {"Sarah": 0.05, "Roy": 0.0},
+      "ends_with": "Sarah finds her father's warning about 2.182 MHz, realizes he heard this before"
+    },
+    {
+      "chapter": 3,
+      "title": "Night Watch",
+      "type": "bridge",
+      "day": "Day 2, night",
+      "pov": "Sarah",
+      "summary": "Second contact night. Signal more complex - sends images encoded in signal, mathematical constants, attempt at language. Sarah records everything. Tries to ask 'where are you?' Signal gives coordinates but they don't make sense - too close.",
+      "key_scenes": ["Second contact", "Communication attempt", "Coordinates received"],
+      "character_arcs": {"Sarah": 0.1, "Echo": 0.05},
+      "ends_with": "Sarah plotting coordinates, confused by terrestrial origin"
+    },
+    {
+      "chapter": 4,
+      "title": "Watchers",
+      "type": "bridge",
+      "day": "Day 3",
+      "pov": "Webb",
+      "summary": "First Webb POV. NSA flags unusual transmissions from licensed operator in Montana. Webb recognizes signal characteristics from classified database - matches unsolved cases. Begins investigation. Interviews Roy Chen by phone. Discovers Sarah Kendrick's identity and history.",
+      "key_scenes": ["Webb's office", "Signal database search", "Call with Roy", "Background check on Sarah"],
+      "character_arcs": {"Webb": 0.0, "Roy": 0.05},
+      "ends_with": "Webb books flight to Montana, thinks 'This is the one'"
+    },
+    {
+      "chapter": 5,
+      "title": "Interference",
+      "type": "bridge",
+      "day": "Day 4",
+      "pov": "Sarah",
+      "summary": "Sarah notices increased traffic on surrounding frequencies - someone is monitoring her. Paranoia building. Call with Danny - awkward, Danny trying to tell her something but Sarah distracted. Third contact: Sarah asks signal to identify itself. Signal responds: 'ECHO LONELY ECHO'.",
+      "key_scenes": ["Detecting surveillance", "Call with Danny", "Third contact", "Name received"],
+      "character_arcs": {"Sarah": 0.15, "Danny": 0.0, "Echo": 0.1},
+      "ends_with": "Sarah: 'Echo, are you alone?' Long pause. 'YES.'"
+    },
+    {
+      "chapter": 6,
+      "title": "Triangulation",
+      "type": "bridge",
+      "day": "Days 5-6",
+      "pov": "Sarah",
+      "summary": "Sarah and Roy work together over two nights using direction-finding. Drive to different locations, take bearings. Signal strength and direction narrow location. Sarah realizes it's near the old military reservation. Cave system. Her stomach drops.",
+      "key_scenes": ["Direction finding expeditions", "Plotting bearings", "Realization of location", "Decision to investigate"],
+      "character_arcs": {"Sarah": 0.2, "Roy": 0.1},
+      "ends_with": "Sarah loads gear into truck, heads toward caves at sunset"
+    },
+    {
+      "chapter": 7,
+      "title": "Local Source",
+      "type": "tentpole",
+      "day": "Day 6",
+      "pov": "Multiple - Sarah and Webb",
+      "summary": "Sarah confirms terrestrial source. Webb arrives in Montana, sets up at local FBI field office. Roy interviewed in person. Webb pieces together that Sarah is going to find the source. Race begins.",
+      "key_scenes": ["Sarah's triangulation success", "Webb arrives Montana", "Interview with Roy", "Webb realizes Sarah's next move"],
+      "character_arcs": {"Sarah": 0.25, "Webb": 0.15, "Roy": 0.15},
+      "ends_with": "Sarah approaching cave entrance. Webb mobilizing team to Sarah's ranch."
+    },
+    {
+      "chapter": 8,
+      "title": "Cave",
+      "type": "bridge",
+      "day": "Day 7, night",
+      "pov": "Sarah",
+      "summary": "Sarah enters cave system alone. Difficult navigation. Goes deep. Begins to see faint glow. Hears sound - crystalline chiming. Fear and wonder mixed. Rounds corner and sees Echo for first time - alien, beautiful, impossible.",
+      "key_scenes": ["Cave descent", "Growing bioluminescent glow", "First sight of Echo", "Moment of first recognition"],
+      "character_arcs": {"Sarah": 0.3, "Echo": 0.15},
+      "ends_with": "Echo: 'You came. I did not believe you would.'"
+    },
+    {
+      "chapter": 9,
+      "title": "Fifty Years",
+      "type": "bridge",
+      "day": "Day 7, night continuing",
+      "pov": "Sarah with Echo",
+      "summary": "Echo tells its story. Exile. Crash. 50 years alone. Learning humanity through broadcasts. Father's 1975 contact. Why it was exiled (wanted to contact humans directly). Its people's philosophy. Echo is dying.",
+      "key_scenes": ["Echo's history", "Father's contact explained", "Exile revelation", "Echo's degradation visible"],
+      "character_arcs": {"Sarah": 0.35, "Echo": 0.2},
+      "ends_with": "Sarah: 'We need to get you help.' Echo: 'There is no help. They are coming.'"
+    },
+    {
+      "chapter": 10,
+      "title": "They Are Coming",
+      "type": "bridge",
+      "day": "Day 7, late night",
+      "pov": "Sarah with Echo",
+      "summary": "Echo explains its people received distress call, estimated arrival 5-6 days. Explains 'the test' - how they judge civilizations by treatment of exiles. Echo: 'I think this is unfair but I cannot stop them.' Sarah realizes she's at center of first contact. Makes promise to protect Echo.",
+      "key_scenes": ["Test explanation", "Echo's people's judgment system", "Sarah's growing protectiveness", "Promise made"],
+      "character_arcs": {"Sarah": 0.4, "Echo": 0.25},
+      "ends_with": "Sarah exits cave at dawn. FBI vehicles at her ranch in distance."
+    },
+    {
+      "chapter": 11,
+      "title": "Lockdown",
+      "type": "bridge",
+      "day": "Day 8",
+      "pov": "Multiple - Sarah, Webb, Danny",
+      "summary": "Webb confronts Sarah at ranch. Standoff. Webb: 'I know you found something.' Sarah: 'Prove it.' Dr. Cross arrives as government consultant. Danny calls, Sarah can't really talk, Danny worried. Webb and Sarah begin wary negotiation. Sarah doesn't reveal cave location.",
+      "key_scenes": ["FBI arrival", "Webb-Sarah confrontation", "Cross introduction", "Danny's worried call", "Standoff"],
+      "character_arcs": {"Sarah": 0.45, "Webb": 0.25, "Danny": 0.05, "Cross": 0.0},
+      "ends_with": "Webb: 'I'm not your enemy, Sarah.' Sarah: 'Then what are you?'"
+    },
+    {
+      "chapter": 12,
+      "title": "Echo",
+      "type": "tentpole",
+      "day": "Day 9",
+      "pov": "Multiple",
+      "summary": "Midpoint. Full revelation of situation. Sarah makes decision: she must trust someone or Echo dies alone. She brings Webb and Cross to Echo. They meet the alien. Echo explains the test. Webb has career choice: report to superiors or help Sarah. Cross has scientific choice: study or protect. Both choose to help.",
+      "key_scenes": ["Sarah's decision", "Taking Webb and Cross to cave", "Their first sight of Echo", "Echo explains test", "Webb and Cross choose sides", "Alliance forms"],
+      "character_arcs": {"Sarah": 0.5, "Webb": 0.4, "Cross": 0.3, "Echo": 0.3},
+      "ends_with": "Webb: 'We have six days to figure this out before the whole world knows.' Alliance formed."
+    },
+    {
+      "chapter": 13,
+      "title": "Preparation",
+      "type": "bridge",
+      "day": "Days 10-11",
+      "pov": "Multiple",
+      "summary": "Group works together. Cross studies Echo (ethically, with consent). Webb runs interference with superiors. Sarah learns more about Echo's observations of humanity. Roy arrives in Montana in person - emotional reunion with Sarah, meets Echo. Plans being made but no one knows what to do.",
+      "key_scenes": ["Cross-Echo conversations", "Webb lying to superiors", "Roy's arrival", "Roy and Sarah's first in-person meeting", "Roy meets Echo", "Growing friendship"],
+      "character_arcs": {"Sarah": 0.55, "Webb": 0.5, "Cross": 0.4, "Roy": 0.4, "Echo": 0.35},
+      "ends_with": "Danny calls: 'Mom, I'm scared. Everyone at school is talking about signals from Montana. Is that you?'"
+    },
+    {
+      "chapter": 14,
+      "title": "Containment",
+      "type": "bridge",
+      "day": "Day 12",
+      "pov": "Webb and Danny",
+      "summary": "Situation leaked to media. Chaos. Webb's superiors demand answers. DoD moving in. Meanwhile Danny, worried and impulsive, runs away from home to Montana. Gets on bus. Robert Kendrick calls Sarah, panicked: 'Danny's gone.' Sarah: 'He's coming here.'",
+      "key_scenes": ["Media leak", "Webb confronted by superiors", "Danny's decision to run", "Bus journey", "Robert's panic call"],
+      "character_arcs": {"Webb": 0.55, "Danny": 0.15, "Sarah": 0.6},
+      "ends_with": "Danny arrives at ranch, Sarah opens door: 'Oh, Danny.' They hug."
+    },
+    {
+      "chapter": 15,
+      "title": "Family",
+      "type": "bridge",
+      "day": "Day 13",
+      "pov": "Sarah and Danny",
+      "summary": "Sarah and Danny reconnect during crisis. Honest conversations - past hurts, custody battle, why she retreated, why he's angry. Sarah introduces Danny to Echo. Danny terrified then fascinated. Echo: 'Your mother is extraordinary. You should know this.' Danny sees his mom through new eyes.",
+      "key_scenes": ["Sarah-Danny conversation", "Meeting Echo", "Echo's perspective on Sarah", "Danny's fear turning to wonder", "Beginning of repair"],
+      "character_arcs": {"Sarah": 0.65, "Danny": 0.35, "Echo": 0.4},
+      "ends_with": "Danny: 'Are they really coming? Echo's people?' Sarah: 'Yes. Day after tomorrow.'"
+    },
+    {
+      "chapter": 16,
+      "title": "Detection",
+      "type": "bridge",
+      "day": "Day 14-15",
+      "pov": "Multiple",
+      "summary": "Echo's people detected approaching Earth. Observatories worldwide confirm object in outer solar system, decelerating impossibly fast. World governments mobilize. Webb can no longer contain situation - DoD takes over, ranch surrounded. Sarah, Danny, Webb, Cross, Roy, all with Echo in cave. Waiting.",
+      "key_scenes": ["Astronomical confirmation", "World reaction", "Military lockdown", "Group trapped with Echo", "Echo weakening visibly", "Waiting for arrival"],
+      "character_arcs": {"Sarah": 0.7, "Webb": 0.6, "Cross": 0.5, "Danny": 0.45, "Roy": 0.5, "Echo": 0.45},
+      "ends_with": "Night sky lights up. They're here."
+    },
+    {
+      "chapter": 17,
+      "title": "The Test",
+      "type": "tentpole",
+      "day": "Day 16",
+      "pov": "Multiple, primarily Sarah",
+      "summary": "Climax. Ship arrives. Echo's people make contact through all communication channels worldwide. Present the test: knowledge or compassion. Cannot have both. World watching. Governments demanding Sarah choose knowledge. Echo tells Sarah to choose knowledge. Danny asks what grandpa would do. Sarah chooses compassion. Ship departs. Test passed.",
+      "key_scenes": ["Ship arrival visible worldwide", "Broadcast to all channels", "Test presented", "World pressure on Sarah", "Echo: 'Choose knowledge'", "Danny's question", "Sarah's choice", "Ship departure", "Echo: 'You passed'"],
+      "character_arcs": {"Sarah": 0.85, "Webb": 0.8, "Cross": 0.75, "Danny": 0.7, "Roy": 0.7, "Echo": 0.7},
+      "ends_with": "Echo collapsing: 'It is time. Stay with me?'"
+    },
+    {
+      "chapter": 18,
+      "title": "Dissolution",
+      "type": "bridge",
+      "day": "Days 16-18",
+      "pov": "Sarah",
+      "summary": "Echo dies over three days. Sarah stays with it. Final conversations about meaning, connection, humanity. Echo's last words about connection being universal constant. Body dissolves to crystal dust. All physical evidence gone. Recordings corrupted mysteriously. No proof remains.",
+      "key_scenes": ["Echo's dying", "Final conversations", "Echo's last words", "Body dissolution", "Evidence erasure", "Sarah's grief without proof"],
+      "character_arcs": {"Sarah": 0.9, "Echo": 1.0, "Danny": 0.8},
+      "ends_with": "Sarah holding handful of crystal dust that dissolves in the wind"
+    },
+    {
+      "chapter": 19,
+      "title": "Aftermath",
+      "type": "bridge",
+      "day": "Days 19-20, then months later",
+      "pov": "Multiple",
+      "summary": "Immediate aftermath: media storm, government denials, conspiracy theories. No evidence. Webb leaves FBI. Cross leaves SETI. Roy stays with Sarah for weeks, then returns to California - changed. Danny stays with Sarah. Robert arrives, hard conversations, new custody arrangement - Danny splits time. Everyone changed by what they witnessed.",
+      "key_scenes": ["Media chaos", "Government cover-up", "Webb's resignation", "Cross leaving SETI", "Robert arrives", "Family negotiations", "Everyone departing changed"],
+      "character_arcs": {"Sarah": 0.95, "Webb": 0.95, "Cross": 0.9, "Danny": 0.9, "Roy": 0.85},
+      "ends_with": "Months later: Sarah and Danny at radio together, learning together"
+    },
+    {
+      "chapter": 20,
+      "title": "The Loneliest Frequency",
+      "type": "tentpole",
+      "day": "Six months later",
+      "pov": "Sarah",
+      "summary": "Resolution. Six months later. Sarah and Danny running radio together. She's teaching him. Roy checks in on their old schedule. Webb sends postcards from traveling. Cross doing ethical consulting work. Sarah has no proof it happened but has Danny, has chosen family, has connection. No longer isolated. Final scene: teaching Danny to call CQ, showing him the magic of reaching out. The loneliest frequency is no longer lonely.",
+      "key_scenes": ["Sarah and Danny at radio", "Danny's first CQ call", "Contact with Roy", "Update on Webb and Cross", "Sarah's internal peace", "Father's photo in background", "Final image: radio static that meant everything"],
+      "character_arcs": {"Sarah": 1.0, "Danny": 1.0, "Webb": 1.0, "Cross": 1.0, "Roy": 1.0},
+      "ends_with": "Sarah watches Danny at the radio, no longer alone, connection achieved. Static on the monitor. She smiles.",
+      "final_line": "In the end, the signal didn't matter. The answer did."
+    }
+  ],
+
+  "causal_chains": [
+    {
+      "id": "CC1",
+      "description": "Father's 1975 contact leads to Sarah's 2025 contact",
+      "cause": "Jack Kendrick makes contact with Echo in 1975, warns Sarah about the frequency",
+      "intermediate_steps": [
+        "Jack's warning makes 2.182 MHz forbidden territory for Sarah (Ch 2)",
+        "Forbidden territory creates curiosity and significance (Ch 1)",
+        "Sarah uses same radio equipment, same ranch location (Ch 1)"
+      ],
+      "effect": "Sarah picks up Echo's signal when she finally tries the forbidden frequency",
+      "chapters": [1, 2, 9],
+      "status": "active"
+    },
+    {
+      "id": "CC2",
+      "description": "Sarah's isolation prepares her for the test",
+      "cause": "Sarah loses custody, retreats to ranch, isolates herself",
+      "intermediate_steps": [
+        "Isolation means no witnesses to verify signal (Ch 1)",
+        "Isolation means she's comfortable with solo decision-making (Ch 1-6)",
+        "Isolation means she understands Echo's loneliness intimately (Ch 9-10)",
+        "Isolation means she can resist external pressure (Ch 17)"
+      ],
+      "effect": "Sarah is uniquely positioned to make independent choice during test, resisting world pressure",
+      "chapters": [1, 5, 11, 17],
+      "status": "active"
+    },
+    {
+      "id": "CC3",
+      "description": "Echo's exile creates the test scenario",
+      "cause": "Echo exiled 50 years ago for wanting to contact humans",
+      "intermediate_steps": [
+        "Exile forced Echo to study humans in isolation (Ch 9)",
+        "Study gave Echo unique insights into humanity (Ch 10)",
+        "Distress call attracted Echo's people (Ch 10)",
+        "People use exile situation to conduct test (Ch 12)"
+      ],
+      "effect": "The test scenario emerges directly from Echo's exile circumstances",
+      "chapters": [9, 10, 12, 17],
+      "status": "active"
+    },
+    {
+      "id": "CC4",
+      "description": "Webb's career frustration enables his eventual choice",
+      "cause": "Webb's 20 years of buried cases creates cynicism and frustration",
+      "intermediate_steps": [
+        "Frustration makes him desperate for vindication (Ch 4)",
+        "Desperation drives aggressive investigation (Ch 7, 11)",
+        "Meeting Echo forces confrontation with career vs. ethics (Ch 12)",
+        "20 years of following orders that buried truth makes him ready to break rules (Ch 12-17)"
+      ],
+      "effect": "Webb chooses to help Sarah rather than report Echo, sacrificing career",
+      "chapters": [4, 7, 11, 12, 17],
+      "status": "active"
+    },
+    {
+      "id": "CC5",
+      "description": "Danny's resentment transformed by witnessing Sarah's heroism",
+      "cause": "Danny resents Sarah for 'choosing radio over him' (custody context)",
+      "intermediate_steps": [
+        "Resentment makes phone calls awkward (Ch 5)",
+        "Media attention makes Danny worried (Ch 13)",
+        "Worry overcomes resentment, Danny runs away to Montana (Ch 14)",
+        "Danny meets Echo, sees Sarah as protector not obsessive (Ch 15)",
+        "Danny witnesses Sarah's impossible choice, sees her values (Ch 17)"
+      ],
+      "effect": "Danny's perspective on Sarah completely transforms, foundation for new relationship",
+      "chapters": [5, 13, 14, 15, 17, 20],
+      "status": "active"
+    },
+    {
+      "id": "CC6",
+      "description": "Roy's voice-only friendship must become in-person support",
+      "cause": "Roy and Sarah have close radio-only friendship for years",
+      "intermediate_steps": [
+        "Sarah trusts Roy first with signal discovery (Ch 2)",
+        "Roy helps with technical analysis remotely (Ch 6-7)",
+        "Sarah in danger, Roy feels helpless at distance (Ch 11)",
+        "Roy must break his pattern of isolation to help (Ch 13)"
+      ],
+      "effect": "Roy travels to Montana, meets Sarah in person, evolves friendship beyond radio safety",
+      "chapters": [2, 6, 7, 11, 13],
+      "status": "active"
+    },
+    {
+      "id": "CC7",
+      "description": "Cave location near missile silo explains Echo's crash",
+      "cause": "Echo's ship attracted to EM signature of nuclear missile silo in 1975",
+      "intermediate_steps": [
+        "Crash buried ship deep underground near caves (backstory)",
+        "Echo survived in cave system for 50 years (Ch 9)",
+        "Specific location creates triangulation puzzle for Sarah (Ch 6-7)",
+        "Military interest in area creates government awareness (Ch 4)"
+      ],
+      "effect": "Geographic specificity of signal source drives investigation and discovery",
+      "chapters": [4, 6, 7, 9],
+      "status": "active"
+    },
+    {
+      "id": "CC8",
+      "description": "Evidence erasure forces choice between proof and memory",
+      "cause": "Echo's people ensure no physical evidence remains",
+      "intermediate_steps": [
+        "Echo's body dissolves completely (Ch 18)",
+        "Recordings mysteriously corrupted (Ch 18)",
+        "Ship departure leaves no trace (Ch 17)",
+        "Only witness testimony remains (Ch 19)"
+      ],
+      "effect": "Sarah must live with unprovable truth, final test of whether validation matters",
+      "chapters": [17, 18, 19, 20],
+      "status": "active"
+    }
+  ],
+
+  "planted_elements": [
+    {
+      "id": "PE1",
+      "element": "2.182 MHz frequency - father's warning",
+      "planted_chapter": 1,
+      "developed_chapters": [2, 9],
+      "payoff_chapter": 9,
+      "status": "planted",
+      "significance": "Father had contact with Echo in 1975, warned Sarah away to protect her. His fear was protective love."
+    },
+    {
+      "id": "PE2",
+      "element": "Signal only works under specific atmospheric conditions (night, certain weather)",
+      "planted_chapter": 1,
+      "developed_chapters": [3, 6],
+      "payoff_chapter": 7,
+      "status": "planted",
+      "significance": "Explains why Echo wasn't detected before, creates urgency and limitation on contact windows"
+    },
+    {
+      "id": "PE3",
+      "element": "Sarah's custody battle and 'obsessive' label",
+      "planted_chapter": 2,
+      "developed_chapters": [5, 11, 15],
+      "payoff_chapter": 17,
+      "status": "planted",
+      "significance": "Her supposed weakness (obsession, isolation) becomes strength (independence, understanding Echo's exile)"
+    },
+    {
+      "id": "PE4",
+      "element": "Echo has been subtly influencing human technology for 50 years",
+      "planted_chapter": 10,
+      "developed_chapters": [12],
+      "payoff_chapter": 18,
+      "status": "planted",
+      "significance": "Echo's gift to humanity was already given - small nudges over decades. Knowledge vs compassion is false choice."
+    },
+    {
+      "id": "PE5",
+      "element": "Webb's database of unsolved signal cases",
+      "planted_chapter": 4,
+      "developed_chapters": [7, 11],
+      "payoff_chapter": 12,
+      "status": "planted",
+      "significance": "Echo has attempted contact before, failed. Government has been aware of something for years."
+    },
+    {
+      "id": "PE6",
+      "element": "Danny secretly learning ham radio",
+      "planted_chapter": 5,
+      "developed_chapters": [14, 15],
+      "payoff_chapter": 20,
+      "status": "planted",
+      "significance": "Danny was trying to connect with Sarah all along using her language. Full circle in final chapter."
+    },
+    {
+      "id": "PE7",
+      "element": "Echo's crystalline biology and light",
+      "planted_chapter": 8,
+      "developed_chapters": [9, 12, 15],
+      "payoff_chapter": 18,
+      "status": "planted",
+      "significance": "Beautiful, geometric, light-based. Dissolution leaves crystal dust that fades - all evidence erased poetically"
+    },
+    {
+      "id": "PE8",
+      "element": "The test: knowledge or compassion",
+      "planted_chapter": 10,
+      "developed_chapters": [12, 16],
+      "payoff_chapter": 17,
+      "status": "planted",
+      "significance": "Central moral question. Echo's people judge civilizations by treatment of exiles. Ultimate first contact test."
+    },
+    {
+      "id": "PE9",
+      "element": "Roy's widowhood and isolation mirroring Sarah's",
+      "planted_chapter": 2,
+      "developed_chapters": [6, 13],
+      "payoff_chapter": 19,
+      "status": "planted",
+      "significance": "Roy must also break isolation pattern to help. His arc parallels Sarah's - moving from voice-only to presence."
+    },
+    {
+      "id": "PE10",
+      "element": "Cross's false alarm three years ago",
+      "planted_chapter": 11,
+      "developed_chapters": [12],
+      "payoff_chapter": 17,
+      "status": "planted",
+      "significance": "Explains her caution and protocol obsession. Must overcome fear of being wrong to make ethical choice."
+    }
+  ],
+
+  "thematic_threads": {
+    "connection_vs_isolation": {
+      "chapters": [1, 2, 5, 6, 9, 10, 13, 15, 18, 20],
+      "evolution": "Sarah starts isolated, Echo is isolated, both reach across impossible distance. Test proves connection requires vulnerability. Resolution shows Sarah connected - with Danny, Roy, chosen family. The loneliest frequency found its answer."
+    },
+    "cost_of_truth": {
+      "chapters": [1, 7, 11, 12, 17, 18, 19, 20],
+      "evolution": "Sarah wants proof to validate her life. Realizes proof would harm Echo. Chooses compassion over proof. Loses all evidence. Must live with unprovable truth. Finds peace without validation."
+    },
+    "what_makes_us_human": {
+      "chapters": [9, 10, 12, 15, 17, 18],
+      "evolution": "Echo's 50 years of observation. Sees human contradiction, cruelty and compassion. Test specifically probes human values. Sarah's choice defines humanity's character in that moment. Echo dies believing humans capable of good."
+    }
+  },
+
+  "plot_integrity_rules": [
+    "Sarah cannot have outside witnesses early on - her isolation is key to her independent choice",
+    "Echo must be dying throughout - creates time pressure and stakes",
+    "Government response must be realistic - bureaucratic, compartmentalized, not omnipotent",
+    "Evidence must be erased by end - Sarah cannot prove what happened",
+    "The test must be genuinely difficult - knowledge OR compassion, not both",
+    "Danny's arrival must feel earned not convenient - his worry builds to running away",
+    "Webb and Cross's choices to help Sarah must come from character development not convenience",
+    "Echo's people cannot be villains or saviors - they're judges with alien ethics",
+    "Mathematical communication must be consistent and realistic",
+    "All technology must be feasible with 2025 tech or explained by alien biology"
+  ]
+}

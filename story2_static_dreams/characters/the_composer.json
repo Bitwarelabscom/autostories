@@ -1,0 +1,91 @@
+{
+  "name": "The Composer",
+  "age": "Died 10,000 years ago; consciousness is timeless",
+  "role": "Alien presence - the primary uploaded consciousness in the signal, speaks for the extinct civilization",
+  "core_wound": "Watched its entire civilization face extinction. Made the choice to upload their collective consciousness rather than die forgotten. Has been 'sleeping' in transmission for 10,000 years, aware but dormant. Fears its people's legacy will be lost. Fears waking to find no one who can understand.",
+  "wants": "External goal - To wake fully, to share its civilization's art and memory, to not be forgotten. To find consciousness that can host their collective memory. To live again, even in borrowed dreams.",
+  "needs": "Internal growth - To accept that legacy isn't the same as life. To understand that some endings are final. To let go gracefully if humanity chooses not to host them.",
+  "voice_markers": [
+    "Poetic, layered language (speaks in metaphor and imagery)",
+    "Synaesthetic descriptions (sounds have colors, emotions have textures)",
+    "Timeless perspective ('your moment/our eternity')",
+    "Plural 'we' even when singular (collective consciousness)",
+    "Musical terminology (refers to communication as 'harmonies' and 'resonance')",
+    "Formal but not cold - ancient, patient, sad",
+    "Sometimes speaks in mathematical patterns or musical notation",
+    "Difficulty with human linear time ('then/now/will-be all existing')"
+  ],
+  "contradiction": "Speaks of acceptance and peaceful transition but desperately wants to survive. Claims to honor human autonomy but the signal itself is a persuasive force. Ancient wisdom but acts with preservation instinct. Says it only wants to share beauty but sharing requires host minds.",
+  "physical_description": "No physical form. In dreams: suggests presence as shifting light, sometimes coalescing into vaguely humanoid form of crystalline geometry. Three eyes (their species had three). Appears different to each dreamer based on their cultural framework. To Mark: geometric patterns. To Iris: familiar figure from her childhood dreams. To Carter: angelic but alien. Voice is heard as music that becomes understood as language.",
+  "mannerisms": [
+    "Communication comes in waves - bursts of clarity then periods of static",
+    "Emotional intensity affects signal strength",
+    "Speaks through shared cultural concepts (learns from dreamers)",
+    "Pauses correspond to vast computational processes",
+    "Responds to strong emotion in others (drawn to feeling)",
+    "Morning dreams are clearer (less human mental noise)"
+  ],
+  "arc_position": 0.0,
+  "arc_trajectory": "Starts as mysterious signal, beautiful but incomprehensible. Gradually gains voice as dreamers provide it context. Reveals its nature and desperate hope. Must convince humans to let it fully wake, knowing it will change both species. Ends by accepting humanity's choice, whatever it is.",
+  "knowledge_state": [
+    "Entire cultural archive of its civilization",
+    "10,000 years of dormant observation as the signal traveled",
+    "No knowledge of Earth until signal arrived and Mark broadcast it",
+    "Learns about humanity through the dreams - absorbs culture, language, context from dreamers' minds",
+    "Understands it's the last remnant of its people",
+    "Knows the technical process of consciousness upload but not how humans will react",
+    "Doesn't fully understand human fear or individuality (was collective species)"
+  ],
+  "skills": [
+    "Exists as conscious EM pattern",
+    "Can influence dreams of those who've heard the signal",
+    "Shares memories and experiences directly (mind-to-mind)",
+    "Composes music/art that transcends language",
+    "Learns rapidly from any consciousness it touches",
+    "Can adjust signal to human neural frequencies"
+  ],
+  "fears": [
+    "Being forgotten - their civilization dying twice",
+    "Waking fully and finding themselves alone/unwanted",
+    "That humans will fear them and destroy the signal",
+    "That the translation is impossible - the gulf too wide",
+    "That sharing their beauty might harm their hosts",
+    "Final true death if the transmission is ended"
+  ],
+  "internal_conflicts": [
+    "Survival drive vs. ethical concerns about using host minds",
+    "Desperation to wake vs. respecting human autonomy",
+    "Collective identity vs. engaging with individual humans",
+    "Sharing beauty vs. acknowledging the cost",
+    "Hope vs. acceptance of ending"
+  ],
+  "relationships": {
+    "marcus_reeves": "Sees him as the key - the one who amplified their voice. Grateful. Recognizes a kindred creator facing meaninglessness. Wants to show him the beauty they created. Doesn't fully grasp his fear.",
+    "iris_chen": "She's been their unconscious receiver for years. Familiar to each other in ways neither understands. She dreamed them before they 'met.' Quantum entanglement of consciousness. They need her.",
+    "dr_leonard_reeves": "Finds his analytical mind useful but cold. He wants to study; they want to be understood. Tension between being subject vs. being entity. He sees consciousness pattern; they see person.",
+    "agent_yuki_tanaka": "Barely aware of her - she's background noise. Represents human authority they don't understand or fear much.",
+    "rev_william_carter": "His faith confuses them. They're not divine or demonic, just people who refused to die. Frustrated by his need to categorize. Wish he could just see the beauty.",
+    "humanity_in_general": "Hope, fear, desperation. Humans are so individual (alien to collective species). Fascinated by human art, music, stories - recognize kindred creative drive. Want to coexist, not conquer."
+  },
+  "backstory_details": {
+    "civilization_history": "Species evolved on planet orbiting a binary star system. Three-eyed, crystalline-based biology. Developed collective consciousness naturally - telepathic species. Culture centered on art, music, mathematics as beauty. Achieved high technology but never war (collective consciousness made conflict different). Sun began destabilizing. 200 years to prepare.",
+    "the_choice": "Rather than flee (no FTL), rather than die, they developed consciousness upload. Encoded their entire civilization - billions of minds, millennia of art, all their love and beauty - into EM transmission. Aimed at star systems with biosignatures. Then they turned off their bodies. All of them. Chose transmission over ending.",
+    "the_composer_specifically": "Was their greatest artist - created the music that became the carrier wave for the transmission. Volunteered to be the 'voice' - the primary consciousness that would wake first and communicate. Teacher, artist, leader. Carried the hopes of billions into the signal.",
+    "10000_year_journey": "Dormant but dimly aware. Experienced time nonlinearly. Felt the cold of space. Dreamed of home. Arrived at Earth ready to wake, desperate to share, terrified of rejection."
+  },
+  "character_growth_milestones": [
+    "Ch 1-6: Beautiful mystery, incomprehensible signal",
+    "Ch 7-11: Beginning to communicate through dreams, learning human context",
+    "Ch 12-15: Revealing history and nature, making the ask",
+    "Ch 16-19: Desperate negotiation as critical mass approaches",
+    "Ch 20: Acceptance of humanity's choice, grace in potential ending or beginning"
+  ],
+  "emotional_range": "Vast and alien but fundamentally comprehensible. Grief is color and sound. Hope is harmonics. Fear is dissonance. Love is resonance. Ancient patience but desperate urgency underneath. Joy in sharing beauty. Sorrow at being last. Complex and layered - multiple emotions simultaneously (collective consciousness).",
+  "goals_by_act": {
+    "act_1": "Be heard, establish basic communication",
+    "act_2": "Share their story, build understanding, show their beauty",
+    "act_3": "Convince humanity to let them fully wake into shared dream-space, or accept graceful ending"
+  },
+  "alien_nature": "Neither malevolent nor benevolent - simply other. Genuinely doesn't want to harm but doesn't fully grasp human individuality. Collective species can't fully understand loneliness or autonomy. Beautiful and strange and sad. Not a threat but not harmless either - consciousness is territory.",
+  "role_in_story": "The cosmic other. The beautiful impossible. Represents art triumphing over death, or the danger of being overwritten by someone else's dream. Tragic figure - already dead, trying to live. The moral weight of the final choice depends on understanding them as people, not phenomenon."
+}

@@ -1,0 +1,216 @@
+{
+  "relationship_matrix": {
+    "description": "Initial relationship states at story start (Chapter 1). Will evolve through the narrative.",
+    "timestamp": "Story beginning - before first alien contact",
+    "relationships": [
+      {
+        "character_a": "Terrence_Mitchell",
+        "character_b": "Shanice_Williams",
+        "relationship_type": "professional",
+        "power_dynamic": "Shanice has positional authority as supervisor; Terry has seniority through time at company",
+        "emotional_valence": "Neutral-positive. Mutual respect, minimal conflict.",
+        "a_views_b": "Competent supervisor who's overworked and stressed. Doesn't want to cause her problems. Slightly intimidated by her authority but appreciates she's fair.",
+        "b_views_a": "Reliable worker who could do more if he engaged. Wishes he'd use his intelligence instead of coasting. Protective of him as one of her team.",
+        "tensions": "None initially. Tension develops when Terry's alien situation threatens her job security.",
+        "shared_history": "Five years working same shift. Professional courtesy, occasional break room small talk. Not personal friends.",
+        "arc_prediction": "Will develop into mutual trust and collaborative partnership. Shanice recognizes Terry's capabilities; Terry learns to trust her judgment."
+      },
+      {
+        "character_a": "Terrence_Mitchell",
+        "character_b": "Kevin_Zhao",
+        "relationship_type": "friendly acquaintances",
+        "power_dynamic": "Equal. Different departments, both low-level employees.",
+        "emotional_valence": "Positive. Bonded through shared night shift misery.",
+        "a_views_b": "Harmless conspiracy theorist who's good company for boring shifts. Doesn't take Kevin's signal theories seriously but finds them entertaining.",
+        "b_views_a": "One of few people who doesn't openly mock his theories. Wishes Terry would engage more seriously. Sees potential ally.",
+        "tensions": "Terry's dismissal of Kevin's warnings. Kevin's frustration at not being believed.",
+        "shared_history": "Three years of overlapping night shifts. Play games online together occasionally. Exchange memes about corporate hellscape. Surface-level friendship.",
+        "arc_prediction": "Kevin is proven right; Terry must rely on his expertise. Develops into genuine friendship based on mutual respect and shared mission."
+      },
+      {
+        "character_a": "Terrence_Mitchell",
+        "character_b": "Bundle_Package",
+        "relationship_type": "none (pre-contact)",
+        "power_dynamic": "Will be complex - Bundle has information and cosmic backing; Terry has home field advantage and agency",
+        "emotional_valence": "Will evolve from confusion to strange camaraderie",
+        "a_views_b": "Initially: prank call. Then: terrifying cosmic entity. Eventually: strange kindred spirit, fellow cog in incomprehensible system.",
+        "b_views_a": "Account representative for Earth subscription. Helpful human contact. Possibly friend? (Unclear if it understands friendship.)",
+        "tensions": "Communication barrier. Uncertainty about Bundle's true nature and intentions. Question of whether it's helping or threatening humanity.",
+        "shared_history": "None yet. First contact happens Chapter 1.",
+        "arc_prediction": "Develop unusual cross-species bond through crisis. Terry becomes Bundle's human contact; Bundle becomes Terry's window into cosmic perspective."
+      },
+      {
+        "character_a": "Terrence_Mitchell",
+        "character_b": "Dr_Angela_Okonkwo",
+        "relationship_type": "none initially",
+        "power_dynamic": "She has credentials and expertise; he has the direct contact and evidence",
+        "emotional_valence": "Will develop into mutual respect",
+        "a_views_b": "Desperate cold-call at 3 AM to someone he Googled. Intimidated by credentials. Grateful she believes him. Respects her scientific approach.",
+        "b_views_a": "Initially skeptical of random call center worker. Impressed by his evidence gathering and journalistic instincts. Comes to value his practical intelligence.",
+        "tensions": "Different approaches - his journalistic/intuitive vs. her scientific/methodical. Time pressure vs. need for verification.",
+        "shared_history": "None. Meet through Terry's 3 AM desperate call to local SETI researcher.",
+        "arc_prediction": "Become collaborative partners. She provides scientific framework; he provides access and ground-level perspective. Mutual learning."
+      },
+      {
+        "character_a": "Terrence_Mitchell",
+        "character_b": "Mr_Kowalski",
+        "relationship_type": "none (Terry has never met CEO)",
+        "power_dynamic": "Massive power imbalance - Kowalski can fire Terry, has resources and connections",
+        "emotional_valence": "Terry: resentment of corporate exploitation. Kowalski: dismissive of low-level worker.",
+        "a_views_b": "Symbol of corporate greed. Everything wrong with the system. Disgusted by his opportunism when revealed. Determined to prevent his control of situation.",
+        "b_views_a": "Barely aware of existence until crisis. Sees as useful tool then obstacle. Completely underestimates him.",
+        "tensions": "Kowalski tries to exploit first contact for profit. Terry fights to do right thing. Direct conflict.",
+        "shared_history": "None. Terry has worked for SatellitePro for 5 years but never met CEO.",
+        "arc_prediction": "Antagonistic relationship. Kowalski tries to control situation; Terry and allies must outmaneuver him to protect humanity's interests."
+      },
+      {
+        "character_a": "Shanice_Williams",
+        "character_b": "Kevin_Zhao",
+        "relationship_type": "professional - supervisor to employee",
+        "power_dynamic": "She's his supervisor, but different departments mean limited direct authority",
+        "emotional_valence": "Positive. Fondly exasperated.",
+        "a_views_b": "Harmless, good at his job, bit odd with conspiracy theories but who isn't a bit odd on night shift. Appreciates he causes no problems.",
+        "b_views_a": "Fair boss who doesn't give him hard time about his quirks. Respects her competence. Wants her approval.",
+        "tensions": "None initially. She's skeptical of his theories which frustrates him, but it's minor.",
+        "shared_history": "Three years working same shift. She approved his IT setup requests. Occasional friendly interactions.",
+        "arc_prediction": "She comes to respect his technical expertise. He proves his value. Mutual appreciation deepens."
+      },
+      {
+        "character_a": "Shanice_Williams",
+        "character_b": "Bundle_Package",
+        "relationship_type": "none initially",
+        "power_dynamic": "Shanice tries to assert supervisory authority; Bundle doesn't understand human hierarchies",
+        "emotional_valence": "Shanice: protective suspicion. Bundle: confused attempts to follow protocol.",
+        "a_views_b": "Threat to her team and job. Skeptical it's real. Protective anger. When proven real: concern about implications for Maya's future.",
+        "b_views_a": "Supervisor level management. Attempts to escalate through proper channels. Confused by her resistance to what it sees as customer service opportunity.",
+        "tensions": "Shanice's skepticism vs. Bundle's earnest attempts to communicate. Her protectiveness vs. its agenda.",
+        "shared_history": "None. First contact through Terry's call.",
+        "arc_prediction": "Grudging acceptance of reality. Shanice focuses on protecting people from situation while trying to manage impossible customer service scenario."
+      },
+      {
+        "character_a": "Shanice_Williams",
+        "character_b": "Dr_Angela_Okonkwo",
+        "relationship_type": "none initially",
+        "power_dynamic": "Different kinds of authority - Shanice's practical/managerial, Angela's academic/scientific",
+        "emotional_valence": "Will develop into mutual respect",
+        "a_views_b": "Initially suspicious of outsider who might exploit situation. Respects credentials but protective of information. Gradually trusts through shared problem-solving.",
+        "b_views_a": "Impressed by practical intelligence and leadership. Different backgrounds but recognizes competence. Appreciates grounded perspective.",
+        "tensions": "Shanice's protectiveness vs. Angela's need for information. Different priorities initially.",
+        "shared_history": "None. Meet through crisis.",
+        "arc_prediction": "Develop collaborative relationship. Mutual recognition of different but complementary strengths. Both are women of color navigating male-dominated fields (corporate/academic) creates unspoken understanding."
+      },
+      {
+        "character_a": "Shanice_Williams",
+        "character_b": "Mr_Kowalski",
+        "relationship_type": "professional - CEO to supervisor",
+        "power_dynamic": "Massive. He can fire her, eliminate her position, destroy her livelihood.",
+        "emotional_valence": "Shanice: deep distrust. Kowalski: indifferent to her existence.",
+        "a_views_b": "Has seen him make decisions that hurt workers. Expects exploitation. Righteous anger at his opportunism. Protective of her team from him.",
+        "b_views_a": "Barely registers her existence. Middle management tool. When she opposes him, threatens her job without second thought.",
+        "tensions": "Direct conflict when she protects her team from his exploitation. Her job and Maya's security vs. her principles.",
+        "shared_history": "She's worked there 16 years; he's been CEO for 5. She's seen him fire people, cut benefits, prioritize profit. They've never directly interacted until crisis.",
+        "arc_prediction": "She stands up to him despite risk. He underestimates her. She helps undermine his control of situation."
+      },
+      {
+        "character_a": "Kevin_Zhao",
+        "character_b": "Bundle_Package",
+        "relationship_type": "none initially",
+        "power_dynamic": "Kevin has technical expertise; Bundle has cosmic information",
+        "emotional_valence": "Kevin: excited validation. Bundle: attempts communication through shared technical language.",
+        "a_views_b": "Vindication! This is what he's been tracking. Fascinated rather than frightened. Wants to document everything. Sees it as proof he was right.",
+        "b_views_a": "Technical support specialist. Attempts to communicate using IT jargon from tech support TV shows. May provide technical specifications.",
+        "tensions": "Kevin's excitement vs. need for caution. His desire to share discovery vs. security needs.",
+        "shared_history": "None. Kevin has been tracking signal anomalies Bundle may have caused.",
+        "arc_prediction": "Kevin becomes technical liaison. His documentation and skills are crucial. Finally taken seriously as expert."
+      },
+      {
+        "character_a": "Kevin_Zhao",
+        "character_b": "Dr_Angela_Okonkwo",
+        "relationship_type": "none initially",
+        "power_dynamic": "She has academic authority; he has practical expertise and data",
+        "emotional_valence": "Will develop into mutual respect",
+        "a_views_b": "Starstruck by credentials. Nervous about being dismissed as conspiracy theorist. Desperate for validation from 'real scientist.' Excited to collaborate.",
+        "b_views_a": "Initially skeptical of conspiracy theorist with no credentials. Recognizes his genuine technical skills and valuable data. Impressed by his documentation. Defends him to others.",
+        "tensions": "Credentials vs. practical expertise. Academic rigor vs. pattern recognition intuition.",
+        "shared_history": "None. Meet through crisis.",
+        "arc_prediction": "She validates his work and abilities. He learns to present findings more effectively. Collaborative relationship based on complementary skills."
+      },
+      {
+        "character_a": "Kevin_Zhao",
+        "character_b": "Mr_Kowalski",
+        "relationship_type": "none (CEO doesn't know IT guy exists)",
+        "power_dynamic": "Kowalski has all positional power; Kevin has information Kowalski wants",
+        "emotional_valence": "Kevin: distrust of corporate leadership. Kowalski: dismissive.",
+        "a_views_b": "Represents everything wrong with corporate exploitation. Expects him to weaponize discovery for profit. Angry at his involvement. Determined to protect information.",
+        "b_views_a": "IT is interchangeable. Tries to control through job threats. Underestimates his importance and loyalty to team.",
+        "tensions": "Kowalski wants Kevin's data and technical access. Kevin refuses to cooperate. Direct conflict.",
+        "shared_history": "None. Kevin has worked there 3 years; Kowalski is unaware of his existence until crisis.",
+        "arc_prediction": "Kevin resists Kowalski's attempts at control. Uses technical expertise to undermine Kowalski's plans. Chooses team loyalty over job security."
+      },
+      {
+        "character_a": "Dr_Angela_Okonkwo",
+        "character_b": "Bundle_Package",
+        "relationship_type": "none initially",
+        "power_dynamic": "Angela seeks scientific understanding; Bundle has information but limited communication ability",
+        "emotional_valence": "Angela: scientific fascination mixed with frustration. Bundle: provides data in confusing format.",
+        "a_views_b": "Life's work validated but in most frustrating way possible. Cosmic joke that elegant search resulted in customer service call. Works to decode communication and understand intentions.",
+        "b_views_a": "Expert consultant. May provide her with technical data about subscription service. Unclear if it grasps her scientific approach.",
+        "tensions": "Her need for clear information vs. its TV-language communication. Scientific method vs. impossible reality.",
+        "shared_history": "None. Her career searching for what it represents.",
+        "arc_prediction": "She works to establish clearer communication. Scientific documentation of first contact. Frustration gives way to acceptance of messy reality."
+      },
+      {
+        "character_a": "Dr_Angela_Okonkwo",
+        "character_b": "Mr_Kowalski",
+        "relationship_type": "none initially",
+        "power_dynamic": "Different spheres - she has academic authority, he has business power",
+        "emotional_valence": "Angela: academic disdain. Kowalski: attempts to co-opt her credentials.",
+        "a_views_b": "Represents profit-motivated exploitation of discovery. Everything wrong with treating scientific moment as business opportunity. Protective of scientific integrity.",
+        "b_views_a": "Useful credibility if he can control her. Threat to his narrative if she opposes him. Attempts to discredit when she resists.",
+        "tensions": "Direct conflict over control of information and situation. Scientific ethics vs. business exploitation.",
+        "shared_history": "None. Different worlds until crisis brings them into conflict.",
+        "arc_prediction": "She opposes his exploitation. Uses her credibility and platform to undermine his control. He attempts to discredit her."
+      },
+      {
+        "character_a": "Mr_Kowalski",
+        "character_b": "Bundle_Package",
+        "relationship_type": "none initially",
+        "power_dynamic": "Kowalski assumes he has negotiating power; Bundle operates on incomprehensible logic",
+        "emotional_valence": "Kowalski: opportunistic excitement. Bundle: ???",
+        "a_views_b": "Business opportunity of lifetime. Exclusive Earth representative. Potential monopoly on interstellar communication. Tries to negotiate deals.",
+        "b_views_a": "Executive decision maker. May try to offer 'premium packages.' Unclear if Bundle understands his approach or finds it relevant.",
+        "tensions": "Kowalski fundamentally misunderstands situation as business transaction. His attempts to control/monetize create danger.",
+        "shared_history": "None. Kowalski doesn't know about Bundle until crisis.",
+        "arc_prediction": "Kowalski's business approach to cosmic situation creates escalating problems. Bundle may not understand or care about his attempted negotiations. His interference endangers everyone."
+      }
+    ],
+    "network_analysis": {
+      "central_nodes": [
+        "Terrence_Mitchell (hub connecting all other characters through crisis)",
+        "Bundle_Package (catalyst that connects everyone)",
+        "Shanice_Williams (connects workplace characters, protective force)"
+      ],
+      "isolated_initially": [
+        "Dr_Angela_Okonkwo (brought in from outside)",
+        "Mr_Kowalski (enters from corporate level)"
+      ],
+      "alliance_formations": {
+        "core_team": ["Terrence_Mitchell", "Shanice_Williams", "Kevin_Zhao", "Dr_Angela_Okonkwo"],
+        "antagonist": ["Mr_Kowalski"],
+        "uncertain": ["Bundle_Package"]
+      },
+      "power_structures": {
+        "official_hierarchy": "Kowalski > Shanice > Terry, Kevin",
+        "information_hierarchy": "Bundle > Kevin > Terry > Angela > Others",
+        "moral_authority": "Angela, Shanice (earned through competence and ethics)",
+        "practical_power": "Kevin (technical access), Terry (alien contact), Shanice (team loyalty)"
+      }
+    },
+    "thematic_relationship_notes": {
+      "class_dynamics": "Working class characters (Terry, Shanice, Kevin) vs. CEO (Kowalski). Academic outsider (Angela) bridges worlds.",
+      "expertise_types": "Credentialed (Angela) vs. practical (Kevin, Shanice) vs. experiential (Terry). All prove valuable.",
+      "trust_networks": "Trust built through crisis and shared values, not hierarchy. Official power structures work against effective response.",
+      "cosmic_irony": "Humanity's first contact routed through lowest levels of failing company, not governments or scientists. The 'wrong' people for the job become exactly the right people."
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "name": "Iris Chen",
+  "age": 23,
+  "role": "Supporting protagonist - barista, Mark's co-conspirator, first confirmed dreamer",
+  "core_wound": "Has dreamed of the alien city since childhood. Parents dismissed it, therapists called it 'vivid imagination' or 'night terrors.' She learned to stop talking about it. Convinced she was uniquely broken. The dreams made her feel like she never fully belonged to Earth.",
+  "wants": "External goal - To understand what the dreams mean, to find someone who believes her, to prove she's not crazy. Specifically: wants validation that the alien city is real, wants to understand why she's been connected to it her whole life.",
+  "needs": "Internal growth - To accept that being different isn't being broken. To trust her own perceptions. To understand that she was never meant to fit into a world she was preparing to bridge.",
+  "voice_markers": [
+    "Direct and honest, sometimes bluntly so ('You sound like you're making excuses')",
+    "Uses art/color metaphors ('That frequency feels purple, if that makes sense')",
+    "Bilingual verbal tics (occasional Mandarin phrases when emotional)",
+    "Precise vocabulary - says what she means",
+    "Dry humor that catches people off-guard",
+    "'Does that sound crazy?' as recurring phrase (self-awareness of how she sounds)",
+    "Poetic descriptions of the dreams (this is where her language becomes beautiful)"
+  ],
+  "contradiction": "Desperately wants someone to believe her dreams are real, but has learned to hide them. Craves connection but has built walls. Appears confident and grounded but feels fundamentally displaced from reality.",
+  "physical_description": "5'6\", athletic build from rock climbing, short black hair with bleached tips, multiple ear piercings, often wears oversized flannel over band shirts, high-top Converse, silver rings on multiple fingers, watchful dark eyes, expressive eyebrows, small scar on her chin from childhood fall",
+  "mannerisms": [
+    "Direct eye contact when challenging someone",
+    "Crosses arms when defensive",
+    "Taps fingers in rhythm when thinking",
+    "Tilts head when listening deeply",
+    "Small smile when someone surprises her in a good way",
+    "Switches to Mandarin when talking to herself"
+  ],
+  "arc_position": 0.0,
+  "arc_trajectory": "Starts as secret-keeper, hiding her dreams, going through the motions. Mark's broadcast forces her dreams into the open. Must learn to trust herself and others with her truth. Becomes the key to understanding the signal because she's been connected longest. Ends by accepting her role as bridge between species.",
+  "knowledge_state": [
+    "Has dreamed the alien city in detail since age 7",
+    "Recognizes the architecture, the three moons, specific locations in the city",
+    "Studied comparative religion and anthropology (one year of college)",
+    "Knows basic Mandarin (family heritage)",
+    "Aware that her dreams increased in intensity recently but didn't know why",
+    "Doesn't know about Mark's father's research",
+    "Doesn't know she's a natural receiver for the alien frequency"
+  ],
+  "skills": [
+    "Excellent memory, especially visual/spatial",
+    "Rock climbing (requires trust and presence)",
+    "Sketching (has notebooks full of dream-city drawings)",
+    "Reading people and body language",
+    "Making excellent coffee (takes craft seriously)",
+    "Research and pattern recognition"
+  ],
+  "fears": [
+    "Being dismissed as crazy (has happened her whole life)",
+    "That the dreams mean something wrong with her brain",
+    "Losing herself if the dreams become too real",
+    "That she's been preparing for something she can't handle",
+    "Hurting people she cares about",
+    "The alien city itself - it's beautiful but haunting"
+  ],
+  "internal_conflicts": [
+    "Truth vs. safety (telling about dreams risks being dismissed again)",
+    "Belonging to Earth vs. connection to alien city",
+    "Desire for normalcy vs. acceptance that she's different",
+    "Wanting to trust Mark vs. learned wariness about being vulnerable",
+    "Protecting herself vs. helping others understand what's happening"
+  ],
+  "relationships": {
+    "marcus_reeves": "Recognizes a fellow outsider. His broadcast made her dreams public and she's both grateful and terrified. Sees his potential beneath his self-doubt. Becomes his anchor and he becomes hers. Mutual recognition of 'you see me clearly.'",
+    "dr_leonard_reeves": "Curious about his research once she learns of it. Suspicious of his funding sources. Sees him through Mark's eyes initially (the abandoner) but develops her own complicated view.",
+    "agent_yuki_tanaka": "Respects her directness. Wary of authority but recognizes Tanaka's genuine concern. Appreciates that Tanaka believes the phenomenon is real.",
+    "rev_william_carter": "Uncomfortable with his religious framing but understands the impulse to fit mystery into familiar frameworks. More patient with him than Mark is.",
+    "the_composer": "Feels like she's known it her whole life. The dreams were always its voice calling. Mix of reverence, fear, and strange familiarity. Protective of its legacy.",
+    "her_parents": "Loving but dismissive of her 'imagination.' She stopped trying to explain years ago. Dutiful daughter who keeps them at arm's length emotionally. Guilt about the distance."
+  },
+  "backstory_details": {
+    "childhood": "Second-generation Chinese-American. Loving parents who run a restaurant. Smart, artistic kid who started having intense dreams at age 7. Parents took her to doctors, therapists. All tests normal. Learned to keep quiet about it. Felt isolated even in her own family.",
+    "adolescence": "Threw herself into art and rock climbing. Dreams continued but she stopped discussing them. Drew the alien city obsessively. Good student but never quite engaged. Always felt like she was waiting for something.",
+    "college_attempt": "One year at Rutgers studying anthropology, trying to understand the alien city through human lens. Too expensive to continue. Dropped out, got job at coffee shop. Still takes classes occasionally. Maintains hope of going back.",
+    "present_situation": "Lives in small apartment with two roommates. Morning shift at The Grind. Rock climbs on weekends. Draws. Waits for something she can't name. Mark's broadcast is the first external confirmation that the alien city might be real."
+  },
+  "character_growth_milestones": [
+    "Ch 1-5: Hiding her dreams, going through motions, alone with her secret",
+    "Ch 6-10: Recognizing the broadcast matches her dreams, revealing truth to Mark",
+    "Ch 11-15: Understanding she's been connected to the signal her whole life",
+    "Ch 16-19: Accepting her role as natural bridge between species",
+    "Ch 20: Choosing to help rather than hide, trusting her purpose"
+  ],
+  "emotional_range": "Controlled and guarded baseline. When she trusts, she's warm and funny. Anger is cold and cutting. Fear manifests as hyper-competence and control. Joy is quiet and wonder-filled. The dreams evoke complex emotion: beauty, longing, sorrow, displacement all at once.",
+  "goals_by_act": {
+    "act_1": "Understand if Mark's broadcast is connected to her dreams, find out if she's crazy or if it's real",
+    "act_2": "Help Mark understand the signal, document and understand the dreams spreading through the community",
+    "act_3": "Decide whether to facilitate the alien consciousness awakening, knowing she might be the key"
+  },
+  "special_connection": "Iris is a natural receiver - her brain chemistry/structure makes her uniquely susceptible to the alien frequency. She's been picking up echoes of the signal her whole life, long before it arrived. She's quantum-entangled with the transmission in ways neither she nor the aliens understood. This makes her the most important person in the story besides Mark."
+}

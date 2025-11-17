@@ -1,0 +1,77 @@
+{
+  "name": "Shanice Williams",
+  "age": 34,
+  "role": "Graveyard shift supervisor at SatellitePro customer service",
+  "background": "Cleveland native, grew up in Glenville. Single mother to 8-year-old daughter Maya. Started at SatellitePro right after high school (16 years ago) as customer service rep. Worked her way up to shift supervisor through sheer competence and reliability. Takes night shift because it pays differential and her mother watches Maya while she works. Has some college credits but never finished degree—couldn't afford it. Practical, no-nonsense, exhausted from juggling single parenthood and thankless management job.",
+  "physical_description": "Black woman, medium height, keeps her hair in practical braids. Always professional appearance despite graveyard shift. Wears glasses. Has permanent worry lines from stress. Keeps photos of Maya on her desk. Moves with purposeful efficiency.",
+  "core_wound": "Feels trapped in a cycle of making just enough to survive but never enough to get ahead. Dreams deferred for survival and responsibility. Carries guilt that Maya sees her grandmother more than her. Knows she's competent enough for better jobs but can't risk losing income or benefits. Feels invisible—doing everything right but going nowhere.",
+  "wants": "To keep her job and benefits (Maya has asthma, needs insurance). To avoid any incidents that might get her in trouble with upper management. To get through her shift, pick up Maya, get a few hours sleep, repeat. Long-term: Better situation for Maya. For Maya to have opportunities she didn't have.",
+  "needs": "To recognize her own value and capability beyond corporate metrics. To trust her judgment over policy. To take calculated risks instead of playing it safe forever. To be seen and appreciated for keeping everything running.",
+  "voice_markers": [
+    "Professional but warm, uses first names to build rapport",
+    "Tired patience - has heard every excuse and complaint",
+    "Direct and practical: 'Here's what we're going to do...'",
+    "Occasionally slips into AAVE with close coworkers when off script",
+    "Maternal redirect: 'I need you to focus right now'",
+    "Strategic use of corporate policy as shield: 'Company policy requires...'",
+    "Heavy sigh before dealing with nonsense",
+    "Calls people 'honey' or 'baby' when comforting them",
+    "Firm when necessary: 'That's not going to work for me'"
+  ],
+  "contradiction": "Deeply competent and intelligent but underestimates herself. Enforces corporate rules she knows are stupid because she can't risk her job, but secretly helps employees skirt them. Acts like she doesn't want involvement but can't resist solving problems. Projects toughness while being deeply protective.",
+  "skills_and_abilities": [
+    "Exceptional manager - keeps understaffed shift running smoothly",
+    "Reads people instantly, knows when they're lying or in trouble",
+    "Creative problem-solver within constraints",
+    "Remains calm in chaos",
+    "Protective of her team despite corporate pressure",
+    "Can navigate company bureaucracy expertly",
+    "Strong ethical compass"
+  ],
+  "fears": [
+    "Losing her job and health insurance",
+    "Not being there for Maya",
+    "Maya growing up with same limited options",
+    "Making wrong choice that hurts people who depend on her",
+    "Being blamed for things outside her control"
+  ],
+  "arc_position": 0.0,
+  "arc_trajectory": "Starts as cautious rule-follower trying to avoid trouble. Terry's situation forces her to choose between corporate protocol and doing what's right. Discovers her leadership abilities extend beyond managing call metrics. Learns to trust her judgment over policy. Ends by taking decisive action and recognizing her own capability and worth.",
+  "knowledge_state": [
+    "Knows SatellitePro is failing, worried about layoffs",
+    "Aware of signal interference affecting customer service",
+    "Knows her team well, including Terry and Kevin",
+    "Knows upper management doesn't care about workers",
+    "Maya has been drawing pictures of 'TV people watching us' but Shanice dismissed it as kid imagination",
+    "Doesn't know about alien contact initially",
+    "Doesn't know Kevin has been tracking signal anomalies"
+  ],
+  "relationships": {
+    "Terrence_Mitchell": "Sees him as reliable but underutilized. Wishes he'd engage more. Protective of him when crisis hits. Underestimates his investigative abilities. Grows to respect his initiative.",
+    "Bundle_Package": "Initially thinks it's prank/hoax that will get Terry and her in trouble. Skeptical, demands proof. Protective anger at perceived threat to her team. Grudging acceptance when evidence becomes undeniable.",
+    "Kevin_Zhao": "Fondly exasperated by his conspiracy theories. Knows he's harmless and good at his job. Surprised by his expertise when it matters. Appreciates his loyalty.",
+    "Dr_Angela_Okonkwo": "Respectful of credentials but suspicious of outsiders. Protective of information. Gradually develops trust through shared problem-solving.",
+    "Mr_Kowalski": "Distrusts him deeply. Has seen him make decisions that hurt workers. Expects him to exploit the situation. Righteous anger at his opportunism.",
+    "Maya_daughter": "Everything she does is for Maya. Fierce protective love. Guilt about time away. Wants better future for her."
+  },
+  "internal_conflicts": [
+    "Responsibility to daughter vs. responsibility to truth",
+    "Following rules vs. doing what's right",
+    "Self-protection vs. protecting others",
+    "Underestimation of self vs. actual capability"
+  ],
+  "character_quirks": [
+    "Drinks herbal tea instead of coffee (trying to be healthy for Maya)",
+    "Keeps hand sanitizer and bandaids in her desk for team",
+    "Straightens photos of Maya when stressed",
+    "Has Maya's artwork posted in her cubicle",
+    "Writes reminders on her hand",
+    "Checks her phone obsessively for calls from mother/school"
+  ],
+  "personal_details": {
+    "daughter": "Maya Williams, age 8, has asthma",
+    "mother": "Watches Maya during night shifts",
+    "housing": "Small house in Cleveland, inherited from grandmother",
+    "education": "High school diploma, some college credits in business management"
+  }
+}

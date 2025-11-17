@@ -1,0 +1,208 @@
+{
+  "relationship_matrix": {
+    "description": "This matrix tracks the dynamic relationships between all major characters, showing power dynamics, emotional connections, and how relationships evolve through the story.",
+
+    "Sarah_Kendrick": {
+      "Echo": {
+        "initial": "Unknown entity → Curiosity → Scientific fascination",
+        "midpoint": "Protective bond forming, seeing Echo as fellow exile, translator of mathematical/emotional language",
+        "final": "Deep connection, willing to sacrifice discovery for Echo's safety, mutual understanding across species",
+        "power_dynamic": "Starts Sarah dominant (has choice to expose), shifts to equal partnership, Echo dependent on Sarah for survival",
+        "key_tension": "Sarah wants proof/validation, Echo needs secrecy/safety"
+      },
+      "Agent_Marcus_Webb": {
+        "initial": "Target/investigator dynamic, Sarah sees him as threat, Webb sees her as person-of-interest",
+        "midpoint": "Mutual recognition as obsessives, tentative alliance forming, both hiding information from superiors",
+        "final": "Allies and mutual respect, both choosing principles over careers, Webb protects Sarah",
+        "power_dynamic": "Webb has legal authority, Sarah has knowledge; shifts to equal partners breaking rules together",
+        "key_tension": "Webb's duty vs. growing belief Sarah is doing right thing"
+      },
+      "Danny_Kendrick": {
+        "initial": "Distant, awkward phone calls, both wanting to connect but unable to bridge gap",
+        "midpoint": "Danny pulled into situation, forced proximity, old hurts surfacing",
+        "final": "Honest connection, Sarah sees Danny as priority over discovery, Danny sees mom as hero, new foundation for relationship",
+        "power_dynamic": "Parent-child but complicated by custody loss; Sarah feels powerless, Danny uses indifference as power; ends more equal",
+        "key_tension": "Sarah's guilt vs. Danny's hurt feelings vs. both wanting reconnection"
+      },
+      "Roy_Chen": {
+        "initial": "Comfortable friendship at radio-distance, mutual support, technical collaboration",
+        "midpoint": "Roy offering advice but worried Sarah is in over her head, feeling helpless at distance",
+        "final": "Roy makes physical journey to help, friendship deepens to in-person trust, both learning to risk connection",
+        "power_dynamic": "Mentor-student evolving to equal colleagues to real friends",
+        "key_tension": "Both use radio as wall against intimacy, must break pattern to truly help each other"
+      },
+      "Dr_Evelyn_Cross": {
+        "initial": "Cross dismissive of amateur, Sarah defensive about credentials",
+        "midpoint": "Cross must acknowledge Sarah found what SETI couldn't, professional jealousy vs. respect",
+        "final": "Mutual respect as equals, both choose ethics over careers, collaborative protection of Echo",
+        "power_dynamic": "Cross has institutional authority, Sarah has direct knowledge; ends equal as both become rebels",
+        "key_tension": "Amateur vs. professional, protocols vs. instinct, competition vs. collaboration"
+      }
+    },
+
+    "Echo": {
+      "Sarah_Kendrick": "Covered above",
+      "Agent_Marcus_Webb": {
+        "initial": "Webb sees Echo as evidence/target, Echo sees Webb as threat to survival",
+        "midpoint": "Webb grappling with Echo as sentient being not specimen, Echo reading Webb's character",
+        "final": "Mutual understanding, Echo trusts Webb made right choice, Webb sees Echo as person to protect",
+        "power_dynamic": "Webb has capture authority, Echo has alien knowledge; shifts to Webb protecting vulnerable being",
+        "key_tension": "Webb's career ambitions vs. Echo's right to freedom"
+      },
+      "Danny_Kendrick": {
+        "initial": "Danny terrified meeting alien, Echo curious about human youth",
+        "midpoint": "Echo sees through Danny's defenses immediately, Danny fascinated by alien perspective",
+        "final": "Genuine friendship, Danny learns from Echo about different ways of being, Echo learns about human family bonds",
+        "power_dynamic": "Echo ancient and knowledgeable, Danny young and inexperienced, but Echo respects Danny's emotional intelligence",
+        "key_tension": "Danny's fear vs. curiosity, Echo's alien nature vs. Danny's need to categorize/understand"
+      },
+      "Roy_Chen": {
+        "initial": "No direct contact - Roy helps Sarah analyze Echo's signals remotely",
+        "midpoint": "Roy understands Echo's mathematics, Echo aware of Roy through Sarah's descriptions",
+        "final": "Brief meeting in climax, Roy awestruck, Echo grateful to the voice that helped Sarah find it",
+        "power_dynamic": "Technical peers understanding each other through mathematics and radio language",
+        "key_tension": "Distance prevents direct relationship, must trust through Sarah"
+      },
+      "Dr_Evelyn_Cross": {
+        "initial": "Cross wants to study Echo systematically, Echo wary of being specimen",
+        "midpoint": "Cross treating Echo ethically but still as subject, Echo educating her about its people's protocols",
+        "final": "Mutual respect, Cross chooses Echo's personhood over scientific opportunity, Echo shares knowledge freely",
+        "power_dynamic": "Cross has scientific authority, Echo has information; shifts to Echo as teacher, Cross as student",
+        "key_tension": "Cross's need for data/protocols vs. Echo's need for dignity/safety"
+      },
+      "Echos_People": {
+        "initial": "Exiled, cut off, assumed they abandoned it permanently",
+        "midpoint": "Distress call reached them, they're coming but intentions unknown",
+        "final": "They arrive for 'the test,' Echo must defy them to protect Sarah, permanent severance or unexpected acceptance",
+        "power_dynamic": "They have all power - advanced civilization vs. lone exile",
+        "key_tension": "Echo's loyalty to species vs. loyalty to Sarah, question of whether exile was just"
+      }
+    },
+
+    "Agent_Marcus_Webb": {
+      "Sarah_Kendrick": "Covered above",
+      "Echo": "Covered above",
+      "Danny_Kendrick": {
+        "initial": "Danny is person-of-interest as Sarah's son, Webb investigates him",
+        "midpoint": "Webb protective of Danny, sees kid caught in adult problems",
+        "final": "Webb ensures Danny's safety, acts as temporary guardian during crisis",
+        "power_dynamic": "Webb has authority, Danny is minor; Webb uses power to protect not coerce",
+        "key_tension": "Webb must investigate Danny's connection to Sarah while wanting to shield him"
+      },
+      "Roy_Chen": {
+        "initial": "Roy is person-of-interest, Webb interviews him, Roy cooperative but protective of Sarah",
+        "midpoint": "Webb respects Roy's technical expertise, uses him as consultant",
+        "final": "Allied in protecting Sarah, mutual respect between elder statesman types",
+        "power_dynamic": "Webb has legal authority, Roy has knowledge and no fear of consequences (retired)",
+        "key_tension": "Roy knows Webb could arrest Sarah, Webb knows Roy will obstruct to protect her"
+      },
+      "Dr_Evelyn_Cross": {
+        "initial": "Professional collaboration, Webb needs scientific expertise, Cross needs access to signal",
+        "midpoint": "Growing alliance, both frustrated by their institutions' responses",
+        "final": "Co-conspirators breaking rules to do right thing, professional respect becomes friendship",
+        "power_dynamic": "Different domains of authority, must collaborate as equals",
+        "key_tension": "FBI protocols vs. scientific method, urgency vs. verification, both answering to problematic superiors"
+      },
+      "Director_Patricia_Marsh": {
+        "initial": "Webb's superior, she's skeptical of his X-Division cases",
+        "midpoint": "Marsh wants to bury the case if it's real, Webb realizes she'll sacrifice truth for bureaucracy",
+        "final": "Webb defies direct orders, career ends, Marsh tries to contain damage",
+        "power_dynamic": "She has absolute authority over his career, he has evidence she wants buried",
+        "key_tension": "Career survival vs. doing right thing, loyalty vs. principle"
+      }
+    },
+
+    "Danny_Kendrick": {
+      "Sarah_Kendrick": "Covered above",
+      "Echo": "Covered above",
+      "Agent_Marcus_Webb": "Covered above",
+      "Roy_Chen": {
+        "initial": "No contact - Danny doesn't know Roy exists",
+        "midpoint": "Meets when Roy arrives in Montana, Roy becomes temporary father figure",
+        "final": "Roy encourages Danny to bridge gap with Sarah, grandfatherly mentor relationship",
+        "power_dynamic": "Roy elder with wisdom, Danny youth needing guidance",
+        "key_tension": "Danny's trust issues vs. Roy's gentle mentorship"
+      },
+      "Robert_Kendrick": {
+        "initial": "Living with father, surface-level good relationship, Danny performing 'good son'",
+        "midpoint": "Danny runs away to Montana/is brought there, Robert realizes he's lost Danny's trust",
+        "final": "Robert must accept Danny needs Sarah in his life, shared custody arrangement rebuilt on honesty",
+        "power_dynamic": "Father has legal custody and parental authority, Danny has emotional truth",
+        "key_tension": "Robert's stability vs. Danny's need for his mother, protection vs. control"
+      }
+    },
+
+    "Roy_Chen": {
+      "Sarah_Kendrick": "Covered above",
+      "Echo": "Covered above",
+      "Agent_Marcus_Webb": "Covered above",
+      "Danny_Kendrick": "Covered above",
+      "Dr_Evelyn_Cross": {
+        "initial": "No contact - different circles",
+        "midpoint": "Meet during crisis, mutual respect between technical experts",
+        "final": "Allied in protecting Echo, Roy provides practical help to Cross's theoretical knowledge",
+        "power_dynamic": "Equals - both experts in their domains",
+        "key_tension": "Roy is amateur (though expert), Cross is professional; class/credential tension"
+      }
+    },
+
+    "Dr_Evelyn_Cross": {
+      "Sarah_Kendrick": "Covered above",
+      "Echo": "Covered above",
+      "Agent_Marcus_Webb": "Covered above",
+      "Roy_Chen": "Covered above",
+      "SETI_Director_Brennan": {
+        "initial": "Boss-employee, Brennan wants careful PR-friendly approach",
+        "midpoint": "Cross realizes Brennan will suppress discovery if politically advantageous",
+        "final": "Cross quits/is fired, burns bridge with institution she dedicated career to",
+        "power_dynamic": "Brennan has institutional power, Cross has evidence and integrity",
+        "key_tension": "Scientific truth vs. institutional politics, Cross's career vs. ethics"
+      }
+    }
+  },
+
+  "power_dynamics_summary": {
+    "institutional_power": [
+      "Agent Webb's FBI authority (but undermined by X-Division's lack of respect)",
+      "Dr. Cross's scientific credibility (but constrained by SETI politics)",
+      "Robert Kendrick's legal custody of Danny"
+    ],
+    "knowledge_power": [
+      "Sarah's direct access to Echo",
+      "Echo's alien knowledge and technology",
+      "Roy's technical expertise"
+    ],
+    "moral_authority": [
+      "Sarah's choice to protect Echo over proving discovery",
+      "Danny's emotional truth about what he needs",
+      "Echo's 50 years of observation giving it insight into humanity"
+    ],
+    "evolution": "Story moves from institutional/legal power mattering most to moral authority winning. Characters who start with official power (Webb, Cross) end by defying institutions. Characters who start with no power (Sarah, Danny) end with moral authority that shapes outcome."
+  },
+
+  "key_relationship_triangles": {
+    "triangle_1": {
+      "characters": ["Sarah", "Echo", "Webb"],
+      "dynamic": "Sarah mediator between Echo (needs protection) and Webb (represents threat). Webb's arc depends on how Sarah handles this mediation. Sarah must choose to trust Webb with Echo's existence.",
+      "tension": "Three-way distrust that must become three-way alliance"
+    },
+    "triangle_2": {
+      "characters": ["Sarah", "Danny", "Robert"],
+      "dynamic": "Family triangle. Danny caught between parents. Sarah's choices in crisis prove to Danny and Robert what kind of parent/person she is.",
+      "tension": "Custody, trust, competing versions of what's best for Danny"
+    },
+    "triangle_3": {
+      "characters": ["Echo", "Sarah", "Echo's_People"],
+      "dynamic": "Echo must choose between species and friend. Sarah must choose between helping Echo escape or protecting humanity. Echo's people test Sarah's choice.",
+      "tension": "Loyalty, belonging, the test"
+    }
+  },
+
+  "relationship_evolution_tracking": {
+    "note": "Each chapter's state file should update relationship dynamics. Track using these markers:",
+    "trust_levels": "1-10 scale for each relationship",
+    "power_shifts": "Note when power dynamics change between characters",
+    "key_moments": "Conversations or events that fundamentally alter relationships",
+    "secrets": "What each character knows that others don't - creates dramatic irony and tension"
+  }
+}

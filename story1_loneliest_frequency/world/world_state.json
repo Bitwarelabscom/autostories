@@ -1,0 +1,99 @@
+{
+  "genre": "Intimate sci-fi thriller / First contact drama",
+  "setting": {
+    "time_period": "Present day, 2025",
+    "primary_location": "Rural Montana, USA - isolated ranch country in the high plains region near the Missouri Breaks",
+    "secondary_locations": [
+      "Kendrick Ranch - 800 acres, 45 miles from nearest town",
+      "Cave system - Limestone caves 30 miles northeast of the ranch",
+      "Jordan, Montana - Nearest small town (pop. 364)",
+      "FBI field office - Billings, Montana",
+      "Former Cold War nuclear missile silo - Decommissioned, near cave system"
+    ],
+    "atmosphere": "Lonely windswept plains, vast empty spaces, big sky country. Isolation that feels peaceful at first but gradually becomes claustrophobic and paranoid as the net closes in. The landscape is a character: beautiful, indifferent, and hiding secrets."
+  },
+  "rules": {
+    "technology_level": {
+      "earth_tech": "2025 contemporary with slight advancements in consumer electronics and surveillance",
+      "specific_tech": {
+        "ham_radio": "Sarah uses both vintage (her father's 1970s-80s equipment) and modern software-defined radio (SDR) setups",
+        "signal_analysis": "Modern spectrum analyzers, FFT software, digital signal processing tools available to skilled operators",
+        "government_surveillance": "Realistic 2025 - satellite tracking, cell phone monitoring, license plate readers on highways, but not omniscient",
+        "computing": "Consumer laptops capable of running SDR software, signal processing, basic cryptography"
+      },
+      "alien_tech": {
+        "nature": "Biological, not mechanical. Based on crystalline structures that grow and adapt",
+        "communication_method": "Electromagnetic field manipulation via crystalline neural structures",
+        "visibility": "Alien technology appears organic, could be mistaken for unusual geological formations",
+        "limitations": "Echo's transmitter is degrading after 50 years, running on diminishing bio-electrical energy",
+        "subtlety": "Echo has influenced human tech development through careful nudges - small insights that appeared as human innovation"
+      }
+    },
+    "alien_biology": {
+      "species_name": "Unknown - Echo uses no species designation",
+      "physical_form": "Crystalline-based lifeform, roughly humanoid in structure but fractal and geometric",
+      "size": "Approximately 6 feet tall when standing, can compress to 3 feet",
+      "consciousness": "Single unified consciousness, experiences time non-linearly but adapted to linear time during exile",
+      "communication": "Natural: electromagnetic field modulation. Learned: radio waves, can produce sound through crystal resonance",
+      "lifespan": "Potentially thousands of years, but Echo is dying from isolation/incompatible environment",
+      "needs": "Requires specific electromagnetic frequencies to maintain coherence, feeds on ambient EM fields",
+      "reproduction": "Unknown - Echo is singular and exiled",
+      "sensory_perception": "Perceives the entire EM spectrum simultaneously, experiences radio waves as humans experience sight",
+      "weaknesses": "Vulnerable to EM pulse, requires periodic recrystallization that Earth environment doesn't support"
+    },
+    "social_structures": {
+      "rural_montana": "Sparse population, independent-minded ranchers, deep distrust of federal government, strong community bonds but respect for privacy, everyone knows everyone's business in small towns",
+      "ham_radio_community": "Global network of operators, culture of technical excellence and mutual assistance, unofficial rules and etiquette, nets (regular meeting times on specific frequencies)",
+      "government_response": {
+        "compartmentalization": "Different agencies with different agendas: FBI (law enforcement), DoD (defense/threat assessment), NASA/SETI (scientific study), NSA (signals intelligence)",
+        "bureaucracy": "Slow to act but persistent once activated, conflicting jurisdictions, turf wars",
+        "competence_level": "Realistic - some brilliant individuals, some incompetent bureaucrats, lots of protocol",
+        "public_stance": "Official denial, behind-the-scenes urgency",
+        "historical_context": "Government has been monitoring unusual signals since 1970s, has theories but no confirmation until now"
+      },
+      "alien_society": "Echo's people are mentioned but not shown until chapter 17. Implied to be highly advanced, with complex exile/punishment systems, values consensus over individuality, views humanity as primitive but potentially significant"
+    },
+    "physics_and_science": {
+      "signal_mechanism": "Quantum entanglement allows instantaneous communication once connection is established, but requires initial handshake using traditional EM propagation",
+      "signal_characteristics": {
+        "frequency": "2.182 MHz - specific frequency Sarah's father warned her about, sits in 160-meter ham band",
+        "modulation": "Complex phase-shift keying with embedded fractal patterns, appears as noise without proper decoding",
+        "intelligence_proof": "Responds with prime number sequences, mathematical constants, mirrors and elaborates on sent patterns"
+      },
+      "cave_system_properties": "Limestone caves with high quartz content, acts as natural antenna/resonator for Echo's signals, shielded from surface detection until specific conditions align",
+      "nuclear_silo_connection": "Echo's ship crashed near silo in 1975, was attracted to the electromagnetic signature, ship remains are buried 200 feet down, slowly dissolving",
+      "no_ftl_violation": "Echo arrived via generation ship, journey took 500+ years ship-time, crashed during Earth approach",
+      "detection_limitations": "Signal only detectable under specific atmospheric conditions and from specific geographic locations, appears as natural radio noise to most monitoring systems"
+    },
+    "constraints": {
+      "no_magic": "Everything must have scientific explanation, even if that explanation involves unknown-to-humans physics",
+      "realistic_tech": "Sarah can't build anything beyond reach of skilled amateur with access to online tutorials and electronic components",
+      "government_not_omnipotent": "They can track her, but not instantly. She has windows of opportunity due to bureaucratic delays and remote location",
+      "communication_is_hard": "Echo and Sarah struggle to understand each other even with mathematical common ground. Language is imprecise. Context is everything.",
+      "echo_is_dying": "Time pressure is real. Echo has maybe 2-3 weeks of coherence left. The distress signal is a last-ditch effort.",
+      "moral_ambiguity": "Echo was exiled for a reason. The test is real. There are no clear good guys or bad guys."
+    }
+  },
+  "themes": {
+    "primary": [
+      "Connection vs. Isolation: Both Sarah and Echo are exiles seeking connection. Sarah chose isolation after losing custody. Echo had isolation forced upon it. The story asks: can two beings from different worlds truly understand each other? Is connection worth the cost?",
+      "The Cost of Truth: Sarah wants proof that validates her life choices. But proof means exposing Echo, potentially to exploitation or harm. Some truths destroy the thing you're trying to prove. Is ignorance sometimes mercy?",
+      "What Makes Us Human: Echo has watched humanity for 50 years from hiding. It has insights into human nature that humans don't see about themselves. The story explores humanity through alien eyes - our compassion and cruelty, our potential and limitations."
+    ],
+    "secondary": [
+      "Parent-child relationships and legacy: Sarah and her father, Sarah and Danny, Echo and its species",
+      "The romance of radio: Connection across impossible distances, voices in the dark, the intimacy of disembodied communication",
+      "Surveillance and privacy: The panopticon of modern government, the loss of ability to hide, the value of being unknown",
+      "Exile and belonging: What it means to be cast out, whether redemption is possible, the pain of not belonging anywhere"
+    ]
+  },
+  "tone": "Slow-burn tension. Intimate character study wrapped in conspiracy thriller. Think 'Contact' meets 'No Country for Old Men' with touches of 'The Arrival.' Quiet moments of wonder punctuated by sharp spikes of paranoia. The prose should breathe - long descriptive passages of Montana landscape, tight tense dialogue, internal monologue that reveals character. Not action-heavy but psychologically intense. The threat is always present but often invisible. Dread builds gradually.",
+  "narrative_constraints": {
+    "pov": "Third person limited, primarily Sarah's POV. Occasional chapters from other POVs (Danny, Webb, Echo) for tension and revelation.",
+    "timeline": "Story takes place over approximately 18 days from first contact to resolution",
+    "word_count_target": "Approximately 50,000-60,000 words across 20 chapters (2,500-3,000 per chapter)",
+    "revelation_pacing": "Information revealed gradually. Reader should be slightly ahead of Sarah but not too far. Mystery maintained through competing explanations until midpoint.",
+    "sensory_focus": "Strong emphasis on sound (radio static, wind, silence), touch (cold air, radio equipment), and sight (vast landscapes, intimate close-ups of technology)",
+    "dialogue_style": "Sparse and meaningful. Characters don't say everything they think. Subtext is key. Technical radio jargon used authentically but explained through context."
+  }
+}

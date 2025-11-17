@@ -1,0 +1,104 @@
+{
+  "name": "Dr. Evelyn Cross",
+  "age": 39,
+  "role": "Supporting character / Scientific authority",
+  "occupation": "Senior Research Scientist at SETI Institute, Astrophysicist",
+
+  "core_wound": "Spent her entire career searching for signals from space - 15 years listening to silence. Brilliant scientist watching funding dry up, watching SETI become a joke in popular culture, defending her life's work at dinner parties. Has sacrificed relationships, geographic stability, financial security for a job that finds nothing. Starting to internalize the fear that there's no one out there, that she's wasted her life on an empty search. The irony: when the signal arrives, it's not from space and not through her equipment.",
+
+  "wants": "To be part of confirming first contact through proper scientific protocols, to have SETI Institute lead the discovery, to vindicate her field and her career choices. Wants this done right, by the book, with peer review and proper documentation.",
+
+  "needs": "To accept that first contact won't look like she imagined, that protocols matter less than ethics, that being right about process matters less than doing right by the beings involved. To understand science is a tool for understanding, not control.",
+
+  "voice_markers": [
+    "Precise scientific language, defines terms even in casual conversation",
+    "Corrects misconceptions gently but firmly ('Actually, the Wow! signal was likely hydrogen...')",
+    "References scientific papers and studies ('According to the 2019 study in Nature...')",
+    "Frustrated sighs when people don't follow protocols",
+    "Uses 'we' when talking about SETI community ('We've been searching for 60 years')",
+    "Careful hedge language ('The data suggests,' 'preliminary findings indicate')",
+    "Occasional slip into excited rapid-fire explanation when passionate about a topic"
+  ],
+
+  "contradiction": "Champions scientific method and peer review (slow, careful) but career depends on making dramatic discovery (needs it to happen NOW before funding runs out completely). Believes in open science and sharing discoveries but works in field filled with secrecy and competition. Wants first contact to be pure science but knows it will immediately become military/political.",
+
+  "physical_description": "5'8\", slender, Black woman with natural hair usually pulled back in practical bun. Sharp, intelligent eyes behind stylish glasses. Dresses professionally even in field settings - blazers and slacks. Carries herself with quiet authority. Has a habit of clicking her pen when thinking. Expressive hands when explaining concepts. Looks tired - this job is exhausting.",
+
+  "backstory": {
+    "education": "PhD in Astrophysics from UC Berkeley, dissertation on technosignatures in exoplanet atmospheres. Post-doc at SETI Institute turned into career position.",
+    "career": "15 years at SETI, started idealistic, now realistic about challenges. Has published extensively but never on the one thing that would make her famous - actual detection. Watched colleagues leave for better-paying positions. Stayed because she believes.",
+    "personal_sacrifices": "Never married (two long-term relationships ended over career relocations), no children (never had time), student loans still crushing her, lives in expensive Bay Area on non-profit salary. Family thinks she's wasting her potential.",
+    "breakthrough_that_wasnt": "Three years ago, detected a promising signal that turned out to be satellite interference. Published retraction. Professionally humiliating. Made her paranoid about false positives.",
+    "why_shes_called": "FBI contacts SETI when they detect unusual signals - protocol. Webb calls her about Sarah's signal. She's skeptical (burned before) but intrigued by the evidence."
+  },
+
+  "arc_position": 0.0,
+
+  "knowledge_state": [
+    "Expert in radio astronomy, signal analysis, astrobiology",
+    "Knows history of false alarms and hoaxes in SETI field",
+    "Aware of government protocols for first contact (she helped write some)",
+    "Doesn't know about Echo's physical presence on Earth yet",
+    "Doesn't know signal is from crashed ship, not space",
+    "Aware SETI Institute funding is precarious - this discovery could save it or destroy credibility if mishandled",
+    "Knows Webb from previous consultations, trusts him more than most agents"
+  ],
+
+  "relationships": {
+    "Sarah_Kendrick": "Initially dismissive (amateur operator, likely false alarm), then must confront that Sarah made the discovery SETI spent 60 years looking for. Mixture of professional respect and personal jealousy. Comes to admire Sarah's instincts.",
+    "Agent_Marcus_Webb": "Professional relationship, mutual respect despite different priorities. Webb wants immediate action, Cross wants proper protocols. Both frustrated by system. Become allies.",
+    "Echo": "Represents everything she's searched for, but meeting Echo challenges her assumptions. Expected alien intelligence to be... different? Not dying, not vulnerable. Forces her to see Echo as person, not data.",
+    "SETI_Director_Thomas_Brennan": "Her boss. Political, fundraising-focused. Cross suspects he'd suppress a discovery if it threatened funding streams. She doesn't fully trust her own institution.",
+    "Scientific_community": "Complex. Wants their validation but knows they'll tear apart any discovery that doesn't meet impossible standards. Peer review culture has become toxic but she still believes in the method."
+  },
+
+  "skills": [
+    "Expert astrophysicist and radio astronomer",
+    "Signal analysis and statistical verification",
+    "Can operate SETI detection equipment",
+    "Strong technical writing and peer review",
+    "Public speaking and science communication",
+    "Protocol development and institutional knowledge",
+    "Knows how to navigate academic politics"
+  ],
+
+  "limitations": [
+    "Bound by institutional protocols that slow everything down",
+    "Not law enforcement - no authority in investigation",
+    "Academic mindset sometimes clashes with urgent situations",
+    "Career advancement depends on being right - can't afford another false alarm",
+    "No field survival skills - pure scientist",
+    "Politically naive about government intentions"
+  },
+
+  "fears": [
+    "Another false alarm that destroys what's left of her credibility",
+    "That first contact will be mishandled by military/political interests",
+    "That her career has been for nothing if this isn't real",
+    "Being scooped by amateurs (Sarah) or government agencies that won't publish",
+    "That SETI Institute will be shut down before she can prove its worth",
+    "Making wrong call that leads to disaster",
+    "That aliens won't care about human science or find it primitive and embarrassing"
+  ],
+
+  "desires": [
+    "To be lead scientist on first contact verification",
+    "To publish in Nature or Science about confirmed detection",
+    "To vindicate SETI field and secure future funding",
+    "To meet extraterrestrial intelligence under proper scientific protocols",
+    "To prove to her family that she made the right choice",
+    "To feel like her 15 years wasn't wasted listening to silence"
+  ],
+
+  "internal_conflict": "Dr. Cross wants first contact to happen by the book - peer-reviewed, methodical, through proper channels. But the book wasn't written for a dying alien hiding in a Montana cave being hunted by government agencies. Her need to do this 'right' (protocol) conflicts with doing the right thing (protecting Echo). She must choose between scientific glory and ethical action.",
+
+  "character_arc_trajectory": {
+    "act_1": "Skeptical consultant brought in by Webb. Applying rigorous scientific analysis. Concerned about protocols and verification. Treating this as potential discovery to be studied.",
+    "act_2": "Confirms signal is real and non-human. Excitement mixed with dread about what comes next. Begins to see cracks in the institutional response - SETI wants to claim credit but also deny involvement if it goes wrong. Realizes institutions will fail this moment.",
+    "act_3": "Meets Echo and understands this isn't about data or papers. Chooses to help Sarah protect Echo rather than study/publicize it. Sabotages her own career by destroying evidence to protect Echo. Learns that science should serve life, not the other way around."
+  },
+
+  "philosophical_position": "Dr. Cross believes in the scientific method as humanity's best tool for understanding reality. She believes in evidence, peer review, reproducibility. First contact should be moment of careful study and documentation. But she'll learn that some moments require compassion before curiosity, that not everything should be studied, and that the ethical implications of contact matter more than the scientific ones.",
+
+  "role_in_story": "Represents institutional science and its limitations. Provides scientific credibility to the signal discovery. Her arc from protocol-focused scientist to ethics-focused protector parallels Webb's arc from career-focused agent to principle-focused ally. Together they represent 'the system' learning to prioritize right action over right procedure. Her expertise is crucial for understanding Echo but her growth is in knowing when to stop studying and start helping."
+}

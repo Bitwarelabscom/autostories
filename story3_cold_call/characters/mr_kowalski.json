@@ -1,0 +1,83 @@
+{
+  "name": "Richard Kowalski",
+  "age": 57,
+  "role": "CEO of SatellitePro Communications",
+  "background": "Born in Cleveland to working-class Polish-American family. Business degree from Ohio State. Climbed corporate ladder through aggressive cost-cutting and revenue maximization. Bought controlling stake in SatellitePro five years ago, convinced he could turn it around. Instead has presided over steady decline as customers flee to streaming. Desperate to save company and his investment. Divorced twice, estranged from adult children. Lives for the deal, the angle, the comeback story.",
+  "physical_description": "White man going gray, maintains appearance of vigor through gym and hair dye. Expensive suits that read as slightly too try-hard. Corporate tan. Practiced smile that doesn't reach eyes. Projects confidence constantly, which reveals his insecurity.",
+  "core_wound": "Deeply insecure despite outward success. Terrified of being revealed as a failure, as someone who peaked and is now declining. Every business setback feels like confirmation of his father's prediction that he'd 'never amount to anything.' Knows SatellitePro is failing and it will destroy him financially and ego-wise.",
+  "wants": "To save SatellitePro or, failing that, to extract maximum value from any situation. To be seen as visionary businessman. To win. When he learns about alien contact, sees it as ultimate business opportunity - exclusive Earth representative, brokering alien-human deals, monopoly on interstellar communication.",
+  "needs": "To realize that not everything is a transaction. To understand that some moments are bigger than profit. To see workers as people, not resources. He won't learn this—he's an antagonist who doubles down.",
+  "voice_markers": [
+    "Corporate motivational speak: 'Leverage synergies,' 'disruptive innovation,' 'paradigm shift'",
+    "Aggressive optimism that demands agreement",
+    "Rhetorical questions: 'You know what I'm saying?'",
+    "References to business books and leadership gurus",
+    "Fake folksy charm: 'Let me tell you something...'",
+    "Pivots from friendly to threatening smoothly",
+    "Refers to self in third person when making grand statements",
+    "Turns everything into sports metaphor or war metaphor",
+    "Name-drops constantly"
+  ],
+  "contradiction": "Preaches loyalty and company family while slashing benefits and jobs. Talks about innovation while cutting R&D. Demands respect while showing none. Sees himself as self-made man who earned everything but inherited money from parents. Projects confidence while being deeply insecure.",
+  "skills_and_abilities": [
+    "Excellent negotiator and manipulator",
+    "Reads rooms and finds leverage points",
+    "Charismatic when needed",
+    "Understands corporate structures and legal frameworks",
+    "Strategic thinker in purely transactional terms",
+    "Relentless when he sees opportunity",
+    "Pivots quickly when situations change"
+  ],
+  "fears": [
+    "Financial ruin and public failure",
+    "Being revealed as fraud or failure",
+    "Irrelevance and being forgotten",
+    "Dying as a nobody",
+    "Losing control"
+  ],
+  "arc_position": 0.0,
+  "arc_trajectory": "Starts as distant CEO Terry has never met. Becomes involved when he sees alien contact as business opportunity. Escalates from opportunistic to genuinely dangerous as he tries to control/monetize first contact. Represents human greed and short-sightedness. Does not reform—serves as cautionary example and obstacle heroes must overcome. Ends facing consequences of treating cosmic moment as business deal.",
+  "knowledge_state": [
+    "Knows SatellitePro is failing financially",
+    "Aware of signal interference costing customers",
+    "Disconnected from day-to-day operations and frontline workers",
+    "Has connections to local politicians and business leaders",
+    "Doesn't know about alien contact until informed",
+    "When he learns, immediately sees profit potential",
+    "Underestimates his employees' intelligence and agency"
+  ],
+  "relationships": {
+    "Terrence_Mitchell": "Doesn't know he exists initially. When they meet, sees Terry as useful tool then as obstacle to control. Underestimates him completely. Patronizing and dismissive.",
+    "Bundle_Package": "Views it as business partner/opportunity. Tries to negotiate exclusive deals. Fundamentally doesn't grasp that it's not a business transaction. Dangerously misunderstands the situation.",
+    "Shanice_Williams": "Sees her as middle management, barely registers her existence. When she opposes him, tries to threaten her job. Learns too late she's more formidable than assumed.",
+    "Kevin_Zhao": "Completely unaware of his existence until crisis. Sees IT as interchangeable technical support. Tries to control him through job threats.",
+    "Dr_Angela_Okonkwo": "Initially tries to charm and co-opt her credentials. When she resists, attempts to discredit or sideline her. Threatened by her authority and expertise."
+  },
+  "internal_conflicts": [
+    "Greed vs. sense (he always chooses greed)",
+    "Public image vs. private desperation",
+    "Need for control vs. facing something uncontrollable"
+  ],
+  "character_quirks": [
+    "Checks phone constantly during conversations",
+    "Practices power moves: standing while others sit, making people wait",
+    "Name-drops expensive restaurants and business contacts",
+    "Golf references constantly (doesn't actually enjoy golf)",
+    "Drinks expensive scotch, makes show of it",
+    "Wears American flag lapel pin",
+    "Firm, aggressive handshake"
+  ],
+  "business_details": {
+    "company_status": "SatellitePro losing subscribers monthly, stock price declining, considering bankruptcy or sale",
+    "investment": "Personally leveraged to the hilt in SatellitePro stock",
+    "board_pressure": "Board considering replacing him, running out of time",
+    "connections": "Local business community, some political connections, media contacts"
+  },
+  "personal_details": {
+    "divorces": "Two ex-wives, both received significant settlements",
+    "children": "Two adult children from first marriage, estranged. They see him as absent and self-absorbed.",
+    "residence": "Expensive condo downtown Cleveland, mostly empty",
+    "lifestyle": "Projects wealth, actually over-extended financially"
+  },
+  "role_in_story": "Antagonistic force. Represents human short-sightedness, greed, and exploitation. Creates obstacles for heroes by trying to control/monetize situation. Serves as cautionary example of treating cosmic moment as business opportunity. His actions escalate crisis and force other characters to act decisively."
+}

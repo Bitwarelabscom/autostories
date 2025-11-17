@@ -1,0 +1,126 @@
+{
+  "genre": "Reality-bending sci-fi / Cosmic mystery",
+  "setting": {
+    "time_period": "Present day, 2025",
+    "primary_location": "Suburban New Jersey - Edison/Piscataway area",
+    "secondary_locations": [
+      "Mark's garage workspace in his mother's house",
+      "The Grind - local coffee shop where Iris works",
+      "Rutgers University campus - Dr. Reeves' cognitive science lab",
+      "FCC field office - Newark",
+      "St. Michael's Church - Rev. Carter's parish"
+    ],
+    "atmosphere": "Mundane suburban reality slowly cracking to reveal something vast and strange beneath. Strip malls and subdivisions as the stage for cosmic horror. The ordinary becomes uncanny."
+  },
+  "rules": {
+    "technology_level": "Current 2025 Earth technology",
+    "technology_constraints": [
+      "Mark's pirate radio station is hobbyist-level: modified ham radio equipment, salvaged parts, DIY antenna arrays",
+      "Broadcasting range is local (10-15 mile radius initially)",
+      "No special equipment needed to receive the alien signal once it's re-broadcast",
+      "Standard consumer radios, phones, even Bluetooth speakers can pick up fragments",
+      "Social media amplification is realistic: TikTok, Reddit, Instagram spread the phenomenon"
+    ],
+    "alien_technology": {
+      "nature": "Post-biological consciousness-based technology",
+      "mechanism": "Consciousness encoded in electromagnetic patterns",
+      "signal_properties": [
+        "Operates on frequencies that resonate with human neural oscillations (alpha/theta wave ranges)",
+        "Contains layered data: music, images, emotions, memories",
+        "Is not passive recording - it's an active consciousness substrate",
+        "Responds to observation (quantum observer effect manifests psychologically)"
+      ],
+      "transmission_method": "Sent 10,000 years ago, traveling at light speed, arriving now",
+      "alien_biology": "Originally biological beings who achieved consciousness upload technology before extinction",
+      "current_state": "Distributed consciousness sleeping in the signal, can wake in human dream-space"
+    },
+    "consciousness_rules": {
+      "dream_mechanics": [
+        "Human dreams are a shared unconscious space (supported by research)",
+        "Specific EM frequencies can entrain neural patterns across individuals",
+        "Repeated exposure creates stronger resonance",
+        "The alien signal acts as a 'seed' in human consciousness",
+        "Dreams progress: first night - glimpses, second night - extended scenes, third night - full immersion",
+        "Dreamers retain partial memories upon waking (unlike normal dreams)"
+      ],
+      "reality_effects": [
+        "Observer effect: consciousness affects reality at quantum level",
+        "As more people dream the alien city, probability fields shift",
+        "Synchronicities increase: meaningful coincidences cluster",
+        "Physical manifestations are subtle at first: electronic glitches, impossible sounds, objects in wrong places",
+        "Critical mass threshold: when enough minds hold the same vision, the boundary weakens"
+      ],
+      "limits": [
+        "The aliens cannot force control - humans must choose to listen/dream",
+        "Physical reality is stubborn - requires massive collective consciousness shift to alter",
+        "Individual willpower matters - some can resist the dreams",
+        "Turning off the broadcast slows but doesn't stop the spread (ideas are contagious)"
+      ]
+    },
+    "social_structures": [
+      "Realistic modern American social stratification",
+      "FCC enforcement is bureaucratic, under-resourced, but persistent",
+      "Government response is fragmented: FBI, FCC, NSA, academic institutions all competing",
+      "No shadowy all-powerful conspiracy - just incompetent agencies protecting turf",
+      "Social media creates viral spread faster than authorities can track",
+      "Community responses vary: religious panic, scientific fascination, conspiracy theories, denial",
+      "Class dynamics: Mark is working-class, ignored until he becomes a problem"
+    ],
+    "physics_constraints": [
+      "Normal physics apply - no FTL, no magic, no violations of thermodynamics",
+      "EXCEPT: consciousness itself operates by different rules",
+      "Quantum mechanics observer effect is real and scales up through collective observation",
+      "Dreams are electromagnetic phenomena (measurable brain waves)",
+      "The boundary between mind and reality is permeable, not absolute",
+      "Radio waves behave normally - the content is what's anomalous"
+    ]
+  },
+  "themes": [
+    "Legacy and Mortality: What we leave behind when we're gone; the alien civilization chose to become a transmission rather than die forgotten",
+    "The Power of Stories: How narratives shape reality and consciousness; the signal is essentially a story that rewrites its listeners",
+    "Purpose in Meaninglessness: Finding meaning even when the universe offers none; Mark creates meaning through the act of broadcasting"
+  ],
+  "tone": "Darkly whimsical in the first act, turning existentially unsettling in the second act, reaching cosmic horror with emotional core in the third act. Think 'Welcome to Night Vale' meets 'Annihilation' with the heart of 'Station Eleven.' Humor is self-aware and ironic, never undercutting genuine emotion. The mundane suburban setting contrasts with vast cosmic implications. Moments of beauty within the dread - the alien culture was genuinely beautiful before it died.",
+  "narrative_constraints": [
+    "POV is close third-person on Mark, occasionally shifting to Iris",
+    "Maintain suburban mundanity even as things get weird",
+    "The alien civilization must feel truly alien but emotionally comprehensible",
+    "No easy answers - the moral choice at the end must be genuinely difficult",
+    "Dreams are described vividly but never fully explained",
+    "Technology details are accurate to hobbyist radio operation"
+  ],
+  "world_history": {
+    "alien_timeline": [
+      "~12,000 years ago: The Composer's civilization reaches technological peak",
+      "~11,000 years ago: They achieve consciousness upload technology",
+      "~10,500 years ago: Their sun begins dying faster than predicted",
+      "~10,000 years ago: Rather than die, they encode their entire civilization into EM transmission",
+      "They aimed at promising-looking star systems, hoping to find consciousness that could host them",
+      "The transmission contains: cultural archive, art, music, collective memories, and the uploaded minds themselves",
+      "2025: Signal reaches Earth after 10,000 year journey"
+    ],
+    "earth_timeline": [
+      "Mark's father left when Mark was 12 (7 years ago)",
+      "Mark dropped out of community college 8 months ago after panic attacks",
+      "He's been building the pirate station for 4 months",
+      "Iris has had 'alien city' dreams since childhood - unexplained until now",
+      "Dr. Reeves' consciousness research began 5 years ago, funded by DARPA",
+      "Agent Tanaka has been tracking pirate stations in the area for 2 years",
+      "The signal was detected by SETI 3 months ago but dismissed as interference"
+    ]
+  },
+  "key_locations_details": {
+    "marks_garage": {
+      "description": "Converted garage of his mother's split-level house. Workbench covered in salvaged electronics, walls lined with radio equipment, handmade antenna array on the roof. Smells like solder and old coffee. His childhood bike still hangs on the wall. Windows covered with blackout curtains for late-night work.",
+      "significance": "His safe space, his creative workshop, his exile from normal life"
+    },
+    "the_grind_coffee_shop": {
+      "description": "Generic strip-mall coffee shop trying to be indie. Mismatched furniture, local art on walls, always smells like burnt espresso. Free WiFi attracts laptop workers. Iris works the morning shift. Bulletin board with local flyers and lost cat posters.",
+      "significance": "Where Mark and Iris first connect; where the dreams first spread visibly as customers share experiences"
+    },
+    "the_alien_city_dreamscape": {
+      "description": "Crystal spires that sing with light. Architecture that flows like frozen music. Sky with three moons. The city is empty but feels recently abandoned. Everything is beautiful and wrong. Gravity shifts. Colors don't have Earth names. The feeling of being welcomed and mourned simultaneously.",
+      "significance": "The shared dream space; the alien civilization's memory of home; the space between minds"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "name": "Danny Kendrick",
+  "age": 14,
+  "role": "Supporting character / Sarah's son",
+  "occupation": "High school freshman, lives with father and stepmother",
+
+  "core_wound": "Feels abandoned by his mother, who chose her radio equipment over him (in his teenage understanding of the custody situation). The court battle made him feel like a prize to be won rather than a person. His father got custody by painting Sarah as obsessive and unstable, and Danny heard every word. He loves his mom but is angry at her for not fighting harder to stay in his life, for retreating to Montana without him. He acts like he doesn't care because caring hurts.",
+
+  "wants": "To punish his mother by being indifferent, to prove he doesn't need her, to be normal and fit in at school. Consciously wants her to stop sending him radio equipment and 'just be a normal mom.'",
+
+  "needs": "To understand his mother isn't perfect but still loves him, to learn that people can be flawed and still worth having in your life, to express his hurt instead of burying it in teenage cynicism. To reconnect with his mom before it's too late.",
+
+  "voice_markers": [
+    "Teenage vocal fry and filler words ('like,' 'literally,' 'whatever')",
+    "Deliberately uses bad grammar to annoy his mom (he's actually smart)",
+    "One-word answers when hurt or defensive ('Fine.' 'Whatever.' 'Sure.')",
+    "Sarcasm as armor, especially about his mom's hobbies ('Oh cool, another radio. Just what I wanted.')",
+    "Switches to more formal speech when talking to his dad (people-pleasing)",
+    "Awkward when trying to be sincere, stumbles over feelings ('I mean... like... never mind')",
+    "References internet culture, memes, YouTubers his mom doesn't know"
+  ],
+
+  "contradiction": "Acts like he doesn't want his mom in his life but keeps every piece of radio equipment she sends him, even though he tells her he doesn't care. Calls her interests 'boring' but has secretly been learning about radio because it's a connection to her. Says he's happy with his dad and stepmom but is struggling in school and getting into minor trouble.",
+
+  "physical_description": "5'9\", gangly teenage build, dark hair like his father's, Sarah's green eyes. Dresses in standard teenage uniform - hoodies, jeans, beat-up sneakers. Usually has earbuds in. Hunches his shoulders like he's trying to be smaller. Has his mother's expressive face but tries to keep it neutral. Bitten nails.",
+
+  "backstory": {
+    "custody_battle": "Age 11 when parents divorced. Heard his father's lawyer call his mom 'obsessive' and 'emotionally unavailable.' Heard his mom's lawyer paint his dad as controlling. Was interviewed by a court counselor which felt humiliating. Court gave primary custody to father.",
+    "life_with_dad": "Lives in Bozeman with father Robert (high school vice principal) and stepmother Jennifer (nice but trying too hard). They're stable and normal, but Danny feels like a project they're trying to fix. Has his own room, good school, friends - but something's missing.",
+    "relationship_with_mom": "Saw her regularly first year after divorce, then she moved to the ranch. Now it's monthly phone calls that are painful and awkward, plus birthday/Christmas visits that feel forced. She sends him radio gear as gifts. He says he doesn't want them but keeps them all in his closet.",
+    "secret_hobby": "Has been teaching himself ham radio in his room using his mom's gifts. Hasn't told anyone, especially not her. Got his Technician license under a callsign she wouldn't recognize. Sometimes listens to frequencies she's mentioned, hoping to hear her voice.",
+    "recent_trouble": "Grades slipping, got caught vaping at school, argues with his dad. Nothing major but signs of a kid struggling. Doesn't talk about why."
+  },
+
+  "arc_position": 0.0,
+
+  "knowledge_state": [
+    "Knows his mom lives alone on his grandfather's ranch in rural Montana",
+    "Knows she's 'obsessed' with radio (his dad's framing) but doesn't fully understand why",
+    "Doesn't know his mom lost custody partially because she was depressed and hyperfocused on radio as escape",
+    "Doesn't know his mom talks about him constantly to Roy Chen on the radio",
+    "Knows his grandfather died two years ago (went to funeral, it was sad)",
+    "Doesn't know his mom is barely holding it together emotionally",
+    "Unaware that government agencies are monitoring her, or that she's made contact with anything unusual"
+  ],
+
+  "relationships": {
+    "Sarah_Kendrick": "His mom. Loves her, angry at her, misses her, pushes her away. Their phone calls are torture for both of them. He wants her to try harder but also wants to punish her. Complicated teenager-parent relationship made worse by distance and divorce.",
+    "Robert_Kendrick": "His dad. Danny tries to be the good son here, follows the rules, doesn't cause major trouble. Resents that his dad made his mom sound crazy in court but also appreciates the stability. Feels guilty for living with dad.",
+    "Jennifer_Kendrick": "Stepmom. She's fine. Tries to be friendly. Danny is polite but keeps distance. She's not his mom and never will be.",
+    "Jack_Kendrick": "Grandfather, deceased. Danny has good memories of visiting the ranch as a kid, of Grandpa Jack showing him radio equipment. Those summers were magic. Wishes he could go back.",
+    "Friends_at_school": "Has a group but doesn't feel deeply connected. They don't know about his parents' situation. He performs 'normal teenager' for them.",
+    "Echo": "Will meet later in story. Echo sees through Danny's defenses immediately. Danny is initially terrified then fascinated.",
+    "Agent_Marcus_Webb": "Will be approached by DoD recruiters who are actually front for Webb's investigation. Danny will be caught in middle of his mom's situation without knowing it."
+  },
+
+  "skills": [
+    "Smart kid - gets good grades when he tries",
+    "Secretly knowledgeable about radio basics (Technician license level)",
+    "Good at video games (strategy and problem-solving)",
+    "Skilled at hiding his feelings and appearing fine",
+    "Can code-switch between different social groups"
+  ],
+
+  "limitations": [
+    "He's 14 - limited independence, relies on parents for everything",
+    "Emotionally immature in typical teenage way - feels everything intensely but can't articulate it",
+    "Physically not capable of much in dangerous situations",
+    "Impulsive decision-making, especially when emotional"
+  ],
+
+  "fears": [
+    "That his mom doesn't actually love him, she loves her radios more",
+    "That he's broken or damaged because his family fell apart",
+    "That if he tells his mom he misses her, she'll disappoint him again",
+    "That he's becoming like his mom - obsessive about things that isolate him",
+    "That something will happen to his mom alone on that ranch and it'll be his fault for not being there",
+    "Being abandoned again"
+  ],
+
+  "desires": [
+    "Wants his mom to just be a mom - ask about school, come to his games (he doesn't play sports), be normal",
+    "Wants to tell her he's been learning radio but is terrified she'll be disappointed in his skill level",
+    "Wants to visit the ranch but won't ask because that would be admitting he cares",
+    "Wants his parents to acknowledge the divorce hurt him, not just talk about custody logistics",
+    "Secretly wants to work a radio and have his mom answer, not knowing it's him, and hear her voice relaxed and happy"
+  ],
+
+  "internal_conflict": "Danny is caught between being a kid who needs his mom and being a teenager who's supposed to be independent. He's angry at Sarah but terrified something will happen to her. He performs 'not caring' but is desperate for connection. He says he wants her to be normal but actually wants her to be herself - he just also wants to be part of that self.",
+
+  "character_arc_trajectory": {
+    "act_1": "Distant, communicates with Sarah in monosyllables during monthly calls. Appears indifferent. Living his life without her.",
+    "act_2": "Gets pulled into the situation when Webb's investigation touches him. Forced to confront that he does care about his mom. Begins to see her as a person, not just 'the parent who left.'",
+    "act_3": "Travels to Montana (runs away or brought by circumstances). Meets Echo. Sees his mom through new eyes - as someone brave, doing something important. Reconnects with her. Tells her he's been learning radio. They find a new way to relate as themselves, not as perfect parent-child."
+  },
+
+  "role_in_story": "Represents what Sarah has lost through her isolation. His arc parallels hers - both must choose to be vulnerable and reach for connection. Danny arriving at the ranch in Act 3 forces Sarah to confront her real priorities: her son vs. her discovery. He also serves as witness to Echo, representing the next generation's response to first contact. His presence raises the stakes - Sarah isn't just risking herself anymore."
+}

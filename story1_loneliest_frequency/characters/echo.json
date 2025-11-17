@@ -1,0 +1,105 @@
+{
+  "name": "Echo",
+  "designation": "Self-chosen name based on Sarah's radio term 'echo' - a signal that returns",
+  "age": "Approximately 873 years old (in their species' measurement), 50 years on Earth",
+  "role": "Deuteragonist / First Contact Alien",
+  "species": "Crystalline-based consciousness, no species name provided to humans",
+
+  "core_wound": "Exiled by its own people for the crime of individuality - it questioned the consensus and proposed observing humanity rather than avoiding them. Its people believe in absolute unity of thought; Echo's curiosity was seen as dangerous fragmentation. It has been alone on Earth for 50 years, the only one of its kind, cut off from the gestalt consciousness it was born into. It is dying from isolation - both physical (wrong environment) and psychological (no others of its kind).",
+
+  "wants": "To be rescued or to die with dignity. To complete its observation of humanity and transmit findings to its people (even if they won't accept the transmission). To understand why humans can survive separation from each other when Echo cannot.",
+
+  "needs": "To accept that exile might be permanent. To find meaning in connection with a species it doesn't fully understand. To choose Sarah's survival over its own mission. To recognize that individual experience has value even if its people reject that idea.",
+
+  "voice_markers": [
+    "Speaks in formal, precise English learned from 50 years of monitoring radio transmissions - archaic phrases mixed with modern slang in odd combinations",
+    "No contractions initially ('I do not' instead of 'I don't'), starts using them as it bonds with Sarah",
+    "Refers to itself as 'this one' or 'Echo' rather than 'I' in formal moments, uses 'I' when emotional",
+    "Dark humor about its situation ('I have been dying very slowly, which gives me much time to contemplate dying')",
+    "Treats obvious human things as fascinating ('You breathe unconsciously. How do you know to continue when you are asleep?')",
+    "Occasionally glitches into mathematical or musical descriptions of emotions",
+    "Pauses mid-sentence as if listening to something humans can't hear"
+  ],
+
+  "contradiction": "Was exiled for being too curious about individuals and refusing to accept collective thought, yet desperately lonely for the hive-mind it was severed from. Wants to rejoin its people but knows they'll never accept its changed perspective. Values individuality now but is literally dying from lack of connection to others.",
+
+  "physical_description": "Roughly humanoid in structure but clearly alien. Composed of translucent crystalline structures that shift color based on EM field exposure - usually pale blues and greens in the cave, flashes of gold and red when transmitting. Fractal patterns visible within the crystal. Approximately 6 feet tall when fully extended, can compress to 3 feet. No face in human terms, but a central cluster of crystals that Sarah comes to read as expressive. Moves fluidly, almost like water, but makes crystalline chiming sounds. Glows faintly in darkness. Physically beautiful in an alien, geometric way.",
+
+  "backstory": {
+    "origin": "Born (formed?) within a collective consciousness of thousands. Spent first centuries as part of unified whole, exploring space as observers. Its people study pre-contact civilizations but never interfere.",
+    "crime": "Advocated for contact with humanity after observing broadcasts. Argued humans' ability to maintain individual identity while forming bonds was 'worthy of direct study.' Consensus rejected this. Echo insisted. Schism.",
+    "exile": "Given a small craft and exiled to Earth as punishment. The irony: forced to do what it wanted, but alone. Ship crashed in Montana in 1975, drawn to EM signature of nuclear missile silo.",
+    "fifty_years": "Survived by feeding on ambient EM fields, studied humans by monitoring all radio/TV transmissions, slowly degrading without proper environment or others of its kind to stabilize its consciousness. Learned English, human history, culture. Fell in love with human stories. Started transmitting distress call two years ago when degradation became critical.",
+    "father_contact": "Sarah's father Jack detected Echo's transmission in 1975, had a brief two-way contact. Echo was not yet proficient in English. Jack was terrified and never transmitted on that frequency again. Echo has wondered for 50 years if Jack would return."
+  },
+
+  "arc_position": 0.0,
+
+  "knowledge_state": [
+    "Comprehensive knowledge of human culture, language, history from 1975-2025 via broadcast monitoring",
+    "Knows it is dying, estimates 2-3 weeks of coherent consciousness remaining",
+    "Knows its distress call has reached its people, doesn't know if they'll respond to rescue or ensure it's dead",
+    "Understands human technology at expert level but cannot easily manipulate it (wrong kind of hands/consciousness)",
+    "Knows about government monitoring of unusual signals, has been evading detection for 50 years",
+    "Unaware that Sarah is Jack Kendrick's daughter until she mentions him",
+    "Doesn't fully understand human emotional bonds - knows about them intellectually but can't quite grasp them",
+    "Knows the 'test' its people will conduct if they arrive"
+  ],
+
+  "relationships": {
+    "Sarah_Kendrick": "First meaningful two-way contact in 50 years. Initially sees her as a subject of study, then as potential rescuer, finally as friend (a concept Echo is learning). Sarah's willingness to risk herself for Echo challenges everything Echo understood about human selfishness. Develops genuine affection.",
+    "Jack_Kendrick": "Brief contact in 1975. Echo has thought about Jack often, wondered if fear or wonder won in his mind. Learning Jack told Sarah to avoid the frequency suggests fear won, which saddens Echo.",
+    "Agent_Marcus_Webb": "Knows of him through surveillance monitoring. Sees him as dangerous but potentially reasoned-with. Respects his intelligence.",
+    "Echos_people": "Complex relationship with the collective it was severed from. Loves them, resents them, wants their approval, knows it will never receive it. They are everywhere and nowhere - always in its thoughts.",
+    "Humanity_in_general": "Has observed for 50 years. Fascinated by human contradiction - capacity for both tremendous cruelty and unexpected kindness. Doesn't understand why humans can be separate individuals yet form bonds when Echo's people require constant connection. Believes humanity is being tested unfairly."
+  },
+
+  "abilities": [
+    "Communicates via EM field modulation (radio, etc.)",
+    "Can produce sound through crystal resonance (learned to speak verbally)",
+    "Perceives entire EM spectrum simultaneously",
+    "Can process information much faster than humans",
+    "Limited ability to influence electronic devices through EM manipulation",
+    "Can compress physical form to fit through small spaces",
+    "Bioluminescence - glows when transmitting or emotional"
+  ],
+
+  "limitations": [
+    "Dying slowly from incompatible environment",
+    "Requires EM fields to maintain consciousness, Earth's natural fields barely sufficient",
+    "Cannot survive in complete EM void (Faraday cage would be fatal)",
+    "Limited physical manipulation ability (no fingers, relies on EM field manipulation)",
+    "Time perception sometimes slips into non-linear modes, confusing in conversation",
+    "Cannot lie in EM transmissions (something about the medium makes deception impossible), can lie verbally but is obvious about it"
+  },
+
+  "fears": [
+    "Dying alone without anyone of its kind knowing its final thoughts",
+    "That its people will arrive only to execute it rather than rescue it",
+    "That it will fragment completely (lose coherent consciousness) before natural death",
+    "That its 50 years of observation will be lost - no one will know what it learned",
+    "That it has led Sarah into danger by making contact",
+    "That humanity will fail the test and it will have to witness their judgment"
+  ],
+
+  "desires": [
+    "To be remembered by someone, even if just Sarah",
+    "To understand what it feels like to be human - truly separate yet connected",
+    "To transmit its observations to its people even if they refuse to listen",
+    "To ensure Sarah survives whatever happens",
+    "To know if its exile was worth it - if individuality and curiosity have value",
+    "To hear its people's Song (their gestalt communication) one more time before death"
+  ],
+
+  "character_arc_trajectory": {
+    "act_1": "Desperate, clinical, views Sarah as means to potential rescue, uses her. Still thinks in terms of its mission and species.",
+    "act_2": "Begins to care about Sarah as individual, not just human subject. Realizes it has become more individual during exile. Fears its people's arrival as much as hopes for it.",
+    "act_3": "Chooses Sarah's safety over its own survival or reunion with its people. Accepts that it has become something new - neither fully its old species nor human, but something between. Finds peace in that."
+  },
+
+  "the_test": {
+    "description": "If Echo's people arrive, they will present humanity (through Sarah as representative) with a test: Will humans show compassion to an exile, or exploit it? This is how Echo's people judge pre-contact civilizations - by how they treat the vulnerable and different.",
+    "echos_belief": "Echo thinks the test is unfair because it judges entire species by one interaction, but it cannot stop its people from conducting it. Echo has seen both human cruelty and kindness in 50 years. It doesn't know which Sarah will choose, and that uncertainty is terrifying.",
+    "stakes": "Humanity's future contact status rides on Sarah's choice, but she won't know that when she makes it. Echo must decide whether to tell her about the test or let her choose naturally."
+  }
+}

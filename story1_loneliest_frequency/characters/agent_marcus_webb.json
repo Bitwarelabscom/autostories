@@ -1,0 +1,103 @@
+{
+  "name": "Agent Marcus Webb",
+  "age": 47,
+  "role": "Antagonist-turned-ally / FBI Special Agent",
+  "occupation": "FBI Special Agent, assigned to X-Division (unexplained phenomena investigation unit - officially doesn't exist)",
+
+  "core_wound": "Spent 20 years investigating cases that get buried, mocked, or classified into oblivion. Started career as idealistic agent wanting to protect people; now trapped in a division that investigates real phenomena but is never allowed to act on findings or tell the truth. Has evidence of things that would change the world but must keep silent. His marriage fell apart because he couldn't tell his wife what he really did, and she thought he was either crazy or having an affair. He wants to be the one who finally brings truth to light, but the system has beaten that idealism nearly to death.",
+
+  "wants": "To make the contact with Echo official and public, to be the agent who confirms extraterrestrial life exists, to finally have a case that isn't buried. To prove to himself and the world that his 20 years wasn't wasted chasing shadows.",
+
+  "needs": "To accept that some truths protect themselves by staying hidden, that not all discoveries should be public, that protecting one person (Sarah) and one being (Echo) might be more important than vindicating his career. To choose doing the right thing over being proven right.",
+
+  "voice_markers": [
+    "Professional FBI-speak that sometimes slips into weariness ('Ma'am, I need you to come with me' vs 'Look, we both know how this goes')",
+    "References old X-Files episodes with self-deprecating humor ('Yeah, I'm that guy')",
+    "Precise language habit from report writing ('At approximately 0300 hours' even in casual speech)",
+    "Sighs a lot, especially when dealing with bureaucracy",
+    "Calls people by their full names formally, then first names when he trusts them",
+    "Makes dark jokes about his own career ('Twenty years of this and I've got a drawer full of redacted reports and an ex-wife')"
+  ],
+
+  "contradiction": "Wants truth to be public and transparent, but his entire career has been built on keeping secrets. Resents the system that buries his work, but is loyal to the Bureau and follows orders even when it kills him inside. Investigates the unknown but has become deeply cynical about wonder.",
+
+  "physical_description": "6'1\", fit but starting to show middle age - slight gut, graying hair he keeps short, lines around his eyes from squinting at screens and not sleeping enough. Dresses in standard FBI suits that are slightly rumpled. Dark eyes that have seen too much. Expressive face he tries to keep neutral. Has a habit of rubbing his temples when frustrated. Wears a wedding ring even though he's divorced (hasn't taken it off).",
+
+  "backstory": {
+    "early_career": "FBI academy top 15% of class, assigned to Chicago field office doing bank robbery and organized crime, good agent, rising career",
+    "x_division_assignment": "12 years ago, investigated a case involving unexplained signal interference during a terrorist threat. Discovered the interference wasn't terrorists - was something unexplained. Wrote honest report. Got reassigned to X-Division as punishment/quarantine.",
+    "marriage_collapse": "Wife Rebecca thought he was having mental breakdown or affair. He couldn't tell her about classified cases. Divorced 5 years ago. No kids. He didn't fight the divorce because he couldn't explain his life.",
+    "signal_history": "Has been tracking unusual radio signals for 8 years. Has a database of 200+ incidents. Most are natural phenomena or hoaxes, but 7 cases remain unexplained. Echo's signal is #8. This is the first time he's gotten to an active signal source while it's still transmitting.",
+    "mentor": "Former partner Agent Lisa Chen taught him 'Trust the evidence, question the narrative.' She retired early after their division was shut down twice and reconstituted. Webb stayed because he's stubborn."
+  },
+
+  "arc_position": 0.0,
+
+  "knowledge_state": [
+    "Knows about Sarah's signal detection through NSA monitoring of licensed ham operators",
+    "Has database of unusual signals going back decades, including notation about Jack Kendrick's 1975 contact (though Jack never filed a report, Webb found mention in NSA archives)",
+    "Knows government has been monitoring Montana area since Cold War, doesn't know exactly why",
+    "Aware that DoD has interest in the case but not yet mobilized",
+    "Doesn't know about Echo's physical existence yet - thinks it's a signal from a ship in orbit or deep space",
+    "Knows Sarah's custody battle history (background check), sympathizes more than he lets on",
+    "Doesn't know his superiors will bury the case if it becomes inconvenient"
+  ],
+
+  "relationships": {
+    "Sarah_Kendrick": "Starts as target of investigation, becomes ally. Webb sees himself in her - another person obsessed with something that isolates them from normal life. Initial antagonism gives way to mutual respect. He becomes protective.",
+    "Echo": "Initially just evidence, then becomes a being he must choose to protect or expose. Echo challenges his worldview - what does first contact mean if it's handled wrong? Webb realizes his career ambition might destroy Echo.",
+    "Danny_Kendrick": "Minimal interaction but Webb recognizes the kid is caught in adult problems. His protective instinct extends to Danny.",
+    "Director_Patricia_Marsh": "His superior. She's practical, political, and has killed every major case he's brought her. Webb resents her but understands she's protecting her position. She sees him as a useful fool.",
+    "Roy_Chen": "Interviews him early on, recognizes Chen as true believer. Treats him with respect which surprises Chen.",
+    "Dr_Evelyn_Cross": "Professional respect, some tension. Cross wants scientific protocols, Webb needs immediate action. Both are frustrated by bureaucracy."
+  },
+
+  "skills": [
+    "Expert investigator with 25 years experience",
+    "Skilled interrogator - can read people",
+    "Understanding of signals intelligence and monitoring",
+    "Knows how to navigate FBI bureaucracy (and how to bend rules)",
+    "Firearms proficiency, defensive tactics",
+    "Digital forensics basics",
+    "Can function on minimal sleep",
+    "Writes detailed reports that no one reads"
+  ],
+
+  "limitations": [
+    "Bound by FBI rules and chain of command",
+    "Cynical to the point of decision paralysis sometimes",
+    "Not a scientist - has to rely on consultants for technical analysis",
+    "His division has no real authority, he has to borrow resources",
+    "Known as 'that X-Files guy' in the Bureau, not taken seriously by most agents"
+  ],
+
+  "fears": [
+    "That this case will be buried like all the others",
+    "That he'll do the wrong thing and be responsible for disaster",
+    "That he wasted 20 years on nothing meaningful",
+    "That he's become so cynical he's lost the ability to feel wonder",
+    "That he'll have to hurt Sarah to do his job",
+    "That Echo will be captured and dissected by people who don't see it as a being"
+  ],
+
+  "desires": [
+    "To be the agent who makes first contact public and official",
+    "To vindicate all the years of buried work",
+    "To feel like his career mattered",
+    "To make one decision that's right rather than by-the-book",
+    "To protect something instead of just documenting it",
+    "To call Rebecca and tell her he wasn't crazy (but he won't)"
+  ],
+
+  "internal_conflict": "Webb joined the FBI to protect people and serve truth. X-Division has turned him into a secret-keeper who documents things the public never learns about. He's desperate for Echo to be public because it would validate his entire career, but making it public might destroy Echo and Sarah. His want (validation/publicity) conflicts with his need (doing the right thing for its own sake, not for recognition).",
+
+  "character_arc_trajectory": {
+    "act_1": "By-the-book investigator tracking Sarah, sees her as person-of-interest in potential hoax or foreign intelligence operation. Professional, detached, gathering evidence.",
+    "act_2": "Realizes the signal is real and meets Echo. Faces choice between career validation (capture Echo for study) and doing right thing (protect Sarah and Echo). Begins to question his 20-year mission.",
+    "act_3": "Chooses to help Sarah and Echo escape rather than capture them, knowing it means his career is over and no one will ever know what he found. Finds peace in doing the right thing without recognition. Rediscovers his idealism."
+  },
+
+  "moral_alignment": "Lawful Good shifting toward Chaotic Good. Starts believing in rules and systems, ends believing in people and principles even when it means breaking rules.",
+
+  "role_in_story": "Initially appears to be the antagonist - the government agent hunting Sarah. Gradually revealed to be a burned-out idealist who becomes Sarah's ally. His arc parallels Sarah's: both must choose between what they want (external validation) and what they need (to do the right thing regardless of recognition)."
+}

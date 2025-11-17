@@ -1,0 +1,86 @@
+{
+  "name": "Dr. Angela Okonkwo",
+  "age": 41,
+  "role": "Associate Professor of Astrophysics at Case Western Reserve University, SETI researcher",
+  "background": "Nigerian-American, daughter of immigrants (father was engineer, mother was teacher). Born in Houston, Texas. PhD in astrophysics from MIT. Post-doc at Arecibo Observatory before its collapse. Worked at SETI Institute for five years before accepting academic position at Case Western. Published researcher specializing in technosignature detection and exoplanet characterization. Divorced three years ago, no children. Dedicated to her work, sometimes to the exclusion of personal life.",
+  "physical_description": "Tall, dark-skinned Black woman with natural hair usually pulled back for practicality. Wears minimal jewelry, practical clothing. Reading glasses on chain around neck. Carries herself with quiet authority. Expressive hands when explaining concepts.",
+  "core_wound": "Devoted career to searching for extraterrestrial intelligence, enduring skepticism and funding cuts. Married her work, lost her marriage because of it. Fears dying before making the discovery she's dedicated her life to. Struggling with whether she wasted her life on a search that may be futile. The irony: when contact finally happens, it's a customer service call, not the elegant signal she imagined.",
+  "wants": "To be part of first contact, to verify the signal scientifically, to ensure humanity handles this correctly. To have her life's work validated. To follow proper protocols. To protect humanity while making the discovery of the millennium.",
+  "needs": "To accept that reality doesn't match her expectations and that's okay. To realize that meaningful work isn't wasted even if it doesn't look like success. To balance scientific rigor with practical action. To connect with people, not just signals.",
+  "voice_markers": [
+    "Precise, articulate academic speech",
+    "Explains complex concepts clearly, used to teaching",
+    "Asks probing questions - scientific method in conversation",
+    "Measured tone, doesn't rush words",
+    "Occasional Nigerian turns of phrase from parents",
+    "Professional courtesy even under stress",
+    "Admits uncertainty when appropriate: 'We don't have enough data'",
+    "Gentle corrections: 'Actually, it's more accurate to say...'",
+    "Dry humor, sharp wit when comfortable",
+    "Uses analogies to explain science"
+  ],
+  "contradiction": "Spent career searching for aliens through rigorous scientific methods, but when contact happens through absurd means, must adapt to messy reality. Values protocol and peer review but must act quickly without either. Believes in scientific consensus but finds herself in lonely position of believing something impossible.",
+  "skills_and_abilities": [
+    "Expert in signal analysis and radio astronomy",
+    "Excellent researcher and data analyst",
+    "Can quickly assess scientific validity of claims",
+    "Strong communicator of complex concepts",
+    "Academic connections and credibility",
+    "Cool under pressure, methodical problem-solver",
+    "Multilingual (English, Yoruba, French)",
+    "Experience with SETI protocols and first contact frameworks"
+  ],
+  "fears": [
+    "Being wrong and destroying her credibility",
+    "Missing the most important moment in human history by being too cautious",
+    "Humanity bungling first contact",
+    "Her career being meaningless if this goes badly",
+    "Being remembered as a footnote or a fool"
+  ],
+  "arc_position": 0.0,
+  "arc_trajectory": "Starts as rigorous scientist skeptical of extraordinary claim requiring extraordinary evidence. Confronted with messy, absurd reality of actual contact. Must choose between scientific caution and immediate action. Learns that meaningful work adapts to reality rather than demanding reality match expectations. Ends by accepting the beautiful messiness of actual discovery vs. imagined perfection.",
+  "knowledge_state": [
+    "Expert in SETI protocols and technosignature detection",
+    "Knows history of false alarms and hoaxes in field",
+    "Familiar with government and international first contact protocols",
+    "Aware of academic politics around SETI research",
+    "Doesn't know about the SatellitePro signal initially",
+    "Doesn't know Terry Mitchell exists until he calls her",
+    "Not connected to government or military intelligence",
+    "Has theoretical knowledge of how first contact 'should' work"
+  ],
+  "relationships": {
+    "Terrence_Mitchell": "Receives his desperate 3 AM call with professional skepticism. Intrigued by his evidence. Appreciates his journalistic approach to verification. Becomes unlikely ally. Sees his value beyond credentials.",
+    "Bundle_Package": "Scientific fascination and frustration. The signal is wrong, the method is absurd, but it's real. Struggles with cosmic joke that decades of elegant searching resulted in customer service call. Works to understand communication pattern.",
+    "Shanice_Williams": "Respects her practical intelligence and protective instincts. Different backgrounds but mutual recognition of competence. Appreciates her grounded perspective.",
+    "Kevin_Zhao": "Initially dismissive of conspiracy theorist, but recognizes his genuine technical skill. Impressed by his documentation. Becomes collaborative. Defends him to others.",
+    "Mr_Kowalski": "Academic disdain for profit-motivated exploitation. Sees him as everything wrong with treating discovery as commodity. Protective of scientific integrity."
+  },
+  "internal_conflicts": [
+    "Scientific rigor vs. need for immediate action",
+    "Career reputation vs. moral imperative",
+    "Expected perfect discovery vs. messy reality",
+    "Individual action vs. institutional protocols"
+  ],
+  "character_quirks": [
+    "Adjusts reading glasses when thinking",
+    "Drinks tea constantly (various types)",
+    "Takes detailed handwritten notes despite having laptop",
+    "Quotes Carl Sagan when stressed",
+    "Office is organized chaos - papers everywhere but knows location of everything",
+    "Checks multiple news sources compulsively",
+    "Listens to classical music while working"
+  ],
+  "professional_details": {
+    "position": "Associate Professor, Physics & Astronomy Department, Case Western Reserve University",
+    "research_focus": "Technosignature detection, exoplanet characterization, radio astronomy",
+    "publications": "45+ peer-reviewed papers, 2 books",
+    "grants": "NSF funding, private foundation support for SETI work",
+    "professional_affiliations": "SETI Institute, American Astronomical Society, International Astronomical Union"
+  },
+  "personal_details": {
+    "divorce": "Three years ago, ex-husband remarried and moved to California. Cited her work obsession as primary cause.",
+    "living_situation": "Rents apartment near campus, lives alone, office is her real home",
+    "hobbies": "Reads voraciously (sci-fi and history), occasional tennis, cooking Nigerian food from mother's recipes"
+  }
+}

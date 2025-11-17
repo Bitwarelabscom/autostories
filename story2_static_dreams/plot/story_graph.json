@@ -1,0 +1,560 @@
+{
+  "story_structure": {
+    "total_chapters": 20,
+    "target_word_count": "50,000-60,000 words (2,500-3,000 per chapter)",
+    "act_breakdown": {
+      "act_1": "Chapters 1-7 - Discovery and Escalation",
+      "act_2": "Chapters 8-15 - Understanding and Consequences",
+      "act_3": "Chapters 16-20 - Crisis and Resolution"
+    }
+  },
+  "tentpoles": [
+    {
+      "chapter": 1,
+      "type": "hook",
+      "title": "The Signal",
+      "description": "Mark intercepts the signal while testing his pirate station. It's beautiful, haunting music unlike anything on Earth. He broadcasts a segment not knowing what he's unleashing.",
+      "key_moments": [
+        "Mark alone in garage workshop, testing equipment at 2 AM",
+        "First reception of the alien signal - described in visceral, musical detail",
+        "Decision to broadcast it - 'people need to hear this beauty'",
+        "First transmission goes out to his small local audience",
+        "Mark feels pride and purpose for first time in months"
+      ],
+      "character_states": {
+        "marcus": "Arc position 0.0 - isolated, seeking validation through broadcast",
+        "iris": "Unaware of broadcast but has vivid alien city dream that night",
+        "leonard": "Working late in lab, unaware his son is involved in anything",
+        "yuki": "Detects illegal broadcast, adds to her tracking list",
+        "carter": "Asleep, unaware",
+        "composer": "Dormant but stirring - first contact with consciousness in 10,000 years"
+      },
+      "planted_elements": [
+        "The specific frequency (Mark notices it's unusual but not impossible)",
+        "Iris has the dream that night but doesn't connect it yet",
+        "Mark's panic attack subsides when he broadcasts (first hint of connection)",
+        "Yuki's equipment shows anomalous readings she dismisses as interference"
+      ]
+    },
+    {
+      "chapter": 7,
+      "type": "complication",
+      "title": "The Dreamers",
+      "description": "After Mark broadcasts a longer segment, seven people report identical dreams of an alien cityscape on local social media. The dreams continue even after he stops broadcasting. Reality is cracking.",
+      "key_moments": [
+        "Mark sees Reddit post describing his own recurring imagery",
+        "Iris comes to him at The Grind - 'I've been dreaming that city since I was seven'",
+        "They compare notes - her dreams match the signal exactly",
+        "Six others in the area report same dreams on local Facebook group",
+        "Dreams continue to intensify even though Mark hasn't broadcast in 2 days",
+        "First reality glitch - several dreamers see impossible colors while awake"
+      ],
+      "character_states": {
+        "marcus": "Arc 0.25 - excitement turning to fear, realizes he's caused something he doesn't understand",
+        "iris": "Relief and terror - finally confirmation she's not crazy, but what does it mean?",
+        "leonard": "Hears about collective dream reports, begins investigation",
+        "yuki": "Connects illegal broadcast to dream phenomenon, escalates investigation",
+        "carter": "First congregants report 'troubling dreams,' begins pastoral concern",
+        "composer": "Waking up, learning human language and culture from dreamers' minds"
+      },
+      "planted_elements": [
+        "Iris reveals she's been dreaming it before the broadcast (she's special)",
+        "Leonard's name mentioned in news article about consciousness research (Mark sees it)",
+        "The dreams are described with specific architectural details that recur",
+        "Social media spread begins - this will compound exponentially"
+      ]
+    },
+    {
+      "chapter": 12,
+      "type": "midpoint_reversal",
+      "title": "The Awakening",
+      "description": "Mark realizes the signal isn't just a recording—it's an active consciousness upload. The aliens aren't dead; they're sleeping in human dreams. The Composer communicates directly for the first time.",
+      "key_moments": [
+        "Mark experiences full immersion dream - walks the alien city",
+        "The Composer appears to him, explains what they are",
+        "Revelation: sent transmission 10,000 years ago as final act before extinction",
+        "They uploaded their consciousness to avoid being forgotten",
+        "The signal is them - billions of minds sleeping in electromagnetic pattern",
+        "They want to wake fully, to live in human dream-space",
+        "Mark understands: continuing broadcast helps them wake, stopping it might kill them again"
+      ],
+      "character_states": {
+        "marcus": "Arc 0.50 - midpoint transformation, understands the stakes, terrified of responsibility",
+        "iris": "Meets The Composer in dreams, recognizes it as familiar presence from childhood",
+        "leonard": "Confirms his theories about consciousness/EM fields, sees opportunity",
+        "yuki": "Officially ordered to shut down the broadcast, conflicted",
+        "carter": "Declares phenomenon as spiritual warfare, organizes prayer meetings",
+        "composer": "Fully awake and communicating, desperate and hopeful"
+      },
+      "planted_elements": [
+        "The Composer reveals Iris has been quantum-entangled with signal (explains her lifelong dreams)",
+        "Critical mass threshold mentioned - if enough people dream, boundary weakens permanently",
+        "Mark learns his father's research predicted exactly this scenario",
+        "First physical reality manifestation - objects from dreams appear in waking world (small, subtle)"
+      ]
+    },
+    {
+      "chapter": 17,
+      "type": "climax",
+      "title": "Critical Mass",
+      "description": "The signal reaches critical mass - thousands dream the same dream simultaneously. The alien civilization offers a choice: let them wake fully into shared reality. Mark must decide whether to complete the final broadcast.",
+      "key_moments": [
+        "Viral spread - thousands now dreaming, social media explodes",
+        "Physical reality effects intensify - impossible architecture glimpsed at dawn, sounds from alien city heard",
+        "The Composer makes formal request: complete the transmission, let them wake",
+        "Leonard urges Mark to do it - greatest discovery in history",
+        "Yuki warns shutdown is coming, federal response mobilizing",
+        "Carter begs Mark to stop - fears mass psychosis or worse",
+        "Iris reveals she's the key - her quantum entanglement means her consent is necessary",
+        "Mark and Iris must choose together: complete it or shut it down"
+      ],
+      "character_states": {
+        "marcus": "Arc 0.85 - facing impossible choice, must decide without certainty",
+        "iris": "Must choose whether to host the alien consciousness, knowing it will change her",
+        "leonard": "Prioritizes Mark's wellbeing over research for first time, offers genuine support",
+        "yuki": "Chooses to protect Mark rather than enforce shutdown, becomes active ally",
+        "carter": "Accepts he can't stop it, shifts to pastoral care for frightened community",
+        "composer": "Desperate but honest - admits they don't know what will happen either"
+      ],
+      "planted_elements": [
+        "All earlier elements converge here",
+        "The choice requires both Mark (broadcaster) and Iris (quantum key)",
+        "No certainty about outcome - genuine moral ambiguity",
+        "Federal shutdown incoming - timer on decision"
+      ]
+    },
+    {
+      "chapter": 20,
+      "type": "resolution",
+      "title": "Static Dreams",
+      "description": "Mark's choice about whether to complete the broadcast, and what it means to host another species' ghosts. Resolution of character arcs and the central question: what do we leave behind?",
+      "key_moments": [
+        "Mark and Iris make their choice (deliberately ambiguous in outline - decision made during writing)",
+        "Consequences of choice play out",
+        "Leonard and Mark's reconciliation - genuine apology and acceptance",
+        "The Composer's response to humanity's choice",
+        "Epilogue: one month later, resolution of relationships and new normal",
+        "Final image: Mark broadcasting again, but changed, purposeful not desperate"
+      ],
+      "character_states": {
+        "marcus": "Arc 1.0 - has learned meaning comes from creation/choice itself, not outcome or validation",
+        "iris": "Arc 1.0 - accepts her unique nature, no longer feels broken",
+        "leonard": "Arc 1.0 - has apologized, prioritized relationship over achievement",
+        "yuki": "Arc 1.0 - trusts her own judgment over regulations",
+        "carter": "Arc 1.0 - accepted mystery without needing to categorize it",
+        "composer": "Arc 1.0 - accepted humanity's choice with grace"
+      },
+      "thematic_resolution": "Legacy matters not because it prevents death but because it honors what was lived. Meaning is created through acts of choice and connection. The universe offers no inherent purpose - we make our own."
+    }
+  ],
+  "all_chapters": [
+    {
+      "chapter": 1,
+      "title": "The Signal",
+      "type": "tentpole - hook",
+      "summary": "Mark tests his pirate station at 2 AM, intercepts beautiful alien signal, broadcasts it to his small audience feeling purposeful for first time in months.",
+      "pov": "Marcus",
+      "setting": "Mark's garage workshop, late night",
+      "timeline": "Night 1, 2:00-4:00 AM"
+    },
+    {
+      "chapter": 2,
+      "title": "Frequency and Coffee",
+      "type": "bridge",
+      "summary": "Morning after the broadcast. Mark visits The Grind, exchanges looks with Iris. Yuki begins tracking the signal. First dreamer (not yet identified) wakes from alien city dream confused.",
+      "pov": "Marcus, brief Iris POV",
+      "setting": "The Grind coffee shop, morning",
+      "timeline": "Day 2, morning"
+    },
+    {
+      "chapter": 3,
+      "title": "Echoes",
+      "type": "bridge",
+      "summary": "Mark broadcasts second segment - longer, more immersive. Describes the signal's strange beauty. Iris has her second dream, more intense. We see her sketching the city she's known her whole life.",
+      "pov": "Marcus, Iris",
+      "setting": "Mark's garage, Iris's apartment",
+      "timeline": "Day 3, night and following morning"
+    },
+    {
+      "chapter": 4,
+      "title": "Triangulation",
+      "type": "bridge",
+      "summary": "Yuki narrows down Mark's location, prepares for field investigation. Leonard reads report about localized collective dreams, begins forming hypothesis. Carter hears first confession about 'troubling dreams.'",
+      "pov": "Yuki, brief Leonard and Carter",
+      "setting": "FCC field office, Rutgers lab, St. Michael's church",
+      "timeline": "Day 4"
+    },
+    {
+      "chapter": 5,
+      "title": "The Wanderer's Lament",
+      "type": "bridge",
+      "summary": "Mark broadcasts third segment - this one feels responsive, like the signal is aware of him. His panic attacks ease when he's working with it. First social media posts about shared dreams appear.",
+      "pov": "Marcus",
+      "setting": "Mark's garage, online spaces",
+      "timeline": "Day 5-6"
+    },
+    {
+      "chapter": 6,
+      "title": "Going Viral",
+      "type": "bridge",
+      "summary": "Reddit thread about shared dreams gains traction. Seven people describe identical alien cityscape. Mark sees it and realizes his broadcast is spreading something. Iris sees the thread and recognizes her lifelong dreams.",
+      "pov": "Marcus, Iris",
+      "setting": "Online, The Grind, various dreamers' homes",
+      "timeline": "Day 7"
+    },
+    {
+      "chapter": 7,
+      "title": "The Dreamers",
+      "type": "tentpole - complication",
+      "summary": "Iris confronts Mark at The Grind - reveals she's been dreaming the city since childhood. They realize the broadcast is triggering/spreading her dreams. The phenomenon is real and growing. No turning back.",
+      "pov": "Marcus, Iris",
+      "setting": "The Grind, then Mark's garage",
+      "timeline": "Day 8"
+    },
+    {
+      "chapter": 8,
+      "title": "Investigations",
+      "type": "bridge",
+      "summary": "Multiple investigation threads: Yuki closes in on Mark's location. Leonard connects the dreams to Mark through social media sleuthing. Carter organizes community meeting about the dreams. Mark and Iris begin researching the signal together.",
+      "pov": "Multiple POVs",
+      "setting": "Various locations",
+      "timeline": "Day 9-10"
+    },
+    {
+      "chapter": 9,
+      "title": "Patterns in Static",
+      "type": "bridge",
+      "summary": "Mark and Iris analyze the signal, discover it contains layered data - music, images, emotion. Iris shares her dream journals spanning 15 years. Mark realizes she's been connected to this before it even arrived. Growing attraction between them.",
+      "pov": "Marcus, Iris",
+      "setting": "Mark's garage",
+      "timeline": "Day 11"
+    },
+    {
+      "chapter": 10,
+      "title": "Confrontations",
+      "type": "bridge",
+      "summary": "Yuki shows up at Mark's house, discovers the operation. Standoff. Mark explains about the dreams. Yuki must decide whether to shut him down or investigate further. Leonard identifies Mark as the broadcaster - internal conflict begins.",
+      "pov": "Marcus, Yuki, Leonard",
+      "setting": "Mark's garage, Leonard's lab",
+      "timeline": "Day 12"
+    },
+    {
+      "chapter": 11,
+      "title": "Descent",
+      "type": "bridge",
+      "summary": "Dream sequences intensify for all dreamers. Mark and Iris both experience full immersion - walking the alien city together in the dream. First hints of The Composer's presence - a figure in the distance, a voice like music.",
+      "pov": "Marcus, Iris (dream sequence)",
+      "setting": "Dream-space alien city",
+      "timeline": "Night of Day 13"
+    },
+    {
+      "chapter": 12,
+      "title": "The Awakening",
+      "type": "tentpole - midpoint reversal",
+      "summary": "The Composer communicates directly. Reveals the truth: uploaded consciousness, 10,000-year journey, desperate to not be forgotten. They want to wake in human dreams. Mark understands the impossible responsibility he holds.",
+      "pov": "Marcus, Iris",
+      "setting": "Dream-space and waking world blur",
+      "timeline": "Day 14"
+    },
+    {
+      "chapter": 13,
+      "title": "Fathers",
+      "type": "bridge",
+      "summary": "Leonard appears at Mark's door. First face-to-face in over a year. Awkward, painful conversation. Leonard reveals his research predicted this. Offers help but Mark is suspicious of motives. Iris mediates. Tentative alliance forms.",
+      "pov": "Marcus, Leonard",
+      "setting": "Mark's garage",
+      "timeline": "Day 15"
+    },
+    {
+      "chapter": 14,
+      "title": "The Council",
+      "type": "bridge",
+      "summary": "Main players gather: Mark, Iris, Leonard, Yuki. Share information. Debate what to do. Carter joins, pleads for shutdown. Tension between worldviews. Decide to continue cautiously while researching. Yuki agrees to delay official shutdown.",
+      "pov": "Multiple",
+      "setting": "Mark's garage",
+      "timeline": "Day 16"
+    },
+    {
+      "chapter": 15,
+      "title": "Communion",
+      "type": "bridge",
+      "summary": "Mark and Iris spend night learning from The Composer through dreams. See their civilization's beauty and tragedy. Understand they were artists, creators, people who chose transmission over death. Growing empathy and growing fear. Reality effects increase - objects appear.",
+      "pov": "Marcus, Iris",
+      "setting": "Dream-space primarily",
+      "timeline": "Night of Day 17"
+    },
+    {
+      "chapter": 16,
+      "title": "Cascade",
+      "type": "bridge",
+      "summary": "Social media explosion - thousands now dreaming. News coverage begins. Federal agencies mobilize. Yuki receives shutdown order. Leonard's funding sources demand access to Mark. Carter's congregation is terrified. Pressure mounting from all sides. Mark must decide soon.",
+      "pov": "Multiple",
+      "setting": "Various, escalating chaos",
+      "timeline": "Day 18-19"
+    },
+    {
+      "chapter": 17,
+      "title": "Critical Mass",
+      "type": "tentpole - climax",
+      "summary": "Thousands dream simultaneously. Reality effects visible to all. The Composer makes its request. Iris reveals she's the quantum key. Mark faces impossible choice. Allies state their positions. Federal shutdown imminent. Must decide: complete the broadcast or end it.",
+      "pov": "Marcus, Iris",
+      "setting": "Mark's garage and dreamspace",
+      "timeline": "Day 20"
+    },
+    {
+      "chapter": 18,
+      "title": "The Choice",
+      "type": "bridge to resolution",
+      "summary": "Mark and Iris deliberate alone. Honest conversation about fear, hope, responsibility, love. The Composer acknowledges the danger and uncertainty. Leonard offers genuine support without pushing. They make their decision.",
+      "pov": "Marcus, Iris",
+      "setting": "Mark's garage, just before dawn",
+      "timeline": "Day 21, pre-dawn"
+    },
+    {
+      "chapter": 19,
+      "title": "Transmission",
+      "type": "bridge to resolution",
+      "summary": "The choice is enacted - either completing the final broadcast or shutting it down (specifics determined during writing). Immediate consequences. The Composer's response. Reality shifts or stabilizes. Federal response arrives.",
+      "pov": "Marcus",
+      "setting": "Mark's garage, the moment of choice",
+      "timeline": "Day 21, dawn"
+    },
+    {
+      "chapter": 20,
+      "title": "Static Dreams",
+      "type": "tentpole - resolution",
+      "summary": "Epilogue one month later. Resolution of character arcs. Mark and Leonard's relationship healing. Mark and Iris together, changed. New understanding of the universe. Mark broadcasts again but with purpose, not desperation. The legacy question answered: we matter because we choose to create meaning.",
+      "pov": "Marcus",
+      "setting": "Various, ending in Mark's garage",
+      "timeline": "One month after Day 21"
+    }
+  ],
+  "causal_chains": [
+    {
+      "chain_id": 1,
+      "description": "Signal discovery to mass dreaming",
+      "cause": "Mark broadcasts alien signal (Ch 1)",
+      "intermediate_effects": [
+        "Iris has dream matching her childhood visions (Ch 2)",
+        "Seven people report shared dreams (Ch 6-7)",
+        "Social media spreads phenomenon (Ch 8-9)",
+        "Thousands dream simultaneously (Ch 16-17)"
+      ],
+      "final_effect": "Critical mass of shared consciousness reached (Ch 17)",
+      "chapters": [1, 2, 6, 7, 8, 16, 17]
+    },
+    {
+      "chain_id": 2,
+      "description": "Yuki investigation to alliance",
+      "cause": "Yuki detects illegal broadcast (Ch 1)",
+      "intermediate_effects": [
+        "Tracks signal to general area (Ch 4)",
+        "Connects broadcast to dream phenomenon (Ch 7-8)",
+        "Confronts Mark at his garage (Ch 10)",
+        "Witnesses evidence that signal is genuinely anomalous (Ch 12-14)"
+      ],
+      "final_effect": "Yuki becomes ally, delays shutdown (Ch 14-17)",
+      "chapters": [1, 4, 7, 10, 12, 14, 17]
+    },
+    {
+      "chain_id": 3,
+      "description": "Father-son estrangement to reconciliation",
+      "cause": "Leonard left when Mark was 12, called him failure (backstory, revealed Ch 2)",
+      "intermediate_effects": [
+        "Mark monitors father's research from distance (Ch 5)",
+        "Leonard discovers Mark is the broadcaster (Ch 10)",
+        "Leonard appears at Mark's door (Ch 13)",
+        "Painful conversation, tentative alliance (Ch 13-14)",
+        "Leonard prioritizes Mark over research (Ch 17)"
+      ],
+      "final_effect": "Genuine apology and healing begins (Ch 20)",
+      "chapters": [2, 5, 10, 13, 14, 17, 20]
+    },
+    {
+      "chain_id": 4,
+      "description": "Iris's lifelong dreams to her role as quantum key",
+      "cause": "Iris has dreamed alien city since age 7 (revealed Ch 7)",
+      "intermediate_effects": [
+        "Recognizes broadcast as matching her dreams (Ch 6-7)",
+        "Reveals dream journals to Mark (Ch 9)",
+        "Experiences full immersion dream (Ch 11)",
+        "Meets The Composer, feels familiarity (Ch 12)",
+        "Composer reveals she's quantum-entangled with signal (Ch 12)"
+      ],
+      "final_effect": "Her consent is necessary for final broadcast (Ch 17)",
+      "chapters": [6, 7, 9, 11, 12, 17]
+    },
+    {
+      "chain_id": 5,
+      "description": "Signal dormancy to Composer awakening",
+      "cause": "Signal arrives at Earth after 10,000 years (before Ch 1)",
+      "intermediate_effects": [
+        "Mark broadcasts it, provides amplification (Ch 1, 3, 5)",
+        "Human consciousness begins engaging with it (Ch 6-7)",
+        "Composer stirs, learns human language from dreamers (Ch 7-11)",
+        "First direct communication (Ch 12)"
+      ],
+      "final_effect": "Composer fully awake, makes its request (Ch 17)",
+      "chapters": [1, 3, 5, 6, 7, 11, 12, 17]
+    },
+    {
+      "chain_id": 6,
+      "description": "Mark's isolation to connection",
+      "cause": "Mark is isolated in garage, broadcasting to feel heard (Ch 1)",
+      "intermediate_effects": [
+        "Iris approaches him about dreams (Ch 7)",
+        "They work together researching signal (Ch 9)",
+        "Growing trust and attraction (Ch 9-13)",
+        "Face impossible choice together (Ch 17-18)"
+      ],
+      "final_effect": "Mark learns connection matters more than validation (Ch 20)",
+      "chapters": [1, 7, 9, 13, 17, 18, 20]
+    },
+    {
+      "chain_id": 7,
+      "description": "Carter's fear to acceptance",
+      "cause": "Congregants report troubling dreams (Ch 4)",
+      "intermediate_effects": [
+        "Interprets as spiritual warfare (Ch 7-8)",
+        "Organizes community response, prayer meetings (Ch 8, 14)",
+        "Pleads with Mark to stop (Ch 14, 17)",
+        "Realizes he can't control or categorize it (Ch 17)"
+      ],
+      "final_effect": "Accepts mystery, provides pastoral care instead (Ch 19-20)",
+      "chapters": [4, 7, 8, 14, 17, 19, 20]
+    }
+  ],
+  "planted_elements": [
+    {
+      "element": "Mark's panic attacks ease when working with the signal",
+      "planted_chapter": 1,
+      "subtle_reinforcement": [3, 5, 9],
+      "payoff_chapter": 12,
+      "payoff_description": "Revealed that his consciousness naturally resonates with the frequency - he's also a receiver, just less sensitive than Iris",
+      "status": "critical"
+    },
+    {
+      "element": "Iris's lifelong dreams of the alien city",
+      "planted_chapter": 2,
+      "revealed_chapter": 7,
+      "payoff_chapter": 12,
+      "payoff_description": "She's quantum-entangled with the signal, has been receiving it before it even arrived (quantum mechanics allows retroactive connection)",
+      "status": "critical"
+    },
+    {
+      "element": "The specific frequency Mark uses",
+      "planted_chapter": 1,
+      "subtle_reinforcement": [3, 9],
+      "payoff_chapter": 12,
+      "payoff_description": "Frequency naturally resonates with human neural oscillation patterns - the aliens chose it specifically to interface with consciousness",
+      "status": "critical"
+    },
+    {
+      "element": "Leonard's DARPA-funded consciousness research",
+      "planted_chapter": 4,
+      "revealed_chapter": 10,
+      "payoff_chapter": 13,
+      "payoff_description": "His research predicted exactly this scenario - EM frequencies affecting collective consciousness. He has the theoretical framework to understand what's happening",
+      "status": "important"
+    },
+    {
+      "element": "Social media amplification pattern",
+      "planted_chapter": 6,
+      "reinforcement": [8, 9, 11],
+      "payoff_chapter": 16,
+      "payoff_description": "Viral spread reaches critical mass, thousands dreaming simultaneously",
+      "status": "critical"
+    },
+    {
+      "element": "Reality effects beginning subtly",
+      "planted_chapter": 7,
+      "escalation": [11, 12, 15],
+      "payoff_chapter": 17,
+      "payoff_description": "Full visible manifestations as boundary between dream and reality weakens at critical mass",
+      "status": "critical"
+    },
+    {
+      "element": "Carter's lost daughter",
+      "planted_chapter": 4,
+      "reinforcement": [8, 14],
+      "payoff_chapter": 17,
+      "payoff_description": "His need to protect congregation comes from feeling he failed to protect her - his arc is learning to accept mystery like he had to accept her death",
+      "status": "character development"
+    },
+    {
+      "element": "Yuki's past case shutting down immigrant radio station",
+      "planted_chapter": 4,
+      "reinforcement": [10],
+      "payoff_chapter": 14,
+      "payoff_description": "She learned rules aren't always justice - that case prepared her to choose truth over regulations here",
+      "status": "character development"
+    },
+    {
+      "element": "Objects from dreams appearing in waking world",
+      "planted_chapter": 12,
+      "escalation": [15, 16],
+      "payoff_chapter": 17,
+      "payoff_description": "Physical proof that the boundary is weakening - reality is becoming permeable to collective dream",
+      "status": "critical"
+    },
+    {
+      "element": "The Composer's civilization chose transmission over escape",
+      "planted_chapter": 12,
+      "reinforcement": [15],
+      "payoff_chapter": 18,
+      "payoff_description": "They valued legacy and art over survival - their choice mirrors Mark's choice about creation vs. validation",
+      "status": "thematic"
+    },
+    {
+      "element": "Mark monitoring his father's published research",
+      "planted_chapter": 2,
+      "reinforcement": [5, 7],
+      "payoff_chapter": 13,
+      "payoff_description": "Shows he still cares despite claiming not to - makes reconciliation possible",
+      "status": "character development"
+    },
+    {
+      "element": "Critical mass threshold mentioned",
+      "planted_chapter": 12,
+      "reinforcement": [14, 15],
+      "payoff_chapter": 17,
+      "payoff_description": "When enough minds hold same vision, reality shifts - this is the point of no return",
+      "status": "critical"
+    }
+  ],
+  "themes_tracking": {
+    "legacy_and_mortality": {
+      "introduced": "Ch 1 - Mark creating broadcast as legacy",
+      "developed": "Ch 12 - Composer's civilization choosing transmission over death",
+      "complicated": "Ch 15 - Legacy requires someone to remember, but at what cost?",
+      "resolved": "Ch 20 - We matter because we choose to create meaning, not because we're remembered"
+    },
+    "power_of_stories": {
+      "introduced": "Ch 3 - The signal as narrative/art from alien culture",
+      "developed": "Ch 9 - Stories shape consciousness (dreams spreading)",
+      "complicated": "Ch 15 - Can a story be too powerful? Can it overwrite reality?",
+      "resolved": "Ch 20 - Stories create meaning but require consent of the listener"
+    },
+    "purpose_in_meaninglessness": {
+      "introduced": "Ch 1 - Mark's existential drift and search for purpose",
+      "developed": "Ch 7 - Finding connection through the mystery",
+      "complicated": "Ch 17 - Facing choice with no certain outcome",
+      "resolved": "Ch 20 - Purpose comes from the act of choosing and creating, not from certainty or validation"
+    }
+  },
+  "pacing_notes": {
+    "act_1_pacing": "Gradual build - introduce mystery (Ch 1-3), escalate strangeness (Ch 4-6), complicate with human connection (Ch 7). Mix quiet character moments with growing unease.",
+    "act_2_pacing": "Momentum increases - investigations converge (Ch 8-10), immersion deepens (Ch 11), revelation shifts everything (Ch 12), new alliances form under pressure (Ch 13-15). Balance dream sequences with waking world consequences.",
+    "act_3_pacing": "Accelerate toward crisis - viral spread (Ch 16), climax (Ch 17), deliberation (Ch 18), choice (Ch 19), denouement (Ch 20). Ensure breathing room in Ch 18 before intense Ch 19, then reflective Ch 20.",
+    "dream_sequence_frequency": "Ch 1 (Iris only), Ch 3 (Iris), Ch 6 (multiple), Ch 7 (widespread), Ch 11 (full immersion), Ch 12 (communication), Ch 15 (communion), Ch 17 (mass dream)",
+    "pov_balance": "Primarily Mark (60%), Iris (25%), other POVs (15%). Ch 1, 3, 5, 9, 11, 12, 18, 19, 20 are Mark-heavy. Ch 2, 7, 9, 11, 12, 15, 17, 18 include Iris. Ch 4, 8, 10, 13, 14, 16 are multi-POV for breadth."
+  },
+  "open_questions_for_writing": {
+    "the_choice": "Does Mark complete the broadcast or shut it down? Both options have weight. Decision should emerge from character arcs during writing Chapters 18-19.",
+    "outcome_of_choice": "If completed: do aliens fully wake, partially wake, or something unexpected? If shut down: do they fade gracefully or with consequences? Should be emotionally complex either way.",
+    "mark_and_iris_relationship": "Do they become romantic or stay close friends? Let it develop naturally through Chapters 7-18.",
+    "leonard_redemption": "How complete is the reconciliation? Suggest realistic - apology given and accepted, but relationship takes time to rebuild.",
+    "composer_final_state": "Whether they wake or fade, they should have grace and dignity. Neither villain nor victim - just people facing their end.",
+    "reality_after": "Does the world fundamentally change or return to normal? Suggest: subtle permanent changes, world is slightly stranger now, but not apocalyptic."
+  }
+}

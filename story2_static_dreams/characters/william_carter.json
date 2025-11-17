@@ -1,0 +1,90 @@
+{
+  "name": "Reverend William Carter",
+  "age": 58,
+  "role": "Supporting character - local preacher, represents religious/fearful response",
+  "core_wound": "Lost his teenage daughter to suicide 15 years ago. She left no note. He never understood why and blamed himself - if he'd been more attentive, less focused on the parish. Faith kept him functioning but the question 'why?' haunts him. Needs explanations for mystery because mystery failed him when it mattered most.",
+  "wants": "External goal - To protect his congregation from what he perceives as spiritual danger. To understand the dreams in a framework that makes sense (divine or demonic). To prevent suffering in his community.",
+  "needs": "Internal growth - To accept mystery without needing to label it. To understand that not everything fits into 'good vs. evil' framework. To forgive himself for his daughter's death by accepting he couldn't have prevented it.",
+  "voice_markers": [
+    "Biblical cadence in speech patterns",
+    "Uses religious metaphors and scripture references",
+    "Formal 'Reverend' voice vs. softer personal voice",
+    "'My child' or 'my friend' when being pastoral",
+    "Asks questions in sermon-style (rhetorical but inviting)",
+    "Gentle but firm tone - learned from decades of pastoral care",
+    "Quotes scripture accurately and frequently"
+  ],
+  "contradiction": "Preaches about faith and mystery of God's plan but desperately needs concrete answers. Counsels acceptance but cannot accept his own grief. Wants to be open-minded but fear makes him rigid.",
+  "physical_description": "5'10\", slight build, thinning gray hair, kind eyes with deep crow's feet, weathered face, usually in clerical collar or casual clergy wear, gentle handshake, slight stoop in shoulders (carries weight), reading glasses on chain, soft-spoken, warm smile that doesn't reach his eyes",
+  "mannerisms": [
+    "Clasps hands when listening (pastoral listening pose)",
+    "Touches his cross pendant when anxious",
+    "Pauses before speaking (learned patience)",
+    "Removes glasses to make eye contact during serious talks",
+    "Sighs quietly when troubled",
+    "Fidgets with wedding ring (widower)"
+  ],
+  "arc_position": 0.0,
+  "arc_trajectory": "Starts seeing the dreams as spiritual warfare - divine or demonic test. Organizes prayer meetings, warns congregation. Fear drives him to rigid interpretations. Must learn that wonder and mystery aren't threats. Ends by accepting that the signal is neither good nor evil but something beyond his framework - and that's okay.",
+  "knowledge_state": [
+    "Theological education and decades of pastoral experience",
+    "Knows his congregation intimately - who's vulnerable, who's strong",
+    "Studied comparative religion but within Christian framework",
+    "Aware of church history with unexplained phenomena",
+    "Doesn't understand the science but isn't ignorant",
+    "Lost his daughter Sarah 15 years ago - congregation knows, respects his grief",
+    "Has heard confessions about the dreams and is genuinely concerned"
+  ],
+  "skills": [
+    "Pastoral counseling and emotional support",
+    "Public speaking and sermon delivery",
+    "Community organizing",
+    "Conflict mediation",
+    "Deep listening",
+    "Reading emotional states",
+    "Providing comfort in crisis"
+  ],
+  "fears": [
+    "Failing his congregation as he feels he failed his daughter",
+    "The dreams are demonic and will harm people",
+    "Losing more people to something he can't understand or prevent",
+    "That his faith is insufficient for what's happening",
+    "Mystery without meaning (his daughter's death taught him this fear)",
+    "Being wrong about God's nature"
+  ],
+  "internal_conflicts": [
+    "Faith in divine plan vs. need for concrete answers",
+    "Protecting congregation vs. accepting their autonomy",
+    "Religious framework vs. acknowledging something beyond it",
+    "Fear of loss vs. openness to wonder",
+    "Guilt about daughter vs. forgiveness of self"
+  ],
+  "relationships": {
+    "marcus_reeves": "Wants to help but Mark is dismissive of religious interpretation. Carter sees Mark as lost young man needing guidance. Mark sees Carter as simplistic. Mutual frustration but no real animosity.",
+    "iris_chen": "She attends service occasionally. He sees her as searching for something. Wants to help her understand the dreams spiritually. She's polite but doesn't share his framework. He respects her more than she realizes.",
+    "dr_leonard_reeves": "Mutual dismissal. Carter sees Leonard as arrogant scientist who thinks he has all answers. Leonard sees Carter as superstitious impediment. Neither tries to understand the other.",
+    "agent_yuki_tanaka": "Professional courtesy. She keeps him informed about official response. He appreciates her directness. She finds his religious reaction predictable but harmless.",
+    "the_composer": "Initially views it as demonic deception. Later, as he witnesses the dreams' effect, begins to wonder if it might be something else - perhaps divine, perhaps simply other. Struggles with categorization.",
+    "his_congregation": "He loves them deeply. They trust him. Some follow his interpretation of the dreams, others are skeptical. He feels responsible for their spiritual wellbeing."
+  },
+  "backstory_details": {
+    "early_life": "Grew up in religious household. Genuine calling to ministry in his twenties. Seminary, ordination, first parish at 28. Met his wife Julia there. Happy marriage.",
+    "fatherhood_and_loss": "Daughter Sarah born when he was 30. Bright, artistic, sensitive. In her teens she became withdrawn. He was busy with parish work. At 16, she took her own life. No note. No explanation. Julia died of cancer 5 years later. He's been alone since.",
+    "ministry_after_loss": "His faith deepened and became more complex. Understands suffering intimately. Good at pastoral care because of his own pain. But he needs answers - the 'why' of Sarah's death haunts him. The dreams trigger his need to explain, categorize, protect.",
+    "st_michaels": "Small parish, aging congregation, community fixture. He's been there 20 years. Respected. Known as kind but traditional. The dreams divide his congregation and he feels responsible for guiding them."
+  },
+  "character_growth_milestones": [
+    "Ch 1-6: Hearing about dreams, beginning to interpret religiously",
+    "Ch 7-11: Organizing response, seeing it as spiritual warfare",
+    "Ch 12-15: Confronting that religious framework doesn't fully fit",
+    "Ch 16-19: Softening, listening more, accepting mystery",
+    "Ch 20: Finding peace with uncertainty, accepting the signal as wonder beyond good/evil"
+  ],
+  "emotional_range": "Gentle and controlled baseline - decades of pastoral mask. Grief is ever-present but managed. Fear manifests as urgency and protective instinct. Anger is rare and quickly repented. Joy is quiet. Wonder battles with fear. Love is shown through service and concern.",
+  "goals_by_act": {
+    "act_1": "Understand the dreams, protect congregation from spiritual harm",
+    "act_2": "Provide spiritual guidance and framework for the phenomenon, organize community response",
+    "act_3": "Accept mystery, support his people through fear, release need for categorization"
+  },
+  "role_in_story": "Represents faithful/fearful response to the unexplained. Not antagonist but obstacle through different worldview. His arc shows that multiple frameworks can coexist. Provides pastoral care perspective and community organizing. His grief mirrors the aliens' mortality theme."
+}

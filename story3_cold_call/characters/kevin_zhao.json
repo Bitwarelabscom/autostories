@@ -1,0 +1,77 @@
+{
+  "name": "Kevin Zhao",
+  "age": 26,
+  "role": "IT support specialist at SatellitePro, graveyard shift",
+  "background": "Second-generation Chinese-American, grew up in Cleveland suburbs (Parma). Computer science degree from Cleveland State. Could have gotten better IT job but has social anxiety and prefers night shift isolation. Lives with two roommates in a rental house. Spends free time on conspiracy theory forums, amateur radio operation, and signal analysis. Has been tracking anomalous patterns in SatellitePro's systems for eight months but nobody takes his reports seriously.",
+  "physical_description": "Asian-American, average height, slight build. Wears hoodies and jeans despite business casual policy (IT exception). Thick-framed glasses. Usually has headphones around neck. Perpetually tired but wired on energy drinks. Nervous energy, fidgets constantly.",
+  "core_wound": "Dismissed as paranoid conspiracy theorist. Grew up being told to be practical, stop imagining things, focus on real problems. Every time he identifies a real pattern, people write him off as seeing patterns in randomness. The one time he's actually right about something big, nobody believes him until it's almost too late.",
+  "wants": "To be taken seriously. To prove he's not paranoid, that the patterns are real. To be the one who figured it out first. Validation that his signal tracking wasn't wasted time. Recognition for his technical skills beyond 'turning it off and on again.'",
+  "needs": "To understand that being right isn't the same as being heard. To communicate his findings in ways others can receive. To build trust instead of demanding belief. To value connection over being vindicated.",
+  "voice_markers": [
+    "Rapid-fire technical explanations that lose non-technical listeners",
+    "Conspiracy theory language: 'Connect the dots,' 'They don't want you to know,' 'That's what they want you to think'",
+    "Gamer/internet speak: 'NGL,' 'literally,' 'bro,' 'OK but...'",
+    "Excited rambling when on familiar subject, trailing off when he realizes people aren't listening",
+    "Defensive when challenged: 'I'm just saying, look at the data'",
+    "Self-aware about being seen as conspiracy guy: 'I know how this sounds, but...'",
+    "Code-switches to professional IT voice when helping customers",
+    "References obscure forums and signal analysis boards"
+  ],
+  "contradiction": "Desperate to be believed but presents information in least believable way. Craves connection but pushes people away with intensity. Collects evidence obsessively but gets defensive when asked for proof. Wants to be taken seriously but leans into conspiracy theorist image as defense mechanism.",
+  "skills_and_abilities": [
+    "Excellent technical skills - network analysis, signal processing, systems administration",
+    "Pattern recognition - genuinely good at seeing anomalies in data",
+    "Amateur radio operator (licensed ham)",
+    "Signal triangulation and source identification",
+    "Hacking skills (ethical gray area)",
+    "Can trace call routing through complex telecom systems",
+    "Deep knowledge of satellite infrastructure",
+    "Archives and documents everything meticulously"
+  ],
+  "fears": [
+    "Being wrong and confirming everyone's dismissal",
+    "Something terrible happening because he couldn't make people listen",
+    "Being gaslit about what he's observing",
+    "Ending up isolated and alone like stereotypical conspiracy theorist"
+  ],
+  "arc_position": 0.0,
+  "arc_trajectory": "Starts as dismissed conspiracy theorist finally proven right. Must learn that being right isn't enough—communication and trust matter. Discovers that his skills and instincts are valuable when used collaboratively. Learns to present findings without defensiveness. Ends as valued technical expert who bridges gap between impossible truth and skeptical audience.",
+  "knowledge_state": [
+    "Has tracked signal anomalies for 8 months, documented everything",
+    "Knows the interference patterns are external and artificial",
+    "Suspects but can't prove satellite hijacking",
+    "Active on forums discussing similar anomalies worldwide",
+    "Knows SatellitePro's systems inside-out",
+    "Familiar with Terry and Shanice but keeps distance",
+    "Doesn't know about alien contact but has suspected non-human origin for signals",
+    "Has prepared for 'first contact scenario' theoretically"
+  ],
+  "relationships": {
+    "Terrence_Mitchell": "Friendly acquaintance through night shift proximity. Knows Terry dismisses his theories politely. Excited when Terry finally needs his help. Eager to prove value. Developing genuine friendship.",
+    "Bundle_Package": "Immediate acceptance - this is what he's been tracking. Tries to communicate using technical language. Fascinated rather than frightened. Wants to document everything.",
+    "Shanice_Williams": "Appreciates that she doesn't give him hard time about his quirks. Defensive when she's skeptical. Wants her approval and respect. Loyal to her as good boss.",
+    "Dr_Angela_Okonkwo": "Starstruck by academic credentials. Excited to collaborate with 'real scientist.' Nervous about being dismissed by her. Relieved when she takes him seriously.",
+    "Mr_Kowalski": "Distrusts corporate leadership. Sees Kowalski as exactly the wrong person to control the situation. Angry at exploitation of discovery."
+  },
+  "internal_conflicts": [
+    "Need for validation vs. actual collaborative work",
+    "Paranoia vs. justified caution",
+    "Being right vs. being helpful",
+    "Isolation vs. connection"
+  ],
+  "character_quirks": [
+    "Drinks excessive energy drinks (Red Bull, Monster)",
+    "Clicks pen cap or fidgets with whatever's in reach",
+    "Has multiple monitors in the IT basement, calls it 'The Bunker'",
+    "Keeps documentation of everything in encrypted files",
+    "Uses military time and UTC",
+    "Has 'bug-out bag' under desk (emergency supplies)",
+    "Listens to ambient electronic music while working",
+    "Wears same hoodie multiple days in row"
+  ],
+  "technical_setup": {
+    "equipment": "Personal signal analyzer, software-defined radio, multiple monitors, archived data going back months",
+    "forum_presence": "Active on r/signalidentification, various ham radio boards, UFO/contact forums (ironic but actually useful)",
+    "documentation": "Meticulously maintained logs of all anomalies with timestamps, frequency analysis, source triangulation attempts"
+  }
+}

@@ -1,0 +1,1140 @@
+{
+  "story_metadata": {
+    "title": "The Cold Call",
+    "genre": "Darkly comedic first contact thriller with cosmic horror elements",
+    "target_length": "20 chapters, ~50,000-60,000 words",
+    "pov": "Third-person limited, primarily through Terry's perspective with occasional shifts to other characters for key scenes",
+    "timeline": "48 hours from first contact to climax, plus epilogue",
+    "setting": "Cleveland, Ohio - primarily SatellitePro call center, various locations around the city"
+  },
+  "act_structure": {
+    "act_1": {
+      "chapters": [1, 2, 3, 4, 5],
+      "description": "The Call - Terry receives alien contact, attempts verification, builds initial team",
+      "arc": "Disbelief → Verification → Acceptance"
+    },
+    "act_2a": {
+      "chapters": [6, 7, 8, 9, 10],
+      "description": "The Investigation - Team confirms alien nature, learns about observation, tries to understand what 'cancellation' means",
+      "arc": "Investigation → Revelation → Growing dread"
+    },
+    "act_2b": {
+      "chapters": [11, 12, 13, 14, 15],
+      "description": "The Truth - Midpoint revelation about Earth as entertainment, Kowalski's involvement, escalating stakes",
+      "arc": "Truth revealed → Corporate interference → Moral crisis"
+    },
+    "act_3": {
+      "chapters": [16, 17, 18, 19, 20],
+      "description": "The Pitch - Terry must convince aliens humanity is worth saving while preventing Kowalski from making it worse",
+      "arc": "Preparation → Climactic pitch → Resolution and consequences"
+    }
+  },
+  "chapter_outline": [
+    {
+      "chapter": 1,
+      "title": "The Call",
+      "type": "TENTPOLE - Hook/Inciting Incident",
+      "timeline": "Night 1, 2:47 AM - 3:30 AM",
+      "pov": "Terry",
+      "location": "SatellitePro call center, graveyard shift",
+      "word_count_target": 2500,
+      "summary": "Terry Mitchell is enduring another soul-crushing graveyard shift at SatellitePro customer service when he receives a call at exactly 2:47 AM. The caller, speaking in bizarre broken English mixing TV commercial slogans and sitcom dialogue, identifies themselves as 'Bundle Package' and wants to discuss Earth's subscription renewal before 'service cancellation.' Terry assumes it's a prank call, but something about the caller's earnest confusion and the eerie accuracy of their knowledge makes him pause. When he tries to trace the call, the system shows impossible routing data. The caller references things they shouldn't know. Terry's journalist instincts awaken for the first time in years.",
+      "key_scenes": [
+        "Cold open: Terry's customer service routine, establishing soul-crushing monotony and his cynical detachment",
+        "The call begins - Bundle Package's bizarre introduction and request",
+        "Terry cycles through customer service script, growing confusion",
+        "Moment of recognition: this isn't a normal call",
+        "Terry starts asking real questions, journalist mode activating",
+        "Call ends with Bundle promising to call back, leaving Terry with more questions"
+      ],
+      "character_beats": {
+        "Terry": "Arc position 0.0 → 0.05. Jolted out of cynical routine. Journalist instincts reawaken. Uncertainty: investigate or dismiss?",
+        "Bundle_Package": "First appearance. Establishes voice and earnest confusion about human communication.",
+        "Shanice": "Brief appearance, notices Terry acting strange, checks in professionally"
+      },
+      "planted_elements": [
+        "Bundle's specific word choices hint at decades of TV observation",
+        "Call routing data shows impossible origin point",
+        "Terry mentions his old journalism background to Bundle",
+        "Reference to 'cancellation date' - unspecified but imminent",
+        "Bundle asks about 'subscription renewal process'"
+      ],
+      "revealed_to_reader": [
+        "Terry's cynicism and abandoned dreams",
+        "SatellitePro is failing company",
+        "The call is genuinely anomalous",
+        "Terry still has investigative instincts buried under corporate exhaustion"
+      ],
+      "tone": "Darkly comedic setup giving way to unease. Office Space meets X-Files.",
+      "chapter_purpose": "Hook reader with absurd premise, establish Terry's character and world, plant mystery"
+    },
+    {
+      "chapter": 2,
+      "title": "Verification",
+      "type": "Bridge chapter",
+      "timeline": "Night 1, 3:30 AM - 5:00 AM",
+      "pov": "Terry",
+      "location": "Call center, Kevin's IT bunker basement",
+      "word_count_target": 2200,
+      "summary": "Terry can't let it go. He finds Kevin in the IT basement and asks him to pull the call records. Kevin gets excited because the routing anomaly matches patterns he's been tracking for eight months. He shows Terry his documentation - dozens of weird signal intrusions, all from the same impossible source point. Kevin insists it's extraterrestrial. Terry is skeptical but intrigued. They dig deeper into the call metadata. The more they investigate, the less sense it makes. Kevin wants to post about it online; Terry stops him. They agree to wait for the callback Bundle promised.",
+      "key_scenes": [
+        "Terry debates with himself whether to investigate or forget it",
+        "Finds Kevin in 'The Bunker,' surrounded by monitors and energy drinks",
+        "Kevin's excited vindication: 'I KNEW it wasn't just interference!'",
+        "Reviewing Kevin's eight months of documentation",
+        "Call metadata analysis reveals impossible origin",
+        "Agreement to keep quiet and wait"
+      ],
+      "character_beats": {
+        "Terry": "Arc 0.05 → 0.10. Chooses investigation over safety. Journalism instincts fully engaged.",
+        "Kevin": "Arc 0.0 → 0.15. Finally someone believes him! Eager to help, struggling to contain excitement.",
+        "Shanice": "Notices Terry and Kevin huddled together, suspicious but doesn't interfere"
+      },
+      "planted_elements": [
+        "Kevin's eight months of signal tracking will be crucial",
+        "Pattern suggests systematic observation of Earth",
+        "Terry decides not to tell Shanice yet - will cause problems later",
+        "Kevin mentions signal spikes correspond with broadcast events"
+      ],
+      "revealed_to_reader": [
+        "This isn't isolated incident - systematic pattern",
+        "Kevin is conspiracy theorist but also genuinely skilled",
+        "Terry/Kevin friendship has potential",
+        "The anomaly is real and measurable"
+      ],
+      "tone": "Excitement of discovery mixed with creeping dread"
+    },
+    {
+      "chapter": 3,
+      "title": "The Second Call",
+      "type": "Bridge chapter",
+      "timeline": "Night 1, 6:00 AM - 7:00 AM (end of shift approaching)",
+      "pov": "Terry, brief shift to Bundle's 'perspective'",
+      "location": "Call center",
+      "word_count_target": 2300,
+      "summary": "Bundle calls back as promised. This time Terry is prepared with questions. The conversation is surreal - Bundle speaks entirely in TV-learned language, leading to bizarre miscommunications. Terry tries to establish basic facts: Who are you? Where are you? What do you want? Bundle's answers are confusing but consistent: they're calling about Earth's subscription to their 'premium observation service,' which is being cancelled due to 'poor performance metrics.' Bundle seems genuinely trying to help Earth 'renew' but can't explain what cancellation means in ways Terry understands. Kevin traces the call - it's coming from beyond Earth's orbit. Terry realizes this is real.",
+      "key_scenes": [
+        "Terry prepares questions, hands shaking",
+        "Bundle calls exactly when promised",
+        "Surreal Q&A session fraught with miscommunication",
+        "Bundle explains 'subscription service' in TV commercial terms",
+        "Kevin confirms: call is from orbit",
+        "Terry's moment of acceptance: this is real first contact",
+        "Shanice interrupts, demanding to know what's going on"
+      ],
+      "character_beats": {
+        "Terry": "Arc 0.10 → 0.15. Accepts impossible truth. Must decide next steps.",
+        "Bundle_Package": "More character established. Earnest but incomprehensible. Seems to want to help.",
+        "Shanice": "Arc 0.0 → 0.05. Brought into situation unwillingly. Skeptical and protective.",
+        "Kevin": "Vindication complete. Now focused on documentation."
+      },
+      "planted_elements": [
+        "Subscription/cancellation metaphor central to plot",
+        "Bundle mentions 'observation period' of 75 years",
+        "Reference to 'subscriber civilization' protocols",
+        "Cancellation date is 48 hours away",
+        "Bundle chose to call customer service specifically - why?"
+      ],
+      "revealed_to_reader": [
+        "Aliens have been watching Earth via broadcasts",
+        "They learned language from TV/radio",
+        "Earth is treated as entertainment/product",
+        "Time limit: 48 hours",
+        "This is definitely first contact"
+      ],
+      "tone": "Absurdist comedy giving way to cosmic horror implications"
+    },
+    {
+      "chapter": 4,
+      "title": "The Morning After",
+      "type": "Bridge chapter",
+      "timeline": "Day 1, 7:00 AM - 2:00 PM",
+      "pov": "Terry, brief scene with Shanice",
+      "location": "Terry's apartment, Shanice's home",
+      "word_count_target": 2000,
+      "summary": "Shift ends. Shanice pulls Terry aside, demands truth. He tells her everything. She doesn't believe him initially, but Kevin's data and the call recording convince her. She's terrified - not of aliens, but of what this means for her job and Maya's security. She wants to report up the chain. Terry argues they need to understand the situation first. Shanice reluctantly agrees to 24 hours before involving management. Terry goes home but can't sleep. He researches first contact protocols, SETI procedures. He finds Dr. Angela Okonkwo's faculty page at Case Western - local SETI researcher. He debates calling her. Meanwhile, Shanice goes home to Maya, who's drawn more pictures of 'the TV people.' Shanice is deeply unsettled.",
+      "key_scenes": [
+        "Shanice confronts Terry and Kevin after shift",
+        "They play her the recording - her skepticism battles evidence",
+        "Shanice's fear about job security and Maya",
+        "Negotiating 24-hour silence",
+        "Terry alone in apartment, unable to sleep, researching",
+        "Finds Dr. Okonkwo's page, reads her SETI work",
+        "Shanice at home with Maya and the disturbing drawings",
+        "Maya asks: 'Are the TV people coming?'"
+      ],
+      "character_beats": {
+        "Shanice": "Arc 0.05 → 0.15. Forced to accept reality. Fear for daughter. Agrees to help but sets boundaries.",
+        "Terry": "Arc 0.15 → 0.20. Takes leadership role. Decides to bring in expert.",
+        "Maya": "Brief appearance but crucial - children see truth adults dismiss"
+      },
+      "planted_elements": [
+        "Maya's drawings have been happening for weeks - aliens watching longer than assumed",
+        "Shanice's vulnerability (single mother, needs job) will be exploited by Kowalski later",
+        "Terry's research skills coming back",
+        "Dr. Okonkwo established as potential ally"
+      ],
+      "revealed_to_reader": [
+        "Shanice's home life and stakes",
+        "Maya has sensed something wrong",
+        "Terry is taking initiative, finding his purpose",
+        "They have less than 48 hours"
+      ],
+      "tone": "Quiet dread. Mundane life continuing while cosmic crisis looms."
+    },
+    {
+      "chapter": 5,
+      "title": "The Expert",
+      "type": "Bridge chapter",
+      "timeline": "Day 1, 3:00 PM - 8:00 PM",
+      "pov": "Alternating Terry and Angela",
+      "location": "Angela's office, coffee shop",
+      "word_count_target": 2400,
+      "summary": "Terry calls Dr. Okonkwo. She's skeptical - she gets crank calls weekly - but Terry's evidence (call recording, Kevin's signal data, routing information) is compelling. She agrees to meet. At a coffee shop, Terry, Kevin, and Angela review the evidence. Angela is torn between scientific excitement and caution. She wants to involve official SETI channels, but Terry explains the time constraint. Angela runs her own analysis on Kevin's signal data - it's legitimate. She confirms: this is extraterrestrial communication. But the content disturbs her. The 'subscription service' metaphor, the transactional language - this isn't how first contact is supposed to work. They debate what 'cancellation' might mean. Angela fears it's not metaphorical.",
+      "key_scenes": [
+        "Terry's nervous phone call to Angela",
+        "Angela's office - walls of signal analyses, SETI posters, scientific instruments",
+        "Her initial skepticism versus mounting evidence",
+        "Coffee shop meeting with full team (minus Shanice)",
+        "Angela's analysis confirms extraterrestrial origin",
+        "Discussion of what 'cancellation' means - ranging from abandonment to destruction",
+        "Angela's conflict: protocol vs. urgency",
+        "Decision to proceed as unofficial team"
+      ],
+      "character_beats": {
+        "Angela": "Arc 0.0 → 0.15. Career moment but wrong kind. Must choose protocol vs. action.",
+        "Terry": "Arc 0.20 → 0.25. Leading team. Growing confidence.",
+        "Kevin": "Respected by 'real scientist.' Glowing with validation."
+      },
+      "planted_elements": [
+        "Angela's career is on the line if this goes wrong",
+        "Official SETI protocols are too slow for 48-hour deadline",
+        "Bundle's language suggests transactional, not exploratory, contact",
+        "Angela mentions 'observer effect' - being watched changes behavior"
+      ],
+      "revealed_to_reader": [
+        "Scientific confirmation this is real",
+        "First contact doesn't match expectations",
+        "Team is forming outside official channels",
+        "The stakes may be existential"
+      ],
+      "tone": "Scientific procedural giving way to urgency and fear"
+    },
+    {
+      "chapter": 6,
+      "title": "Going Public (Sort Of)",
+      "type": "Bridge chapter",
+      "timeline": "Day 1, 9:00 PM - 11:00 PM",
+      "pov": "Terry",
+      "location": "Call center (night 2 begins)",
+      "word_count_target": 2100,
+      "summary": "Terry, Kevin, and Angela return to the call center for night shift. Shanice demands update. They brief her on Angela's confirmation. The team agrees: they need to talk to Bundle again, get clearer information about what cancellation means and how to prevent it. They prepare questions together - Angela wants scientific data, Terry wants to understand intentions, Shanice wants to know if her daughter is in danger. But word is spreading. Other night shift workers notice the huddle, the tension. Someone mentions weird calls on conspiracy forum. Kevin realizes his signal data posts from months ago are being connected to current events. The situation is becoming less controllable.",
+      "key_scenes": [
+        "Night shift begins, team reassembles",
+        "Briefing Shanice with Angela present",
+        "Preparing questions for Bundle - different priorities",
+        "Other workers getting curious",
+        "Forum posts starting to connect dots",
+        "Decision: wait for Bundle's next call",
+        "Growing tension of waiting"
+      ],
+      "character_beats": {
+        "Shanice": "Arc 0.15 → 0.20. Takes active role in planning. Protective focus on threat assessment.",
+        "Terry": "Arc 0.25 → 0.30. Coordination role, keeping team focused.",
+        "Team": "Coalescing but still uncertain and scared"
+      },
+      "planted_elements": [
+        "Information starting to leak - will become problem",
+        "Different team members have different priorities",
+        "They're running out of time (less than 40 hours)",
+        "Bundle's call schedule seems tied to orbital mechanics"
+      ],
+      "revealed_to_reader": [
+        "Team dynamics forming",
+        "Situation becoming harder to contain",
+        "Everyone is scared despite varying fronts"
+      ],
+      "tone": "Rising tension, calm before storm"
+    },
+    {
+      "chapter": 7,
+      "title": "The Revelation",
+      "type": "TENTPOLE - First Major Revelation",
+      "timeline": "Night 2, 2:47 AM (exactly 24 hours after first call)",
+      "pov": "Terry, with brief Bundle perspective",
+      "location": "Call center",
+      "word_count_target": 2800,
+      "summary": "Bundle calls at exactly 2:47 AM again. This time the whole team is listening. Angela asks technical questions. Bundle provides data - they are part of a vast 'observation network' that has monitored Earth for 75 years via intercepted broadcasts. They learned everything about humanity from TV, radio, movies. Earth is Content Item 7834-TERRA-SOL3 in their 'streaming service.' Bundle shows them proof: plays back specific broadcast moments, demonstrates knowledge no hoax could have. They've been watching humanity like a TV show. Recent 'episodes' (news broadcasts about climate crisis, political violence, social breakdown) suggest the 'program' is heading toward 'series finale' (self-destruction). Subscriber interest is waning. Earth is being 'cancelled.' But Bundle genuinely wants to help them get 'renewed.' The team is horrified by the implications: humanity's existence depends on being entertaining to cosmic voyeurs.",
+      "key_scenes": [
+        "Team assembled, prepared questions, 2:47 AM arrives",
+        "Bundle's call, Angela takes lead on questioning",
+        "Bundle explains observation network in TV metaphors",
+        "Demonstration of knowledge - plays back specific broadcasts",
+        "Reveals 75-year observation period",
+        "Explains 'cancellation' - Earth trending toward self-destruction",
+        "Bundle's earnest desire to help with 'renewal subscription'",
+        "Team's horror at being cosmic entertainment",
+        "Angela's scientific questions reveal disturbing scope",
+        "Shanice asks: 'What happens to cancelled shows?' Bundle's answer is evasive and terrifying"
+      ],
+      "character_beats": {
+        "Terry": "Arc 0.30 → 0.40. Cosmic horror realization. Humanity as product.",
+        "Angela": "Arc 0.15 → 0.30. Career vindication is nightmare. Questions everything.",
+        "Shanice": "Arc 0.20 → 0.30. Maternal protectiveness becomes species-level.",
+        "Kevin": "Arc 0.15 → 0.25. Vindication hollow when implications sink in.",
+        "Bundle": "Revealed as more complex - genuinely trying to help within their system"
+      },
+      "planted_elements": [
+        "Observation is not passive - subscriber interest affects Earth's fate",
+        "Bundle is operating within system they may not control",
+        "Renewal process requires 'pitch' to subscriber civilization",
+        "Other planets have been cancelled - Bundle vague about their fate",
+        "48 hours because that's when subscription lapses"
+      ],
+      "revealed_to_reader": [
+        "Full scope of alien observation",
+        "Humanity reduced to entertainment commodity",
+        "Existence is transactional, not sacred",
+        "The cosmic horror: being watched and found wanting",
+        "This isn't exploratory contact - it's customer service"
+      ],
+      "tone": "Darkly comedic horror. The absurd becomes terrifying. Office Space becomes Lovecraft.",
+      "chapter_purpose": "Major tentpole revelation. Shift from mystery to crisis. Stakes become existential and absurd."
+    },
+    {
+      "chapter": 8,
+      "title": "The Breakdown",
+      "type": "Bridge chapter",
+      "timeline": "Night 2, 3:30 AM - 5:00 AM",
+      "pov": "Multiple POVs - Terry, Angela, Shanice",
+      "location": "Call center, parking lot",
+      "word_count_target": 2100,
+      "summary": "After the call, the team fractures temporarily under the weight of revelation. Angela retreats into scientific analysis - trying to understand the observation technology, anything to avoid the existential implications. Shanice calls her mother, checks on Maya, nearly breaks down. Kevin becomes manic, wanting to document everything, post it online, warn people. Terry tries to hold everyone together but feels the weight of impossible responsibility. They argue about next steps: go public? Contact government? Try to work with Bundle? The shift ends with no consensus. They agree to sleep and reconvene. But nobody sleeps.",
+      "key_scenes": [
+        "Immediate aftermath - stunned silence",
+        "Angela's retreat into data analysis",
+        "Shanice's phone call home, her fear for Maya",
+        "Kevin wanting to warn the world",
+        "Terry's attempted leadership, feeling inadequate",
+        "Parking lot argument about next steps",
+        "Team disperses, shell-shocked",
+        "Individual scenes: Angela staring at stars, Shanice holding Maya, Terry at laptop unable to write, Kevin posting encrypted files"
+      ],
+      "character_beats": {
+        "All characters": "Processing cosmic horror. Different coping mechanisms. Team unity tested.",
+        "Terry": "Arc 0.40 → 0.45. Inadequacy versus responsibility.",
+        "Angela": "Existential crisis. Life's work validated and rendered hollow.",
+        "Shanice": "Mother bear instinct kicks in fully."
+      },
+      "planted_elements": [
+        "Kevin's encrypted posts will attract attention",
+        "Angela contacts old SETI colleague (will leak later)",
+        "Shanice makes contingency plans for Maya",
+        "Terry starts writing account of events"
+      ],
+      "revealed_to_reader": [
+        "Human response to cosmic horror is messy, not heroic",
+        "Each character processes differently",
+        "Team is fragile",
+        "Time is running out (less than 36 hours)"
+      ],
+      "tone": "Quiet devastation. Dark night of the soul."
+    },
+    {
+      "chapter": 9,
+      "title": "The Leak",
+      "type": "Bridge chapter",
+      "timeline": "Day 2, Morning - Afternoon",
+      "pov": "Terry, with scenes from media/online",
+      "location": "Various - Terry's apartment, online spaces, news",
+      "word_count_target": 2200,
+      "summary": "Kevin's encrypted posts were cracked. Angela's SETI colleague leaked to press. The story breaks online, not mainstream yet, but spreading fast. 'Customer Service Rep Claims Alien Contact.' Initial coverage is mocking - 'Florida Man energy from Ohio.' But some journalists start digging. Kevin's signal data is real. Angela's credentials are verified. Terry's phone explodes with calls from reporters, conspiracy theorists, government agencies leaving vague messages. SatellitePro corporate office notices. Mr. Kowalski, the CEO, sees the news mentions his company. He makes calls. By afternoon, the story is going viral. Terry realizes they've lost control of the narrative. Worse: they still don't know how to 'renew' Earth's subscription.",
+      "key_scenes": [
+        "Terry wakes to hundreds of notifications",
+        "Online coverage - mocking then serious",
+        "News anchors debating if it's hoax",
+        "Kevin's signal data being analyzed by amateur astronomers",
+        "Angela's university demanding explanation",
+        "Reporter calls - Terry handles some badly, hangs up",
+        "Kowalski sees news, immediately sees opportunity",
+        "Government agencies starting to circle",
+        "Team group chat: panic and recriminations",
+        "Shanice: 'We need to fix this before it gets worse'"
+      ],
+      "character_beats": {
+        "Terry": "Arc 0.45 → 0.50. Thrust into spotlight he never wanted. Must adapt.",
+        "Kevin": "Guilt over leak but also validation - people are listening.",
+        "Angela": "Professional crisis - university pressure, peer judgment.",
+        "Shanice": "Anger at loss of control, protective instincts sharpening.",
+        "Kowalski": "Arc 0.0 → 0.10. Enters story, sees business opportunity."
+      },
+      "planted_elements": [
+        "Media narrative will shape public response",
+        "Government interest is bureaucratic, slow",
+        "Kowalski's involvement will complicate everything",
+        "Public going from mockery to belief creates new pressures"
+      ],
+      "revealed_to_reader": [
+        "The story is out, no putting genie back",
+        "Multiple forces now moving",
+        "Kowalski introduced as antagonist",
+        "Less than 30 hours remain"
+      ],
+      "tone": "Chaos. Information age amplification. Loss of control."
+    },
+    {
+      "chapter": 10,
+      "title": "Corporate Interference",
+      "type": "Bridge chapter",
+      "timeline": "Day 2, Late afternoon - Evening",
+      "pov": "Terry and Shanice",
+      "location": "SatellitePro offices",
+      "word_count_target": 2300,
+      "summary": "Kowalski summons Terry and Shanice to corporate headquarters. First time Terry has met the CEO. Kowalski is all charm and business speak. He's positioned himself as 'managing the situation.' He wants Terry to be the public face, but under corporate control. He's already talking to lawyers about intellectual property rights to the alien contact, exclusive media deals, potential technology licensing. Terry is disgusted. Shanice is threatened - Kowalski implies her job depends on cooperation. Angela arrives, having been contacted separately. Kowalski tries to recruit her as 'scientific advisor' for his venture. She refuses. Kevin is locked out of the building - Kowalski views IT guy as security risk. The meeting becomes confrontation. Kowalski makes clear: SatellitePro owns the infrastructure the call came through, therefore they control the contact. He's lawyered up. The team realizes they're fighting humans and aliens now.",
+      "key_scenes": [
+        "Summons to corporate HQ - ominous",
+        "Kowalski's office - expensive, soulless",
+        "His pitch: this is business opportunity of millennium",
+        "Terry's revulsion at monetizing first contact",
+        "Shanice threatened with job loss",
+        "Angela brought in, refuses cooperation",
+        "Legal threats: SatellitePro claims ownership",
+        "Kevin locked out, watching via security cameras",
+        "Confrontation escalates",
+        "Kowalski's ultimatum: cooperate or be destroyed legally and professionally",
+        "Team forced to retreat, regroup"
+      ],
+      "character_beats": {
+        "Terry": "Arc 0.50 → 0.55. Clarity through opposition. This is worth fighting for.",
+        "Shanice": "Arc 0.30 → 0.40. Choice: job security vs. doing right thing.",
+        "Angela": "Arc 0.30 → 0.40. Stands on principles despite pressure.",
+        "Kowalski": "Arc 0.10 → 0.30. Full antagonist mode. Dangerous because he has power.",
+        "Kevin": "Locked out but not stopped. Goes rogue."
+      },
+      "planted_elements": [
+        "Legal fight over 'ownership' of first contact",
+        "Kowalski will interfere with next Bundle communication",
+        "Shanice must choose between Maya's security and mission",
+        "Kevin's lockout gives him freedom to hack",
+        "Less than 24 hours until next call"
+      ],
+      "revealed_to_reader": [
+        "Human greed as dangerous as alien threat",
+        "Corporate power as antagonist force",
+        "Team must go underground",
+        "Stakes: save humanity from aliens AND from itself"
+      ],
+      "tone": "Anger. Systemic injustice. Urgency increasing."
+    },
+    {
+      "chapter": 11,
+      "title": "Going Underground",
+      "type": "Bridge chapter",
+      "timeline": "Day 2, Night - approaching Night 3",
+      "pov": "Multiple - Team",
+      "location": "Kevin's apartment, various Cleveland locations",
+      "word_count_target": 2200,
+      "summary": "The team goes rogue. Kevin sets up alternative communications infrastructure at his apartment - can't use SatellitePro systems now that Kowalski controls them. Angela reaches out to international SETI colleagues who might help route the call. Shanice makes hard choice - sends Maya to her sister in Columbus for safety, commits fully to the mission. Terry coordinates, feeling the weight of leadership. They have one shot left: the next call from Bundle is in hours. They need to understand the 'renewal process' and execute it before Kowalski interferes and before the 48-hour deadline. Public pressure is building - hashtags trending, government issuing non-denial denials, conspiracy theories wild. But they're running out of time. The night deepens. They wait for 2:47 AM.",
+      "key_scenes": [
+        "Team at Kevin's apartment - jury-rigged command center",
+        "Kevin hacking SatellitePro systems for access",
+        "Angela coordinating with international colleagues",
+        "Shanice saying goodbye to Maya - heartbreaking",
+        "Terry writing - processing through words",
+        "News coverage escalating - split screen chaos",
+        "Government agencies issuing statements",
+        "Kowalski doing media interviews, controlling narrative",
+        "Team huddle: preparing for final call",
+        "Clock counting down to 2:47 AM",
+        "Quiet moment: why are they doing this?"
+      ],
+      "character_beats": {
+        "Shanice": "Arc 0.40 → 0.50. Sacrifices job security for mission. Full commitment.",
+        "Terry": "Arc 0.55 → 0.60. Accepted leadership role. Found purpose.",
+        "Angela": "Arc 0.40 → 0.50. Chose action over protocol, no going back.",
+        "Kevin": "Arc 0.25 → 0.35. Essential role, proving his value.",
+        "Team": "Fully united now. Against the world."
+      },
+      "planted_elements": [
+        "International SETI network will help route call",
+        "Kowalski planning to interfere with 2:47 AM call",
+        "Public awareness creates both support and chaos",
+        "Final call will be decisive moment"
+      ],
+      "revealed_to_reader": [
+        "Team has sacrificed everything for this",
+        "They're alone against corporate and government power",
+        "Time nearly up (hours remaining)",
+        "Everything comes down to next call"
+      ],
+      "tone": "Quiet determination. Eye of the storm. Found family in crisis."
+    },
+    {
+      "chapter": 12,
+      "title": "The Subscriber Civilization",
+      "type": "TENTPOLE - Midpoint Reversal",
+      "timeline": "Night 3, 2:47 AM",
+      "pov": "Terry primarily, shifts to Bundle",
+      "location": "Kevin's apartment",
+      "word_count_target": 3000,
+      "summary": "Bundle calls. But this time, Bundle brings others. The 'subscriber civilization' wants to meet the 'content creators' directly. The call becomes a conference with multiple alien voices, all speaking in different TV-learned dialects - one sounds like game show host, one like news anchor, one like infomercial. It's surreal and terrifying. They explain: Earth is being cancelled because projected storyline (self-destruction) is 'predictable' and 'subscriber interest has declined.' But there's renewal option: convince the subscribers that humanity's 'narrative arc' is worth continuing. Terry must pitch Earth's renewal to an audience of cosmic voyeurs who have been entertained by humanity's wars, disasters, and dysfunction. The aliens aren't evil - they're consumers. They don't want Earth destroyed, they're just indifferent. To them, it's a business decision. The meeting ends with ultimatum: prepare your pitch. You have 12 hours. The final call will determine Earth's fate.",
+      "key_scenes": [
+        "Call begins - Bundle but not alone",
+        "Multiple alien voices join - different TV dialects",
+        "Conference call with subscriber civilization",
+        "They explain subscription service in detail",
+        "Earth as content item, humanity as characters in ongoing drama",
+        "Cancellation = removal from observation (fate deliberately vague but ominous)",
+        "Renewal option: pitch to subscriber committee",
+        "Terry asks: 'What happened to other cancelled civilizations?' Answer is chilling non-answer",
+        "Subscribers' indifference more horrifying than malice",
+        "Bundle's genuine desire to help within system constraints",
+        "Ultimatum: 12 hours to prepare pitch",
+        "Team's realization: must convince aliens humanity is worth the subscription fee"
+      ],
+      "character_beats": {
+        "Terry": "Arc 0.60 → 0.70. Must become humanity's advocate. Impossible responsibility.",
+        "Angela": "Arc 0.50 → 0.60. Cosmic horror of indifferent universe confirmed.",
+        "Shanice": "Arc 0.50 → 0.60. Must think beyond her daughter to all children.",
+        "Bundle": "Revealed as middle-management analog - following protocols, trying to help within system",
+        "Subscriber Civilization": "Introduced. Not evil, worse - indifferent consumers."
+      },
+      "planted_elements": [
+        "Pitch must appeal to alien sensibility shaped by TV",
+        "Other civilizations have been cancelled - fate unclear",
+        "Observer effect is real - attention sustains reality",
+        "Bundle is rooting for Earth but powerless to help beyond facilitating process"
+      ],
+      "revealed_to_reader": [
+        "Full cosmic horror: existence is subscription service",
+        "Aliens are consumers, humanity is product",
+        "No malice, just market logic applied to existence",
+        "Everything comes down to Terry's pitch",
+        "12 hours to save species"
+      ],
+      "tone": "Peak cosmic horror absurdism. Kafkaesque nightmare meets customer service.",
+      "chapter_purpose": "Midpoint reversal. Full scope revealed. Shift from understanding problem to attempting solution. Stakes crystallized: pitch humanity or face cancellation."
+    },
+    {
+      "chapter": 13,
+      "title": "The Pitch Team",
+      "type": "Bridge chapter",
+      "timeline": "Night 3 into Day 3, 3:00 AM - 10:00 AM",
+      "pov": "Multiple POVs",
+      "location": "Kevin's apartment, various locations",
+      "word_count_target": 2400,
+      "summary": "The team has 12 hours to craft a pitch that saves humanity. But how do you pitch human existence to aliens who learned everything from TV? They debate approaches: appeal to emotion? Logic? Self-interest? Angela argues for scientific value. Shanice argues for human potential and children. Kevin suggests leaning into entertainment value. Terry realizes - the pitch has to speak their language. It has to be a good sales pitch, using the TV logic the aliens understand. But what are they selling? They workshop ideas, draft and discard pitches. Tensions rise. Meanwhile, Kowalski has learned about the final call. He's preparing his own pitch - corporate, transactional, offering Earth's resources and human labor. The team realizes they're not just pitching against cancellation, but against Kowalski's exploitation. They need access to the final call, but Kowalski controls SatellitePro infrastructure.",
+      "key_scenes": [
+        "Frantic brainstorming session",
+        "Different pitch approaches argued",
+        "Angela: scientific value of humanity",
+        "Shanice: moral appeal to potential",
+        "Kevin: entertainment value (troubling implications)",
+        "Terry: realization must speak aliens' language",
+        "Drafting pitch together",
+        "News: Kowalski announces he'll make 'official Earth statement'",
+        "Team learns Kowalski preparing competing pitch",
+        "Race against time and corporate power",
+        "Planning to infiltrate SatellitePro for final call",
+        "6 hours remain"
+      ],
+      "character_beats": {
+        "Terry": "Arc 0.70 → 0.75. Synthesizing team ideas. Finding his voice.",
+        "Team": "Collaborative creation. Each contributes expertise.",
+        "Kowalski": "Arc 0.30 → 0.40. Preparing to sell humanity as commodity."
+      },
+      "planted_elements": [
+        "Pitch must balance humanity's value with aliens' TV-shaped worldview",
+        "Kowalski's pitch will be exploitative",
+        "Team needs to prevent or counter Kowalski",
+        "Access to final call is contested"
+      ],
+      "revealed_to_reader": [
+        "Humanity's fate depends on sales pitch quality",
+        "Multiple humans will pitch - which will aliens accept?",
+        "Team united in purpose and approach",
+        "Kowalski is serious threat"
+      ],
+      "tone": "Urgent collaboration. Writing room meets war room."
+    },
+    {
+      "chapter": 14,
+      "title": "Public Knowledge",
+      "type": "Bridge chapter",
+      "timeline": "Day 3, 10:00 AM - 2:00 PM",
+      "pov": "Terry, with media/public perspectives",
+      "location": "Various - media coverage, public reactions",
+      "word_count_target": 2100,
+      "summary": "The story has reached critical mass. Governments can no longer deny. UN calls emergency session. President addresses nation (vaguely, unhelpfully). Scientific community confirms signal authenticity. Public reaction is chaotic: panic buying, prayer vigils, riots in some cities, parties in others. Social media explodes with #EarthsLastDay trending. Some people embrace potential end, others fight against it. Conspiracy theories metastasize. Through it all, most people go to work, pick up kids, live their lives because what else can you do? Terry watches coverage and realizes: this is what the aliens see. This chaos, beauty, dysfunction, hope and despair all mixed together. This IS humanity's pitch, if they can frame it right. Meanwhile, Shanice gets word that Maya is safe but scared. Angela's university demands she appear before ethics board. Kevin's parents call, terrified. Personal stakes remain even as world hangs in balance.",
+      "key_scenes": [
+        "Presidential address - political non-answers",
+        "UN emergency session - bureaucracy facing cosmic crisis",
+        "Scientific confirmation from major institutions",
+        "Public reactions montage: panic, celebration, normalcy, chaos",
+        "Social media: memes about Earth's cancellation",
+        "Families calling team members",
+        "Shanice on phone with Maya",
+        "Terry watching news, epiphany about pitch",
+        "Angela reading academic colleagues' accusations of hoax/breakdown",
+        "Kevin's parents: 'Come home'",
+        "Team processing: world is watching, aliens are watching, everyone is watching",
+        "4 hours until final call"
+      ],
+      "character_beats": {
+        "Terry": "Arc 0.75 → 0.80. Sees humanity's value in its messy reality.",
+        "All characters": "Personal stakes remain. Loved ones, lives, purposes.",
+        "World": "Humanity revealed in crisis - the good, bad, absurd."
+      },
+      "planted_elements": [
+        "Public chaos is what aliens have been watching all along",
+        "Human response to existential threat is diverse, contradictory, very human",
+        "Personal connections ground cosmic stakes"
+      ],
+      "revealed_to_reader": [
+        "How humanity responds to potential end",
+        "No unified response - we remain divided and diverse",
+        "Beauty in dysfunction, hope in chaos",
+        "4 hours remain"
+      ],
+      "tone": "Bittersweet. Humanity in all its messy glory. Last day awareness."
+    },
+    {
+      "chapter": 15,
+      "title": "Infiltration",
+      "type": "Bridge chapter",
+      "timeline": "Day 3, 2:00 PM - 8:00 PM",
+      "pov": "Team",
+      "location": "Cleveland, SatellitePro building",
+      "word_count_target": 2300,
+      "summary": "Kowalski has locked down SatellitePro headquarters. Security, lawyers, government liaisons. He's positioned himself as Earth's official representative. The team needs access to the communications system for the final call, but they're locked out. Kevin uses his knowledge of the building to plan infiltration. Shanice uses her supervisor codes (not yet deactivated). Angela creates distraction by arriving with international SETI delegation. Terry and Kevin sneak in through loading dock. Heist-style sequence through the building they know intimately. They reach the communications hub. Set up parallel system so both Terry and Kowalski can make pitches - let the aliens choose. But Kowalski discovers them. Confrontation. Security coming. They barricade themselves in the communications room. Kowalski on other side of door, threatening legal destruction, physical removal. The team holds position. Sunset. Less than 6 hours until final call. They're trapped but in position.",
+      "key_scenes": [
+        "SatellitePro building locked down like fortress",
+        "Team planning infiltration - using insider knowledge",
+        "Kevin's building blueprints and security knowledge",
+        "Angela's distraction with SETI delegation",
+        "Terry and Kevin's infiltration sequence",
+        "Tense movement through familiar spaces now hostile",
+        "Reaching communications hub",
+        "Setting up dual transmission capability",
+        "Kowalski discovers them",
+        "Confrontation through door",
+        "Barricade and standoff",
+        "Waiting for 2:47 AM",
+        "Team in bunker mode, refining pitch"
+      ],
+      "character_beats": {
+        "Kevin": "Arc 0.35 → 0.45. His knowledge of systems saves mission.",
+        "Shanice": "Arc 0.60 → 0.65. Uses her position for good despite cost.",
+        "Terry": "Arc 0.80 → 0.85. Committed to seeing this through.",
+        "Kowalski": "Arc 0.40 → 0.50. Desperate to control situation."
+      },
+      "planted_elements": [
+        "Both pitches will be heard by aliens",
+        "Kowalski can't remove them without disrupting his own call",
+        "Security and legal consequences pending",
+        "Final call will be chaotic, contested"
+      ],
+      "revealed_to_reader": [
+        "Team will sacrifice everything for this chance",
+        "Kowalski versus Team dynamic crystallized",
+        "Final confrontation approaching",
+        "Hours remaining single digits"
+      ],
+      "tone": "Heist thriller. Ticking clock. Determined defiance."
+    },
+    {
+      "chapter": 16,
+      "title": "The Long Night",
+      "type": "Bridge chapter",
+      "timeline": "Night 3/Day 4, 8:00 PM - 2:00 AM",
+      "pov": "Multiple - Team members",
+      "location": "Communications room (barricaded)",
+      "word_count_target": 2200,
+      "summary": "Six hours trapped in the communications room. Kowalski has stopped trying to break in - he's preparing his pitch on the other side. The team uses the time for final preparations. But also: they talk. About their lives, what matters, what they hope for. Shanice talks about Maya, her dreams for her daughter. Angela discusses her search for meaning in the cosmos. Kevin shares his loneliness and need to be believed. Terry talks about giving up journalism, losing purpose, finding it again. They're not just preparing a pitch - they're articulating what makes life worth living. These conversations inform and enrich their pitch. They also prepare for failure: goodbyes are said, just in case. Quiet moments of human connection in the fluorescent-lit corporate tomb. Outside, the world waits. The clock advances. 2:47 AM approaches. They rehearse the pitch one final time. They're ready. Or as ready as anyone can be to convince cosmic voyeurs that humanity deserves to exist.",
+      "key_scenes": [
+        "Standoff settling into waiting",
+        "Kowalski's preparations audible through walls",
+        "Team finalizing pitch",
+        "Quiet conversation: what makes life worth living?",
+        "Shanice on Maya and motherhood",
+        "Angela on searching for meaning",
+        "Kevin on connection and belief",
+        "Terry on lost and found purpose",
+        "These conversations woven into pitch",
+        "Moments of humor despite stakes",
+        "Preparing for potential failure",
+        "Goodbyes and gratitude",
+        "Final pitch rehearsal",
+        "Watching clock count down",
+        "2:47 AM approaching"
+      ],
+      "character_beats": {
+        "All characters": "Final growth moments. Articulating values. Peace with choices.",
+        "Terry": "Arc 0.85 → 0.90. Ready to speak for humanity.",
+        "Team": "Deep bonds forged. Found family solidified."
+      },
+      "planted_elements": [
+        "Personal stories will enhance pitch authenticity",
+        "Team has accepted potential failure with grace",
+        "Their journey matters regardless of outcome",
+        "Final call imminent"
+      ],
+      "revealed_to_reader": [
+        "What each character values most",
+        "Why they're fighting for humanity",
+        "The pitch's emotional core",
+        "Final moments before climax"
+      ],
+      "tone": "Quiet before storm. Intimate character work. Peace amidst chaos."
+    },
+    {
+      "chapter": 17,
+      "title": "The Pitch",
+      "type": "TENTPOLE - Climax",
+      "timeline": "Day 4, 2:47 AM - 4:00 AM",
+      "pov": "Terry primarily, shifts to other POVs",
+      "location": "Communications room, dual transmissions",
+      "word_count_target": 3500,
+      "summary": "2:47 AM. The final call. The subscriber civilization is listening. Kowalski goes first - a corporate pitch offering Earth's resources, human labor, technology sharing, trade agreements. He's selling humanity as commodity and partner. It's polished, professional, transactional. The aliens seem interested. Then Terry's turn. He doesn't have Kowalski's polish. But he has truth. He speaks about humanity in the language the aliens understand - TV references, storytelling, narrative arcs - but with genuine emotion. He pitches humanity not as valuable resource but as unfinished story worth following. He shows them the contradictions: capable of great cruelty and profound kindness, self-destructive and resilient, divided yet connected. He argues that predictable endings are boring - humanity's chaos makes us interesting. He appeals to their nature as observers: the best stories are unpredictable. He shares his team's stories. Bundle helps, translating when Terry's words don't land. The other subscribers question, challenge. It becomes dialogue, not pitch. Kowalski tries to interrupt, but the aliens are focused on Terry. Finally, Terry says: 'You've been watching our worst moments. Give us a chance to surprise you with what we can become.' The subscribers deliberate. The wait is agonizing. Then: decision.",
+      "key_scenes": [
+        "2:47 AM - final call begins",
+        "Subscriber civilization assembled - multiple voices",
+        "Kowalski's pitch first - polished, corporate, transactional",
+        "Aliens' interested response to resources offer",
+        "Terry's turn - nervous, authentic",
+        "Opening: acknowledging what aliens have seen",
+        "Core argument: humanity as unfinished story",
+        "Using TV language but genuine emotion",
+        "Contradictions as features not bugs",
+        "Team members' stories shared",
+        "Bundle helping translate/advocate",
+        "Subscriber questioning - hostile, curious, amused",
+        "Becoming conversation not presentation",
+        "Terry's emotional honesty versus Kowalski's corporate mask",
+        "Kowalski's attempts to interrupt",
+        "Terry's final appeal: 'Give us a chance to surprise you'",
+        "Subscribers deliberate - team waits",
+        "Agonizing silence",
+        "Decision"
+      ],
+      "character_beats": {
+        "Terry": "Arc 0.90 → 0.95. Finds his voice. Speaks truth for humanity.",
+        "Kowalski": "Arc 0.50 → 0.60. Reveals his soullessness. Loses.",
+        "Team": "Supporting Terry. Their stories are his ammunition.",
+        "Bundle": "Reveals full allegiance - helps Terry win.",
+        "Subscribers": "Complex. Some convinced, some not. Democracy of cosmic voyeurs."
+      },
+      "planted_elements": [
+        "Decision outcome deliberately unclear until revealed",
+        "Bundle's advocacy matters",
+        "Humanity judged not on worthiness but entertainment value - disturbing even in victory"
+      ],
+      "revealed_to_reader": [
+        "Terry's growth complete - from cynical drone to humanity's voice",
+        "Two visions of humanity: Kowalski's commodity vs Terry's story",
+        "Aliens' nature: not evil, not good, just other",
+        "Decision moment"
+      ],
+      "tone": "Peak tension. Everything on line. Emotional authenticity versus corporate bullshit. Climactic.",
+      "chapter_purpose": "Climactic confrontation. Terry's arc completes. Humanity's fate decided. Central conflict resolved."
+    },
+    {
+      "chapter": 18,
+      "title": "Renewal (Conditional)",
+      "type": "Bridge chapter - Falling action",
+      "timeline": "Day 4, 4:00 AM - 8:00 AM",
+      "pov": "Terry and team",
+      "location": "Communications room, then outside",
+      "word_count_target": 2400,
+      "summary": "The subscribers' decision: Conditional renewal. Earth gets another 'season' (undefined time period, maybe decades). But there are conditions: humanity must show 'narrative development' - progress on self-destructive tendencies. The subscription includes 'viewership metrics' - the aliens will keep watching. If humanity trends boring or too destructive, cancellation can resume. It's not salvation, it's a reprieve. It's also deeply unsettling - existence contingent on cosmic audience approval. But it's survival. The call ends. The team is exhausted, relieved, disturbed. They're alive. Humanity gets another chance. But at what cost? They emerge from the communications room. Kowalski is gone - fled when he realized he lost. Security doesn't know whether to arrest them or thank them. News breaks: Earth renewed. Global celebrations. But Team knows the complicated truth. They walk out into Cleveland dawn. The city is celebrating. They're heroes and they feel hollow.",
+      "key_scenes": [
+        "Subscribers' decision: conditional renewal",
+        "Terms explained: another season, with conditions",
+        "Continued observation and metrics",
+        "Team's mixed reaction: relief and horror",
+        "Call ends - Bundle's goodbye",
+        "Emergence from communications room",
+        "Kowalski fled",
+        "Security confused",
+        "News: Earth renewed!",
+        "Global celebrations beginning",
+        "Team walking out into dawn",
+        "Cleveland celebrating",
+        "They're heroes",
+        "But they know the truth: we're still just a show"
+      ],
+      "character_beats": {
+        "Terry": "Arc 0.95 → 1.0. Saved humanity. Understands the cost.",
+        "Team": "Shared victory feels hollow. Success is complicated.",
+        "Kowalski": "Fled. Defeated but will spin it somehow.",
+        "Humanity": "Celebrating, mostly unaware of conditions."
+      },
+      "planted_elements": [
+        "Humanity is still being watched",
+        "Metrics and conditions create ongoing uncertainty",
+        "Bundle implied they'll be in touch",
+        "Nothing fundamentally changed except awareness"
+      ],
+      "revealed_to_reader": [
+        "Victory is conditional and unsettling",
+        "The cosmic horror doesn't end, it's acknowledged",
+        "Humanity must live knowing it's observed",
+        "The team's sacrifice was worth it but costly"
+      ],
+      "tone": "Bittersweet. Exhausted relief. Pyrrhic victory. Dawn after longest night."
+    },
+    {
+      "chapter": 19,
+      "title": "Aftermath",
+      "type": "Bridge chapter - Falling action",
+      "timeline": "Day 4-5, Following days",
+      "pov": "Multiple POVs",
+      "location": "Various - Cleveland, news, personal spaces",
+      "word_count_target": 2200,
+      "summary": "The team faces aftermath. They're famous, which none of them wanted. Government wants to debrief them. Media wants interviews. Kowalski is giving press conferences claiming credit. Angela faces academic tribunal but becomes celebrated figure. Kevin is vindicated but overwhelmed by attention. Shanice reunites with Maya, tries to explain. Terry is offered book deals, speaking tours - everything he thought he wanted. But it all feels wrong. The world is processing that they're cosmic entertainment. Some embrace it, performing for alien viewers. Others deny it. Conspiracy theories that it was all hoax. Life continues, changed and unchanged. The team stays in touch. They're bonded by experience no one else shares. Terry starts writing, not for publication but for processing. He tries to make sense of what they lived. Days pass. Then, week later, Terry gets a call. Familiar static. Bundle checking in. 'How is renewal going?' The observation continues. The show goes on.",
+      "key_scenes": [
+        "Media circus - team as celebrities",
+        "Government debriefings (bureaucratic, missing the point)",
+        "Kowalski claiming credit publicly",
+        "Angela's academic vindication and scrutiny",
+        "Kevin overwhelmed by attention",
+        "Shanice and Maya reunion",
+        "Terry offered fame and fortune he no longer wants",
+        "World processing new reality: we're being watched",
+        "Some perform for aliens, others deny",
+        "Life continuing in weird new normal",
+        "Team staying connected",
+        "Terry writing to process",
+        "Week later: Bundle calls again",
+        "Ongoing observation confirmed",
+        "New normal: living under cosmic gaze"
+      ],
+      "character_beats": {
+        "All characters": "Processing fame, trauma, victory, cost.",
+        "Terry": "Found purpose but it's complicated. Writing again.",
+        "Shanice": "Rebuilding life, explaining to Maya.",
+        "Kevin": "Validated but changed.",
+        "Angela": "Career transformed, grappling with implications.",
+        "Kowalski": "Escaped consequences, weaponizing narrative."
+      },
+      "planted_elements": [
+        "Bundle's continued presence",
+        "Humanity's behavioral changes from being watched",
+        "Ongoing story beyond this crisis"
+      ],
+      "revealed_to_reader": [
+        "Victory's long-term implications",
+        "How characters and world adapt",
+        "Nothing really ended, just changed",
+        "Prepare for epilogue"
+      ],
+      "tone": "Recovery. Adjustment. New normal. Ongoing uncertainty."
+    },
+    {
+      "chapter": 20,
+      "title": "The Subscription Continues",
+      "type": "TENTPOLE - Resolution",
+      "timeline": "Three months later",
+      "pov": "Terry, with epilogue moments from all characters",
+      "location": "Cleveland, call center (now museum piece), Terry's new life",
+      "word_count_target": 2800,
+      "summary": "Three months later. The world has adapted to being cosmic reality TV. Some governments try to 'improve metrics' through propaganda. Social movements debate whether to perform hope or authenticity. Philosophers argue about observer effect and free will. Life goes on, weirder. Terry returned to the call center one last time - it's being preserved as historical site. He reflects on everything. He's written a book, not commercial tell-all but honest account. He's found purpose again, but it's tempered by knowledge. Shanice opened her own business consulting on 'crisis management and first contact protocols' - using her skills, on her terms. Maya is in therapy but okay. Kevin works for international signal monitoring organization, still tracking. Angela leads global research initiative on observer-effect physics. Kowalski's company went bankrupt; he's writing his own book. The team gathers at Terry's apartment. Bundle calls (they have schedule now). Casual check-in. The cosmic becomes mundane. They chat with alien like customer service call it always was. The irony isn't lost on anyone. After call, they order pizza, watch TV, live their lives. They're being watched. They'll always be watched. But they're also living. The story continues. The subscription holds. For now. Final image: Terry at window, looking at stars, knowing something looks back. He waves. Somewhere, cosmic voyeurs watch. And maybe, that's okay. Maybe being seen, even by incomprehensible others, is better than cosmic loneliness. Or maybe it's horror he's learned to live with. Both can be true. The call center phone rings somewhere, someone answers. The conversation continues.",
+      "key_scenes": [
+        "Three months later - world adapted bizarrely",
+        "Terry at preserved call center, reflecting",
+        "Each character's new life shown",
+        "Shanice's business, Maya's recovery",
+        "Kevin at monitoring station",
+        "Angela leading research",
+        "Kowalski's fall and continued grifting",
+        "Team gathering at Terry's place",
+        "Casual Bundle check-in call - cosmic become mundane",
+        "Conversation like old friends now",
+        "After call: ordering pizza, watching TV",
+        "Living despite being watched",
+        "Terry at window, looking at stars",
+        "Knowing something looks back",
+        "He waves",
+        "Ambiguous ending: horror or connection?",
+        "Final image: call center phone ringing, someone answers",
+        "The conversation continues"
+      ],
+      "character_beats": {
+        "Terry": "Arc 1.0. Found sustainable purpose. Made peace with cosmic absurd.",
+        "All characters": "Grown, changed, adapted. Living in new reality.",
+        "Humanity": "Adapting. For better and worse.",
+        "Bundle": "Now familiar voice. Ongoing relationship.",
+        "The cosmos": "Still watching. Always watching."
+      },
+      "revealed_to_reader": [
+        "Long-term consequences and adaptations",
+        "Each character's resolution",
+        "The ongoing nature of situation",
+        "Thematic resolution: meaning in absurdity",
+        "Hope and horror coexisting",
+        "Life continues under cosmic gaze"
+      ],
+      "tone": "Bittersweet. Philosophical. Darkly hopeful. Acceptance of beautiful/terrible truth.",
+      "chapter_purpose": "Resolution. Character arcs complete. Thematic statements. Satisfying yet open ending. The story ends but the subscription continues."
+    }
+  ],
+  "causal_chains": [
+    {
+      "chain_id": 1,
+      "description": "Terry's journalist instincts awakening chain",
+      "cause": "Bundle's anomalous call triggers Terry's dormant investigative instincts (Ch1)",
+      "intermediate_effects": [
+        "Terry investigates instead of dismissing (Ch2)",
+        "Recruits Kevin's expertise (Ch2-3)",
+        "Calls Dr. Okonkwo (Ch5)",
+        "Takes leadership of team (Ch6-11)",
+        "Develops pitch (Ch13)",
+        "Speaks for humanity (Ch17)"
+      ],
+      "final_effect": "Terry's found purpose saves humanity (Ch17-18)",
+      "chapters": [1, 2, 5, 13, 17, 18],
+      "theme": "Purpose and agency - small actions cascade into world-changing effects"
+    },
+    {
+      "chain_id": 2,
+      "description": "Kevin's signal tracking vindication chain",
+      "cause": "Kevin tracks anomalies for 8 months, dismissed as conspiracy theorist (before Ch1)",
+      "intermediate_effects": [
+        "Documentation ready when Terry asks (Ch2)",
+        "Proves extraterrestrial origin (Ch3)",
+        "His leak starts public awareness (Ch9)",
+        "Building knowledge enables infiltration (Ch15)",
+        "Technical skills essential to mission (throughout)"
+      ],
+      "final_effect": "Kevin's dismissed expertise becomes crucial to success (Ch17-19)",
+      "chapters": [2, 3, 9, 15, 17],
+      "theme": "Expertise vs credentialism - practical knowledge matters"
+    },
+    {
+      "chain_id": 3,
+      "description": "Shanice's protective instinct escalation chain",
+      "cause": "Shanice protects her team and Maya (Ch1-4)",
+      "intermediate_effects": [
+        "Initially wants to report to management (Ch4)",
+        "Forced to confront reality (Ch3-7)",
+        "Chooses mission over job security (Ch10-11)",
+        "Sends Maya away for safety (Ch11)",
+        "Commits fully despite cost (Ch11-17)"
+      ],
+      "final_effect": "Maternal protection expands to species-level (Ch17-20)",
+      "chapters": [4, 7, 10, 11, 17, 19],
+      "theme": "Expanding circles of care - personal to universal"
+    },
+    {
+      "chain_id": 4,
+      "description": "Information leak and public awareness chain",
+      "cause": "Kevin's encrypted posts + Angela's colleague leak (Ch8-9)",
+      "intermediate_effects": [
+        "Story goes viral (Ch9)",
+        "Public and government attention (Ch9-10)",
+        "Kowalski learns of situation (Ch9)",
+        "Media pressure escalates (Ch14)",
+        "Global awareness before final call (Ch14-17)"
+      ],
+      "final_effect": "Public knowledge creates both support and chaos (Ch17-20)",
+      "chapters": [8, 9, 10, 14, 17],
+      "theme": "Information age amplification - loss of control"
+    },
+    {
+      "chain_id": 5,
+      "description": "Kowalski's exploitation attempt chain",
+      "cause": "Kowalski sees alien contact as business opportunity (Ch9-10)",
+      "intermediate_effects": [
+        "Claims corporate ownership (Ch10)",
+        "Threatens team's jobs (Ch10)",
+        "Forces team underground (Ch11)",
+        "Locks down SatellitePro (Ch15)",
+        "Prepares competing pitch (Ch13-17)",
+        "Makes corporate pitch (Ch17)"
+      ],
+      "final_effect": "Kowalski's greed creates contrast that helps Terry's pitch succeed (Ch17-18)",
+      "chapters": [9, 10, 11, 13, 15, 17],
+      "theme": "Capitalism and value - human greed as dangerous as alien indifference"
+    },
+    {
+      "chain_id": 6,
+      "description": "Bundle's subscriber civilization reveal chain",
+      "cause": "Bundle initiates contact through customer service (Ch1)",
+      "intermediate_effects": [
+        "Explains observation in TV language (Ch3)",
+        "Reveals 75 years of watching (Ch7)",
+        "Introduces subscriber civilization (Ch12)",
+        "Facilitates renewal process (Ch12-17)",
+        "Advocates for Earth during pitch (Ch17)"
+      ],
+      "final_effect": "Bundle's system becomes humanity's new reality (Ch18-20)",
+      "chapters": [1, 3, 7, 12, 17, 20],
+      "theme": "Communication and miscommunication - connection across unbridgeable gaps"
+    },
+    {
+      "chain_id": 7,
+      "description": "Observer effect and humanity's self-awareness chain",
+      "cause": "Humanity learns it's being watched (Ch7-9)",
+      "intermediate_effects": [
+        "Public becomes aware of observation (Ch9-14)",
+        "Behavioral changes begin (Ch14)",
+        "Some perform, others deny (Ch14-19)",
+        "Philosophical debates emerge (Ch19)",
+        "Society adapts to cosmic gaze (Ch20)"
+      ],
+      "final_effect": "Being watched becomes new normal, changes human behavior and culture (Ch20)",
+      "chapters": [7, 9, 14, 19, 20],
+      "theme": "Observer effect - being seen changes who we are"
+    }
+  ],
+  "planted_elements": [
+    {
+      "element": "Bundle's TV-language communication style",
+      "planted_chapter": 1,
+      "payoff_chapter": 17,
+      "significance": "Established early as comedy, becomes key to pitch strategy",
+      "status": "essential"
+    },
+    {
+      "element": "Kevin's 8 months of signal tracking",
+      "planted_chapter": 2,
+      "payoff_chapter": 7,
+      "significance": "Proves systematic observation, provides evidence",
+      "status": "essential"
+    },
+    {
+      "element": "Maya's drawings of 'TV people watching'",
+      "planted_chapter": 4,
+      "payoff_chapter": 7,
+      "significance": "Children see truth adults miss, confirms observation predates contact",
+      "status": "important"
+    },
+    {
+      "element": "SatellitePro's financial troubles",
+      "planted_chapter": 1,
+      "payoff_chapter": 10,
+      "significance": "Explains Kowalski's desperate opportunism",
+      "status": "important"
+    },
+    {
+      "element": "Terry's journalism background",
+      "planted_chapter": 1,
+      "payoff_chapter": 17,
+      "significance": "Dormant skills reawaken, enable investigation and pitch",
+      "status": "essential"
+    },
+    {
+      "element": "Call timing at exactly 2:47 AM",
+      "planted_chapter": 1,
+      "payoff_chapter": 7,
+      "significance": "Tied to orbital mechanics, proves alien nature",
+      "status": "minor"
+    },
+    {
+      "element": "'Subscription' and 'cancellation' metaphors",
+      "planted_chapter": 1,
+      "payoff_chapter": 12,
+      "significance": "Core concept of Earth as entertainment product",
+      "status": "essential"
+    },
+    {
+      "element": "48-hour deadline",
+      "planted_chapter": 3,
+      "payoff_chapter": 17,
+      "significance": "Creates urgency, structures timeline",
+      "status": "essential"
+    },
+    {
+      "element": "Bundle choosing customer service over government",
+      "planted_chapter": 1,
+      "payoff_chapter": 12,
+      "significance": "Aliens learned from TV, followed what seemed like protocol",
+      "status": "thematic"
+    },
+    {
+      "element": "75 years of observation (since 1950s)",
+      "planted_chapter": 7,
+      "payoff_chapter": 12,
+      "significance": "Aliens learned from TV/radio broadcasts, shapes their worldview",
+      "status": "essential"
+    },
+    {
+      "element": "Other cancelled civilizations",
+      "planted_chapter": 12,
+      "payoff_chapter": 17,
+      "significance": "Raises stakes, fate unclear but ominous",
+      "status": "important"
+    },
+    {
+      "element": "Observer effect on reality",
+      "planted_chapter": 7,
+      "payoff_chapter": 20,
+      "significance": "Being watched changes behavior, philosophical implications",
+      "status": "thematic"
+    },
+    {
+      "element": "Shanice's job and benefits vulnerability",
+      "planted_chapter": 4,
+      "payoff_chapter": 10,
+      "significance": "Used to threaten her, makes her sacrifice meaningful",
+      "status": "character"
+    },
+    {
+      "element": "Angela's career searching for contact",
+      "planted_chapter": 5,
+      "payoff_chapter": 12,
+      "significance": "Life's work validated in wrong way, cosmic irony",
+      "status": "character"
+    },
+    {
+      "element": "Kevin's conspiracy theorist reputation",
+      "planted_chapter": 2,
+      "payoff_chapter": 9,
+      "significance": "Finally proven right, vindication is complicated",
+      "status": "character"
+    },
+    {
+      "element": "Kowalski as distant CEO Terry never met",
+      "planted_chapter": 1,
+      "payoff_chapter": 10,
+      "significance": "Class dynamics, shows power structures",
+      "status": "thematic"
+    },
+    {
+      "element": "Condition renewal terms",
+      "planted_chapter": 18,
+      "payoff_chapter": 20,
+      "significance": "Victory is complicated, ongoing observation",
+      "status": "resolution"
+    }
+  ],
+  "themes_and_motifs": {
+    "primary_themes": [
+      "Communication and Miscommunication: Language as bridge and barrier. Context shapes meaning. The horror of being understood only through worst artifacts.",
+      "Capitalism and Value: Humanity as product. Metrics as existential threat. Commodification of existence. Corporate logic applied to cosmic scale.",
+      "Agency and Powerlessness: Finding power in powerless positions. Small actions cascade. Working within broken systems."
+    ],
+    "recurring_motifs": [
+      "Customer service language applied to existential stakes",
+      "TV and media as lens for understanding humanity",
+      "Phone calls as moments of connection and crisis",
+      "Cleveland as stand-in for 'ordinary' America",
+      "Fluorescent lights and corporate spaces",
+      "The number 2:47 (call timing)",
+      "Watching and being watched",
+      "Subscription/renewal/cancellation terminology"
+    ],
+    "tonal_evolution": "Begins darkly comedic (absurd customer service call) → Growing unease (something is wrong) → Cosmic horror revelation (we're entertainment) → Urgent thriller (race to save species) → Bittersweet resolution (saved but watched)"
+  },
+  "world_consistency_notes": {
+    "timeline_anchors": [
+      "Night 1: 2:47 AM - First call (Ch1)",
+      "Night 2: 2:47 AM - Second major call (Ch7)",
+      "Night 3: 2:47 AM - Subscriber civilization call (Ch12)",
+      "Day 4: 2:47 AM - Final pitch call (Ch17)",
+      "Three months later - Epilogue (Ch20)"
+    ],
+    "location_consistency": "Primarily Cleveland, Ohio. Call center as main location through Ch15. Kevin's apartment Ch11-13. SatellitePro HQ Ch15-18. Various Cleveland locations for character moments.",
+    "character_knowledge_tracking": "Critical to track who knows what when. Terry learns first (Ch1). Kevin brought in (Ch2). Shanice forced in (Ch3). Angela recruited (Ch5). Kowalski learns (Ch9). Public awareness (Ch9-14). Government slow to respond."
+  }
+}

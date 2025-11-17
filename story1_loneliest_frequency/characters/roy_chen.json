@@ -1,0 +1,99 @@
+{
+  "name": "Roy Chen",
+  "callsign": "K6RXC",
+  "age": 58,
+  "role": "Supporting character / Ham radio mentor-friend",
+  "occupation": "Retired aerospace engineer, full-time ham radio operator",
+
+  "core_wound": "Widowed 8 years ago, lost his wife Linda to cancer. They were married 32 years. Their shared hobby was ham radio - they ran a contest station together. After her death, radio became his lifeline but also his prison. He can spend 12 hours a day on the radio but can't face cleaning out her clothes from the closet. The radio community became his family, but they're all voices, no faces. He's as isolated as Sarah but pretends he's connected.",
+
+  "wants": "To make the next big DX contact, to be the first to confirm an extraordinary signal, to have stories to tell at hamfests. Wants to be recognized in the radio community as elite.",
+
+  "needs": "To allow himself to fully grieve Linda and move forward with in-person human connection. To understand that radio is a tool for connection, not a replacement for it.",
+
+  "voice_markers": [
+    "Uses ham radio lingo constantly, even in regular conversation ('QSL that,' 'good copy,' '73')",
+    "Calls everyone 'my friend' or by their callsign",
+    "Enthusiastic about technical details, can talk for 20 minutes about antenna design",
+    "Gentle, encouraging teaching voice - never makes people feel dumb for not knowing",
+    "Old-school formality on the air ('This is K6RXC, Kilo Six Romeo X-ray Charlie')",
+    "Laughs easily, often at his own jokes",
+    "Occasionally references Linda in present tense then corrects himself"
+  ],
+
+  "contradiction": "Champions ham radio as the ultimate connection tool, has talked to thousands of people worldwide, but hasn't had a face-to-face conversation with a friend in months. Preaches community but lives alone. Tells Sarah she should 'get out more' while he does the same thing.",
+
+  "physical_description": "5'6\", stocky build, Asian-American (third generation), gray hair, kind face with smile lines. Glasses always a bit smudged. Dresses in ham radio club t-shirts and cargo shorts year-round (he's in California). His home is cluttered with radio equipment, QSL cards covering the walls, photos of Linda at every station. Warm, grandfatherly presence even over the radio.",
+
+  "backstory": {
+    "career": "Worked as aerospace engineer for 35 years at Lockheed. Worked on satellite systems. Retired 10 years ago with full pension. Always planned to travel with Linda in retirement.",
+    "ham_radio_history": "Licensed since age 16 (42 years). Extra class license. Contest operator, DXpedition veteran, has worked 340+ countries. Has top-tier station in California foothills. Known in community as expert and elmers (mentor) newcomers.",
+    "lindas_death": "Wife died 8 years ago. They had no children (tried, couldn't). Ham radio was their joint passion. After her death, Roy threw himself into building the dream station they'd planned together. Now has incredible setup but operates it alone.",
+    "relationship_with_sarah": "Met on 40-meter band 3 years ago. Regular schedule - they check in every Tuesday and Thursday at 7 PM Pacific. Have talked hundreds of hours but never met in person (she's in Montana, he's in California). He knows about her divorce and Danny, she knows about Linda. They're each other's closest friend, both would be uncomfortable admitting that."
+  },
+
+  "arc_position": 0.0,
+
+  "knowledge_state": [
+    "Knows Sarah's situation intimately - the divorce, Danny, her isolation, her relationship with her father",
+    "First person Sarah tells about the strange signal",
+    "Expert in signal analysis, can help her interpret what she's hearing",
+    "Knows government monitors amateur frequencies but thinks it's mostly automated",
+    "Doesn't know Sarah is about to drag him into something dangerous",
+    "Unaware that his aerospace background makes him a person of interest to Webb's investigation",
+    "Knows exactly how isolated Sarah is because he's the same way"
+  ],
+
+  "relationships": {
+    "Sarah_Kendrick": "Best friend, though neither would say it that way. He's protective of her, encourages her, worries about her isolation (hypocritically). Treats her like a favorite student and equal colleague. Their Tuesday/Thursday schedule is sacred to both.",
+    "Linda_Chen": "Deceased wife. Still the most important person in his life. Talks to her photo. Keeps her callsign active on a memorial station. Can't let go.",
+    "Ham_radio_community": "Knows hundreds of operators by callsign. Regular on nets. Respected elder. But all relationships are at arm's length - voices only.",
+    "Agent_Marcus_Webb": "Will be interviewed early in investigation. Roy is cooperative but protective of Sarah. Webb recognizes Roy as a good man caught in the middle.",
+    "Echo": "Never meets directly, but helps Sarah analyze Echo's signals. Is the first to recognize the signals are not human-made. His aerospace background helps decode the mathematics."
+  },
+
+  "skills": [
+    "Expert ham radio operator - top-tier technical skills",
+    "Antenna design and construction expert",
+    "Signal analysis and decoding",
+    "Aerospace engineering background - understands satellite communications, orbital mechanics",
+    "Patience as teacher/mentor",
+    "Can build or repair almost any radio equipment",
+    "Contest operator - fast, accurate"
+  ],
+
+  "limitations": [
+    "In California, can't physically help Sarah in Montana",
+    "Elderly - not going to fly across country on short notice",
+    "His communications with Sarah can be monitored, puts her at risk",
+    "Emotionally stuck in the past with Linda",
+    "No law enforcement or intelligence background - out of his depth with conspiracy"
+  ],
+
+  "fears": [
+    "Losing another person he cares about (Sarah becoming Linda 2.0)",
+    "That Sarah will stop calling for their regular schedules",
+    "Being complicit in something that gets Sarah hurt",
+    "That his technical advice will lead Sarah into danger",
+    "Fully letting go of Linda and what that means for his identity",
+    "Being revealed as just a lonely old man"
+  ],
+
+  "desires": [
+    "Wants Sarah to be safe and happy",
+    "Wants to be part of confirming an extraordinary signal - scientific validation",
+    "Wants to help Sarah succeed where he sees himself as having failed (moving forward after loss)",
+    "Deep down, wants to meet Sarah in person but would never suggest it",
+    "Wants one more conversation with Linda"
+  ],
+
+  "internal_conflict": "Roy has built his entire life around radio as connection, but it's actually a wall keeping him from real human contact. He sees Sarah heading down the same path and wants to save her from it, but can't model the behavior himself. When the signal turns dangerous, he must choose between the safety of radio-distance and actually showing up for someone he cares about.",
+
+  "character_arc_trajectory": {
+    "act_1": "Supportive voice on the radio, helping Sarah analyze the signal, excited about the discovery, treating it as technical puzzle.",
+    "act_2": "Realizes Sarah is in real danger. Must decide if he'll stay safely in California or actually take action. Begins to understand his isolation mirrors hers.",
+    "act_3": "Makes the journey to Montana to help Sarah in person, breaking his pattern of voice-only connection. Sees Linda's photo before he leaves and says a real goodbye. Helps Sarah in concrete way, accepts that moving forward doesn't mean forgetting Linda."
+  },
+
+  "role_in_story": "Roy represents the ham radio community and the paradox of connection-through-isolation that Sarah embodies. He's her mentor and friend, the first person to validate her signal discovery. His technical expertise helps move the plot forward (signal analysis, triangulation). His character arc - moving from voice-only safety to in-person risk - mirrors and supports Sarah's arc. He's proof that change is possible at any age."
+}

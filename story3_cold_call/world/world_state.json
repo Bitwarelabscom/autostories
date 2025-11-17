@@ -1,0 +1,62 @@
+{
+  "genre": "Darkly comedic first contact thriller with cosmic horror elements",
+  "setting": {
+    "time_period": "Present day, 2025",
+    "primary_location": "Cleveland, Ohio - specifically the SatellitePro customer service call center in a dying rust belt industrial park",
+    "secondary_locations": [
+      "Terry's cramped studio apartment (converted warehouse loft)",
+      "Kevin's IT bunker in the call center basement",
+      "Dr. Okonkwo's university office (Case Western Reserve)",
+      "SatellitePro corporate headquarters (converted factory building)",
+      "Various Cleveland locations: 24-hour diners, empty parking lots, Lake Erie waterfront"
+    ],
+    "atmosphere": "Fluorescent-lit corporate purgatory. Soul-crushing mundanity of graveyard shift work. Empty Cleveland streets at 3 AM. Gradually escalating to cosmic absurdism as reality cracks. The uncanny horror of realizing you're being watched by something vast and incomprehensible that thinks you're a sitcom."
+  },
+  "world_rules": {
+    "technology_level": {
+      "earth_tech": "Current 2025 technology. Aging satellite infrastructure. Corporate call center software from 2015. Consumer electronics. No fantastical tech breakthroughs.",
+      "alien_tech": "Observation-based technology operating at galactic scale. Functions like a cosmic streaming service with surveillance satellites. Non-local communication (quantum entanglement implied). No visible ships or physical presence—pure signal-based interaction.",
+      "communication_method": "Aliens can only communicate via audio transmission. No video. No physical contact. They route calls through existing Earth telecommunications infrastructure by piggybacking on satellite signals."
+    },
+    "alien_biology_and_nature": {
+      "physical_form": "Unknown and deliberately ambiguous. Never directly described. They may be post-biological, collective consciousness, or something else entirely.",
+      "communication_style": "Learned human language exclusively from intercepting Earth's broadcast transmissions over 75+ years (since ~1950). Speech is a bizarre pastiche of TV commercials, sitcom dialogue, news broadcasts, infomercials, reality TV catchphrases, and corporate jargon. Literal-minded. No understanding of irony, sarcasm, or subtext. Earnest but deeply unsettling.",
+      "cultural_framework": "Operate a galactic 'entertainment subscription service' that observes pre-contact civilizations. View planets as 'content' to be consumed. Use terminology from streaming services, TV ratings, customer retention, content moderation. Utterly transactional view of existence."
+    },
+    "social_structures": {
+      "corporate_america": "Realistic portrayal of soul-crushing customer service work. Mandatory scripts. Metrics-obsessed management. Workers treated as replaceable. SatellitePro is a failing company hemorrhaging subscribers to streaming services. Graveyard shift is skeleton crew.",
+      "government_response": "Slow, bureaucratic, compartmentalized. No Men in Black efficiency. Agencies don't communicate well. Academics are ignored. By the time official channels respond, events have already progressed.",
+      "media_and_public": "Social media amplifies everything instantly. Conspiracy theorists and truth-seekers operate in parallel to official channels. Viral moments happen fast. Public is primed for both belief and skepticism."
+    },
+    "physics_and_metaphysics": {
+      "observer_effect": "The act of being watched changes behavior. As humanity becomes aware of alien observation, collective behavior shifts. Reality is consensus-based at some level.",
+      "broadcast_propagation": "Earth's radio and TV broadcasts travel through space at light speed. Aliens have been receiving them for 75+ years. They've been watching Earth like a reality show. Recent signals suggest imminent self-destruction (climate crisis, political instability, etc.).",
+      "subscription_mechanics": "The alien 'subscription service' is more than observation—there's a sinister implication that subscriber interest affects reality. High ratings = continued existence. Cancellation = ???"
+    },
+    "timeline_rules": {
+      "story_duration": "48 hours from initial call to final deadline. Compressed time frame creates urgency.",
+      "call_timing": "First call at 2:47 AM. Each subsequent contact happens at specific intervals tied to orbital mechanics.",
+      "cancellation_date": "Corresponds with multiple real-world crisis points in late 2025 (unspecified but ominous)."
+    },
+    "tone_rules": {
+      "comedy_horror_balance": "Start with absurdist comedy (alien speaking in TV commercial-ese). Gradually reveal cosmic horror underneath. Comedy derives from miscommunication and corporate satire. Horror derives from implications and powerlessness.",
+      "language_rules": "Terry code-switches between customer service voice and real voice. Aliens speak only in recycled Earth media. Other characters have realistic dialogue for their backgrounds.",
+      "reality_breakdown": "Mundane details stay grounded until they don't. Reality cracks subtly at first, then more obviously as the stakes become clear."
+    }
+  },
+  "themes": [
+    "Communication and Miscommunication: How context, cultural background, and intent shape meaning. The horror of being understood only through your worst artifacts (ads, reality TV). Language as both bridge and barrier.",
+    "Capitalism and Value: What happens when another species treats humanity as a consumable product. The dehumanization of treating people as content. Metrics, ratings, and subscriptions as existential threats. The absurdity of corporate logic applied to existence itself.",
+    "Agency and Powerlessness: Finding power in systems designed to render you powerless. The customer service rep as unlikely hero. Small actions in broken systems can still cascade into large effects. Choosing to act even when outcomes are uncertain."
+  ],
+  "central_mysteries": [
+    "What does 'cancellation' actually mean? Destruction? Abandonment? Something worse?",
+    "How long have the aliens been watching, and what have they seen?",
+    "Why did they call Terry specifically, or was it random?",
+    "What is the subscription service really for? Is observation neutral or does it affect reality?",
+    "What happens to a species that gets 'renewed'? Is that actually better?",
+    "Are the aliens malevolent, indifferent, or operating on incomprehensible logic?"
+  ],
+  "tone": "Satirical dark comedy that gradually reveals cosmic horror underneath. Think 'Office Space' meets 'The Three-Body Problem' via Douglas Adams. Deadpan humor meets existential dread. Mundane corporate frustration becomes gateway to vast cosmic indifference. Funny until it isn't, then funny again in a horrible way.",
+  "content_rating": "R-equivalent for language (realistic workplace profanity), mature themes (existential horror, corporate dystopia), and tonal darkness. No graphic violence or sexual content."
+}

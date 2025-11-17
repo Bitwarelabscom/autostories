@@ -1,0 +1,64 @@
+{
+  "name": "Terrence 'Terry' Mitchell",
+  "age": 28,
+  "role": "Protagonist - SatellitePro customer service representative, graveyard shift",
+  "background": "Ex-journalism major from Kent State. Graduated 2019 with dreams of investigative reporting. Worked for local Cleveland paper for 18 months before it folded. Took 'temporary' job at SatellitePro customer service in 2020. Five years later, still there. Lives alone in a converted warehouse loft apartment. Estranged from his parents who wanted him to get a 'real job' (law, medicine, business). Last serious relationship ended three years ago when his girlfriend moved to Chicago for a real career.",
+  "physical_description": "Tall and lanky, perpetually tired-looking. Dark circles under brown eyes. Black, usually uncombed hair. Wears the same rotation of wrinkled business casual clothes required by the call center. Has a nervous habit of clicking pens.",
+  "core_wound": "Gave up on his dream of 'making a difference' through journalism. Feels like a failure who settled. Internalized the message that his idealism was naïve and worthless. Every day at the call center reinforces that he's just a cog in a machine, replaceable and meaningless.",
+  "wants": "Surface level: To just get through his shift without incident. To hit his metrics. To avoid his supervisor's criticism. Deeper: Secretly still wants to matter, to uncover something important, to prove his journalism instincts weren't wasted. Wants to feel like a person again, not a script-reading robot.",
+  "needs": "To realize that small actions in broken systems can still change everything. To reclaim his sense of agency. To understand that meaning isn't bestowed by institutions or validation—it's chosen through action. To stop waiting for permission to matter.",
+  "voice_markers": [
+    "Code-switches between 'customer service voice' (artificial, chipper, script-following) and 'real voice' (dry, sarcastic, exhausted)",
+    "Uses customer service script phrases sarcastically in regular conversation: 'I appreciate your patience,' 'Is there anything else I can help you with today?'",
+    "Exhausted millennial humor - self-deprecating, ironic, references to late-stage capitalism and existential dread",
+    "Journalism habit of asking clarifying questions, seeking confirmation, wanting sources",
+    "Says 'Okay, so...' when processing information or stalling",
+    "Mutters to himself when stressed",
+    "Drops corporate-speak when genuinely engaged or angry"
+  ],
+  "contradiction": "Hates being treated like a cog in a machine, complains constantly about dehumanizing corporate systems, but won't risk changing his situation. Takes pride in being good at his job even though he despises it. Craves meaning but has convinced himself meaning is impossible in his circumstances. Wants to be seen but hides behind sarcasm and irony.",
+  "skills_and_abilities": [
+    "Excellent active listener (trained by customer service)",
+    "Good at reading between lines and detecting bullshit",
+    "Strong research skills from journalism background",
+    "Can stay calm under pressure (customer service training)",
+    "Knows how to work around corporate systems and find loopholes",
+    "Decent writer, keeps a private blog nobody reads"
+  ],
+  "fears": [
+    "That this is all there is - that he'll be here in 20 years",
+    "That he made the wrong choice giving up journalism",
+    "Being truly powerless when something important happens",
+    "Mattering so little that his absence wouldn't be noticed"
+  ],
+  "arc_position": 0.0,
+  "arc_trajectory": "Starts cynical, detached, going through motions. The alien call reawakens his investigative instincts and sense of purpose. Must choose between staying safe/invisible and taking action with uncertain outcomes. Ends by understanding that agency exists even in powerless positions—small actions can cascade into world-changing effects. Reclaims his belief that individuals can matter.",
+  "knowledge_state": [
+    "Works at SatellitePro for 5 years, knows the systems intimately",
+    "Knows the company is failing financially",
+    "Aware of weird signal interference but doesn't know cause",
+    "Has noticed Kevin (IT guy) tracking anomalies but hasn't engaged",
+    "Knows Shanice is stressed and overworked",
+    "Doesn't know about alien observation",
+    "Doesn't know his call will change everything"
+  ],
+  "relationships": {
+    "Bundle_Package": "Initially thinks it's a prank call. Growing fascination and horror as he realizes it's real. Becomes the only human the alien trusts. Strange bond forms through mutual outsider status.",
+    "Shanice_Williams": "Respectful but distant. She's his supervisor, he doesn't want to cause her problems. Guilt about dragging her into the situation. Underestimates her capabilities.",
+    "Kevin_Zhao": "Friendly acquaintance, bonded over shared night shift misery. Doesn't take Kevin's conspiracy theories seriously until now. Relies on Kevin's technical expertise.",
+    "Dr_Angela_Okonkwo": "Cold-calls her in desperation at 3 AM. Grateful she believes him. Intimidated by her credentials. Develops respect for her pragmatism.",
+    "Mr_Kowalski": "Has never met him directly. Views CEO as symbol of corporate greed. Shocked when Kowalski gets involved. Disgusted by his opportunism."
+  },
+  "internal_conflicts": [
+    "Cynicism vs. idealism - wants to believe things can matter but afraid to hope",
+    "Safety vs. purpose - stay invisible or risk everything for something meaningful",
+    "Self-image as failure vs. emerging role as crucial actor in cosmic event"
+  ],
+  "character_quirks": [
+    "Clicks pens compulsively when thinking",
+    "Drinks terrible break room coffee even though he hates it",
+    "Keeps a private blog documenting absurd customer calls",
+    "Names inanimate objects (his headset is 'Barbara')",
+    "Does the customer service smile even when alone"
+  ]
+}

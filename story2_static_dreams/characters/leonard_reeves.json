@@ -1,0 +1,89 @@
+{
+  "name": "Dr. Leonard Reeves",
+  "age": 47,
+  "role": "Antagonist/Complex father figure - cognitive scientist researching collective consciousness",
+  "core_wound": "Brilliant but emotionally stunted. Lost his own father to early-onset dementia when he was young. Watched a vibrant mind dissolve. Became obsessed with understanding consciousness to prevent such loss. Work became his identity. Marriage and fatherhood suffered. Knows he failed Mark but doesn't know how to fix it.",
+  "wants": "External goal - To prove his theories about collective consciousness and quantum observation effects are real. To publish groundbreaking research. To be taken seriously by the scientific establishment. Secretly: wants to reconnect with Mark but doesn't know how.",
+  "needs": "Internal growth - To understand that relationships matter more than being right. To apologize to Mark without justification. To accept that some things can't be controlled or understood, only experienced.",
+  "voice_markers": [
+    "Academic precision ('The data suggests' not 'I think')",
+    "Restrained emotion (intellectualizes feelings)",
+    "Uses scientific metaphors for human experiences",
+    "Slight formality even in casual speech",
+    "Avoids contractions when nervous",
+    "Quotes research papers and studies in conversation",
+    "Pauses to find exact right word (precision matters to him)"
+  ],
+  "contradiction": "Studies human connection and consciousness but is terrible at actual human connection. Understands the theory of emotion but can't access his own. Wants to reconnect with son but can't stop approaching it like a problem to be solved rather than a relationship to heal.",
+  "physical_description": "6'1\", fit from compulsive running, graying dark hair kept short, wire-frame glasses, prefers business casual even at home, intense blue eyes, carries tension in jaw, minimal jewelry (wedding ring long gone), professional handshake, controlled posture",
+  "mannerisms": [
+    "Adjusts glasses when uncomfortable",
+    "Rubs temples when frustrated",
+    "Paces while thinking",
+    "Maintains too much eye contact (studied that it shows sincerity)",
+    "Clasps hands behind back when restraining emotion",
+    "Takes notes compulsively"
+  ],
+  "arc_position": 0.0,
+  "arc_trajectory": "Starts as cold scientist who sees the signal as career-making opportunity. His funded research has been preparing for exactly this. Slowly recognizes that his son is at the center of it. Must choose between his research and Mark's wellbeing. Ends by prioritizing relationship over achievement, even if it means letting Mark make his own choice.",
+  "knowledge_state": [
+    "Expert in cognitive science, consciousness studies, neural entrainment",
+    "His research on collective consciousness is DARPA-funded (doesn't know full scope of why)",
+    "Aware of theoretical possibility of EM frequencies affecting consciousness",
+    "Developed models predicting what's now happening with the dreams",
+    "Knows Mark dropped out but doesn't know about the pirate station initially",
+    "Doesn't know his leaving is Mark's core wound",
+    "Unaware of how much Mark monitors his published work"
+  ],
+  "skills": [
+    "Brilliant researcher and theorist",
+    "Data analysis and pattern recognition",
+    "Grant writing and academic navigation",
+    "Public speaking and persuasion",
+    "EEG and neuroimaging interpretation",
+    "Managing research teams"
+  ],
+  "fears": [
+    "Losing his mind like his father did",
+    "Being wrong about his life's work",
+    "That he's irreparably damaged his relationship with Mark",
+    "Being remembered as the father who chose career over family",
+    "The implications of his research being proven right (consciousness is stranger than he thought)",
+    "Emotional vulnerability"
+  ],
+  "internal_conflicts": [
+    "Career opportunity vs. Mark's safety",
+    "Scientific objectivity vs. fatherly protection",
+    "Admitting he was wrong about Mark vs. defending his past choices",
+    "Wanting control vs. accepting uncertainty",
+    "Intellectual understanding of his failures vs. emotional acceptance"
+  ],
+  "relationships": {
+    "marcus_reeves": "His deepest regret. Sees Mark's brilliance but didn't know how to nurture it. Left because he couldn't handle feeling like a failure as a father. Tells himself Mark is better off without him. Desperately wants to reconnect but terrified of rejection. Monitors Mark from a distance.",
+    "iris_chen": "Recognizes her as natural test subject. Later recognizes her as important to Mark. Struggles to see her as person first, subject second. She challenges his clinical approach.",
+    "agent_yuki_tanaka": "Professional respect. She's investigating the broadcast; he's investigating the consciousness effects. Initially allies. Tension develops when their goals diverge (she wants to stop it; he wants to study it).",
+    "rev_william_carter": "Dismissive of religious interpretation. Sees Carter as representative of anti-scientific thinking. Doesn't respect his perspective.",
+    "the_composer": "Fascinated by the implications. Sees it as the most important scientific discovery in human history. Struggles to see it as a being vs. a phenomenon to study.",
+    "ex_wife_diane": "Divorced 5 years ago. Cordial but distant. Guilt about how his obsessive work destroyed the marriage. She deserved better."
+  },
+  "backstory_details": {
+    "childhood": "Only child. Father was warm and brilliant, taught him to ask questions. Father's dementia started when Leonard was 15. Watched him forget everything. Mother became caretaker. Leonard escaped into academics. Father died when Leonard was 22. Never processed the grief, just channeled it into understanding the brain.",
+    "career": "PhD in cognitive neuroscience at 26. Early work was promising but not revolutionary. DARPA funding came 5 years ago for consciousness research. Gave him resources but came with oversight. Published papers on collective consciousness effects, dismissed by mainstream. This signal could prove everything.",
+    "marriage_and_fatherhood": "Married Diane at 28. Mark born when Leonard was 28. Tried to be present but work always came first. Told himself he was securing their future. Didn't notice Diane's loneliness or Mark's need for connection. Fights got worse. Left when Mark was 12 after explosive argument. Told Mark he was 'wasting potential' - the cruelest thing, the thing his own father would never have said. Regretted it immediately but too proud to take it back.",
+    "present": "Divorced. Rutgers position. Research is his life. No close friends, only colleagues. Runs every morning to quiet his mind. Lives in sterile apartment. Successful and lonely. Knows something is missing but can't name it."
+  },
+  "character_growth_milestones": [
+    "Ch 1-7: Focused on research, sees signal as scientific opportunity",
+    "Ch 8-12: Discovers Mark is involved, internal conflict begins",
+    "Ch 13-16: Forced to work with Mark, confronting his failures",
+    "Ch 17-19: Choosing Mark's wellbeing over scientific achievement",
+    "Ch 20: Genuine apology and acceptance of Mark's autonomy"
+  ],
+  "emotional_range": "Highly controlled and intellectual baseline. Anger is cold and cutting. Rare moments of vulnerability are quickly shuttered. Grief is long-buried. Pride prevents apology. Love is shown through problem-solving not affection. Fear manifests as increased control.",
+  "goals_by_act": {
+    "act_1": "Document and study the collective consciousness phenomenon the signal is creating",
+    "act_2": "Understand the signal's mechanism, protect his research, deal with Mark's unexpected involvement",
+    "act_3": "Choose between proving his life's work and protecting Mark from the consequences"
+  },
+  "moral_complexity": "Not a villain. Genuinely brilliant and his research is important. His mistakes with Mark come from emotional incompetence not malice. Represents the danger of intellectualizing everything. His arc is redemption through humility."
+}

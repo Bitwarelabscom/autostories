@@ -1,0 +1,172 @@
+{
+  "relationship_matrix": {
+    "description": "Initial relationship states at story opening. These will evolve through chapters.",
+    "relationships": [
+      {
+        "character_a": "Marcus Reeves",
+        "character_b": "Iris Chen",
+        "initial_state": "Strangers - Mark is a regular at The Grind but they've barely spoken beyond coffee orders",
+        "power_dynamic": "Equal - both outsiders, both searching",
+        "primary_tension": "Attraction vs. fear of vulnerability on both sides",
+        "connection_point": "Both are deeply isolated and drawn to mystery",
+        "initial_knowledge": "Mark knows: she makes good coffee, seems cool but distant. Iris knows: he's always alone, tips well, wears interesting band shirts",
+        "arc_direction": "Strangers → allies → close friends/potential romance → partners in impossible choice"
+      },
+      {
+        "character_a": "Marcus Reeves",
+        "character_b": "Dr. Leonard Reeves",
+        "initial_state": "Estranged - haven't spoken in over a year, painful unresolved conflict",
+        "power_dynamic": "Unequal - Leonard has authority as father/adult/successful person, but Mark has emotional leverage of being the wounded party",
+        "primary_tension": "Mark's hurt and need for apology vs. Leonard's guilt and inability to emotionally connect",
+        "connection_point": "Both brilliant, both struggle with human connection, both defined by their work",
+        "initial_knowledge": "Mark knows: father left, called him a failure, monitors his research from afar. Leonard knows: Mark dropped out, feels guilty but doesn't know how to fix it",
+        "arc_direction": "Estranged → forced proximity → confrontation → understanding → tentative reconciliation"
+      },
+      {
+        "character_a": "Marcus Reeves",
+        "character_b": "Agent Yuki Tanaka",
+        "initial_state": "Adversarial - she's hunting him, he's evading her",
+        "power_dynamic": "Unequal - she has legal authority, he's breaking laws",
+        "primary_tension": "His need to broadcast vs. her duty to shut him down",
+        "connection_point": "Both are meticulous, both value truth, both are isolated by their work",
+        "initial_knowledge": "Mark knows: FCC is tracking him, it's a game of cat and mouse. Yuki knows: Static Mark broadcasts from approximate area, gaining audience, technically skilled",
+        "arc_direction": "Adversaries → respect → cooperation → allies"
+      },
+      {
+        "character_a": "Marcus Reeves",
+        "character_b": "Rev. William Carter",
+        "initial_state": "Distant - know of each other (small community) but different worlds",
+        "power_dynamic": "Equal but opposite - Carter has community authority, Mark has youth and technical knowledge",
+        "primary_tension": "Religious vs. secular worldview",
+        "connection_point": "Both trying to create meaning in seeming chaos",
+        "initial_knowledge": "Mark knows: local preacher, seems nice enough but religion isn't his thing. Carter knows: the Reeves boy, heard he dropped out, seems lost",
+        "arc_direction": "Distant → friction over dream interpretation → grudging mutual understanding"
+      },
+      {
+        "character_a": "Marcus Reeves",
+        "character_b": "The Composer",
+        "initial_state": "Unknown - Mark discovers the signal, doesn't know it's conscious yet",
+        "power_dynamic": "Unclear - The Composer needs Mark (amplifier) but has vast knowledge/perspective",
+        "primary_tension": "Wonder vs. fear, art vs. invasion, creation vs. being used",
+        "connection_point": "Both are artists facing meaninglessness, both fear being forgotten",
+        "initial_knowledge": "Mark knows: nothing initially. Composer knows: nothing of Mark until he broadcasts the signal",
+        "arc_direction": "Unknown signal → fascinating mystery → consciousness recognized → complicated relationship → impossible choice"
+      },
+      {
+        "character_a": "Iris Chen",
+        "character_b": "Dr. Leonard Reeves",
+        "initial_state": "Unknown to each other",
+        "power_dynamic": "Unequal - he has authority/credentials, she's a barista, but she has experiential knowledge he needs",
+        "primary_tension": "She sees him through Mark's eyes (the abandoner) vs. he sees her as data point/subject",
+        "connection_point": "Both are searching for truth, both have been dismissed by others",
+        "initial_knowledge": "None - they meet through the signal investigation",
+        "arc_direction": "Strangers → subject/researcher tension → mutual respect as she challenges his objectivity"
+      },
+      {
+        "character_a": "Iris Chen",
+        "character_b": "Agent Yuki Tanaka",
+        "initial_state": "Unknown to each other",
+        "power_dynamic": "Equal - both professional women, both direct communicators",
+        "primary_tension": "Minimal - they align quickly",
+        "connection_point": "Both value truth over comfort, both are protective of Mark",
+        "initial_knowledge": "None - they meet during investigation",
+        "arc_direction": "Strangers → quick rapport → allies/friends"
+      },
+      {
+        "character_a": "Iris Chen",
+        "character_b": "Rev. William Carter",
+        "initial_state": "Acquainted - she's attended his church occasionally",
+        "power_dynamic": "Equal - mutual respect despite different worldviews",
+        "primary_tension": "Her dreams being framed as spiritual warfare when she knows they're something else",
+        "connection_point": "Both have experienced mystery that others dismissed",
+        "initial_knowledge": "Carter knows: she comes to service sometimes, thoughtful but not committed. Iris knows: he's kind, lost his daughter, means well",
+        "arc_direction": "Polite distance → tension over interpretation → understanding"
+      },
+      {
+        "character_a": "Iris Chen",
+        "character_b": "The Composer",
+        "initial_state": "Unknown connection - she's been dreaming it for years without knowing",
+        "power_dynamic": "Unclear - quantum entangled, she might be necessary for its awakening",
+        "primary_tension": "Has it been using her? Is she a victim or a chosen bridge?",
+        "connection_point": "Deepest connection in the story - she's been theirs and they've been hers since childhood",
+        "initial_knowledge": "Iris knows: she's dreamed the city forever, doesn't know why. Composer knows: she's a receiver, doesn't know why she exists",
+        "arc_direction": "Unconscious connection → recognition → understanding their bond → acceptance or rejection"
+      },
+      {
+        "character_a": "Dr. Leonard Reeves",
+        "character_b": "Agent Yuki Tanaka",
+        "initial_state": "Unknown - meet through the signal investigation",
+        "power_dynamic": "Equal but different authority types (academic vs. legal)",
+        "primary_tension": "He wants to study it, she wants to contain/control it",
+        "connection_point": "Both serve larger institutions (DARPA/FCC), both value evidence",
+        "initial_knowledge": "None initially - professional introduction",
+        "arc_direction": "Professional cooperation → tension as goals diverge → opposition"
+      },
+      {
+        "character_a": "Dr. Leonard Reeves",
+        "character_b": "Rev. William Carter",
+        "initial_state": "Unknown or barely acquainted",
+        "power_dynamic": "Equal but fundamentally opposed worldviews",
+        "primary_tension": "Science vs. faith interpretation of the phenomenon",
+        "connection_point": "Both are trying to help in their own way, both fear chaos",
+        "initial_knowledge": "Minimal - represent opposite approaches",
+        "arc_direction": "Mutual dismissal → friction → continued opposition (some relationships don't resolve)"
+      },
+      {
+        "character_a": "Dr. Leonard Reeves",
+        "character_b": "The Composer",
+        "initial_state": "Unknown - Leonard detects effects, not source initially",
+        "power_dynamic": "Leonard thinks he has power (researcher/subject) but Composer is beyond his control",
+        "primary_tension": "Objectification vs. personhood, study vs. relationship",
+        "connection_point": "Both are brilliant, both have lost what they loved",
+        "initial_knowledge": "None - Leonard studies consciousness effects before knowing source",
+        "arc_direction": "Unaware → scientific fascination → recognition of consciousness → ethical conflict"
+      },
+      {
+        "character_a": "Agent Yuki Tanaka",
+        "character_b": "Rev. William Carter",
+        "initial_state": "Professional acquaintance - she's the FCC agent, he's community leader",
+        "power_dynamic": "Equal - different spheres of authority",
+        "primary_tension": "Minimal - he wants order, she wants order, different frameworks",
+        "connection_point": "Both are trying to protect the community",
+        "initial_knowledge": "Professional courtesy - she keeps him informed about official response",
+        "arc_direction": "Professional distance → continued professional respect"
+      },
+      {
+        "character_a": "Agent Yuki Tanaka",
+        "character_b": "The Composer",
+        "initial_state": "Unknown - she's tracking illegal broadcast, doesn't know it's alien/conscious",
+        "power_dynamic": "She thinks she has authority but is completely outmatched",
+        "primary_tension": "Regulation vs. phenomenon beyond regulation",
+        "connection_point": "Both are trying to bridge divides (she bridges legal/technical, it bridges species)",
+        "initial_knowledge": "None - discovers gradually",
+        "arc_direction": "Unaware → detection → fear/awe → acceptance of mystery"
+      },
+      {
+        "character_a": "Rev. William Carter",
+        "character_b": "The Composer",
+        "initial_state": "Unknown - hears about dreams from congregation",
+        "power_dynamic": "Carter thinks spiritual warfare, doesn't realize it's neither angel nor demon",
+        "primary_tension": "His need to categorize (divine/demonic) vs. its otherness",
+        "connection_point": "Both deal with mortality and legacy, both offer comfort",
+        "initial_knowledge": "None - Carter interprets dreams through religious lens",
+        "arc_direction": "Fear/categorization → confusion → tentative acceptance of mystery"
+      }
+    ],
+    "relationship_evolution_notes": {
+      "central_relationship": "Marcus & Iris - this is the emotional core. Their connection grounds the cosmic mystery in human intimacy.",
+      "most_fraught": "Marcus & Leonard - father-son wound must be addressed before final choice can be made",
+      "most_transformative": "Marcus & The Composer - artist to artist across death and species",
+      "wildcard": "Iris & The Composer - she's the key, but is she willing? Their relationship determines the ending",
+      "antagonism_to_alliance": "Marcus & Yuki - shows rules aren't always right",
+      "persistent_tension": "Leonard & Carter - some worldviews don't reconcile, and that's realistic"
+    },
+    "power_structure_notes": {
+      "institutional_power": "Leonard (DARPA-funded), Yuki (FCC), Carter (church community)",
+      "knowledge_power": "Iris (lifetime dreamer), The Composer (vast alien knowledge), Leonard (theoretical framework)",
+      "narrative_power": "Marcus (the broadcaster - controls the signal's reach)",
+      "moral_power": "Iris (authenticity), Carter (community trust), Mark (choice-maker)",
+      "final_choice_rests_with": "Marcus ultimately, but Iris's willingness is essential, and The Composer must accept the outcome"
+    }
+  }
+}

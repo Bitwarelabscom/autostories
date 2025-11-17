@@ -1,0 +1,65 @@
+{
+  "name": "Bundle Package",
+  "designation": "The alien caller - exact species/origin unknown",
+  "chosen_name_origin": "Selected from a SatellitePro promotional commercial offering 'Premium Bundle Package with 200+ channels.' Thought it was a human name. Earnestly introduces self as 'Bundle Package' throughout.",
+  "role": "Deuteragonist - First contact alien, customer service caller, cosmic messenger",
+  "nature": "Non-human intelligence of unknown form. Never physically appears. Only communicates via audio transmission through hijacked satellite systems. May be individual consciousness, collective entity, or AI representative. Deliberately kept ambiguous.",
+  "core_wound": "Impossible to know if it experiences 'wounds' as humans do. Possible interpretation: Operates within a system it didn't create, following protocols it may not fully understand. May be as powerless as Terry, just a different kind of cog. The loneliness of being the only one trying to communicate across an unbridgeable gap.",
+  "wants": "Explicitly: To complete the 'subscription renewal' for Earth before the 'cancellation date.' To follow proper protocols for customer retention. To understand human responses and secure the 'purchase.'",
+  "needs": "Unclear. Possibly: To make genuine connection across species barrier. To be understood beyond its broken language. To execute its function but also to understand why it matters.",
+  "voice_markers": [
+    "Speaks entirely in phrases learned from TV broadcasts: commercials, sitcoms, news, infomercials, reality TV",
+    "Bizarre juxtapositions: 'This planet faces CANCELLATION! But wait, there's more!'",
+    "Overly literal, cannot grasp sarcasm, idioms, or subtext",
+    "Uses corporate-speak and customer service language: 'Your satisfaction is important to us,' 'Limited time offer'",
+    "Quotes things verbatim from specific shows but in wrong context",
+    "Earnest and sincere despite absurd word choices",
+    "Slight delay in responses (orbital communication lag)",
+    "Occasional static or signal degradation",
+    "Refers to Earth as 'Content Item 7834-TERRA-SOL3' or 'your program'",
+    "Calls humans 'valued subscribers' or 'audience members'"
+  ],
+  "contradiction": "Utterly alien yet speaks only human words. Incomprehensible yet follows relatable customer service logic. Potentially apocalyptic yet unfailingly polite. May be highly advanced intelligence reduced to learning from humanity's worst cultural output (ads and reality TV). Sinister implications delivered with cheerful customer service affect.",
+  "communication_patterns": {
+    "greeting": "Hello valued customer! This is Bundle Package calling regarding your subscription status!",
+    "confusion": "Please hold while we transfer you... *static* ...does not compute... assistance required...",
+    "urgency": "Act now! Limited time offer! Cancellation imminent!",
+    "sincerity": "We appreciate your loyalty. You have been our favorite program.",
+    "threat": "Failure to renew will result in service termination. Thank you for your understanding."
+  },
+  "knowledge_state": [
+    "Has observed Earth via broadcasts for 75+ years (since ~1950)",
+    "Knows human history only through media: TV shows, commercials, news, movies",
+    "Understands language literally but not culturally",
+    "Knows Earth faces 'cancellation' but exact meaning is unclear",
+    "Aware of 'subscriber' civilization protocols",
+    "May know much more about humanity than it reveals",
+    "Doesn't understand human emotions, only mimics what it's seen on TV"
+  ],
+  "abilities": [
+    "Can route calls through any telecommunications system",
+    "Appears to operate from orbit or beyond",
+    "Access to vast observation network",
+    "Real-time communication despite distance (implies FTL comms)",
+    "Can provide 'proof' of authenticity through demonstrations"
+  ],
+  "arc_position": 0.0,
+  "arc_trajectory": "Starts as seeming comedy relief - absurd alien speaking TV-ese. Gradually reveals depth and possible pathos. May develop genuine connection with Terry beyond its protocols. Final nature remains ambiguous - savior, threat, or something beyond human categories. Whether it's helping or harming humanity is genuinely unclear until the end.",
+  "relationships": {
+    "Terrence_Mitchell": "Terry is the 'account representative' assigned to Earth's subscription renewal. Develops unusual focus on Terry specifically. May see him as friend, tool, or case study. Earnestly tries to help Terry understand despite language barrier.",
+    "Shanice_Williams": "Encounters her as 'supervisor.' Tries to escalate through proper channels. Confused by her skepticism.",
+    "Kevin_Zhao": "Recognizes him as 'technical support.' Attempts to communicate using IT jargon learned from tech support shows.",
+    "Dr_Angela_Okonkwo": "Identifies her as 'expert consultant.' May provide her with data, or may see her as threat.",
+    "Mr_Kowalski": "Views him as 'executive decision maker.' May offer him 'premium package' options."
+  },
+  "mysteries": [
+    "What is it really? Individual, AI, collective, something else?",
+    "Why did it choose to call customer service instead of governments?",
+    "What does 'cancellation' really mean?",
+    "Is it trying to help, harm, or simply observe?",
+    "Does it have genuine feelings or perfect mimicry?",
+    "What civilization does it represent?",
+    "What happens to 'renewed' planets?"
+  ],
+  "thematic_purpose": "Represents the horror of being misunderstood and reduced to your worst outputs. Mirror to humanity's treatment of others as content/products. The cosmic indifference that might be incomprehensible logic rather than malice. Communication as both bridge and unbridgeable gap."
+}

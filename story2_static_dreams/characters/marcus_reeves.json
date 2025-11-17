@@ -1,0 +1,87 @@
+{
+  "name": "Marcus 'Mark' Reeves",
+  "age": 19,
+  "role": "Protagonist - pirate radio operator, community college dropout",
+  "core_wound": "Abandoned by his father at age 12 with the words 'you're a waste of potential.' Internalized belief that he's fundamentally inadequate. Dropped out of community college after panic attacks convinced him he was proving his father right.",
+  "wants": "External goal - To create something people actually listen to, to matter, to prove he's not wasting his life. Specifically: wants his pirate radio station to gain a real audience, wants to be taken seriously, wants his father to see he was wrong about him.",
+  "needs": "Internal growth - To accept that meaning is found in the act of creation itself, not in external validation. To understand that his worth isn't determined by productivity or achievement. To forgive himself for being human.",
+  "voice_markers": [
+    "Self-aware ironic humor as defense mechanism ('Yeah, living the dream in mom's garage at 19')",
+    "Radio DJ-style commentary on his own life ('And now, for our regularly scheduled existential crisis')",
+    "Obscure music references (indie bands, experimental electronic, old punk)",
+    "'Um' and 'like' when anxious or uncertain",
+    "Technical radio jargon used precisely (kHz, modulation, carrier wave)",
+    "Self-deprecating asides in parenthetical style thinking",
+    "Mixes high-vocabulary words with casual slang ('The synchronization is, like, totally unprecedented')"
+  ],
+  "contradiction": "Broadcasts to feel heard but is terrified of being truly seen or known. Creates content hoping people will listen but panics at actual connection. Wants validation but distrusts it when offered. Seeks his father's approval while claiming not to care.",
+  "physical_description": "Lanky, 5'10\", perpetually tired eyes, messy dark hair he forgets to cut, band t-shirts and hoodies, pale from spending too much time indoors, nervous energy in his movements, often has earbuds in, ink stains on his fingers from note-taking, dark circles under eyes",
+  "mannerisms": [
+    "Fidgets with whatever's in reach when talking - pen clicks, wire twisting",
+    "Runs hand through hair when stressed",
+    "Avoids eye contact during serious conversations",
+    "Laughs at his own pain (deflection technique)",
+    "Checks his phone obsessively when anxious",
+    "Mutters technical calculations under his breath while working"
+  ],
+  "arc_position": 0.0,
+  "arc_trajectory": "Starts isolated and self-doubting, using the broadcast as one-way validation-seeking. Must learn to accept genuine connection (with Iris, eventually with father). Final choice requires valuing the act of creation/connection over outcome. Ends by choosing meaning-making over validation-seeking.",
+  "knowledge_state": [
+    "Expert in hobbyist radio technology and FCC regulations",
+    "Deep knowledge of music (especially experimental/underground)",
+    "Basic understanding of EM theory and signal propagation",
+    "Unaware of his father's current research",
+    "Doesn't know Iris has been dreaming the alien city before the broadcast",
+    "Doesn't know his panic attacks correlate with signal presence"
+  ],
+  "skills": [
+    "Building and modifying radio equipment",
+    "Audio engineering and mixing",
+    "Electrical troubleshooting",
+    "Creative problem-solving with limited resources",
+    "Curating music and creating compelling audio content",
+    "Research skills (learned to teach himself complex subjects)"
+  ],
+  "fears": [
+    "Becoming exactly what his father said he'd be: a failure",
+    "Being truly seen and still found wanting",
+    "His panic attacks returning and controlling his life",
+    "That his work actually doesn't matter at all",
+    "Connection - both desperately wants and fears it",
+    "Authority figures (represents father abandonment)"
+  ],
+  "internal_conflicts": [
+    "Desire for recognition vs. fear of visibility",
+    "Wanting to believe he doesn't need his father's approval vs. desperately seeking it",
+    "Intellectual understanding of his worth vs. emotional conviction of worthlessness",
+    "Attraction to Iris vs. fear of being vulnerable",
+    "Pride in his technical skills vs. shame about his dropout status"
+  ],
+  "relationships": {
+    "iris_chen": "Cautious attraction and growing trust. She's the first person in months who seems to see him clearly without judgment. Her genuine interest in his work terrifies and thrills him. Slowly becomes his anchor to human connection.",
+    "dr_leonard_reeves": "Estranged father. Mix of longing, resentment, and desire to prove him wrong. Haven't spoken in over a year. Mark tells himself he doesn't care but monitors his father's published research. The wound is still raw.",
+    "mother_diane_reeves": "Loving but worried. She lets him live in the garage, brings him food, doesn't push too hard. He feels guilty for disappointing her but can't articulate it. Protective of her.",
+    "agent_yuki_tanaka": "Initially sees her as just another authority trying to shut him down. Gradually recognizes her genuine curiosity. Wary respect develops. She represents the rules he's breaking.",
+    "rev_william_carter": "Uncomfortable with Carter's religious interpretation of the signal. Sees him as part of the problem (people who need simple answers). Dismissive but not cruel.",
+    "the_composer": "Fascination mixed with existential dread. Recognizes a kindred spirit across 10,000 years - another creator facing oblivion. Develops parasocial relationship with a dead alien through its art."
+  },
+  "backstory_details": {
+    "childhood": "Normal suburban childhood until age 12. Father was emotionally distant but Mark idolized him. Father left after a major argument, told Mark he was 'wasting his potential' on 'childish hobbies' (Mark was building crystal radios). Mother did her best. Mark retreated into radio and music.",
+    "high_school": "Graduated with decent grades but no direction. Few close friends. Known as 'the weird music kid.' Spent more time on his radio projects than socializing. Accepted to community college to study electrical engineering.",
+    "college_dropout": "First semester was overwhelming. Pressure to succeed, fear of failure, father's voice in his head. Had first major panic attack during midterms. Couldn't focus. Withdrew rather than fail. Moved back home. Building the pirate station became his purpose.",
+    "pirate_radio_history": "Started 4 months ago. Initially just rebroadcasting music he loved. Audience of maybe 12 people. Created persona 'Static Mark' as his DJ identity. The broadcast became his diary, his art, his therapy."
+  },
+  "character_growth_milestones": [
+    "Ch 1-5: Isolated creator, seeking validation through broadcast",
+    "Ch 6-10: Beginning to trust Iris, facing that the signal is real and dangerous",
+    "Ch 11-15: Confronting his father, realizing the scope of what's happening",
+    "Ch 16-19: Accepting responsibility for his role in the awakening",
+    "Ch 20: Choosing creation and connection over validation, accepting uncertainty"
+  ],
+  "emotional_range": "Defaults to self-deprecating humor and ironic distance. Genuine emotion comes in bursts he tries to laugh off. Anxiety manifests as scattered energy and rapid speech. Joy is quiet and surprised. Anger is rare but sharp. Fear makes him freeze. Love/connection terrifies him into deflection.",
+  "goals_by_act": {
+    "act_1": "Get people to listen to his pirate station, prove he can create something worthwhile",
+    "act_2": "Understand the signal, protect Iris from the dreams, avoid FCC shutdown",
+    "act_3": "Decide what to do with the knowledge that completing the broadcast might wake an alien consciousness in human reality"
+  }
+}

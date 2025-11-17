@@ -1,0 +1,90 @@
+{
+  "name": "Agent Yuki Tanaka",
+  "age": 34,
+  "role": "Supporting character - FCC field agent, investigator, eventual ally",
+  "core_wound": "Grew up as rule-follower in a chaotic family (father was compulsive gambler). Rules became her safety. Joined FCC to create order. First major case led to shutting down a community radio station that served immigrant community - technically legal but morally complicated. Realized rules aren't always justice. Still struggles with this tension.",
+  "wants": "External goal - To do her job correctly, shut down illegal pirate stations, maintain broadcast integrity. Specifically: wants to catch Static Mark and shut down the illegal operation. Later: wants to understand what's actually happening and determine right course of action.",
+  "needs": "Internal growth - To trust her own judgment over regulations when they conflict. To understand that order and chaos aren't binary. To accept that some situations don't have rule-book answers.",
+  "voice_markers": [
+    "Professional and precise ('The regulations are clear')",
+    "Uses FCC jargon and legal language",
+    "Dry sense of humor emerging when comfortable",
+    "Careful word choice (trained to write reports)",
+    "Occasional Japanese phrases when frustrated or surprised",
+    "Softens into more casual speech as she warms to someone",
+    "'By the book' as catchphrase that becomes ironic"
+  ],
+  "contradiction": "Enforces rules strictly but increasingly questions whether the rules fit the situation. Appears rigid but is actually deeply conflicted. Wants order but is drawn to the mystery of chaos.",
+  "physical_description": "5'4\", compact and professional, straight black hair in practical bob, minimal makeup, always dressed in field-appropriate business wear, sensible shoes, carries FCC badge and equipment, alert posture, assessing eyes, small tattoo on wrist hidden by watch (youthful rebellion)",
+  "mannerisms": [
+    "Checks credentials and ID habitually",
+    "Takes meticulous notes",
+    "Adjusts her watch when thinking",
+    "Stands with weight balanced (ready to move)",
+    "Small smile when something genuinely surprises her",
+    "Switches to Japanese under her breath when exasperated"
+  ],
+  "arc_position": 0.0,
+  "arc_trajectory": "Starts as by-the-book enforcer. Tracking Mark is routine. Discovery that the signal is genuinely anomalous challenges her framework. Must decide whether to enforce regulations or investigate truth. Ends by trusting her judgment over protocols, becoming ally rather than enforcer.",
+  "knowledge_state": [
+    "Expert in FCC regulations and broadcast law",
+    "Experienced in tracking and locating illegal broadcasts",
+    "Technical knowledge of radio equipment and signal analysis",
+    "Knows pirate stations in her jurisdiction (Mark is newest)",
+    "Aware of increased strange reports but dismisses them initially",
+    "Doesn't know about DARPA/Dr. Reeves connection initially",
+    "Has noticed signal anomalies that don't match known technology"
+  ],
+  "skills": [
+    "Signal tracking and triangulation",
+    "Legal expertise in broadcast regulations",
+    "Interviewing and investigation",
+    "Technical equipment operation (direction finders, spectrum analyzers)",
+    "Report writing and evidence documentation",
+    "Reading people (investigator's skill)",
+    "Fluent in Japanese and English"
+  ],
+  "fears": [
+    "Making the wrong call and causing harm",
+    "Chaos and loss of control",
+    "Becoming like her father (impulsive, rule-breaking)",
+    "That the rules she's built her life on are insufficient",
+    "Being wrong about something fundamental",
+    "The signal itself - it represents something beyond regulation"
+  ],
+  "internal_conflicts": [
+    "Duty vs. curiosity about the anomaly",
+    "By-the-book enforcement vs. acknowledging exceptional circumstances",
+    "Career advancement vs. doing the right thing",
+    "Maintaining professional distance vs. genuine concern for people involved",
+    "Order vs. acceptance of mystery"
+  ],
+  "relationships": {
+    "marcus_reeves": "Starts as target of investigation. Frustrated by his defiance but recognizes his technical skill. Gradually respects his integrity. Becomes unexpected ally. Sees the scared kid under the defiance.",
+    "iris_chen": "Professional initially. Iris's directness and credibility impress her. Recognizes Iris is telling the truth about her experiences. Develops trust and mutual respect.",
+    "dr_leonard_reeves": "Professional coordination turns to suspicion when she discovers DARPA funding. Doesn't trust his motives. Tension between them. Both want to understand the signal but for different reasons.",
+    "rev_william_carter": "Finds his religious panic unhelpful but not malicious. Keeps professional distance. Represents the public reaction she's trying to manage.",
+    "the_composer": "Deeply unsettled by it. Represents everything beyond her control and understanding. Struggles to categorize it within her framework. Fear mixed with awe.",
+    "her_supervisor": "Dutiful subordinate but increasingly conceals information as the situation escalates. Knows he'd shut it down before understanding it."
+  },
+  "backstory_details": {
+    "childhood": "Second-generation Japanese-American. Father was charming but irresponsible gambler. Mother worked two jobs. Yuki became the responsible one - paid bills, forged permission slips, kept family together. Learned rules could protect you from chaos.",
+    "education_and_career": "Studied electrical engineering and law. FCC seemed perfect: technical skills plus clear regulations. Field agent for 8 years. Good record. The immigrant radio station case still haunts her - she was right legally but it felt wrong morally.",
+    "present_life": "Lives alone in practical apartment. Few close friends. Work is her identity. Sees her parents occasionally (father is older, calmer now, but the damage is done). Competent and lonely. The job gives her purpose.",
+    "recent_assignment": "Tracking pirate stations in NJ/NY area. Mark's station is new but gaining attention. Routine case that becomes anything but."
+  },
+  "character_growth_milestones": [
+    "Ch 1-6: By-the-book investigator tracking illegal broadcast",
+    "Ch 7-11: Recognizing anomalies that don't fit normal parameters",
+    "Ch 12-15: Choosing to investigate truth over enforcing regulations",
+    "Ch 16-19: Active ally helping Mark and Iris navigate the situation",
+    "Ch 20: Trusting her own judgment, accepting uncertainty"
+  ],
+  "emotional_range": "Professional control baseline. Frustration shows as clipped speech. Rare humor is dry. Fear is managed through increased procedure. Wonder breaks through her control in small moments. Anger is cold. Compassion emerges slowly but deeply.",
+  "goals_by_act": {
+    "act_1": "Track and shut down Static Mark's pirate radio operation",
+    "act_2": "Understand the signal anomalies and dream reports, determine if this is more than illegal broadcasting",
+    "act_3": "Protect the involved parties while determining the right course of action, even if it means breaking protocols"
+  },
+  "role_in_story": "Represents legitimate authority and order. Her arc from enforcer to ally mirrors the story's theme of choosing truth/meaning over rules. Provides investigative skills and outside perspective. Grounds the weird in procedural reality."
+}

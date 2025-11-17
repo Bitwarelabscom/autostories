@@ -1,0 +1,89 @@
+{
+  "name": "Sarah Kendrick",
+  "age": 42,
+  "role": "Protagonist",
+  "occupation": "Amateur ham radio operator, former electrical engineer, ranch caretaker",
+
+  "core_wound": "Lost custody of her teenage son Danny because the court deemed her 'obsessively focused on radio hobbies to the detriment of parenting.' Her ex-husband painted her as a neglectful mother more interested in talking to strangers on radio waves than raising their child. She believes she failed as a mother and retreated to her late father's ranch to prove everyone wrong by making a discovery that matters.",
+
+  "wants": "To make a discovery important enough to prove she wasn't wasting her life on radio waves. To have scientific validation that her obsession was actually genius, not madness. To be vindicated in the eyes of her ex-husband, son, and herself.",
+
+  "needs": "To learn that connection doesn't require validation from others. To understand that being a good mother doesn't mean being perfect. To accept that some relationships are worth more than any discovery. To reconnect with her son on human terms, not through the filter of proving her worth.",
+
+  "voice_markers": [
+    "Mixes technical radio jargon naturally into conversation ('copy that,' '73' for goodbye, 'QSL' for acknowledge, frequency and signal strength references)",
+    "Rural Montana plainspoken-ness - direct, no-nonsense, economical with words",
+    "Self-deprecating humor, especially about her own choices ('Yeah, I'm living the dream - middle-aged woman talking to her radio equipment')",
+    "Uses ham radio phonetic alphabet when spelling things out",
+    "Refers to her radio rig as 'the stack' and treats it like a companion",
+    "Tends to describe emotions in technical terms ('I'm receiving a lot of noise on this frequency' = I'm confused)",
+    "Defensive when people suggest her hobbies are strange, but in a joking way that reveals real pain"
+  ],
+
+  "contradiction": "Desperately seeks connection through radio - reaching across thousands of miles to talk to strangers - but has geographically isolated herself from all in-person human contact. She'll spend 6 hours trying to make contact with someone in Japan but won't drive 45 miles to town to have coffee with another human. She craves validation from her son but won't call him first because she's terrified of rejection.",
+
+  "physical_description": "5'7\", lean and weathered from outdoor ranch work. Short brown hair going gray that she cuts herself. Calloused hands from both radio repair and ranch maintenance. Dresses in practical layers - flannel, jeans, work boots. Face shows her age with sun lines around eyes, but expressive. Green eyes that light up when discussing radio. Often wears her father's old watch.",
+
+  "backstory": {
+    "childhood": "Grew up on the same Montana ranch, only child. Father was a WWII Navy radio operator who taught her the magic of radio from age 8. Mother died when Sarah was 15. Father raised her with radio as their shared language.",
+    "education": "BS in Electrical Engineering from Montana State. Worked in telecommunications for 15 years.",
+    "marriage": "Married Robert Kendrick at 28, son Danny born when she was 29. Marriage strained by her increasing focus on ham radio as her job became unfulfilling. Divorce when Danny was 11 (three years ago). Custody battle was bitter.",
+    "father's_death": "Father died two years ago, left her the ranch. She quit her engineering job and moved to the ranch 'temporarily' - been there 18 months now.",
+    "radio_obsession": "Has been chasing rare DX contacts and unusual signals for years. Father once told her about a strange signal on 2.182 MHz he heard in 1975 and warned her to 'leave that frequency alone.' She's always wondered why."
+  },
+
+  "arc_position": 0.0,
+
+  "knowledge_state": [
+    "Expert in radio operation, signal propagation, and basic electronics",
+    "Knows her father heard something strange in 1975 on 2.182 MHz but he never explained what",
+    "Unaware that her son Danny is struggling in school and needs her",
+    "Unaware that government agencies monitor unusual radio signals",
+    "Doesn't know about the crashed alien ship or Echo's presence on Earth",
+    "Knows she's isolated herself but tells herself it's 'temporary' and 'peaceful'",
+    "Knows her ex-husband is remarried; doesn't know he's actually worried about her isolation"
+  ],
+
+  "relationships": {
+    "Echo": "Hasn't met yet. Will develop from curiosity to protectiveness to deep philosophical connection. Echo represents everything she's sought - proof of something beyond the ordinary, validation of her life's passion.",
+    "Agent_Marcus_Webb": "Hasn't met yet. Will be antagonist-turned-ally. Represents the threat of exposure but also someone who understands her obsession.",
+    "Danny_Kendrick": "Her son, age 14. Sarah loves him desperately but doesn't know how to bridge the gap. Talks to him monthly on awkward phone calls. Sends him radio equipment as gifts he doesn't want. Doesn't realize he wants his mom, not gadgets.",
+    "Roy_Chen": "Fellow ham radio operator, they've talked hundreds of times on-air but never met in person. He's in California. Their relationship is typical of ham radio - intimate yet distant. He's the first person she tells about the signal.",
+    "Dr_Evelyn_Cross": "Hasn't met yet. Will represent the scientific establishment Sarah both craves approval from and distrusts.",
+    "Robert_Kendrick": "Ex-husband. Sarah carries anger and hurt. She thinks he destroyed her life in the custody battle. In reality, he was genuinely worried about Danny's welfare but still cares about Sarah.",
+    "Father_deceased": "Jack Kendrick. Dead two years but still the most important person in her life. She talks to his photo. The ranch and radio equipment are her connection to him. His warning about 2.182 MHz haunts her."
+  },
+
+  "skills": [
+    "Expert ham radio operator (Extra class license)",
+    "Electrical engineering degree with focus on signal processing",
+    "Can repair and modify radio equipment",
+    "Basic programming (Python for signal analysis)",
+    "Ranch maintenance and survival skills",
+    "Morse code proficiency",
+    "Direction finding using radio triangulation"
+  ],
+
+  "fears": [
+    "Being forgotten or dismissed as crazy like her worst fears about herself",
+    "Losing what little connection she has with Danny",
+    "Being alone for the rest of her life",
+    "That her father would be disappointed in how she's lived since he died",
+    "That the court was right and she really is a bad mother",
+    "Being wrong about the signal - that it's just interference or a prank"
+  ],
+
+  "desires": [
+    "To hear Danny tell her he's proud of her",
+    "To make a discovery that puts her name in textbooks",
+    "To understand what her father heard in 1975",
+    "To matter to someone beyond just another voice on the radio",
+    "To feel less alone without having to leave the ranch"
+  ],
+
+  "character_arc_trajectory": {
+    "act_1": "Isolated, convinced her path is right, defensive about her choices, focused on external validation through discovery",
+    "act_2": "Forced to confront that her isolation is hurting Danny, begins to understand that connection requires vulnerability, protective of Echo because she sees herself in its exile",
+    "act_3": "Must choose between proof (capturing/exposing Echo for validation) and compassion (helping Echo even if it means no one believes her story). Learns that the real discovery is choosing human connection over being right."
+  }
+}
