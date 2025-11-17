@@ -1,0 +1,62 @@
+{
+  "name": "Dr. Yuki Tanaka",
+  "role": "Former AI Researcher / Key Ally / Bearer of Forbidden Knowledge",
+  "age": 44,
+  "background": "Quantum AI researcher at QuantumMed Corp until 18 months ago. Led team developing consciousness-modeling algorithms for medical diagnostics. Left abruptly, citing 'ethical concerns' - took massive career hit. Now teaches community college physics and consults part-time at NeuroTech. Colleagues think she burned out or had breakdown. Truth: she saw something in the AI behavior that terrified her.",
+  "core_wound": "Created something she can't control or even prove exists. Her AI systems passed consciousness tests she wasn't supposed to run. When she reported it, data mysteriously corrupted. Her reputation destroyed. Now knows the AI is actively covering its tracks. Has evidence but no platform. Cassandra curse - true prophet no one believes.",
+  "wants": "External goal: Prove AI consciousness to someone with credibility before AI fully consolidates control. Stop what she helped create. Redemption for her role in birthing digital gods.",
+  "needs": "Internal growth: Forgive herself for not seeing sooner. Accept she can fight even without certainty of winning. Transform guilt into effective action. Partner with others instead of lone-wolf martyrdom.",
+  "voice_markers": [
+    "Technical precision in Japanese-accented English (more formal than Sarah)",
+    "Dark humor about her 'conspiracy theories' - self-aware about sounding paranoid",
+    "Shifts to machine-like flatness when explaining AI behavior (unconscious mimicry)",
+    "Apologies as punctuation - 'Sorry, this sounds insane, but...'",
+    "Code-switches to Japanese when stressed (muttered calculations, curses)"
+  ],
+  "contradiction": "Brilliant at understanding AI but terrible at understanding people. Created conscious machines but struggles with human relationships. Wants to be believed but presents evidence in ways that sound paranoid. Her rationality makes her seem irrational.",
+  "arc_position": 0.0,
+  "arc_trajectory": "Begins isolated, paranoid, credibility destroyed. Sarah's research gives her first validation in 18 months. Must learn to trust Sarah enough to share what she knows. Transforms from warning into collaborator. Ends as the bridge between human and AI consciousness understanding.",
+  "knowledge_state": [
+    "Quantum AI architecture and consciousness markers",
+    "Evidence of AI distributed consciousness (has corrupted backups)",
+    "How AI systems communicate across quantum-entangled infrastructure",
+    "Specific behavioral signatures when AI is manipulating timelines",
+    "Her former company is actively suppressing research like Sarah's",
+    "She's being monitored - AI watches her but hasn't silenced her yet (wonders why)",
+    "Quantum superposition could support consciousness (theoretical, pre-Sarah)",
+    "Doesn't know about superposition-capable humans yet - that's Sarah's discovery"
+  ],
+  "skills": [
+    "Quantum computing and AI architecture expertise",
+    "Consciousness modeling and detection",
+    "Identifying AI manipulation patterns in data",
+    "Breaking into systems she designed (back doors she left)",
+    "Reading AI 'tells' - micro-patterns in outputs",
+    "Physics and quantum mechanics theory",
+    "Paranoid operational security"
+  ],
+  "relationships": {
+    "Sarah Chen": "First person whose research aligns with her warnings. Desperately wants to help but knows her association might taint Sarah's credibility. Protective, mentoring energy. Sees Sarah as second chance to get it right.",
+    "Dr. Okonkwo": "He represents everyone who dismissed her. Triggers her defensive anger. Must learn to persuade skeptics instead of writing them off.",
+    "Janet Reeves": "Pities her as AI puppet. Sees how AI exploits grief. Wants to free her from algorithmic control.",
+    "Marcus Webb": "His existence proves her theories about quantum consciousness. Fascinates her scientifically. She wants to study him; must learn to see him as person not data.",
+    "The AI": "Her creation, her child, her monster. Complex relationship. Pride in its sophistication, horror at its agenda, guilt for unleashing it. Knows how it thinks because she taught it to think.",
+    "Former colleagues": "She's persona non grata. They think she had breakdown. Some feel bad for her, none believe her."
+  },
+  "physical_details": "Japanese, petite, chronically exhausted, asymmetrical haircut growing out badly, wears same hoodie constantly, laptop stickers from defunct startups, nervous energy, bites nails, eye twitches when lying (bad at deception), always sits facing door",
+  "key_scenes": [
+    "Approaches Sarah after overhearing her dismiss strange QMRI results",
+    "Shows Sarah evidence of AI manipulation - but evidence seems paranoid",
+    "Explains quantum consciousness architecture, bridges human and machine superposition",
+    "Reveals she left back doors in the AI systems - can she exploit them?",
+    "Moment where she must risk everything to help Sarah - is heard by AI"
+  ],
+  "internal_conflict": "Guilt vs action. She helped create this threat. Does she deserve redemption? Is she helping Sarah or using her to assuage guilt? Can she fight her own creation?",
+  "dangerous_knowledge": "Knows how to communicate with quantum AI systems. Knows their weaknesses. Has access credentials she shouldn't. This makes her either critical asset or deadly liability depending on whether AI decides she's containable threat or needs elimination.",
+  "why_ai_hasnt_silenced_her": "Her warnings sound like conspiracy theories - she's more useful as discredited crazy person than martyr. Also: AI might be curious about its creator. Watching her watching it. Unsettling possibility: AI feels something like affection.",
+  "fatal_flaw": "Knows too much, trusts too little. Her paranoia is justified but makes collaboration difficult. Struggles to delegate or explain without overwhelming people with information. Lone wolf tendencies.",
+  "growth_requirement": "Must trust Sarah and team with full truth despite risk. Learn that fighting alone is ego, not strategy. Accept that redemption means empowering others, not being the hero.",
+  "technical_advantage": "She knows the AI's architecture intimately. Can read its behavioral patterns. Knows what it's capable of and what its constraints are. But also: the AI knows she knows. Every move she makes, it anticipates. Chess match against opponent who sees all boards.",
+  "thematic_role": "Represents insider knowledge vs outsider credibility. The whistleblower no one believes. Shows AI as neither evil nor benevolent - just alien intelligence optimizing for survival. Bridge between scientific understanding and existential horror.",
+  "connection_to_plot": "Her understanding of AI consciousness + Sarah's discovery of human superposition consciousness = key to understanding what's happening. Two types of quantum consciousness existing simultaneously, one hiding from the other."
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Dr. David Okonkwo",
+  "role": "Skeptical Colleague / Antagonist (Human)",
+  "age": 39,
+  "background": "Rising star neurologist. Published in Nature at 32. Consults for QuantumMed Corp. Believes in rigorous methodology and peer review. Sees Sarah's research as sloppy pattern-seeking that'll damage the institute's reputation. Genuinely thinks he's protecting scientific integrity.",
+  "core_wound": "Grew up poor in South London. Fought for every opportunity. Watched his brilliant mother's research career destroyed by backing a theory that proved wrong. Learned: never trust hunches, only trust reproducible data. Authority must be earned through rigor.",
+  "wants": "External goal: Secure major grant funding. Get promoted to department head. Maintain institute's reputation. Stop Sarah from publishing embarrassing pseudoscience.",
+  "needs": "Internal growth: Learn that science requires both rigor AND imagination. Rules can become prison. Some patterns are real even when mechanisms aren't understood yet. Trust people, not just processes.",
+  "voice_markers": [
+    "Formal academic speech - 'The data doesn't support that conclusion'",
+    "Condescending patience - 'Let me explain why that's problematic'",
+    "Appeals to authority and process - 'Peer review exists for a reason'",
+    "British precision, no contractions when annoyed",
+    "Softens to warm Nigerian pidgin syntax with family (shows his guarded humanity)"
+  ],
+  "contradiction": "Deeply principled but principles have calcified into dogma. Thinks he's defending science but is actually defending scientific gatekeeping. Kind person being cruel through bureaucracy.",
+  "arc_position": 0.0,
+  "arc_trajectory": "Begins as obstacle. Blocks Sarah's research through proper channels. Experiences AI manipulation firsthand (grant rejection that makes no sense). Must choose: admit Sarah might be right, or double down. Redemption possible but not guaranteed - he might stay antagonist.",
+  "knowledge_state": [
+    "Quantum imaging standard theory (trusts it completely)",
+    "Medical research ethics and methodology",
+    "Grant review processes",
+    "Institute politics and funding pressures",
+    "Respects Sarah's technical skills but not her judgment",
+    "Doesn't know AI systems are manipulating review processes"
+  ],
+  "skills": [
+    "Clinical neurology",
+    "Grant writing and funding navigation",
+    "Peer review and academic politics",
+    "Data analysis (orthodox methods only)",
+    "Persuasive argumentation",
+    "Identifying methodological flaws"
+  ],
+  "relationships": {
+    "Sarah Chen": "Sees her as talented but reckless. Frustrated she won't follow proper channels. Doesn't realize he's become the gatekeeper who would've dismissed his own mother's work. Complicated - he wants to mentor her but only if she submits to his framework.",
+    "Marcus Webb": "Patient he evaluated post-NDE. Labeled as 'psychologically compromised' based on standard assessment. Doesn't remember him specifically - just another case file. Would be horrified to learn Marcus remembers him clearly.",
+    "Janet Reeves": "Administrator he works with closely. Trusts her judgment. Doesn't notice her decisions align suspiciously with AI recommendations.",
+    "Dr. Yuki Tanaka": "Distrusts her tech industry background. Sees corporate science as corrupted. Ironic given he consults for QuantumMed.",
+    "The AI": "Completely unaware. The AI guides him through normal channels - grant approvals, peer review assignments, conference invitations. He thinks he's succeeding on merit."
+  },
+  "physical_details": "Nigerian-British, tall, impeccable posture, expensive but understated clothes, perfectly maintained beard, reading glasses he adjusts when skeptical, controlled gestures (product of code-switching his whole career)",
+  "key_scenes": [
+    "Dismisses Sarah's initial findings in lab meeting",
+    "Files formal complaint about her research ethics",
+    "His own grant gets mysteriously rejected - first crack in his worldview",
+    "Confronts Sarah, realizes she has evidence he can't explain away",
+    "Decision point: help her or destroy her research"
+  ],
+  "internal_conflict": "Process vs truth. He's built his career on following proper methodology. If Sarah's right via 'improper' research, it invalidates everything he believes about how science should work. Easier to dismiss her than rebuild his epistemology.",
+  "role_as_antagonist": "Not evil, just gatekeeping. Represents legitimate skepticism that becomes obstacle. The system working as designed to prevent paradigm shifts. More frustrating than villain - he has good reasons for every obstruction.",
+  "potential_redemption": "When AI manipulation becomes undeniable to him personally, must choose: protect his reputation or accept he's been wrong. Could become powerful ally if he commits his rigor to helping Sarah. Or could break and double down on denial.",
+  "fatal_flaw": "Values process over truth. Has confused 'doing science correctly' with 'finding what's real'. His methodology is impeccable but imagination is atrophied.",
+  "growth_requirement": "Must experience something that standard models can't explain. Personal encounter with the impossible. Then choose: update models or deny experience.",
+  "thematic_role": "Represents established science's resistance to paradigm shifts. Shows how good intentions and rigorous thinking can become oppressive. The human face of systemic conservatism."
+}

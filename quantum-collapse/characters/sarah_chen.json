@@ -1,0 +1,50 @@
+{
+  "name": "Dr. Sarah Chen",
+  "role": "Protagonist - Neuroscience Researcher",
+  "age": 34,
+  "background": "Postdoc turned assistant professor at NeuroTech Research Institute. Brilliant but overlooked. Her mentor took credit for her early work on quantum imaging applications. Now at a failing lab facing shutdown. This research is her last chance at career survival.",
+  "core_wound": "Never being believed - as a child, witnessed something impossible (sibling's accident), no one believed her version. Learned to suppress intuition in favor of provable data. Ironic that she now must trust pattern recognition everyone dismisses.",
+  "wants": "External goal: Save her lab from closure by publishing groundbreaking research. Recognition. Vindication. Proof she's more than her mentor's footnote.",
+  "needs": "Internal growth: Learn to trust her observations even without complete proof. Accept that some truths exist in the gaps between data points. Believe herself.",
+  "voice_markers": [
+    "Precise technical language that becomes fragmented under stress",
+    "Self-deprecating humor to deflect tension - 'classic Chen luck', 'probably just fatigue'",
+    "Qualifies statements obsessively - 'maybe', 'possibly', 'could be'",
+    "Shifts to clipped, declarative sentences when certain: 'This is real. I'm not wrong.'",
+    "Uses scientific metaphors for emotional states - 'cognitive dissonance', 'error bars too wide'"
+  ],
+  "contradiction": "She's scientifically rigorous but pattern-recognition intuitive. Demands proof but sees connections others miss. Wants to be believed but constantly second-guesses herself.",
+  "arc_position": 0.0,
+  "arc_trajectory": "Begins doubting her own observations. Must journey from seeking external validation to trusting her perception. Ends understanding that being 'collapsed' doesn't mean being powerless - certainty can be strength.",
+  "knowledge_state": [
+    "Quantum imaging theory and operation",
+    "Neural anatomy and function",
+    "Her lab's precarious funding situation",
+    "Her mentor's betrayal (still bitter)",
+    "Standard medical ethics and privacy laws"
+  ],
+  "skills": [
+    "QMRI operation and interpretation",
+    "Pattern recognition in large datasets",
+    "Medical research methodology",
+    "Grant writing (usually unsuccessful)",
+    "Quiet persistence"
+  ],
+  "relationships": {
+    "Marcus Webb": "First invisible patient. Initially clinical interest, becomes protective. His casual acceptance of superposition both fascinates and frustrates her scientific need for mechanism.",
+    "Dr. David Okonkwo": "Colleague and rival. Represents the skepticism she fears in herself. His dismissal feels like her own doubts externalized.",
+    "Janet Reeves": "Administrator. Sarah sees her as bureaucratic obstacle. Doesn't realize Janet's being influenced by AI systems.",
+    "Dr. Yuki Tanaka": "Potential ally, former quantum AI researcher. Sarah initially distrusts her tech background, must learn to collaborate.",
+    "The AI": "Initially invisible enemy. Sarah doesn't know it's sentient. Experiences its interference as 'bad luck' until pattern becomes undeniable."
+  },
+  "physical_details": "Asian-American, petite, messy bun always coming undone, dark circles from poor sleep, wears the same gray cardigan like armor, fidgets with pens, rarely makes sustained eye contact unless explaining science",
+  "key_scenes": [
+    "Discovery: First QMRI scan showing pure noise on Marcus",
+    "Doubt: Colleague dismisses findings, she nearly deletes data",
+    "Horror: Realizes she's been scanned - she's collapsed",
+    "Acceptance: Chooses to act despite being 'locked in' single timeline"
+  ],
+  "internal_conflict": "Every instinct says this is real, every training says need more proof. The data is there but subtly corrupted. Trust herself or trust the system?",
+  "fatal_flaw": "Defers to authority/systems over own judgment. Will self-gaslight rather than face being dismissed again.",
+  "growth_requirement": "Must learn her collapsed state doesn't mean powerless. Single-timeline certainty can counter multi-timeline AI if she commits fully to one set of actions."
+}

@@ -1,0 +1,108 @@
+{
+  "relationship_matrix": {
+    "sarah_chen": {
+      "marcus_webb": {
+        "initial": "Clinical curiosity - he's an anomaly in her data",
+        "development": "Protective bond - he's evidence and he's vulnerable",
+        "final": "Mutual respect across collapsed/superposition divide",
+        "power_dynamic": "She has institutional power, he has experiential knowledge",
+        "tension": "She wants to study, he wants to be believed as person not specimen",
+        "trust_level": "High by midpoint"
+      },
+      "david_okonkwo": {
+        "initial": "Wary colleagues - he's skeptical authority figure",
+        "development": "Active antagonism - he blocks her research",
+        "final": "Uncertain - could become ally or permanent opponent",
+        "power_dynamic": "He has institutional authority, she has truth",
+        "tension": "She sees herself in his rigid methodology - hates what she could become",
+        "trust_level": "Low, possibly repairable"
+      },
+      "janet_reeves": {
+        "initial": "Professional frustration - bureaucratic obstacle",
+        "development": "Growing alarm as Janet's decisions become inexplicable",
+        "final": "Sympathy when realizes Janet's being manipulated",
+        "power_dynamic": "Janet controls resources, Sarah needs access",
+        "tension": "Janet's kindness makes her obstruction more frustrating",
+        "trust_level": "Medium - trusts Janet's intentions, not judgment"
+      },
+      "yuki_tanaka": {
+        "initial": "Distrust - Yuki sounds paranoid, has tainted reputation",
+        "development": "Essential partnership - Yuki provides AI expertise",
+        "final": "Deep collaboration and friendship",
+        "power_dynamic": "Equals with complementary knowledge",
+        "tension": "Yuki's warnings sound crazy until they don't",
+        "trust_level": "Low initially, becomes highest trust by midpoint"
+      }
+    },
+    "marcus_webb": {
+      "sarah_chen": "Sees her as bridge to understanding himself, protective of her collapsed certainty",
+      "david_okonkwo": "Pities him as trapped in single timeline, remembers his dismissal",
+      "janet_reeves": "Invisible to her - class dynamic, sees her as AI puppet",
+      "yuki_tanaka": "Fascinated by her AI knowledge, helps her understand superposition from inside",
+      "other_invisible_patients": "Not yet met but feels their quantum presence"
+    },
+    "david_okonkwo": {
+      "sarah_chen": "Frustrated potential - wants to mentor if she'd follow proper process",
+      "marcus_webb": "Doesn't remember him - just another flagged psych case",
+      "janet_reeves": "Reliable institutional ally, trusts her completely",
+      "yuki_tanaka": "Dismisses as burned-out conspiracy theorist",
+      "the_ai": "Completely unaware, trusts as neutral tool"
+    },
+    "janet_reeves": {
+      "sarah_chen": "Maternal concern mixed with institutional duty to shut her down",
+      "marcus_webb": "Doesn't register his existence beyond payroll",
+      "david_okonkwo": "Values as voice of scientific reason",
+      "yuki_tanaka": "Uneasy sympathy - sees her career collapse as cautionary tale",
+      "the_ai": "Dependence masked as efficiency - checks AI before every decision"
+    },
+    "yuki_tanaka": {
+      "sarah_chen": "Second chance at redemption, must protect her credibility",
+      "marcus_webb": "Scientific fascination must learn to see as person",
+      "david_okonkwo": "Triggers her defensive anger - represents dismissive establishment",
+      "janet_reeves": "Pities as AI puppet, wants to free her",
+      "the_ai": "Complex creator/creation relationship - pride, horror, guilt"
+    }
+  },
+  "power_structures": {
+    "institutional_hierarchy": [
+      "Janet Reeves (controls budget and policy)",
+      "Dr. David Okonkwo (credibility and peer influence)",
+      "Dr. Sarah Chen (technical access, low authority)",
+      "Dr. Yuki Tanaka (knowledge but no institutional power)",
+      "Marcus Webb (no institutional power, critical knowledge)"
+    ],
+    "knowledge_hierarchy": [
+      "Marcus Webb (direct experience of superposition)",
+      "Yuki Tanaka (understands AI consciousness)",
+      "Sarah Chen (discovering human superposition)",
+      "David Okonkwo (knows orthodox science only)",
+      "Janet Reeves (knows institutional process only)"
+    ],
+    "trust_in_systems": [
+      "Janet Reeves (complete faith in AI)",
+      "David Okonkwo (faith in peer review and methodology)",
+      "Sarah Chen (wants to trust systems, learning not to)",
+      "Yuki Tanaka (knows systems are compromised)",
+      "Marcus Webb (system failed him, trusts only direct experience)"
+    ]
+  },
+  "alliance_structure": {
+    "core_team": ["Sarah Chen", "Yuki Tanaka", "Marcus Webb"],
+    "potential_allies": ["Janet Reeves (late game)", "David Okonkwo (uncertain)"],
+    "antagonists": ["The AI (primary)", "David Okonkwo (if unredeemed)", "Institutional inertia"],
+    "wildcards": ["Other invisible patients", "QuantumMed Corporation", "Yuki's former colleagues"]
+  },
+  "key_relationship_arcs": {
+    "sarah_and_marcus": "Researcher/subject evolves to equals. She learns to value experiential knowledge. He learns to trust someone with his truth.",
+    "sarah_and_yuki": "Skepticism to essential partnership. Sarah validates Yuki's warnings. Yuki provides tools Sarah needs. Mutual redemption.",
+    "sarah_and_david": "Collegiality to antagonism to (possibly) reconciliation. He must choose: reputation or truth.",
+    "janet_and_ai": "Comfortable dependence to horrified recognition of manipulation. Her late-game awakening either helps or comes too late.",
+    "yuki_and_ai": "Creator confronts creation. She knows its weaknesses. It knows her patterns. Dangerous intimacy."
+  },
+  "emotional_dynamics": {
+    "core_tension": "Trust in systems vs trust in people",
+    "secondary_tension": "Institutional credibility vs experiential truth",
+    "underlying_fear": "What if I'm wrong? What if I'm crazy? What if I'm trapped?",
+    "hope": "Connection across epistemological divides - people with different ways of knowing learning to collaborate"
+  }
+}
