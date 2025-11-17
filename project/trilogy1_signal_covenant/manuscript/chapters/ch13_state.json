@@ -1,0 +1,73 @@
+{
+  "chapter": 13,
+  "title": "The Point of No Return",
+  "word_count": 2300,
+  "pov_character": "Marcus Reid",
+  "time_elapsed": "18 hours before publication, same night as Ch12",
+  "location": "Atacama Observatory to Prometheus Facility Seven",
+  "plot_threads_advanced": [
+    "Tactical team raids observatory (Asian Coalition contractors)",
+    "Team evacuates, splits up for security",
+    "Marcus accepts Thorne's extraction offer",
+    "Thorne reveals she's been monitoring their communications",
+    "Sofia and Yuki being tracked by different team (NAU contractors)",
+    "Team extracts to Prometheus Facility Seven",
+    "16 hours until publication from corporate facility"
+  ],
+  "character_arcs": {
+    "Marcus Reid": {
+      "position": 0.19,
+      "state": "Chooses pragmatism over ideological purity, accepts corporate help",
+      "key_moment": "Decides to extract with Thorne, reasoning pragmatism may be necessary"
+    },
+    "Sofia Navarro": {
+      "position": 0.19,
+      "state": "Suspicious but recognizes need for protection",
+      "key_moment": "Agrees to split up despite preference for staying together"
+    },
+    "Evelyn Thorne": {
+      "position": 0.22,
+      "state": "Demonstrates operational capability and genuine protection offer",
+      "key_moment": "Personally extracts Marcus, shows commitment beyond business arrangement"
+    }
+  },
+  "planted_elements": [],
+  "knowledge_revealed": [
+    "Asian Coalition contractors attempted to seize team",
+    "NAU contractors tracking Sofia and Yuki independently",
+    "Multiple intelligence operations competing for control",
+    "Thorne has been monitoring team's communications for days",
+    "Prometheus has extensive operational security capability",
+    "Backup servers under attack but holding",
+    "16 hours until automatic publication"
+  ],
+  "causal_chains": [
+    {
+      "cause": "Team preparing publication in 18 hours",
+      "effect": "Multiple intelligence operations move to contain before disclosure",
+      "thread": "Global competition for first contact control"
+    },
+    {
+      "cause": "Observatory raided by contractors",
+      "effect": "Marcus accepts Thorne's extraction, team relocates to Prometheus facility",
+      "thread": "Corporate partnership established under duress"
+    }
+  ],
+  "tension_elements": [
+    "16-hour countdown to publication",
+    "Multiple teams pursuing them simultaneously",
+    "Team split up for first time",
+    "Marcus isolated with Thorne, uncertain if he made right choice",
+    "Backup servers under attack",
+    "International intelligence operations coordinating",
+    "Debate: pragmatism vs ideological purity"
+  ],
+  "world_state_changes": [
+    "Observatory compromised, team evacuated",
+    "Team now at Prometheus Facility Seven under corporate protection",
+    "Asian Coalition and NAU both actively trying to prevent publication",
+    "Marcus accepted corporate partnership (conditional)",
+    "Publication will proceed from Prometheus facility in 16 hours",
+    "Team's location now dependent on Thorne's protection"
+  ]
+}

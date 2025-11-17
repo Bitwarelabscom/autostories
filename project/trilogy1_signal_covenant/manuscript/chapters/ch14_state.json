@@ -1,0 +1,84 @@
+{
+  "chapter": 14,
+  "title": "Fortress Science",
+  "word_count": 2200,
+  "pov_character": "Marcus Reid",
+  "time_elapsed": "14 hours before planned publication",
+  "location": "Prometheus Facility Seven, Chile",
+  "plot_threads_advanced": [
+    "Team arrives at Prometheus facility, sees impressive infrastructure",
+    "Partnership terms formalized with exit clauses",
+    "Kessler warns of federal raid in 4 hours",
+    "Publication moved up to 07:00 UTC (90 minutes ahead)",
+    "Paper published successfully to ArXiv",
+    "Global response begins - downloads, verification, news coverage",
+    "Federal agents raid facility, team evacuates to Uruguay"
+  ],
+  "character_arcs": {
+    "Marcus Reid": {
+      "position": 0.21,
+      "state": "Commits to corporate partnership, publishes despite risks",
+      "key_moment": "Clicks publish button, makes first contact public"
+    },
+    "Sofia Navarro": {
+      "position": 0.21,
+      "state": "Accepts necessity of corporate resources while maintaining skepticism",
+      "key_moment": "Agrees to strategic journalist coordination despite seeing it as manipulation"
+    },
+    "Evelyn Thorne": {
+      "position": 0.25,
+      "state": "Demonstrates commitment through personal involvement and resources",
+      "key_moment": "Provides fortress-level protection and coordinates global disclosure strategy"
+    }
+  },
+  "planted_elements": [],
+  "knowledge_revealed": [
+    "Prometheus Facility Seven designed as ideal research campus",
+    "Partnership formalized: team keeps scientific control, Prometheus gets commercial rights",
+    "Exit clause: $12M proportional cost to terminate partnership",
+    "Kessler warns federal raid coming in 4 hours",
+    "Publication accelerated to 07:00 UTC",
+    "Paper downloaded 14,000 times in 30 minutes",
+    "Riemann proof verified by multiple mathematicians immediately",
+    "Federal raid proceeds as warned, team evacuates to Uruguay facility"
+  ],
+  "causal_chains": [
+    {
+      "cause": "Partnership formalized with Prometheus",
+      "effect": "Team gains resources to finalize and publish research",
+      "thread": "Corporate partnership established"
+    },
+    {
+      "cause": "Kessler warns of imminent federal raid",
+      "effect": "Publication timeline accelerated by 2 hours",
+      "thread": "Government pressure forcing action"
+    },
+    {
+      "cause": "Paper published to ArXiv",
+      "effect": "Global response begins, knowledge becomes impossible to suppress",
+      "thread": "Public disclosure achieved"
+    },
+    {
+      "cause": "Federal agents raid Prometheus facility",
+      "effect": "Team evacuates to Uruguay, goes fully underground",
+      "thread": "Transition to underground operations (sets up Ch15)"
+    }
+  },
+  "tension_elements": [
+    "90-minute rush to finalize publication",
+    "Federal raid countdown",
+    "Debate over media strategy and controlled disclosure",
+    "Signing partnership that may compromise principles",
+    "Real-time global response to publication",
+    "Evacuation under federal pressure"
+  ],
+  "world_state_changes": [
+    "Corporate partnership formalized",
+    "Paper published to ArXiv at 07:00 UTC",
+    "Global scientific community begins verification",
+    "News media coverage begins worldwide",
+    "Team evacuating to Uruguay facility",
+    "Going fully underground while federal authorities pursue",
+    "First contact knowledge now public and spreading virally"
+  ]
+}

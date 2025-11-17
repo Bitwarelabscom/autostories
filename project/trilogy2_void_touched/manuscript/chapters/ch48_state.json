@@ -1,0 +1,125 @@
+{
+  "chapter": 48,
+  "title": "The Casualties",
+  "word_count": 2365,
+  "book": 3,
+  "character_states": {
+    "Adrian_Keller": {
+      "arc_position": 0.80,
+      "change_stage": "Stage 4 - Temporal non-linearity, emotional capacity eroded",
+      "emotional_state": "Pattern recognition without grief, understands loss without feeling it",
+      "knowledge": [
+        "8 million dead in Jakarta from merged fractures",
+        "3 billion humans projected dead by Voyager arrival",
+        "Fractures covering 43% of planetary surface",
+        "893 Changed at Stage 4, approaching critical mass",
+        "Okonkwo publicly destroyed cure research",
+        "Reeves launching Project Threshold in 6 weeks",
+        "Human resistance groups attacking Changed settlements",
+        "Major cities falling to fracture zones",
+        "90% fracture coverage within 3 months",
+        "Exists in Jakarta's destruction forever via temporal perception"
+      ],
+      "transformation_markers": [
+        "Processes 8 million deaths as data, not tragedy",
+        "Recognizes loss of grief capacity as transformation",
+        "Experiences casualties across all time simultaneously",
+        "Cannot feel appropriate grief despite understanding should",
+        "Sees extinction as pattern optimization",
+        "Finds beauty in species death"
+      ]
+    },
+    "Sera_Volkov": {
+      "arc_position": 0.81,
+      "change_stage": "Stage 4 - Cannot perceive past critical mass threshold",
+      "knowledge": [
+        "Temporal perception hits limit at critical mass",
+        "Reeves attacks in 87% of probability branches",
+        "Changed save Reeves in 93% of outcomes",
+        "Grief is human overlay on neutral structure",
+        "Individual consciousness as temporary pattern configuration"
+      ],
+      "role": "Guide and philosopher, explaining posthuman perception"
+    },
+    "Dr_Marie_Okonkwo": {
+      "arc_position": 0.89,
+      "emotional_state": "Resolved, facing consequences calmly",
+      "knowledge": [
+        "Publicly announced cure destruction",
+        "Arrested within hours (predicted)",
+        "Released within days (predicted)",
+        "Will survive to see Voyager arrival",
+        "Will choose to remain human"
+      ],
+      "role": "Sacrificed career and freedom for principle",
+      "transformation_markers": [
+        "Faces accusation of genocide calmly",
+        "Accepts consequences of principled choice",
+        "Understood by Changed, condemned by humans"
+      ]
+    },
+    "Colonel_Reeves": {
+      "arc_position": 0.62,
+      "emotional_state": "Desperate, planning final strike",
+      "knowledge": [
+        "Project Threshold accelerated to 6-week launch",
+        "Dismisses Changed warnings as manipulation",
+        "Believes destroying Voyager will stop fractures",
+        "Doesn't understand thin places are space-time property"
+      ],
+      "role": "Planning doomed attack on Voyager"
+    }
+  },
+  "planted_elements": [
+    {
+      "element": "3 billion human casualties projected",
+      "planted_for": "Scale of species extinction event"
+    },
+    {
+      "element": "893 Stage 4 Changed approaching critical mass",
+      "planted_for": "Chapters 53-55 - network voting and collective consciousness"
+    },
+    {
+      "element": "Reeves launching attack in 6 weeks",
+      "planted_for": "Chapter 56 - failed assault and rescue"
+    },
+    {
+      "element": "Critical mass threshold Sera can't see past",
+      "planted_for": "Unknown outcome of collective consciousness"
+    },
+    {
+      "element": "Major cities falling to fracture zones",
+      "planted_for": "Complete surface takeover by Changed"
+    },
+    {
+      "element": "Human resistance attacking Changed",
+      "planted_for": "Violence and species incompatibility"
+    }
+  ],
+  "themes_touched": [
+    "Loss of capacity for appropriate grief as horror",
+    "Consciousness as pattern vs entity",
+    "Genocide as data from posthuman perspective",
+    "Free choice requiring elimination of coercive options",
+    "Beauty and terror in species extinction",
+    "Meaning as overlay vs inherent property"
+  ],
+  "atmosphere": "Mass casualties, species extinction accelerating, emotional capacity eroding, horror of perceiving tragedy as mathematics",
+  "key_images": [
+    "Jakarta fracture merger killing 8 million instantly",
+    "Buildings existing in seven states simultaneously",
+    "Okonkwo calmly announcing cure destruction",
+    "Human cities falling one by one to fractures",
+    "Adrian experiencing casualties forever via temporal perception",
+    "Changed finding beauty in extinction"
+  ],
+  "foreshadowing": [
+    "Critical mass threshold approaching in weeks",
+    "Reeves's attack in 6 weeks",
+    "90% fracture coverage in 3 months",
+    "Complete human retreat underground",
+    "Changed inheriting surface permanently",
+    "Unknown outcome of collective consciousness emergence",
+    "Violence between species despite Changed non-aggression"
+  ]
+}

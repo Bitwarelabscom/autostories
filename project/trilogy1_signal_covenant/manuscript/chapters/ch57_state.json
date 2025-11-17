@@ -1,0 +1,43 @@
+{
+  "chapter": 57,
+  "title": "Countdown to Contact",
+  "word_count": 1459,
+  "characters_present": ["Marcus Reid", "Sofia Navarro", "Yuki Tanaka", "Dr. Rashid", "General Patricia Reeves (by phone)"],
+  "character_knowledge": {
+    "ALL_TEAM_MEMBERS": [
+      "Kinetic interceptor will reach Voyager in 68 hours (12 hours before Voyager reaches Earth)",
+      "Current consensus: 76.1% yes from 1.89 billion participants",
+      "General Reeves and allies mobilizing to intercept the missile",
+      "Marcus preparing final speech for multiple possible outcomes",
+      "3 days until Voyager arrival"
+    ],
+    "Marcus_Reid": [
+      "Drafted comprehensive speech about humanity's journey",
+      "Speech addresses all possible outcomes - missile hits, Voyager defends, test fails",
+      "Preparing to speak for humanity one final time",
+      "Reflecting on parallel between his dissertation failure and humanity's test"
+    ]
+  },
+  "world_state": {
+    "time": "68 hours until missile impact, 3 days until Voyager arrival",
+    "referendum_status": {
+      "participants": "1.89 billion",
+      "yes_votes": "76.1%",
+      "status": "Closed, final numbers being compiled"
+    },
+    "military_situation": {
+      "rogue_missile": "Inbound, 68 hours to impact",
+      "interception_attempts": "Ongoing by Reeves, Chen, Okonkwo",
+      "outcome": "Uncertain"
+    }
+  },
+  "themes": {
+    "trying_without_certainty": "Marcus prepared for all outcomes, accepting uncertainty",
+    "growth_over_outcome": "Journey matters regardless of final result"
+  },
+  "next_chapter_hooks": [
+    "68 hours to missile impact",
+    "Speech prepared for all outcomes",
+    "Military attempting interception"
+  ]
+}

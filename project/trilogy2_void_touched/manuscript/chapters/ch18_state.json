@@ -1,0 +1,43 @@
+{
+  "chapter": 18,
+  "title": "The Researcher's Despair",
+  "word_count": 2700,
+  "pov_character": "Dr. Marie Okonkwo",
+  "location": "Dr. Okonkwo's office, quarantine facility",
+  "time_period": "Day 47, night",
+  "key_events": [
+    "Dr. Okonkwo working through night, 47 days of research, zero cure progress",
+    "Colonel Reeves demands official assessment for Pentagon",
+    "Pentagon considering termination, needs legal status determination",
+    "Marie admits transformation is irreversible without lobotomy",
+    "Reeves preparing worst-case contingencies",
+    "Lena texts asking about Adrian, Marie tells her he's beyond retrieval",
+    "Marie must write assessment that may justify execution",
+    "Struggles between truth and hope, data and humanity"
+  ],
+  "character_development": {
+    "Dr. Marie Okonkwo": "Exhausted, despairing, recognizing she can't save them, haunted by son's memory, must decide if Changed count as human",
+    "Colonel Reeves": "Pushing for termination authorization, sees Changed as existential threat, fear-driven pragmatism"
+  },
+  "planted_elements": [
+    "Pentagon assessment deadline - will determine Changed fate",
+    "No cure without destroying consciousness (lobotomy)",
+    "Exponential growth projection of Changed population",
+    "Legal humanity status as ambiguous",
+    "Marie's guilt paralleling her inability to save her son"
+  ],
+  "transformation_stage": "Observed from outside - Changed at Stage 2 late/Stage 3 early, Marie documenting but unable to help",
+  "cosmic_horror_elements": [
+    "Beautiful transformation indistinguishable from horrible loss",
+    "Data offering no answers, only questions",
+    "Hope as delusion maintained despite evidence",
+    "Species-level decision about who counts as human",
+    "Watching people disappear and being unable to stop it"
+  ],
+  "themes": [
+    "The impossibility of saving those beyond saving",
+    "Hope as human trait even when irrational",
+    "Legal personhood as social construct tested by transformation",
+    "Documentation as last act when intervention fails"
+  ]
+}

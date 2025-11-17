@@ -1,0 +1,57 @@
+{
+  "chapter": 31,
+  "title": "Cassandra's Choice",
+  "book": 2,
+  "word_count": 2512,
+  "date_written": "2025-11-17",
+  "temporal_setting": "June 8, 2030 - 8:47 PM",
+  "location": "Oakland, California - Recursionist Facility",
+  "pov_character": "Elliot Cross",
+  "type": "Bridge chapter - sets up Ch32 original timeline revelation",
+  "key_scenes": [
+    "CERN email offering validation for Cassandra's theorem",
+    "Elliot mapping probability branches of the decision",
+    "Branch 341 pattern appearing in current timeline",
+    "Cassandra processing whether to accept or decline",
+    "Decision to decline CERN for mission",
+    "Choosing willing sacrifice over resentful obligation",
+    "Probability branch A collapsing into reality"
+  ],
+  "characters_present": ["Elliot Cross", "Cassandra Wright", "Dr. Yuki Chen", "Dr. Marcus Soren"],
+  "revelations": [
+    "CERN validates Cassandra's quantum consciousness theorem",
+    "Branch B repeats Branch 341 extinction pattern",
+    "Branch E (Geneva relocation) loses Recursionist support",
+    "Branch A (declining CERN) has highest success probability",
+    "Cassandra must sacrifice professional recognition willingly",
+    "Applied physics via bootstrap paradox is validation enough",
+    "Elliot sees July 19th wedding ring timeline"
+  ],
+  "planted_elements": [
+    "Cassandra's sacrifice parallels 300's sacrifice",
+    "July 19th wedding ring moment foreshadowed",
+    "Branch A timeline becoming primary",
+    "Professional validation vs existential meaning"
+  ],
+  "character_states": {
+    "Elliot_Cross": {
+      "emotional_state": "Honest about bias, supportive of Cassandra's choice",
+      "arc_position": 0.52
+    },
+    "Cassandra_Wright": {
+      "emotional_state": "Torn, choosing mission over recognition, willing sacrifice",
+      "arc_position": 0.52
+    }
+  },
+  "themes_explored": [
+    "Sacrifice chosen vs sacrifice resented",
+    "Professional validation vs existential meaning",
+    "Loading probability toward desired outcomes",
+    "Choosing mission over personal dreams"
+  ],
+  "next_chapter_hooks": [
+    "Will Cassandra regret the choice?",
+    "Does choosing mission strengthen entanglement?",
+    "What happens July 19th with the ring?"
+  ]
+}

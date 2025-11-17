@@ -1,0 +1,109 @@
+{
+  "chapter": 49,
+  "title": "The Soldier's Logic",
+  "word_count": 2312,
+  "book": 3,
+  "character_states": {
+    "Colonel_Reeves": {
+      "arc_position": 0.76,
+      "emotional_state": "Determined, haunted by doubt he suppresses, clinging to military conviction",
+      "knowledge": [
+        "Project Threshold launches in 4 weeks",
+        "8 million dead in Jakarta, 3 billion projected casualties",
+        "Changed sent 17 warnings his attack will fail",
+        "Changed have shown him dying in the attack",
+        "Changed will rescue him after failure",
+        "Okonkwo says Voyager isn't creating thin places",
+        "Thin places are property of space-time, not probe",
+        "Changed don't lie - Stage 3/4 can't deceive",
+        "Fracture zones spreading despite any intervention"
+      ],
+      "internal_conflict": [
+        "Knows Changed have been right about everything",
+        "Doubt creeps in quiet moments",
+        "Understands he might be attacking symptom not cause",
+        "Can't accept transformation as evolution vs invasion",
+        "Chooses fighting even knowing he'll lose"
+      ],
+      "transformation_markers": [
+        "Recognizes gesture may be the point, not victory",
+        "Fighting the unwinnable war for principle",
+        "Conviction without hope - soldier's final logic",
+        "Preparing to be saved by beings he tried to kill",
+        "Knows he's wrong but can't stop anyway"
+      ]
+    },
+    "Dr_Marie_Okonkwo": {
+      "arc_position": 0.90,
+      "emotional_state": "Exhausted, in detention, still trying to prevent casualties",
+      "knowledge": [
+        "Arrested for destroying cure",
+        "Understands Reeves is targeting symptom not cause",
+        "Changed will save Reeves after attack fails",
+        "Changed consciousness cannot lie at Stage 3/4"
+      ],
+      "role": "Trying to warn Reeves despite imprisonment, using his first name for connection"
+    },
+    "Lieutenant_Chen": {
+      "arc_position": 0.60,
+      "emotional_state": "Doubting, loyal but uncertain",
+      "knowledge": [
+        "Changed warnings might be true",
+        "Attack might fail completely",
+        "Okonkwo's arguments make sense"
+      ],
+      "role": "Voice of doubt Reeves suppresses"
+    }
+  },
+  "planted_elements": [
+    {
+      "element": "Project Threshold launches in 4 weeks (28 days)",
+      "planted_for": "Chapter 56 - The Two Doors (Reeves's attack)"
+    },
+    {
+      "element": "Changed showing Reeves his death and rescue",
+      "planted_for": "Exact outcome in Chapter 56"
+    },
+    {
+      "element": "Stage 3/4 Changed cannot lie - no emotional manipulation",
+      "planted_for": "Establishing Changed credibility"
+    },
+    {
+      "element": "Reeves choosing to fight despite knowing he'll lose",
+      "planted_for": "Tragic heroism vs futility"
+    },
+    {
+      "element": "Okonkwo using Reeves's first name 'Thomas'",
+      "planted_for": "Personal connection, humanizing both"
+    },
+    {
+      "element": "Tehran bioweapon trauma reference",
+      "planted_for": "Character depth - explains his response patterns"
+    }
+  },
+  "themes_touched": [
+    "Fighting unwinnable war for principle",
+    "Conviction without hope as soldier's duty",
+    "Gesture as point when victory is impossible",
+    "Resistance as victory even when resistance fails",
+    "Mercy from those you tried to exterminate",
+    "Inability to accept truth that destroys worldview"
+  ],
+  "atmosphere": "Military determination, suppressed doubt, tragic inevitability, soldier preparing for certain death with conviction",
+  "key_images": [
+    "Reeves watching humanity die in real-time on screens",
+    "Changed transmission showing his death and rescue",
+    "Okonkwo in detention using his first name",
+    "Mission planning as ritual providing control",
+    "Soldier's logic: fight because fighting is what soldiers do"
+  ],
+  "foreshadowing": [
+    "Attack in 4 weeks exactly as Changed predicted",
+    "Reeves will die and be rescued by Changed",
+    "His conviction will meet posthuman mercy",
+    "He'll have to live with being wrong",
+    "Changed will prove they're not monsters through mercy",
+    "Gesture replacing reality as conviction meets truth",
+    "Reeves learning what posthuman mercy means"
+  ]
+}

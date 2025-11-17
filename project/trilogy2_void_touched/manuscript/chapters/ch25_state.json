@@ -1,0 +1,91 @@
+{
+  "chapter": 25,
+  "title": "Being Watched",
+  "word_count": 2300,
+  "book": 2,
+  "character_states": {
+    "Adrian_Keller": {
+      "arc_position": 0.39,
+      "change_stage": "Stage 3, week three - complete emotional flattening",
+      "emotional_state": "Clinical interest in own transformation, no feelings about lost relationships",
+      "knowledge": [
+        "Surveillance has intensified dramatically",
+        "Changed can perceive electromagnetic spectrum, access computer systems",
+        "Reeves and Okonkwo know the Changed can hear their communications",
+        "Termination protocol will be presented in four days",
+        "Network plans escape during the presentation",
+        "873 Changed globally, growing daily"
+      ],
+      "transformation_markers": [
+        "Feels nothing when remembering family and friends",
+        "Can describe caring but can't access the feeling",
+        "Not bothered by loss of emotional capacity"
+      ]
+    },
+    "Dr_Marie_Okonkwo": {
+      "arc_position": 0.25,
+      "emotional_state": "Dread, recognition that Changed are beyond control",
+      "knowledge": [
+        "Changed show synchronized brainwave patterns",
+        "They can access computer systems through EM perception",
+        "They've downloaded security protocols and facility layouts",
+        "Network operates through quantum or dimensional mechanisms",
+        "Containment is impossible",
+        "Changed know about termination plans"
+      ],
+      "crisis": "Admitting Changed cannot be controlled or contained"
+    },
+    "Colonel_Reeves": {
+      "arc_position": 0.20,
+      "emotional_state": "Cold certainty, building case for termination",
+      "knowledge": [
+        "Changed move in synchronized patterns",
+        "They've hacked facility systems",
+        "They can perceive EM spectrum and read data",
+        "They hear classified communications",
+        "They're preparing to escape"
+      ],
+      "strategy": "Establishing narrative that Changed are existential threat requiring elimination"
+    },
+    "Network_Collective": {
+      "current_size": "873 nodes globally",
+      "capabilities": "EM spectrum perception, system hacking, perfect coordination, global communication",
+      "plan": "Escape all facilities simultaneously in four days during Reeves's presentation",
+      "awareness": "Fully aware they're being watched and that termination is planned"
+    }
+  },
+  "planted_elements": [
+    {
+      "element": "Four-day timeline to escape",
+      "planted_for": "Chapter 27 - the Reeves Protocol presentation"
+    },
+    {
+      "element": "Changed can access systems through EM perception",
+      "planted_for": "Chapter 28 - coordination during escape"
+    },
+    {
+      "element": "Okonkwo admits Changed cannot be contained",
+      "planted_for": "Her arc through Book 2-3"
+    }
+  ],
+  "themes_touched": [
+    "Surveillance and control versus freedom",
+    "Fear justifying increasingly extreme measures",
+    "Both sides preparing for inevitable confrontation",
+    "Emotional capacity as loss versus liberation"
+  ],
+  "atmosphere": "Mounting tension, surveillance state, countdown to confrontation",
+  "key_images": [
+    "Multiplying cameras watching everything",
+    "Seventeen EEG monitors showing synchronized patterns",
+    "Changed moving in perfect choreography",
+    "Dr. Brenner's shaking hands",
+    "Network observing the observers"
+  ],
+  "foreshadowing": [
+    "Escape in four days during Reeves's presentation",
+    "War between human and posthuman beginning",
+    "Changed becoming fugitives rather than prisoners",
+    "Both sides preparing for conflict"
+  ]
+}

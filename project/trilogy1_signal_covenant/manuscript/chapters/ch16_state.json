@@ -1,0 +1,78 @@
+{
+  "chapter": 16,
+  "title": "Underground",
+  "word_count": 2300,
+  "pov_character": "Marcus Reid",
+  "time_elapsed": "2 weeks after Ch15, underground in Uruguay",
+  "location": "Prometheus Uruguay Facility (underground bunker)",
+  "plot_threads_advanced": [
+    "Team operating underground for 2 weeks, coordinating global network",
+    "127 mathematicians across 34 countries now collaborating",
+    "Paper downloaded 4.2 million times, verified by 847 mathematicians",
+    "38% of population still deniers",
+    "Kessler resigned from agency, meets Marcus with classified intelligence",
+    "Reveals governments planning competing intercept operations for Voyager",
+    "Kessler will be arrested in 72 hours for leaking files",
+    "Team decides to publish statement calling for coordinated response"
+  ],
+  "character_arcs": {
+    "Marcus Reid": {
+      "position": 0.23,
+      "state": "Leading underground operations, making strategic disclosure decisions",
+      "key_moment": "Meets Kessler, decides to expose government competition publicly"
+    },
+    "James Kessler": {
+      "position": 0.18,
+      "state": "Resigned from agency, giving classified intel despite personal cost",
+      "key_moment": "Sacrifices freedom to help team, knows he'll be arrested in 72 hours"
+    },
+    "Evelyn Thorne": {
+      "position": 0.27,
+      "state": "Running expensive protection operation, fighting 17 court cases",
+      "key_moment": "Reveals $70M costs but commercial applications offsetting them"
+    }
+  },
+  "planted_elements": [],
+  "knowledge_revealed": [
+    "Global collaborative network now 127 mathematicians in 34 countries",
+    "Possible sixth encoding layer discovered",
+    "Temporal structure in signal—information changes based on observation time",
+    "Kessler resigned after refusing black ops order to neutralize team",
+    "8 intelligence agencies planning separate Voyager intercept operations",
+    "Asian Coalition: spacecraft intercept at 11 months",
+    "NAU: contingency to destroy Voyager if can't control it",
+    "EU: \"protective custody\" in international waters",
+    "38% denial rate in public discourse",
+    "447 days remaining until Voyager arrival"
+  ],
+  "causal_chains": [
+    {
+      "cause": "Governments planning competing intercept operations",
+      "effect": "Kessler leaks classified files showing competition, will be arrested",
+      "thread": "Government competition threatening first contact"
+    },
+    {
+      "cause": "Team underground for 2 weeks with global network",
+      "effect": "Progress continuing despite being hunted, mathematical discoveries accumulating",
+      "thread": "Underground research network functioning"
+    }
+  ],
+  "tension_elements": [
+    "447-day countdown to Voyager arrival",
+    "Government intercept operations planned",
+    "Kessler's 72-hour countdown to arrest",
+    "38% of humanity denying first contact is real",
+    "World fracturing into believer/denier camps",
+    "Corporate costs mounting ($70M so far)",
+    "No coordinated international response emerging"
+  ],
+  "world_state_changes": [
+    "Team 2 weeks underground, global network operational",
+    "127 mathematicians collaborating across 34 countries",
+    "Kessler no longer government agent, helping team",
+    "8 agencies planning separate Voyager operations",
+    "Public discourse fracturing into tribal camps",
+    "447 days until Voyager arrival",
+    "Team preparing public statement about government competition"
+  ]
+}

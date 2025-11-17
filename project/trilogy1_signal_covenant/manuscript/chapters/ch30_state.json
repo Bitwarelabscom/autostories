@@ -1,0 +1,83 @@
+{
+  "chapter": 30,
+  "title": "Open Questions",
+  "word_count": 2500,
+  "characters_present": ["Marcus Reid", "Sofia Navarro", "Yuki Tanaka", "Director James Kessler", "Ambassador Chen", "General Morrison"],
+  "character_knowledge": {
+    "ALL_COMMISSION_MEMBERS": [
+      "Sofia proposed complete democratization: open commission meetings, public access to all deliberations, real-time streaming",
+      "Commission voted 14-11 for Chen's compromise framework: public policy meetings, private operational/security sessions with clear documentation",
+      "Sofia abstained from vote, opposes half-measures",
+      "Kessler and Morrison threatened resignation over full transparency",
+      "Consensus at 36.5% (slowly climbing from 35%)",
+      "7.5 months remaining approximately"
+    ],
+    "Marcus_Reid": [
+      "Voted for Chen's compromise transparency framework",
+      "Believes total transparency would paralyze governance",
+      "Argues for balance between openness and operational functionality",
+      "Growing rift with Sofia over approach",
+      "Questioning whether they can reach 85% at current trajectory (projects 55% by deadline)"
+    ],
+    "Sofia_Navarro": [
+      "Proposed full open meetings and complete transparency",
+      "Believes any privacy is foothold for abuse",
+      "Abstained from commission vote",
+      "Disappointed in Marcus for 'choosing control'",
+      "Starting to believe humanity can't pass test honestly",
+      "Views partial transparency as failing the test"
+    ],
+    "Yuki_Tanaka": [
+      "Trying to mediate between Marcus and Sofia",
+      "Concerned commission is dividing over transparency question"
+    ],
+    "Ambassador_Chen": [
+      "Proposed compromise framework",
+      "Attempting to balance accountability with functionality"
+    ],
+    "James_Kessler": [
+      "Strongly opposed to full transparency",
+      "Argued governance requires some confidentiality",
+      "Threatened resignation over Sofia's proposal"
+    ]
+  },
+  "world_state": {
+    "time": "~1 week after Ch29 (7.5 months remaining)",
+    "consensus_percentage": "36.5% (up from 35%, climbing slowly)",
+    "transparency_framework": "Chen's compromise approved: public policy meetings, private operational sessions with documentation",
+    "team_dynamic": "Growing rift between Sofia and Marcus over transparency philosophy"
+  },
+  "philosophical_conflict": {
+    "sofia_position": "Total transparency is moral imperative, any privacy enables abuse, test requires absolute honesty",
+    "marcus_position": "Strong transparency with bounded privacy for operational effectiveness, balance competing values",
+    "tension": "Former allies now on opposite sides of fundamental question about governance"
+  },
+  "planted_elements": [
+    {
+      "element": "Marcus-Sofia rift",
+      "description": "Fundamental disagreement over transparency vs. functionality",
+      "foreshadowing": "Will deepen personal tensions through remaining chapters, require reconciliation later"
+    },
+    {
+      "element": "Consensus at 36.5%, projecting 55% by deadline",
+      "description": "Marcus's calculation that current trajectory insufficient",
+      "foreshadowing": "Will need radically different approach - sets up Ch40 grassroots solution"
+    },
+    {
+      "element": "Sofia questioning if humanity can pass honestly",
+      "description": "Loss of faith in political process",
+      "foreshadowing": "Will drive her to propose bypass approach in Ch40"
+    }
+  },
+  "themes": {
+    "transparency_vs_governance": "Central tension - how much openness is necessary vs. functional",
+    "principle_vs_pragmatism": "Sofia's ideological purity vs Marcus's practical compromise",
+    "unity_through_disagreement": "Former allies learning to disagree while still working together"
+  },
+  "next_chapter_hooks": [
+    "Marcus-Sofia relationship strained",
+    "Consensus climbing but too slowly to reach 85%",
+    "Need for different approach becoming apparent",
+    "7.5 months to find solution that satisfies both effectiveness and legitimacy"
+  ]
+}

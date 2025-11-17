@@ -1,0 +1,78 @@
+{
+  "chapter": 23,
+  "title": "Echo Mapping",
+  "book": 2,
+  "word_count": 2891,
+  "date_written": "2025-11-17",
+  "temporal_setting": "February 12, 2030 - 2:18 PM",
+  "location": "Oakland, California - Recursionist Facility workshop",
+  "pov_character": "Elliot Cross",
+  "type": "Bridge chapter",
+  "key_scenes": [
+    "Elliot and Cassandra developing echo mapping protocol",
+    "First intentional fragmentation to observe tomorrow's supply run",
+    "Observation of three probability branches with different outcomes",
+    "Elliot getting lost in quantum foam and Cassandra anchoring him back",
+    "Formalizing six-step echo mapping methodology",
+    "Intimate moment acknowledging their quantum entanglement"
+  ],
+  "characters_present": [
+    "Elliot Cross",
+    "Cassandra Wright"
+  ],
+  "revelations": [
+    "Intentional fragmentation feels different than accidental dissolution",
+    "Echo mapping allows observation of future probability branches before decision points",
+    "Three possible outcomes for tomorrow's supply run identified",
+    "Branch with Elliot and Cassandra together has highest survival probability",
+    "Formal six-step echo mapping protocol established",
+    "Elliot and Cassandra acknowledge they are 'quantum married' despite divorce"
+  ],
+  "planted_elements": [
+    "Tomorrow's supply run decision (will play out in Ch24)",
+    "Echo mapping protocol will be refined through practice",
+    "FBI surveillance of Berkeley contact creates future complications",
+    "Relationship between Elliot and Cassandra deepening toward remarriage",
+    "Elliot learning to use fragmentation as Omega does"
+  ],
+  "character_states": {
+    "Elliot_Cross": {
+      "emotional_state": "Focused, scared of getting lost, grateful for Cassandra",
+      "knowledge": "Learning to intentionally navigate quantum fragmentation",
+      "physical_state": "Fragmentation becoming more controlled",
+      "relationships": "Declaring love for Cassandra, acknowledging quantum marriage",
+      "arc_position": 0.38
+    },
+    "Cassandra_Wright": {
+      "emotional_state": "Scientific, protective, loving, committed",
+      "knowledge": "Creating formal protocols for quantum observation",
+      "arc_position": 0.38
+    }
+  },
+  "themes_explored": [
+    "Agency through observation of probability branches",
+    "Scientific methodology applied to impossible phenomena",
+    "Interdependence as strength in quantum navigation",
+    "Love as anchor across fragmenting realities",
+    "Observer effect determining which futures become real"
+  ],
+  "atmosphere": "Controlled experimentation with existential stakes, intimate partnership",
+  "foreshadowing": [
+    "Tomorrow's supply run will test the protocol",
+    "Echo mapping will become essential to mission",
+    "Elliot risks getting permanently lost in quantum foam",
+    "Cassandra's anchoring role becomes relationship foundation"
+  ],
+  "temporal_mechanics_established": [
+    "Intentional fragmentation allows observation of future probability branches",
+    "Observer collapses probability waves into chosen timeline",
+    "Six-step echo mapping protocol: anchor, identify, fragment, observe, return, integrate",
+    "Getting lost in quantum foam is recoverable with proper anchoring"
+  ],
+  "next_chapter_hooks": [
+    "Will tomorrow's supply run go as observed?",
+    "Can Elliot successfully navigate real-time decision with echo mapping?",
+    "What happens when observations don't match reality?",
+    "How will relationship evolution affect mission focus?"
+  ]
+}

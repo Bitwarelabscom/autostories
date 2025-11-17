@@ -1,0 +1,69 @@
+{
+  "chapter": 35,
+  "title": "What She Lost",
+  "word_count": 2300,
+  "book": 2,
+  "character_states": {
+    "Lena_Martinez": {
+      "arc_position": 0.55,
+      "emotional_state": "Grief, trauma resurfacing, recognizing Adrian is gone",
+      "trauma": "Father's schizophrenia mirrors Adrian's transformation - same loss, different cause",
+      "crisis": "Cannot distinguish transformation from delusion, cannot save him",
+      "warning_sign": "Geometric patterns starting at edge of consciousness - Stage 1 beginning",
+      "knowledge": [
+        "Adrian is fugitive in Portland",
+        "He's part of 922-node network",
+        "He feels nothing for her anymore",
+        "Transformation can spread through understanding/proximity",
+        "She may be transforming due to her research and contact"
+      ],
+      "choice_approaching": "Transform or resist when dreams fully manifest"
+    },
+    "Adrian_Keller": {
+      "arc_position": 0.62,
+      "change_stage": "Stage 3 - complete emotional flattening",
+      "emotional_state": "Clinical observation, viewing Lena as 'loose end' for strategic closure",
+      "location": "Portland, apartment 307",
+      "demonstration": "Shows Lena he's completely posthuman - no emotional connection remains",
+      "transformation_markers": [
+        "Sees Lena as pattern and process",
+        "Treats conversation as strategic necessity not emotional need",
+        "Warns her about potential transformation without caring about outcome"
+      ]
+    }
+  },
+  "planted_elements": [
+    {
+      "element": "Lena beginning Stage 1 transformation",
+      "planted_for": "Chapter 37 - her choice to expose herself or not"
+    },
+    {
+      "element": "Father's schizophrenia as parallel to Change",
+      "planted_for": "Lena's inability to trust transformation is real"
+    },
+    {
+      "element": "Transformation spreads through understanding",
+      "planted_for": "Memetic spread theme in Book 3"
+    }
+  ],
+  "themes_touched": [
+    "Love insufficient to bridge posthuman transformation",
+    "Trauma coloring perception - delusion versus transcendence indistinguishable",
+    "Human cost of transformation - those left behind",
+    "Understanding as infection vector"
+  ],
+  "atmosphere": "Grief, helplessness, parallel to father's loss, warning of future transformation",
+  "key_images": [
+    "Adrian's empty apartment - no personality remaining",
+    "His eyes seeing through her to code underneath",
+    "Lena crying while Adrian observes clinically",
+    "Geometric patterns starting in her consciousness",
+    "Rain falling as she walks away"
+  ],
+  "foreshadowing": [
+    "Lena's transformation beginning",
+    "Her choice in Chapter 37",
+    "Complete severance between human and posthuman",
+    "Memetic spread continuing"
+  ]
+}

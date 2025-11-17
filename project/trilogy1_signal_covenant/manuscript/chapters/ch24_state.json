@@ -1,0 +1,85 @@
+{
+  "chapter": 24,
+  "title": "Managed Consensus",
+  "word_count": 2500,
+  "characters_present": ["Marcus Reid", "Sofia Navarro", "Yuki Tanaka", "Director James Kessler", "Evelyn Thorne", "Ambassador Chen"],
+  "character_knowledge": {
+    "ALL_TEAM_MEMBERS": [
+      "Thorne and Kessler coordinating $12B intervention campaign for 'red zones'",
+      "Red zones: regions with low consensus due to authoritarian governments, conflict, poverty",
+      "Commission voted 23-4 in favor of intervention strategy",
+      "Prometheus funding 60% of intervention ($7.2B), governments/donors funding 40% ($4.8B)",
+      "Sofia building parallel grassroots network funded by small donors ($2B budget)",
+      "Intervention campaign launched, showing early results (red zones climbing from 35% to 48%)",
+      "9.5 months remaining until deadline"
+    ],
+    "Marcus_Reid": [
+      "Opposed intervention strategy at commission meeting",
+      "Decided to support Sofia's alternative grassroots approach",
+      "Concerned that managed consensus violates ethics test",
+      "Watching both campaigns unfold, uncertain which is right"
+    ],
+    "Sofia_Navarro": [
+      "Built network of grassroots activists across all red zones",
+      "Coordinating alternative campaign focused on authentic engagement",
+      "Sees Thorne/Kessler approach as colonialism with better PR"
+    ],
+    "Yuki_Tanaka": [
+      "Voted against intervention strategy",
+      "Supporting technical infrastructure for both campaigns"
+    ],
+    "James_Kessler": [
+      "Co-coordinating intervention with Thorne",
+      "Sees it as triage, not manipulation",
+      "Built coalition of governments and donors for funding"
+    ],
+    "Evelyn_Thorne": [
+      "Leading intervention campaign through Prometheus",
+      "Funding education centers, exhibitions, influencer outreach",
+      "Argued for 'ethics without results is philosophical masturbation'"
+    ],
+    "Ambassador_Chen": [
+      "Supports intervention strategy",
+      "Challenged Marcus on whether perfect legitimacy is necessary"
+    ]
+  },
+  "world_state": {
+    "time": "~1 month after Ch23 (9.5 months remaining)",
+    "consensus_tracking": {
+      "red_zones": "35% → 48% (climbing due to intervention)",
+      "global_aggregate": "Not specified yet, but improving"
+    },
+    "campaigns_active": {
+      "thorne_kessler_intervention": "12B budget, high production, top-down approach",
+      "sofia_grassroots_network": "2B budget, organic organizing, bottom-up approach"
+    }
+  },
+  "planted_elements": [
+    {
+      "element": "Two competing campaigns",
+      "description": "Managed vs authentic approaches to building consensus",
+      "foreshadowing": "Will create tension when results diverge, test which approach aliens value"
+    },
+    {
+      "element": "Marcus questioning which path is right",
+      "description": "Uncertainty about whether managed consensus counts",
+      "foreshadowing": "Will be answered when second test revealed (Ch32)"
+    },
+    {
+      "element": "Ambassador Chen challenging Marcus on interpretation",
+      "description": "Are ethics actually part of the test?",
+      "foreshadowing": "Chen will be proven wrong when ethics test revealed"
+    }
+  ],
+  "themes": {
+    "unity_vs_division": "Two approaches to unity—managed coordination vs organic consensus",
+    "knowledge_as_power": "Thorne using resources to shape opinion, Sofia using education to empower choice",
+    "ethics_and_legitimacy": "Central question—does method of achieving consensus matter?"
+  },
+  "next_chapter_hooks": [
+    "Both campaigns operating in parallel",
+    "Red zone numbers improving",
+    "Tension between managed and grassroots approaches building",
+    "Public pressure and protests will emerge from this tension"
+  ]
+}

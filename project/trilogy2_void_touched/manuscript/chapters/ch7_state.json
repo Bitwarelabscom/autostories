@@ -1,0 +1,41 @@
+{
+  "chapter": 7,
+  "title": "The Watchers",
+  "word_count": 2600,
+  "pov_character": "Adrian Keller",
+  "location": "Quarantine facility assessment room",
+  "time_period": "Week 2-3 of quarantine",
+  "key_events": [
+    "Dr. Okonkwo conducts individual assessment with Adrian",
+    "She reveals backstory: son with early-onset Alzheimer's at 19",
+    "Son believed his disease was transcendence, died without recognizing her",
+    "Colonel Reeves interviews Adrian about signal discovery",
+    "Reeves reveals trauma: 2025 Djibouti bioweapon attack",
+    "His entire 37-person unit died, he survived alone",
+    "Reeves explains containment contingencies, including termination",
+    "Three incompatible perspectives on the Change established"
+  ],
+  "character_development": {
+    "Dr. Marie Okonkwo": "Full backstory revealed - son's Alzheimer's drives her to find cure, sees Changed as patients losing themselves like her son did",
+    "Colonel Reeves": "Bioweapon trauma revealed - survivor guilt and determination never to wait too long again, sees Changed as contagion",
+    "Adrian": "Recognizes manipulation, questions own judgment, caught between perspectives"
+  },
+  "planted_elements": [
+    "Marie's son who forgot her - pays off in Ch52 when she realizes cure would be like lobotomy",
+    "Reeves' bioweapon trauma and survivor guilt - leads to his actions in Ch27 and Ch56",
+    "The parallel between disease and transcendence as indistinguishable",
+    "Reeves preparing termination contingencies"
+  ],
+  "transformation_stage": "Stage 1 progressing - emotional responses becoming theoretical, recognition of own flatness",
+  "cosmic_horror_elements": [
+    "Trauma creating pattern recognition in observers",
+    "The impossibility of objective judgment when inside transformation",
+    "Three valid perspectives all leading to different conclusions",
+    "The question of truth becoming meaningless"
+  ],
+  "themes": [
+    "Past trauma shaping present perception",
+    "The impossibility of saving those who don't want saving",
+    "Disease vs. transcendence as observer-dependent"
+  ]
+}

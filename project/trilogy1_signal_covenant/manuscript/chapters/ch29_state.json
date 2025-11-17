@@ -1,0 +1,96 @@
+{
+  "chapter": 29,
+  "title": "Erosion of Trust",
+  "word_count": 2300,
+  "characters_present": ["Marcus Reid", "Sofia Navarro", "Yuki Tanaka", "Director James Kessler", "Ambassador Chen"],
+  "character_knowledge": {
+    "ALL_TEAM_MEMBERS": [
+      "Rumors about Thorne's mission leaked before official disclosure",
+      "17 nations (2B people) suspended referendum participation",
+      "Consensus dropped from 39% to 37% from rumors alone",
+      "Commission decided on full radical transparency",
+      "NEW VOYAGER MESSAGE: 'Consensus built on deception is false consensus, truth and trust are prerequisites for unity'",
+      "Released 63-page disclosure document covering everything: Thorne's mission, Kessler's cover-up, intervention campaign ethics, internal debates",
+      "Consensus dropped to 35% after disclosure but then stabilized and started slowly rising",
+      "Security Council hearing scheduled to examine Project Covenant",
+      "8 months remaining approximately"
+    ],
+    "Marcus_Reid": [
+      "Advocated for full disclosure as only ethical option",
+      "Interpreted Assembled message as requiring honesty over strategic deception",
+      "Believes 35% built on truth > 37% built on deception"
+    ],
+    "Sofia_Navarro": [
+      "Pushed hard for radical transparency",
+      "Willing to lose corporate funding to maintain legitimacy",
+      "Argued democracy requires handling messy truth"
+    ],
+    "Yuki_Tanaka": [
+      "Tracked rumor spread - confirmed it was coordinated",
+      "Decoded latest Voyager message about truth/trust",
+      "Observed consensus stabilize and begin rising after disclosure"
+    ],
+    "James_Kessler": [
+      "Admitted he was trying to control disclosure timing",
+      "Forced to acknowledge hiding information",
+      "Believes disclosure destroyed months of work",
+      "Will testify at Security Council hearing"
+    ],
+    "Ambassador_Chen": [
+      "Delayed Security Council hearing to allow disclosure preparation",
+      "Coordinated comprehensive disclosure release",
+      "Taking responsibility for referendum process over protecting corporate interests"
+    ],
+    "Evelyn_Thorne": [
+      "Warned disclosure would destroy corporate partnership",
+      "Sent message: 'You've destroyed me'",
+      "Will testify at Security Council hearing",
+      "Facing consequences for Project Covenant"
+    ]
+  },
+  "world_state": {
+    "time": "~3 weeks after Ch28 (approximately 7.5-8 months remaining)",
+    "consensus_percentage": "35% (dropped from 37%, stabilized, starting to tick upward slowly: 35.1% → 35.3% → 35.7%)",
+    "referendum_status": "17 nations suspended participation pending investigation",
+    "disclosure": "Full 63-page document released publicly covering all ethical compromises and internal conflicts",
+    "pending_event": "Security Council hearing on Project Covenant"
+  },
+  "assembled_message": {
+    "content": "Consensus built on deception is false consensus. Truth and trust are prerequisites for unity. Your evaluation continues.",
+    "significance": "Aliens explicitly stating honesty matters more than numerical consensus",
+    "impact": "Forced team to choose truth over strategic deception"
+  },
+  "planted_elements": [
+    {
+      "element": "35% consensus - lowest point",
+      "description": "Major drop but stabilizing with slow upward movement",
+      "foreshadowing": "Will gradually recover through honest engagement, but never reach 85% through political means"
+    },
+    {
+      "element": "Truth as prerequisite for unity",
+      "description": "Assembled's explicit message about honesty",
+      "foreshadowing": "Will be central to understanding ethics test in Ch32-33"
+    },
+    {
+      "element": "Security Council hearing pending",
+      "description": "Public examination of Thorne and Kessler",
+      "foreshadowing": "Will further expose tensions but also demonstrate accountability"
+    },
+    {
+      "element": "Response to transparency - mixed but appreciative",
+      "description": "Half outraged, half grateful for honesty",
+      "foreshadowing": "Shows humanity's capacity for handling truth - relevant to eventual solution"
+    }
+  },
+  "themes": {
+    "truth_and_transparency": "Central theme - choosing honesty over strategic advantage",
+    "trust_and_legitimacy": "Trust must be rebuilt through demonstrated honesty",
+    "unity_vs_division": "Disclosure creates short-term division but potential long-term unity"
+  },
+  "next_chapter_hooks": [
+    "Consensus at 35%, slowly recovering",
+    "Security Council hearing will examine full scope of Project Covenant",
+    "Corporate funding at risk",
+    "Sofia's transparency advocacy vindicated but challenges remain"
+  ]
+}

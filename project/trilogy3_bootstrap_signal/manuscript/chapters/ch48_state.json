@@ -1,0 +1,97 @@
+{
+  "chapter": 48,
+  "title": "The Weight of Names",
+  "book": 3,
+  "word_count": 2116,
+  "date_written": "2025-11-17",
+  "temporal_setting": "Temporal Transit - returning through 1985/1993/2008/2015/2020/2025/2027/2028",
+  "location": "Quantum probability space across decades",
+  "pov_character": "Elliot Cross",
+  "type": "Bridge",
+  "key_scenes": [
+    "Elliot carrying weight of 40 dead Recursionists through time",
+    "Mourning Soren, Sarah, James during transit",
+    "Cassandra anchoring Elliot from dispersing completely",
+    "Discussing whether 40 deaths were worth it",
+    "Cassandra shares burden - mutual entanglement",
+    "Concern device may have been destroyed in attack",
+    "If device destroyed, permanent temporal dispersion",
+    "Navigating through 2020, 2025, 2027, 2028",
+    "Getting closer to 2030 reconstitution point",
+    "2 years out from target",
+    "Mutual anchoring keeping both coherent",
+    "Carrying weight of 40 + 300 + 8 billion"
+  ],
+  "characters_present": [
+    "Elliot Cross (dispersed across time)",
+    "Cassandra Wright (dispersed across time)",
+    "Deceased: Soren, Sarah, James, 37 other Recursionists (carried as memory/weight)"
+  ],
+  "revelations": [
+    "40 Recursionists died in the attack (Soren, Sarah, James, 37 others)",
+    "Elliot embedded all 40 names in the signal",
+    "Return journey harder than backward journey",
+    "Cassandra also fragmenting, needs anchoring from Elliot",
+    "Mutual entanglement - they stabilize each other",
+    "Unknown if device survived attack",
+    "If device destroyed, permanent dispersion (becoming like Omega)",
+    "Currently 2 years out from 2030 reconstitution",
+    "Weight can be shared through entanglement",
+    "Still mid-mission - loop not closed until they cohere"
+  ],
+  "planted_elements": [
+    "Device survival uncertain (tension for Ch53+)",
+    "Permanent dispersion risk (Omega's fate)",
+    "Mutual anchoring (ongoing theme)",
+    "Weight of 40 names will matter throughout",
+    "Soren's final words echoing",
+    "Wedding ring subplot continuation"
+  ],
+  "character_states": {
+    "Elliot_Cross": {
+      "emotional_state": "Mourning, burdened, barely coherent, processing sacrifice",
+      "physical_state": "Dispersed across decades, fragmenting worse",
+      "knowledge": "40 died, device fate unknown, 2 years from reconstitution",
+      "arc_position": 0.8
+    },
+    "Cassandra_Wright": {
+      "emotional_state": "Anchoring Elliot, also struggling with dispersion",
+      "revelation": "Also needs anchoring from Elliot - mutual support",
+      "arc_position": 0.81
+    }
+  },
+  "themes_explored": [
+    "Mourning during mission",
+    "Weight of sacrifice",
+    "Mutual support across impossible distance",
+    "Shared burden is lighter burden",
+    "Love as quantum survival strategy",
+    "Honoring the dead by succeeding",
+    "Faith in mathematics and theology",
+    "Identity diffusion across time"
+  ],
+  "atmosphere": "Grief in temporal space, scattered consciousness, mourning while navigating, shared burden, approaching reconstitution with uncertainty",
+  "foreshadowing": [
+    "Device may be destroyed (creates tension)",
+    "Permanent dispersion is real risk",
+    "2 years until knowing if mission succeeded",
+    "Mutual anchoring is essential",
+    "Weight of names will continue mattering",
+    "Loop closure depends on coherent return"
+  ],
+  "temporal_mechanics_established": [
+    "Return journey harder than backward journey",
+    "Mutual entanglement allows burden sharing",
+    "Consciousness can fragment worse during return",
+    "Reconstitution requires functional device in 2030",
+    "No device means permanent dispersion",
+    "Currently navigating year by year toward 2030"
+  ],
+  "next_chapter_hooks": [
+    "Will device have survived attack?",
+    "Can they maintain coherence for 2 more years?",
+    "What happens as they approach 2030?",
+    "How does mutual anchoring evolve?",
+    "Will they cohere successfully?"
+  ]
+}

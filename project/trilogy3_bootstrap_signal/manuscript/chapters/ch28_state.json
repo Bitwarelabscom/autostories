@@ -1,0 +1,56 @@
+{
+  "chapter": 28,
+  "title": "Failed Iterations",
+  "book": 2,
+  "word_count": 2537,
+  "date_written": "2025-11-17",
+  "temporal_setting": "April 25, 2030 - 3:33 AM",
+  "location": "Oakland, California - Recursionist Facility workshop",
+  "pov_character": "Elliot Cross",
+  "type": "Bridge chapter - follows Ch27 weaponization revelation",
+  "key_scenes": [
+    "Elliot cataloging 847 failed loop iterations",
+    "Experiencing Branch 156 where relationship neglect caused failure",
+    "Experiencing Branch 341 where Cassandra's CERN choice caused failure",
+    "Agreement to limit cataloging to 100 iterations total",
+    "Cassandra sharing the trauma by experiencing failed timelines",
+    "Setting boundaries to prevent psychological breakdown"
+  ],
+  "characters_present": ["Elliot Cross", "Cassandra Wright", "Dr. Marcus Soren", "Dr. Yuki Chen"],
+  "revelations": [
+    "Elliot has experienced 47 extinctions so far, planning 100 total",
+    "Branch 156: Relationship neglect leads to mission failure",
+    "Branch 341: Cassandra choosing CERN leads to Elliot's fragmentation",
+    "Deliberate trauma cataloging creates psychological damage",
+    "Both partners can fail mission through seemingly minor choices",
+    "Cassandra agrees to monitor coherence and enforce limits"
+  ],
+  "planted_elements": [
+    "100 extinction limit established (will be hit at 73 in Ch29)",
+    "Both partners' failure modes identified",
+    "Weight of cataloging becomes its own trauma to process",
+    "Branch 156 and 341 serve as warnings for current timeline"
+  ],
+  "character_states": {
+    "Elliot_Cross": {
+      "emotional_state": "Traumatized, determined, carrying heavy weight",
+      "knowledge": "47 failed iterations experienced directly",
+      "arc_position": 0.47
+    },
+    "Cassandra_Wright": {
+      "emotional_state": "Protective, sharing trauma burden, setting boundaries",
+      "arc_position": 0.47
+    }
+  },
+  "themes_explored": [
+    "Necessary trauma vs destructive research",
+    "Learning from failures without being destroyed by them",
+    "Shared weight through mutual observation",
+    "Limits of what consciousness can integrate"
+  ],
+  "next_chapter_hooks": [
+    "Will Elliot reach 100 or hit limit earlier?",
+    "How will they process accumulated trauma?",
+    "What patterns emerge from failed iterations?"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "chapter": 26,
+  "title": "Quantum Intimacy",
+  "book": 2,
+  "word_count": 2031,
+  "date_written": "2025-11-17",
+  "temporal_setting": "March 8, 2030 - 9:41 PM",
+  "location": "Oakland, California - Recursionist Facility, Cassandra's room",
+  "pov_character": "Elliot Cross",
+  "type": "Bridge chapter",
+  "key_scenes": [
+    "Elliot existing in four timeline states simultaneously",
+    "Bringing Cassandra into superposition perception",
+    "Discussion about remarriage",
+    "Elliot choosing to collapse to singular timeline for important moment",
+    "Agreement to formalize relationship after loop closure",
+    "Acknowledging quantum marriage as reality"
+  ],
+  "characters_present": ["Elliot Cross", "Cassandra Wright"],
+  "revelations": [
+    "Elliot can share superposition perception with Cassandra",
+    "They acknowledge being 'quantum married' despite divorce",
+    "Elliot sees probability branch where Cassandra puts ring back on July 19th",
+    "Some moments deserve singularity rather than superposition",
+    "They are one system distributed across two bodies"
+  ],
+  "planted_elements": [
+    "Future proposal scene foreshadowed for July 19th",
+    "Remarriage planned for after loop closure",
+    "Shared superposition as intimacy technique",
+    "Cassandra's wedding ring status change predicted"
+  ],
+  "character_states": {
+    "Elliot_Cross": {
+      "emotional_state": "In love, accepting superposition, wanting formal commitment",
+      "arc_position": 0.43
+    },
+    "Cassandra_Wright": {
+      "emotional_state": "Reciprocating love, valuing ceremony, committed to mission first",
+      "arc_position": 0.43
+    }
+  },
+  "themes_explored": [
+    "Intimacy through shared quantum perception",
+    "Ceremony as meaningful even within determinism",
+    "Choosing singularity for important moments",
+    "Legal categories vs quantum reality"
+  ],
+  "next_chapter_hooks": [
+    "Will the July 19th timeline hold?",
+    "How does relationship evolution affect mission?",
+    "What happens at the formal remarriage?"
+  ]
+}

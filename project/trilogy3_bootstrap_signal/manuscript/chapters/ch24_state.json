@@ -1,0 +1,56 @@
+{
+  "chapter": 24,
+  "title": "Probability Storms",
+  "book": 2,
+  "word_count": 2804,
+  "date_written": "2025-11-17",
+  "temporal_setting": "February 13, 2030 - 7:12 PM",
+  "location": "Berkeley, California - Codornices Park",
+  "pov_character": "Elliot Cross",
+  "type": "Bridge chapter",
+  "key_scenes": [
+    "Supply run with Cassandra using echo mapping predictions",
+    "Timeline deviation - Reyes team appears unexpectedly",
+    "Probability storm hitting Elliot with six competing timelines",
+    "Elliot choosing Timeline F - the uncertain branch",
+    "Using quantum fragmentation to become un-observable to federal agents",
+    "Cassandra providing remote anchoring via phone"
+  ],
+  "characters_present": ["Elliot Cross", "Cassandra Wright", "Dr. Yoon (Berkeley contact)", "Agent Reyes (approaching)", "FBI surveillance"],
+  "revelations": [
+    "Echo mapping predictions can deviate from reality",
+    "Elliot can weaponize his fragmentation to become temporarily un-observable",
+    "Cassandra can anchor remotely through voice alone",
+    "Timeline F (uncertain branch) can be safer than visible branches",
+    "Probability storms are increasing in intensity"
+  ],
+  "planted_elements": [
+    "Weaponized fragmentation technique established for future use",
+    "Remote anchoring protocol proven effective",
+    "Warning that Elliot risks becoming like Omega through fragmentation",
+    "Timeline deviation suggests causality resistance to observation"
+  ],
+  "character_states": {
+    "Elliot_Cross": {
+      "emotional_state": "Determined, frightened of fragmentation depth, grateful for Cassandra",
+      "knowledge": "Learning to weaponize quantum consciousness",
+      "physical_state": "Fragmenting deeper than ever before",
+      "arc_position": 0.40
+    },
+    "Cassandra_Wright": {
+      "emotional_state": "Worried about weaponization, effective as remote anchor",
+      "arc_position": 0.40
+    }
+  },
+  "themes_explored": [
+    "Weaponizing consciousness as survival tool",
+    "Uncertain paths as safer than known dangers",
+    "Observer effect limitations",
+    "Risk of becoming Omega through fragmentation"
+  ],
+  "next_chapter_hooks": [
+    "Did weaponizing fragmentation cross dangerous line?",
+    "Will Elliot fragment permanently from this technique?",
+    "How will they process this close call?"
+  ]
+}

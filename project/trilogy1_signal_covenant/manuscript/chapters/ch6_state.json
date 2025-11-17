@@ -1,0 +1,72 @@
+{
+  "chapter": 6,
+  "title": "Rival Territory",
+  "word_count": 2500,
+  "pov_character": "Marcus Reid",
+  "time_elapsed": "Same day as Ch5 dismissal, evening",
+  "location": "Atacama Observatory (unofficial operations room)",
+  "plot_threads_advanced": [
+    "Yuki Tanaka officially joins the team despite professional rivalry",
+    "Team identifies five distinct encoding layers in Voyager signal",
+    "Decision to pursue ArXiv preprint publication strategy",
+    "Plan to acquire supercomputing resources through Sofia's contacts",
+    "Yuki will arrive in Chile in three weeks"
+  ],
+  "character_arcs": {
+    "Marcus Reid": {
+      "position": 0.06,
+      "state": "Learning to collaborate despite years of solitary work",
+      "key_moment": "Accepts Yuki's corrections to his methodology, recognizes value of team"
+    },
+    "Sofia Navarro": {
+      "position": 0.06,
+      "state": "Building team infrastructure, thinking strategically",
+      "key_moment": "Proposes going around institutions via ArXiv publication"
+    },
+    "Yuki Tanaka": {
+      "position": 0.06,
+      "state": "Joins team, reveals her insecurities about riding past successes",
+      "key_moment": "Admits most colleagues think she's just been lucky, wants to prove herself"
+    }
+  },
+  "planted_elements": [
+    {
+      "element": "Yuki's imposter syndrome",
+      "description": "Yuki admits her credibility is built on early successes and colleagues think she's just been lucky. She fears her reputation outpaces her actual capability.",
+      "payoff_chapter": 56,
+      "significance": "Her 'luck' was actually brilliance - completes the proof that saves humanity"
+    }
+  ],
+  "knowledge_revealed": [
+    "Five distinct encoding layers discovered in Voyager signal (up from three)",
+    "Signal shows multi-channel communication far beyond Voyager's capabilities",
+    "Team commits to ArXiv preprint strategy to bypass institutional gatekeeping",
+    "Yuki's cryptographic expertise identifies Marcus's methodology errors",
+    "Supercomputing resources needed and available through Sofia's contacts"
+  ],
+  "causal_chains": [
+    {
+      "cause": "Director Chen dismisses findings (Ch5)",
+      "effect": "Team decides to work outside institutional approval, recruit specialists",
+      "thread": "Independent investigation"
+    },
+    {
+      "cause": "Yuki corrects Marcus's phase analysis",
+      "effect": "Discovery of five encoding layers instead of three",
+      "thread": "Expanding signal complexity"
+    }
+  ],
+  "tension_elements": [
+    "Professional rivalry between Marcus and Yuki",
+    "Government surveillance implied (Vargas knew about meeting)",
+    "18-month countdown with potentially years of cryptographic work needed",
+    "Decision to publish via ArXiv despite career risks",
+    "Team building under institutional opposition"
+  ],
+  "world_state_changes": [
+    "Yuki Tanaka joins team as equal partner",
+    "Team commits to ArXiv publication strategy",
+    "Five encoding layers identified in signal",
+    "Timeline: Yuki arrives in Chile in 3 weeks"
+  ]
+}

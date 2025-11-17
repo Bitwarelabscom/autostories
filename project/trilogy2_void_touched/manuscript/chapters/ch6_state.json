@@ -1,0 +1,40 @@
+{
+  "chapter": 6,
+  "title": "Containment",
+  "word_count": 2800,
+  "pov_character": "Adrian Keller",
+  "location": "Quarantine facility, Wing C",
+  "time_period": "3-4 days after quarantine begins",
+  "key_events": [
+    "Adrian adjusts to quarantine facility life",
+    "Discovers facility was former psychiatric hospital",
+    "Prescribed antipsychotic medication, doesn't take it",
+    "Sera organizes first Changed network meeting",
+    "Seventeen Changed individuals arrange in geometric circle",
+    "Discussion of suicide cases from Goldstone team",
+    "Dr. Okonkwo observes meeting, asks about Stage 4",
+    "Adrian finds belonging among other Changed"
+  ],
+  "character_development": {
+    "Adrian": "Developing critical perspective on Sera's leadership, experiencing belonging for first time, accepting transformation trajectory",
+    "Sera": "Acts as network coordinator, pushes for collective organization, describes resistance as causing suffering"
+  },
+  "planted_elements": [
+    "Goldstone suicides explained - resistance to change causes suffering",
+    "Network forming consciously, not just instinctively",
+    "Dr. Okonkwo's observation protocols",
+    "Question of Stage 4 raised, unanswered"
+  ],
+  "transformation_stage": "Stage 1 - Enhanced pattern recognition overwhelming, finding patterns in everything, collective perception beginning",
+  "cosmic_horror_elements": [
+    "Surveillance as constant presence",
+    "The seduction of belonging through transformation",
+    "Suicide as response to unbearable change",
+    "Rationalization of horror as evolution"
+  ],
+  "themes": [
+    "Belonging vs. humanity as competing values",
+    "Institutional containment of transformation",
+    "The price of resisting inevitable change"
+  ]
+}

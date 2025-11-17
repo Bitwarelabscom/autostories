@@ -1,0 +1,101 @@
+{
+  "chapter": 35,
+  "title": "Breaking Points",
+  "word_count": 2300,
+  "characters_present": ["Marcus Reid", "Sofia Navarro", "Yuki Tanaka (collapsed)", "Dr. Rashid (remote)", "Ambassador Chen", "Director Kessler (message)"],
+  "character_knowledge": {
+    "ALL_TEAM_MEMBERS": [
+      "Yuki collapsed from exhaustion (5-6 days with ~10 hours sleep total)",
+      "Yuki sedated in hospital to prevent self-harm through overwork",
+      "Feasibility demonstration postponed twice",
+      "Global protests: 100+ million participants, half pro-contact, half anti-contact",
+      "NAU: 2 million in 47 cities, Asian Coalition matching numbers",
+      "Consensus at 31.1% (barely moving)",
+      "82+ deaths from violence, now dozens of small incidents globally",
+      "5 months remaining"
+    ],
+    "Marcus_Reid": [
+      "Realized he's been trying to control outcomes rather than enable choice",
+      "Compared to Kessler (managing consent vs genuine democracy)",
+      "Admitted 'I don't know what to do anymore'",
+      "Recognizes all approaches failing",
+      "Terrified that trusting people means accepting failure"
+    ],
+    "Sofia_Navarro": [
+      "Built 50 million person grassroots network across Latin America",
+      "Furious that democracy only tried after institutional failure",
+      "Accused Marcus of manipulation dressed in ethics language",
+      "Left to work with São Paulo network",
+      "Believes team needs to 'hit bottom before finding different approach'",
+      "Wants Marcus to stop controlling outcome and trust people"
+    ],
+    "Yuki_Tanaka": [
+      "Collapsed during feasibility presentation",
+      "Hospitalized for severe dehydration and exhaustion",
+      "Tried to leave hospital against medical advice",
+      "Sedated by medical staff to prevent overwork",
+      "Medically forbidden from returning to work for 48 hours minimum"
+    ],
+    "Ambassador_Chen": [
+      "Mediated Marcus-Sofia argument",
+      "Pointed out they're complementary not contradictory",
+      "Advised: 'Control and trust are inversely related'",
+      "Suggested distributing work, trusting others"
+    ]
+  },
+  "world_state": {
+    "time": "~1 week after Ch34 (5 months remaining)",
+    "consensus_percentage": "31.1% (barely moved)",
+    "global_protests": "100+ million participants, largest in human history",
+    "violence_status": "Dozens of small incidents globally, low-grade conflict spreading",
+    "casualties": "82+ deaths, increasing from smaller incidents",
+    "team_status": "Breaking - exhaustion, conflict, medical emergencies"
+  },
+  "marcus_sofia_conflict": {
+    "marcus_position": "Need technical infrastructure + institutional support + guiding people to right choice",
+    "sofia_position": "Need grassroots organizing + trust in people + genuine democracy without manipulation",
+    "core_tension": "Control vs trust, outcomes vs process, managing vs enabling",
+    "personal_toll": "Fighting for first time, deep disagreement on fundamentals",
+    "sofia_accusation": "Marcus is like Kessler - expert managing consent rather than trusting democracy"
+  },
+  "team_breakdown": {
+    "yuki": "Hospitalized, sedated, literally worked herself into collapse",
+    "marcus": "Exhausted, admitting he doesn't know what to do",
+    "sofia": "Organizing separately, distancing from institutional work",
+    "team_cohesion": "Fractured - complementary work becoming oppositional"
+  },
+  "planted_elements": [
+    {
+      "element": "Need to hit bottom before finding different approach",
+      "description": "Sofia's insight that breaking is prerequisite to transformation",
+      "foreshadowing": "Ch37-39 will be the complete bottom, Ch40 will be the new approach"
+    },
+    {
+      "element": "Marcus realizing he's been controlling not enabling",
+      "description": "Character development - seeing his own manipulation",
+      "foreshadowing": "Will lead to genuinely trusting grassroots in Ch40"
+    },
+    {
+      "element": "100 million in streets, half opposing",
+      "description": "Largest protests in history, deeply divided",
+      "foreshadowing": "Will escalate further in Ch37-39 before solution emerges"
+    },
+    {
+      "element": "Everything breaking simultaneously",
+      "description": "Technical, personal, political all failing at once",
+      "foreshadowing": "Lowest point before eventual pivot"
+    }
+  },
+  "themes": {
+    "control_vs_trust": "Central tension - can't build trust while controlling",
+    "breaking_point": "Team and systems reaching limits",
+    "manipulation_vs_democracy": "Even well-intentioned guidance can undermine genuine choice"
+  },
+  "next_chapter_hooks": [
+    "Team fractured and exhausted",
+    "Yuki still hospitalized",
+    "Marcus-Sofia relationship strained",
+    "Global protests escalating",
+    "5 months to figure out completely different approach"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "chapter": 29,
+  "title": "The Weight of Knowing",
+  "book": 2,
+  "word_count": 2005,
+  "date_written": "2025-11-17",
+  "temporal_setting": "May 14, 2030 - 7:18 PM",
+  "location": "Oakland, California - Recursionist Facility garden",
+  "pov_character": "Elliot Cross",
+  "type": "Bridge chapter",
+  "key_scenes": [
+    "Elliot hitting wall at 73 extinctions, not planned 100",
+    "Breakdown in the facility garden",
+    "Cassandra finding him and accepting the limit",
+    "Discussion of worst failure - Branch 521",
+    "Experiencing Branch 521 together via quantum entanglement",
+    "Soren's theology causing mission destruction through friendly fire",
+    "Agreement to process trauma rather than continue cataloging"
+  ],
+  "characters_present": ["Elliot Cross", "Cassandra Wright"],
+  "revelations": [
+    "Elliot's limit is 73 extinctions, not 100",
+    "Branch 521: Soren's theological rigidity fragments Recursionists",
+    "Friendly fire and schism destroy mission in Branch 521",
+    "Chen dies in crossfire, Soren killed by followers",
+    "Good people doing destructive things for sacred purposes",
+    "This timeline already prevented Branch 521 through early theological revision"
+  ],
+  "planted_elements": [
+    "73 as Elliot's trauma integration limit",
+    "Branch 521 validates Soren's theology revision in Ch30",
+    "Processing trauma will be necessary before temporal jump",
+    "Cassandra's protective instincts about limits"
+  ],
+  "character_states": {
+    "Elliot_Cross": {
+      "emotional_state": "Broken, overwhelmed, at limit",
+      "knowledge": "73 extinctions cataloged and integrated",
+      "arc_position": 0.48
+    },
+    "Cassandra_Wright": {
+      "emotional_state": "Protective, accepting limits, sharing worst trauma",
+      "arc_position": 0.48
+    }
+  },
+  "themes_explored": [
+    "Recognizing and honoring limits",
+    "Worst failures often come from good intentions",
+    "Trauma integration has natural boundaries",
+    "Shared witnessing of horror"
+  ],
+  "next_chapter_hooks": [
+    "How will they process 73 extinctions?",
+    "Will Soren learn from Branch 521?",
+    "Can Elliot navigate with partial knowledge?"
+  ]
+}

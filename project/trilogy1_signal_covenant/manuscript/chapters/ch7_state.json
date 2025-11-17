@@ -1,0 +1,66 @@
+{
+  "chapter": 7,
+  "title": "Layers",
+  "word_count": 2400,
+  "pov_character": "Marcus Reid",
+  "time_elapsed": "Weekend, 2 weeks after Ch6",
+  "location": "Chilean National Supercomputing Center",
+  "plot_threads_advanced": [
+    "Supercomputing analysis reveals five-dimensional mathematical encoding",
+    "Layer two shows synchronization markers with prime number spacing",
+    "Discovery that five layers are projections of one higher-dimensional object",
+    "Dr. Rashid Chen (topology specialist) recruited to team",
+    "Signal is teaching humanity new mathematics beyond current knowledge"
+  ],
+  "character_arcs": {
+    "Marcus Reid": {
+      "position": 0.08,
+      "state": "Confronts his dissertation trauma while recognizing current evidence is solid",
+      "key_moment": "Shares full story of dissertation failure with Yuki, who validates his carefulness"
+    },
+    "Yuki Tanaka": {
+      "position": 0.08,
+      "state": "Humbled by signal complexity, recognition that she needs help",
+      "key_moment": "Admits feeling humbled - 'not a feeling I'm accustomed to in my professional work'"
+    },
+    "Sofia Navarro": {
+      "position": 0.08,
+      "state": "Team builder, coordinating expansion of expertise",
+      "key_moment": "Emphasizes collaborative approach - 'teams take care of each other'"
+    }
+  },
+  "planted_elements": [],
+  "knowledge_revealed": [
+    "Signal is one message encoded in five dimensions of mathematical space",
+    "Each layer is a different projection of the same hyperdimensional object",
+    "Aliens are teaching humanity to think in higher dimensions",
+    "Message includes mathematical concepts beyond current human knowledge",
+    "Synchronization markers use prime number spacing as intelligence indicator",
+    "The communication is both message and tutorial"
+  ],
+  "causal_chains": [
+    {
+      "cause": "Yuki identifies five-dimensional encoding structure",
+      "effect": "Realization that aliens are teaching new mathematics, not just communicating",
+      "thread": "Nature of the test"
+    },
+    {
+      "cause": "Complexity exceeds Yuki's expertise",
+      "effect": "Recruitment of additional mathematicians (Rashid Chen)",
+      "thread": "Team expansion"
+    }
+  ],
+  "tension_elements": [
+    "17-month deadline to learn higher-dimensional mathematics",
+    "Signal complexity suggests this is a test of learning capability",
+    "Fear of failure - both personal (Marcus) and civilizational",
+    "Need for more expertise than currently available",
+    "Question: Is this optimism about human intelligence or a filter?"
+  ],
+  "world_state_changes": [
+    "Dr. Rashid Chen joins team as topology specialist",
+    "Understanding shifts: message is multi-dimensional mathematical object",
+    "Team recognizes aliens are teaching, not just communicating",
+    "17 months remaining until Voyager arrival"
+  ]
+}

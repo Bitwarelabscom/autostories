@@ -1,0 +1,36 @@
+{
+  "chapter": 51,
+  "title": "The Final Push",
+  "word_count": 1284,
+  "characters_present": ["Marcus Reid", "Sofia Navarro", "Yuki Tanaka", "Dr. Rashid"],
+  "character_knowledge": {
+    "ALL_TEAM_MEMBERS": [
+      "Marcus announced third option at 75% publicly",
+      "17 institutions verified independently",
+      "Initial surge gained 1.1 points in 24 hours",
+      "Momentum slowed, gained 1.9 points total over 3 days",
+      "Launched #WhyIChose personal stories campaign",
+      "Current: 1.51 billion participants, 68.9% yes, 31.1% no",
+      "3 days until arrival, need 6.1 more percentage points",
+      "Thorne ready to make official announcement tomorrow (Ch52)"
+    ]
+  },
+  "world_state": {
+    "time": "3 days before Voyager arrival",
+    "referendum_status": {
+      "participants": "1.51 billion",
+      "yes_votes": "68.9%",
+      "gap_to_target": "6.1 percentage points to 75%",
+      "rate_needed": "2 percentage points per day"
+    }
+  },
+  "themes": {
+    "personal_vs_abstract": "Making choice real through individual stories",
+    "close_not_enough": "Near-success still means failure in binary test"
+  },
+  "next_chapter_hooks": [
+    "Thorne announces tomorrow at 10 AM Geneva time",
+    "3 days, 6.1 points needed",
+    "Ch52 next (Thorne's Redemption)"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "chapter": 34,
+  "title": "Dying Voices",
+  "book": 2,
+  "word_count": 2085,
+  "date_written": "2025-11-17",
+  "temporal_setting": "June 22 - July 9, 2030",
+  "location": "Oakland, California - Recursionist Facility, with quantum connections to 2150",
+  "pov_character": "Elliot Cross",
+  "type": "Bridge chapter",
+  "key_scenes": [
+    "Accidental deeper contact with original timeline",
+    "Meeting Dr. Lisa Park before the transmission",
+    "Regular quantum conversations over three weeks",
+    "Dr. Chen discussing final transmission preparation",
+    "Dr. Park's distress about dying",
+    "Two suicides in the bunker",
+    "Final message sent as connection degrades",
+    "Saying goodbye to the 300"
+  ],
+  "characters_present": ["Elliot Cross", "Cassandra Wright", "Dr. Lisa Park (2150)", "Dr. Sarah Chen (2150)", "300 original timeline survivors"],
+  "revelations": [
+    "Can interact with original timeline before transmission",
+    "Bootstrap timeline has eight billion people thriving",
+    "Original timeline voted unanimously to erase themselves",
+    "Two suicides before transmission due to waiting pressure",
+    "Dr. Park wanted to see the timeline they're creating",
+    "Final goodbyes as power fails in 2150 bunker",
+    "Elliot promises to honor them properly"
+  ],
+  "planted_elements": [
+    "Personal connections with 300 increase obligation weight",
+    "Promises to make timeline worthy of sacrifice",
+    "Understanding original timeline's choice more deeply",
+    "Quantum messages sent backward through degraded link"
+  ],
+  "character_states": {
+    "Elliot_Cross": {
+      "emotional_state": "Connected to dying voices, making promises, grieving",
+      "knowledge": "Personal stories from original timeline",
+      "arc_position": 0.57
+    },
+    "Cassandra_Wright": {
+      "emotional_state": "Supportive, witnessing Elliot's grief",
+      "arc_position": 0.57
+    }
+  },
+  "themes_explored": [
+    "Personal connection to sacrifice",
+    "Dying with purpose vs dying afraid",
+    "Promises across time",
+    "Grief for people who chose to cease existing"
+  ],
+  "next_chapter_hooks": [
+    "How will personal promises affect mission pressure?",
+    "Did final message reach them?",
+    "Can Elliot live up to 300 individual promises?"
+  ]
+}

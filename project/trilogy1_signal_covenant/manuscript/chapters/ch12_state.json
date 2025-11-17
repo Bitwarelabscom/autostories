@@ -1,0 +1,81 @@
+{
+  "chapter": 12,
+  "title": "The Industrialist",
+  "word_count": 2400,
+  "pov_character": "Marcus Reid",
+  "time_elapsed": "68 hours before ArXiv publication",
+  "location": "Atacama Observatory",
+  "plot_threads_advanced": [
+    "Evelyn Thorne arrives proposing corporate partnership with Prometheus Industries",
+    "Thorne reveals she's been monitoring team's work for 6 weeks",
+    "Offers resources (supercomputing, encryption, legal protection) in exchange for commercial rights",
+    "Warns government containment will happen immediately after publication",
+    "Team tables decision until after publication to see actual response",
+    "Thorne provides strategic communication advice for disclosure"
+  ],
+  "character_arcs": {
+    "Marcus Reid": {
+      "position": 0.17,
+      "state": "Wrestling with pragmatism vs idealism in resource needs",
+      "key_moment": "Decides to table Thorne decision until after publication"
+    },
+    "Sofia Navarro": {
+      "position": 0.17,
+      "state": "Suspicious of corporate involvement, defending pure collaboration",
+      "key_moment": "Argues corporate partnership betrays first contact principles"
+    },
+    "Yuki Tanaka": {
+      "position": 0.17,
+      "state": "Torn between loyalty to former mentor and suspicion of corporate motives",
+      "key_moment": "Recognizes Thorne still cares about science but thinks like CEO"
+    },
+    "Evelyn Thorne": {
+      "position": 0.2,
+      "state": "Revealing her complexity - wants to contribute to meaningful science again",
+      "key_moment": "Admits she hates being the villain, misses pure scientific work"
+    }
+  },
+  "planted_elements": [
+    {
+      "element": "Thorne's abandoned scientific idealism",
+      "description": "Thorne was once a pure scientist who cared about knowledge for its own sake. She founded Prometheus to fund research but lost herself in corporate priorities. She misses the joy of understanding and wants to be part of first contact for the science, not just profit.",
+      "payoff_chapter": 52,
+      "significance": "Rediscovers love of pure knowledge over profit in discovering third option"
+    }
+  ],
+  "knowledge_revealed": [
+    "Prometheus has been monitoring team for 6 weeks",
+    "Thorne tracked Yuki's involvement, traced network back to team",
+    "Prometheus offers significant resources: quantum computing, satellites, legal protection",
+    "Warning: government containment will follow publication immediately",
+    "Thorne was Yuki's doctoral advisor before going corporate",
+    "Strategic advice: lead with Riemann Hypothesis proof for best public reception"
+  ],
+  "causal_chains": [
+    {
+      "cause": "Team planning ArXiv publication in 68 hours",
+      "effect": "Thorne arrives offering resources and warning about government response",
+      "thread": "Corporate interest in first contact"
+    },
+    {
+      "cause": "Thorne's scientific idealism abandoned for corporate success",
+      "effect": "Now wants to contribute to first contact to reconnect with meaningful science",
+      "thread": "Thorne's character arc setup"
+    }
+  ],
+  "tension_elements": [
+    "68-hour countdown to publication",
+    "Decision: accept corporate partnership or maintain independence",
+    "Idealism vs pragmatism dilemma",
+    "Thorne's warning about immediate government containment",
+    "Corporate monetization of first contact",
+    "Yuki's conflict with former mentor"
+  ],
+  "world_state_changes": [
+    "Thorne/Prometheus aware of full investigation scope",
+    "Corporate partnership offered but decision tabled",
+    "Team aware government containment likely after publication",
+    "68 hours until ArXiv publication",
+    "Strategic framing advice provided by Thorne"
+  ]
+}

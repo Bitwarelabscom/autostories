@@ -1,0 +1,42 @@
+{
+  "chapter": 58,
+  "title": "Humanity Watches",
+  "word_count": 1261,
+  "characters_present": ["Marcus Reid", "Sofia Navarro", "Yuki Tanaka", "Dr. Rashid", "General Reeves (by phone)"],
+  "character_knowledge": {
+    "ALL_TEAM_MEMBERS": [
+      "Referendum closed at 76.8% yes, 23.2% no, 1.94 billion participants",
+      "24 hours before Voyager arrival",
+      "Military interception attempts failed",
+      "Missile will hit Voyager unless Voyager defends itself",
+      "Global watch party: 4.2 billion people monitoring",
+      "Messages of support from Kessler, Thorne, Sarah Chen, Director Chen, others"
+    ],
+    "Marcus_Reid": [
+      "Final review of speech",
+      "Reflecting on team's accomplishments",
+      "Feeling gratitude for those who believed in him",
+      "Prepared for all outcomes"
+    ]
+  },
+  "world_state": {
+    "time": "24 hours before Voyager arrival, countdown to missile impact",
+    "referendum_status": {
+      "final": "76.8% yes, 23.2% no, 1.94 billion participants",
+      "closed": "12 hours ago"
+    },
+    "global_response": {
+      "watching": "4.2 billion people",
+      "mood": "Anxious, hopeful, collective breath-holding"
+    }
+  },
+  "themes": {
+    "unity_in_diversity": "True unity is caring about outcome together, not all agreeing",
+    "collective_waiting": "Humanity united in anticipation regardless of individual votes"
+  },
+  "next_chapter_hooks": [
+    "Countdown to missile impact",
+    "World watching together",
+    "Marcus ready to speak"
+  ]
+}

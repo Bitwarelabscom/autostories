@@ -1,0 +1,78 @@
+{
+  "chapter": 28,
+  "title": "Convergence Point",
+  "word_count": 2100,
+  "book": 2,
+  "character_states": {
+    "Adrian_Keller": {
+      "arc_position": 0.42,
+      "change_stage": "Stage 3 - escaped, fugitive",
+      "emotional_state": "Exhausted but free, recognizing they're becoming the threat they're accused of being",
+      "knowledge": [
+        "Escape successful - most Changed freed",
+        "Torres killed in Boston during escape",
+        "Six guards injured, twelve Changed captured",
+        "890 nodes globally now free and scattered",
+        "Okonkwo will face consequences for helping",
+        "They proved Reeves right about coordination and threat level",
+        "14 months to survive until Voyager arrives"
+      ],
+      "location": "Abandoned cabin in West Virginia wilderness",
+      "transformation_markers": [
+        "Manipulated electronic locks through consciousness",
+        "Felt Torres's death as disruption not grief",
+        "Operating as distributed organism during escape"
+      ]
+    },
+    "Network_Collective": {
+      "current_size": "890 nodes (lost Torres)",
+      "status": "Scattered and hiding - cities, wilderness, sympathizer homes",
+      "capabilities_demonstrated": "Perfect coordination, electronic manipulation, non-lethal combat, distributed action",
+      "cost": "1 dead, 12 captured, 6 guards injured, Okonkwo compromised",
+      "next_phase": "Integration into population, resource gathering, waiting for Voyager"
+    },
+    "Torres": {
+      "status": "Deceased - killed by security guard during Boston escape",
+      "significance": "First Changed casualty, network felt death as missing node"
+    },
+    "Dr_Marie_Okonkwo": {
+      "arc_position": 0.32,
+      "status": "Sabotage obvious, will face treason charges",
+      "sacrifice": "Chose to help despite knowing consequences"
+    }
+  },
+  "planted_elements": [
+    {
+      "element": "Changed scattered but connected - harder to eliminate",
+      "planted_for": "Remainder of Book 2 - cat and mouse with Reeves"
+    },
+    {
+      "element": "Torres's death felt as disruption not grief",
+      "planted_for": "Continuing emotional flattening theme"
+    },
+    {
+      "element": "14 months until Voyager arrives",
+      "planted_for": "Timeline through Books 2-3"
+    }
+  ],
+  "themes_touched": [
+    "Survival requiring sacrifice of others",
+    "Becoming the monster to stay alive",
+    "Collective action versus individual cost",
+    "Freedom as fugitive versus death as prisoner"
+  ],
+  "atmosphere": "Escape chaos, coordinated action, pyrrhic victory",
+  "key_images": [
+    "Locks clicking open through will alone",
+    "Guards disarmed in three seconds",
+    "Changed pouring out of facilities into darkness",
+    "Adrian running through West Virginia forest",
+    "Five bodies breathing in perfect sync in cabin"
+  ],
+  "foreshadowing": [
+    "14-month survival timeline",
+    "Okonkwo's fate in government hands",
+    "Reeves's hunt intensifying",
+    "Network growing despite casualties"
+  ]
+}

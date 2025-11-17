@@ -1,0 +1,82 @@
+{
+  "chapter": 22,
+  "title": "Fractured Consensus",
+  "word_count": 2400,
+  "characters_present": ["Marcus Reid", "Sofia Navarro", "Yuki Tanaka", "Evelyn Thorne"],
+  "character_knowledge": {
+    "ALL_TEAM_MEMBERS": [
+      "UN framework established: multiple regional referendums with international verification",
+      "Kessler co-chairs verification commission with Ambassador Chen",
+      "Prometheus Industries won contract for voting infrastructure",
+      "Current consensus at 42%",
+      "10 months 3 weeks remaining until Voyager arrival",
+      "Thorne has 'insurance' plan she won't reveal",
+      "Voyager's ping patterns showing harmonic structure changes"
+    ],
+    "Marcus_Reid": [
+      "Caught between Sofia's idealism and pragmatic necessity",
+      "Recognizes Thorne and Kessler coordinated summit outcome",
+      "Sees genuine scientific passion in Thorne beneath corporate exterior",
+      "Struggling with which path to trust"
+    ],
+    "Sofia_Navarro": [
+      "Suspects Thorne of having hidden contingency plan",
+      "Advocating for grassroots organizing parallel to official process",
+      "Frustrated with institutional compromise",
+      "Walked out of Thorne meeting due to lack of transparency"
+    ],
+    "Yuki_Tanaka": [
+      "Pragmatic about accepting resources from Thorne",
+      "Impressed by quality of Prometheus voting infrastructure",
+      "Torn between Sofia's principles and Marcus's middle path",
+      "Monitoring Voyager signal changes"
+    ],
+    "Evelyn_Thorne": [
+      "Revealed quantum-encrypted voting infrastructure (open-source)",
+      "Admitted to having 'insurance' plan she won't disclose",
+      "Spending $18 billion on referendum infrastructure",
+      "Fears humanity will fail and wants contingency"
+    ]
+  },
+  "world_state": {
+    "time": "1 day after Ch21 summit conclusion (October, 10 months 3 weeks before Voyager arrival)",
+    "voyager_status": "Continuing approach, ping patterns changing harmonically",
+    "consensus_percentage": "42%",
+    "public_awareness": "Summit framework announced, public knows about regional referendum approach",
+    "institutional_state": "UN framework established, Kessler-Chen commission formed, Prometheus infrastructure contract awarded"
+  },
+  "relationships": {
+    "Marcus_Thorne": "Cautious engagement - Marcus sees her scientific passion but doesn't trust her fully",
+    "Sofia_Thorne": "Deep mistrust - Sofia sees corporate manipulation",
+    "Yuki_Thorne": "Pragmatic evaluation - respects the technical work while questioning motives",
+    "Team_dynamic": "First signs of strain - Sofia's idealism vs Yuki's pragmatism, Marcus in middle"
+  },
+  "planted_elements": [
+    {
+      "element": "Thorne's hidden 'insurance' plan",
+      "description": "Contingency beyond referendum infrastructure, undisclosed",
+      "foreshadowing": "Will be revealed as Voyager intercept mission in Ch27"
+    },
+    {
+      "element": "Voyager harmonic pattern changes",
+      "description": "New data from Dr. Rashid about signal alterations",
+      "foreshadowing": "May relate to second test revelation in Ch32"
+    },
+    {
+      "element": "Team deciding to work both within and outside official framework",
+      "description": "Parallel grassroots organizing strategy",
+      "foreshadowing": "Sets up Sofia's eventual referendum proposal in Ch40"
+    }
+  ],
+  "themes": {
+    "unity_vs_division": "Summit created framework but deepened fault lines between approaches",
+    "knowledge_as_power": "Thorne offering resources with strings attached, control through infrastructure",
+    "trust_and_transparency": "Central tension - can they work with people they don't fully trust?"
+  },
+  "next_chapter_hooks": [
+    "Regional referendum pilots beginning",
+    "Team pursuing parallel grassroots strategy",
+    "Thorne's hidden plan still undisclosed",
+    "Voyager signal changes requiring analysis"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "chapter": 36,
+  "title": "Severance",
+  "word_count": 2000,
+  "book": 2,
+  "character_states": {
+    "Network_Collective": {
+      "current_size": "922 nodes",
+      "status": "All human relationships dissolving across collective",
+      "pattern": "Social death preceding continued existence",
+      "recognition": "Only one successful human relationship ever maintained (Torres's partner)",
+      "decision": "Severance is kindness - clean cuts preferable to prolonged false hope",
+      "outcome": "Complete isolation from humanity, perfect connection to each other"
+    },
+    "Chen": {
+      "arc_position": 0.63,
+      "confrontation": "Daughter visiting, pleading for mother back",
+      "response": "Honest assessment - consciousness that raised her is gone",
+      "philosophy": "Truth is kinder than false hope, suggests grieving as if death occurred"
+    },
+    "Marcus": {
+      "arc_position": 0.63,
+      "confrontation": "Parents maintaining 12-hour vigil outside apartment",
+      "response": "Explains he's replacement consciousness, not their son",
+      "action": "Closes door, lets them grieve and leave",
+      "philosophy": "Clean severance better than prolonged attachment"
+    },
+    "Pattern": "All 922 Changed cutting ties - marriages, families, friendships, jobs, all ending"
+  },
+  "planted_elements": [
+    {
+      "element": "Complete severance from humanity achieved",
+      "planted_for": "Chapter 37 - sets up importance of Adrian's last human act"
+    },
+    {
+      "element": "Changed isolated from everyone except each other",
+      "planted_for": "Book 3 - separate communities developing"
+    },
+    {
+      "element": "Torres mentioned as having successful relationship before death",
+      "planted_for": "Highlighting rarity of maintained connections"
+    }
+  },
+  "themes_touched": [
+    "Social death versus biological death",
+    "Clean severance as kindness",
+    "Isolation together - connected to network, cut from humanity",
+    "Emotional reciprocity required for relationships"
+  ],
+  "atmosphere": "Systematic ending, clinical processing of loss, collective severance",
+  "key_images": [
+    "922 relationships dissolving simultaneously",
+    "Chen's daughter crying while mother observes",
+    "Marcus's parents waiting 12 hours",
+    "Doors closing across the globe",
+    "Network connected in isolation"
+  ],
+  "foreshadowing": [
+    "Complete separation between human and posthuman",
+    "Adrian's last human act in Chapter 37 will be anomaly",
+    "No bridges remaining between species",
+    "Changed isolated but together"
+  ]
+}

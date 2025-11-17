@@ -1,0 +1,90 @@
+{
+  "chapter": 26,
+  "title": "First Blood",
+  "word_count": 2500,
+  "characters_present": ["Marcus Reid", "Sofia Navarro", "Yuki Tanaka", "Director James Kessler", "Ambassador Chen", "Dr. Rashid"],
+  "character_knowledge": {
+    "ALL_TEAM_MEMBERS": [
+      "39 people killed in referendum-related violence across Lagos (17), Delhi (8), São Paulo (15)",
+      "Youngest victim: 14-year-old girl in Lagos",
+      "Consensus dropped from 54% to 39% in 3 days",
+      "NEW SIGNAL FROM ASSEMBLED: Ethics is third test criterion",
+      "Assembled evaluation: Intelligence=Demonstrated, Unity=Insufficient, Ethics=Concerning",
+      "Violence in pursuit of unity is contradiction - disqualifying",
+      "Emergency moratorium on demonstrations declared by commission",
+      "8 months 23 days remaining"
+    ],
+    "Marcus_Reid": [
+      "Feels crushing responsibility for deaths",
+      "Advocated for public statement calling for peace",
+      "Released joint scientist statement condemning violence",
+      "Realizes test includes how consensus is achieved, not just whether"
+    ],
+    "Sofia_Navarro": [
+      "Refuses to let deaths be meaningless by giving up",
+      "Sees victims as martyrs who believed in something",
+      "Committed to continuing despite violence"
+    ],
+    "Yuki_Tanaka": [
+      "Decoded new Assembled message clarifying ethics test",
+      "Tracked rapid consensus decline",
+      "Noted violence has paused (not stopped) after ethics message went public"
+    ],
+    "James_Kessler": [
+      "Immediately called for demonstration ban after Lagos",
+      "Focused on preventing next deaths through restriction",
+      "Supported emergency moratorium on protests"
+    ],
+    "Ambassador_Chen": [
+      "Invoked commission emergency powers",
+      "Implemented global moratorium on referendum demonstrations"
+    ]
+  },
+  "world_state": {
+    "time": "~1 week after Ch25 (8 months 23 days remaining)",
+    "consensus_percentage": "39% (dropped from 54%)",
+    "casualties": "39 dead (Lagos 17, Delhi 8, São Paulo 15), hundreds injured",
+    "demonstration_status": "Global moratorium declared, unevenly enforced",
+    "assembled_message": "Ethics test revealed as third criterion alongside intelligence and unity"
+  },
+  "assembled_evaluation": {
+    "intelligence": "Demonstrated (passed)",
+    "unity": "Insufficient (failing)",
+    "ethics": "Concerning (failing)",
+    "key_message": "Violence in pursuit of unity is contradiction - casualties indicate failure of prerequisites"
+  },
+  "planted_elements": [
+    {
+      "element": "Ethics test revealed early",
+      "description": "Assembled clarify that method matters as much as outcome",
+      "foreshadowing": "Will be fully explored in Ch32 when second formal test revealed, but seed planted here"
+    },
+    {
+      "element": "39% consensus - major drop",
+      "description": "From 54% to 39% in days due to violence",
+      "foreshadowing": "Will drop further to 35% by Ch31, creating crisis"
+    },
+    {
+      "element": "Violence paused but not stopped",
+      "description": "Knowledge that aliens are watching changes behavior",
+      "foreshadowing": "Violence will return in different forms through Book 2"
+    },
+    {
+      "element": "Marcus questioning whether to continue",
+      "description": "First time protagonist considers giving up",
+      "foreshadowing": "Will face this question again, ultimately finding alternative path"
+    }
+  ],
+  "themes": {
+    "unity_vs_division": "Violence reveals how deeply divided humanity is",
+    "ethics_and_legitimacy": "Method of achieving consensus matters as much as the result",
+    "cost_of_choice": "Human lives being lost in pursuit of abstract goal"
+  },
+  "next_chapter_hooks": [
+    "Consensus at 39%, massive deficit to overcome",
+    "Ethics now explicit part of test",
+    "Violence paused but tensions remain",
+    "Need to rebuild consensus peacefully with 8 months 23 days left",
+    "Ch27 (tentpole) will reveal Thorne's conspiracy, further damaging trust"
+  ]
+}

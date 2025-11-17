@@ -1,0 +1,74 @@
+{
+  "chapter": 18,
+  "title": "Fracture Lines",
+  "word_count": 2300,
+  "pov_character": "Marcus Reid",
+  "time_elapsed": "Weeks after Ch17, 412 days before Voyager arrival",
+  "location": "Uruguay Bunker",
+  "plot_threads_advanced": [
+    "Global protests and counter-protests escalate",
+    "Sentiment: 35% believers (collaborative), 29% deniers, 22% nationalists, 8% religious fundamentalists, 6% undecided",
+    "Russian government threatens VRCN Moscow hub, uses scientists as hostages",
+    "Team implements real-time publication of unverified mathematics",
+    "Kessler arrested, final message warns of Operation Firebreak (plan to destroy Voyager)",
+    "VRCN issues statement protecting Voyager from destruction",
+    "9,847 VRCN members, 7,234 sign anti-destruction statement",
+    "412 days remaining until Voyager arrival"
+  ],
+  "character_arcs": {
+    "Marcus Reid": {
+      "position": 0.28,
+      "state": "Leading VRCN through crisis, making difficult trade-offs",
+      "key_moment": "Chooses speed over precision in publication to prevent governmental monopolization"
+    },
+    "Sofia Navarro": {
+      "position": 0.28,
+      "state": "Recognizing complexity and choosing optimism",
+      "key_moment": "Argues for working together despite differences, not requiring perfect unity"
+    },
+    "James Kessler": {
+      "position": 0.20,
+      "state": "Arrested for espionage, sends final warning about Operation Firebreak",
+      "key_moment": "Final message sacrificing freedom to warn about Voyager destruction plan"
+    }
+  },
+  "planted_elements": [],
+  "knowledge_revealed": [
+    "Detailed global sentiment breakdown and polarization",
+    "Multiple national governments threatening VRCN hubs",
+    "Real-time publication strategy trades precision for speed and access",
+    "Operation Firebreak: NAU military faction plans to destroy Voyager",
+    "Public statement makes Voyager destruction politically toxic",
+    "412 days remaining countdown established",
+    "Messy collaboration emerging despite imperfect unity"
+  ],
+  "causal_chains": [
+    {
+      "cause": "Governments using VRCN members as hostages for exclusive access",
+      "effect": "Team implements real-time publication, reducing verification but preventing monopolization",
+      "thread": "Publication strategy evolution"
+    },
+    {
+      "cause": "Kessler warns of Operation Firebreak before arrest",
+      "effect": "VRCN issues statement making Voyager destruction politically toxic",
+      "thread": "Protecting first contact from destruction"
+    }
+  ],
+  "tension_elements": [
+    "412-day countdown pressure",
+    "Scientists being used as hostages by governments",
+    "Operation Firebreak threatening to destroy Voyager entirely",
+    "Trade-off: verification precision vs publication speed",
+    "Polarization increasing even as coordination improves",
+    "Question: Is imperfect collaboration enough to pass the test?"
+  ],
+  "world_state_changes": [
+    "Global protests and counter-protests at massive scale",
+    "VRCN implementing real-time publication of unverified work",
+    "Kessler arrested for espionage",
+    "Operation Firebreak exposed and politically neutralized",
+    "9,847 VRCN members, growing daily",
+    "412 days until Voyager arrival",
+    "Messy global collaboration emerging despite fractures"
+  ]
+}

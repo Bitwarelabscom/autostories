@@ -1,0 +1,64 @@
+{
+  "chapter": 2,
+  "title": "Second Eyes",
+  "word_count": 2300,
+  "pov_character": "Marcus Reid",
+  "time_elapsed": "12 hours after Ch1",
+  "location": "Atacama Private Observatory",
+  "plot_threads_advanced": [
+    "Marcus sends findings to Sofia - begins collaboration",
+    "Sofia independently verifies the deceleration pattern",
+    "Discovery extends to 11 months of deceleration",
+    "Signal modulation anomalies identified",
+    "Decision to investigate independently vs institutional channels"
+  ],
+  "character_arcs": {
+    "Marcus Reid": {
+      "position": 0.02,
+      "state": "Terrified he's wrong again but seeking validation",
+      "key_moment": "Sofia confirms his findings - first external validation"
+    },
+    "Sofia Navarro": {
+      "position": 0.02,
+      "state": "Takes Marcus seriously enough to verify independently",
+      "key_moment": "Discovers extended timeline - 11 months of deceleration"
+    }
+  },
+  "planted_elements": [
+    {
+      "element": "Voyager's Golden Record",
+      "description": "Marcus reflects on the Golden Record as humanity's message in a bottle - 'Peace and happiness to all' in multiple languages",
+      "payoff_chapter": 60,
+      "significance": "Aliens will return it with addendum in final chapter"
+    }
+  ],
+  "knowledge_revealed": [
+    "Deceleration has been occurring for at least 11 months",
+    "Signal modulation shows non-random patterns (possible message)",
+    "Multiple independent data sources confirm the pattern",
+    "Yuki Tanaka identified as cryptography specialist to recruit"
+  ],
+  "causal_chains": [
+    {
+      "cause": "Marcus sends findings to Sofia",
+      "effect": "Sofia performs independent verification",
+      "thread": "Building the investigation team"
+    },
+    {
+      "cause": "Sofia accesses raw ESA data",
+      "effect": "Discovers 11-month deceleration timeline",
+      "thread": "Expanding the discovery scope"
+    }
+  ],
+  "tension_elements": [
+    "Marcus's fear of being wrong again",
+    "Decision to work outside institutional channels",
+    "18-month countdown established",
+    "Possible message embedded in signal"
+  ],
+  "world_state_changes": [
+    "Marcus and Sofia form partnership",
+    "Decision made to recruit specialists secretly",
+    "Timeline: 18 months until Voyager arrival"
+  ]
+}

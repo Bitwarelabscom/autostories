@@ -1,0 +1,65 @@
+{
+  "chapter": 3,
+  "title": "Believer",
+  "word_count": 2400,
+  "pov_character": "Sofia Navarro",
+  "time_elapsed": "Same night as Ch2, 6 hours of parallel work",
+  "location": "Radio Astronomy Lab, Santiago / Atacama Observatory (video call)",
+  "plot_threads_advanced": [
+    "Sofia identifies three distinct signal modulation layers in Voyager transmission",
+    "Layer two started 11 months ago (deceleration start)",
+    "Layer three started 3 weeks ago (higher complexity)",
+    "Proof of active system manipulation by external intelligence",
+    "Decision to seek ESA independent verification (48-hour timeline)"
+  ],
+  "character_arcs": {
+    "Sofia Navarro": {
+      "position": 0.03,
+      "state": "Committed to truth regardless of institutional approval",
+      "key_moment": "Shares brother Mateo's story - establishes her core motivation"
+    },
+    "Marcus Reid": {
+      "position": 0.03,
+      "state": "Beginning to trust his pattern recognition despite past trauma",
+      "key_moment": "Admits he felt 'recognition' when first seeing the pattern"
+    }
+  },
+  "planted_elements": [
+    {
+      "element": "Sofia's brother Mateo who believed in her",
+      "description": "Mateo worked double shifts to keep Sofia in school, taught her to see patterns in chaos, died believing she'd contribute something meaningful. His belief inspires her approach to first contact.",
+      "payoff_chapter": 40,
+      "significance": "Inspires grassroots solution - belief from below, not authority from above"
+    }
+  ],
+  "knowledge_revealed": [
+    "Three distinct modulation layers identified in Voyager signal",
+    "Voyager transmitter operating beyond design specifications",
+    "External intelligence actively manipulating Voyager's systems",
+    "ESA verification requested (48-hour timeline)",
+    "Decision point approaching: institutional vs public disclosure"
+  ],
+  "causal_chains": [
+    {
+      "cause": "Sofia discovers signal modulation beyond Voyager's capabilities",
+      "effect": "Proof of active alien manipulation, not just trajectory change",
+      "thread": "Evidence accumulation"
+    },
+    {
+      "cause": "Mateo's teaching about patterns in chaos",
+      "effect": "Sofia's conviction that truth belongs to everyone, not institutions",
+      "thread": "Sofia's grassroots philosophy foundation"
+    }
+  ],
+  "tension_elements": [
+    "Marcus and Sofia bonding as conspirators",
+    "Approaching institutional presentation to Director Chen",
+    "Recognition that disclosure will be brutal",
+    "Signal complexity suggesting active alien communication"
+  ],
+  "world_state_changes": [
+    "Marcus and Sofia form true partnership, trust established",
+    "ESA verification process initiated",
+    "Timeline: 48 hours until ESA confirmation"
+  ]
+}

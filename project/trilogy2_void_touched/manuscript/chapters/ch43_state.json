@@ -1,0 +1,106 @@
+{
+  "chapter": 43,
+  "title": "The First Fracture",
+  "word_count": 2416,
+  "book": 3,
+  "character_states": {
+    "Adrian_Keller": {
+      "arc_position": 0.72,
+      "change_stage": "Stage 3 - Accelerating toward Stage 4",
+      "emotional_state": "Fragments of human emotion eroding, clinical detachment deepening",
+      "knowledge": [
+        "Fracture zone has reached Green Bank",
+        "Changed can navigate altered physics naturally",
+        "Humans go immediately insane in fracture zones",
+        "73 fracture zones globally and spreading",
+        "Fractures will merge in 3 months or less",
+        "1,683 Changed globally",
+        "Lena will try to reach him despite warnings",
+        "Okonkwo close to finding cure",
+        "Stage 4 approaching in 4 weeks or less"
+      ],
+      "transformation_markers": [
+        "Can perceive mathematical discontinuities in space-time",
+        "Ends call with Lena without emotional reaction",
+        "Navigates impossible geometry naturally",
+        "Processes Lena's pain as data, not emotion",
+        "Uncertain if he'll care enough to save her in future"
+      ]
+    },
+    "Sera_Volkov": {
+      "arc_position": 0.77,
+      "change_stage": "Stage 4 - Full temporal non-linearity",
+      "emotional_state": "Beyond emotion - mathematical perception only",
+      "knowledge": [
+        "Sees Lena's future attempt to reach Green Bank",
+        "Knows Okonkwo's cure research outcomes probabilistically",
+        "Perceives Adrian's uncertainty about future choices",
+        "Understands segregation as inevitable"
+      ],
+      "role": "Guide and observer, experiencing all timelines simultaneously"
+    },
+    "Lena_Martinez": {
+      "arc_position": 0.63,
+      "emotional_state": "Desperate, heartbroken, determined",
+      "knowledge": [
+        "Fracture zones spreading globally",
+        "Adrian is in Green Bank fracture zone",
+        "Adrian no longer cares about her emotionally",
+        "He considers the person she loved already dead"
+      ],
+      "role": "Human connection being severed, will attempt to reach him anyway"
+    },
+    "Dr_Marie_Okonkwo": {
+      "arc_position": 0.59,
+      "emotional_state": "Obsessed with finding cure",
+      "knowledge": [
+        "Close to identifying cure mechanism",
+        "Could reverse early-stage Change by pruning neural pathways"
+      ],
+      "role": "Racing toward moral crisis in Chapter 52"
+    }
+  },
+  "planted_elements": [
+    {
+      "element": "Lena will attempt to reach Green Bank in 2 weeks",
+      "planted_for": "Chapter 45-46 - Lena's arrival and rescue"
+    },
+    {
+      "element": "Adrian uncertain if he'll care enough to save her",
+      "planted_for": "Chapter 37 parallel - last human act"
+    },
+    {
+      "element": "Okonkwo's cure research nearing completion",
+      "planted_for": "Chapter 52 - Okonkwo's Breakthrough"
+    },
+    {
+      "element": "Fractures merging in 3 months",
+      "planted_for": "Chapter 47 timeline and escalation"
+    },
+    {
+      "element": "Changed save human maintenance worker",
+      "planted_for": "Demonstrating Changed mercy before Reeves incident"
+    }
+  ],
+  "themes_touched": [
+    "Segregation without violence - incompatibility of consciousness types",
+    "Loss of capacity for caring as transformation deepens",
+    "Mercy as principle vs emotion",
+    "Reality revealing true nature beyond human perception"
+  ],
+  "atmosphere": "Reality fracturing, physics becoming optional, segregation beginning, human connections severing",
+  "key_images": [
+    "Fracture zone approaching like weather front of wrongness",
+    "Telescope existing in two positions simultaneously",
+    "Gravity becoming directional, changing step to step",
+    "Changed forming chain to rescue human worker",
+    "Moon visible in three positions at once"
+  ],
+  "foreshadowing": [
+    "Adrian's Stage 4 transformation accelerating",
+    "Lena's doomed attempt to reach Green Bank",
+    "Okonkwo's moral crisis approaching",
+    "World dividing permanently into Changed and human zones",
+    "Adrian losing capacity to choose to save Lena"
+  ]
+}

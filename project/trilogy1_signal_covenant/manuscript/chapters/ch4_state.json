@@ -1,0 +1,63 @@
+{
+  "chapter": 4,
+  "title": "The Case",
+  "word_count": 2300,
+  "pov_character": "Marcus Reid",
+  "time_elapsed": "43 hours after sending ESA verification request",
+  "location": "Atacama Observatory",
+  "plot_threads_advanced": [
+    "ESA confirmation arrives from Dr. Chen (Frankfurt) and Dr. Patel (Madrid)",
+    "Five independent verifications now complete",
+    "Yuki Tanaka confirms signal modulation shows active carrier wave manipulation",
+    "Team prepares comprehensive presentation for Director Chen",
+    "Vargas appears unexpectedly at staff meeting"
+  ],
+  "character_arcs": {
+    "Marcus Reid": {
+      "position": 0.04,
+      "state": "Learning to present findings with confidence despite past trauma",
+      "key_moment": "Decides to present conclusions confidently because evidence warrants it"
+    },
+    "Sofia Navarro": {
+      "position": 0.04,
+      "state": "Pushing Marcus to own his findings with confidence",
+      "key_moment": "Challenges Marcus to trust the process, not just himself"
+    },
+    "Yuki Tanaka": {
+      "position": 0.04,
+      "state": "Preliminarily confirms cryptographic complexity in signal",
+      "key_moment": "Commits to staking professional reputation on findings"
+    }
+  },
+  "planted_elements": [],
+  "knowledge_revealed": [
+    "Carrier wave manipulation shows power levels exceeding Voyager's design specs",
+    "Information content confirmed but encoding methods unrecognized",
+    "ESA senior analysts Chen and Patel provide institutional credibility",
+    "Vargas somehow knew about the presentation in advance (surveillance implied)"
+  ],
+  "causal_chains": [
+    {
+      "cause": "ESA confirmations arrive ahead of schedule",
+      "effect": "Team has complete evidentiary package for institutional presentation",
+      "thread": "Building the case"
+    },
+    {
+      "cause": "Team prepares presentation for Director Chen",
+      "effect": "Vargas appears unexpectedly, changing dynamics",
+      "thread": "Government awareness and control"
+    }
+  ],
+  "tension_elements": [
+    "Vargas's unexpected presence at staff meeting",
+    "Marcus overcoming fear of institutional dismissal",
+    "Transition from private verification to institutional presentation",
+    "Implication of surveillance (how did Vargas know?)"
+  ],
+  "world_state_changes": [
+    "Yuki Tanaka officially joins investigation team",
+    "Five independent confirmations complete",
+    "Government surveillance implied",
+    "Presentation to Director Chen begins (cliffhanger ending)"
+  ]
+}

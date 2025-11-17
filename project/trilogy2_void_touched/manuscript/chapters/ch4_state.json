@@ -1,0 +1,39 @@
+{
+  "chapter": 4,
+  "title": "The Recognizer",
+  "word_count": 2500,
+  "pov_character": "Adrian Keller",
+  "location": "Car, driving to Maryland",
+  "time_period": "Day 6, during drive",
+  "key_events": [
+    "Lena calls repeatedly, Adrian doesn't answer",
+    "Text conversation where Lena tries to make Adrian understand he's sick",
+    "Lena reveals her father's schizophrenia story in detail",
+    "Parallel drawn between father's delusions and Adrian's patterns",
+    "Lena threatens involuntary psychiatric commitment",
+    "Adrian refuses to turn back",
+    "Lena says goodbye, promises not to call again"
+  ],
+  "character_development": {
+    "Adrian": "Recognizes parallels to Lena's father but believes his experience is different, emotional distance increasing, choosing transformation over relationship",
+    "Lena": "Full backstory of father's schizophrenia revealed, her trauma and pattern recognition explained, draws boundary for self-protection"
+  },
+  "planted_elements": [
+    "Lena's father's schizophrenia detailed - pays off in Ch37 when she tries to follow Adrian into Change",
+    "Her inability to distinguish Adrian's Change from mental illness - creates tragic gap between them",
+    "The parallel between delusion and transcendence as indistinguishable from outside",
+    "Lena's promise not to call again - makes her reappearance in Ch13/15 more impactful"
+  ],
+  "transformation_stage": "Stage 1 - Emotional distancing, choosing pattern over people, recognizing unfalsifiability of his experience",
+  "cosmic_horror_elements": [
+    "The unfalsifiable nature of transformation vs psychosis",
+    "Pattern recognition as symptom or superpower",
+    "The tragedy of incompatible realities",
+    "Loss presented as necessary evolution"
+  ],
+  "themes": [
+    "The impossibility of proving sanity from inside possible insanity",
+    "Love insufficient to bridge incompatible perceptions of reality",
+    "Trauma creating pattern recognition (Lena seeing her father in Adrian)"
+  ]
+}

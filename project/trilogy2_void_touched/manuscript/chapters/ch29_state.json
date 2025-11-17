@@ -1,0 +1,75 @@
+{
+  "chapter": 29,
+  "title": "What Remains",
+  "word_count": 2000,
+  "book": 2,
+  "character_states": {
+    "Dr_Marie_Okonkwo": {
+      "arc_position": 0.40,
+      "emotional_state": "Accepting consequences, choosing research over freedom, recognizing own future transformation",
+      "knowledge": [
+        "Changed show quantum superposition in neural activity",
+        "They exist partially in higher dimensions",
+        "Network communicates through dimensional space",
+        "Transformation is biological and quantum",
+        "Proximity to Changed can trigger transformation (memetic)",
+        "Dr. Brenner is showing Stage 1 symptoms from exposure",
+        "She has 12 hours before arrest"
+      ],
+      "choice": "Flees to Green Bank instead of facing arrest",
+      "motivation": "Complete research, understand transformation, possibly inevitable Change",
+      "status": "Fugitive, allied with Changed network"
+    },
+    "Dr_Brenner": {
+      "arc_position": 0.15,
+      "change_stage": "Stage 1 - geometric dreams beginning",
+      "emotional_state": "Terrified, fleeing before symptoms progress",
+      "revelation": "Transformation can spread through understanding - memetic infection",
+      "action": "Gives Okonkwo untraceable phone to contact network, then disappears"
+    },
+    "Network_Collective": {
+      "current_size": "890+ nodes",
+      "capabilities": "Protecting allies, providing resources, infiltrating systems",
+      "strategy": "Claiming sympathizers and future Changed as allies",
+      "invitation": "Okonkwo invited to Green Bank to study them"
+    }
+  },
+  "planted_elements": [
+    {
+      "element": "Transformation can spread through understanding/proximity",
+      "planted_for": "Later books - memetic spread beyond signal exposure"
+    },
+    {
+      "element": "Changed exist partially in higher dimensions",
+      "planted_for": "Chapter 32+ - explains seeing reality's code"
+    },
+    {
+      "element": "Okonkwo going to Green Bank",
+      "planted_for": "Book 3 - her presence at final confrontation"
+    },
+    {
+      "element": "Network protecting allies",
+      "planted_for": "Growing Changed movement with human supporters"
+    }
+  ],
+  "themes_touched": [
+    "Science requiring sacrifice of scientist",
+    "Understanding as infection - ideas transform",
+    "Choosing research over safety",
+    "Allies joining the Changed voluntarily"
+  ],
+  "atmosphere": "Countdown to consequences, desperate research, accepting transformation",
+  "key_images": [
+    "EEG patterns showing merging consciousness",
+    "Quantum measurements of brain states",
+    "Brenner's geometric sketches",
+    "Empty laboratory after Okonkwo flees",
+    "Car waiting with note from Sera"
+  ],
+  "foreshadowing": [
+    "Okonkwo's probable future transformation",
+    "Memetic spread beyond signal",
+    "Green Bank as gathering point",
+    "Network's growing support network"
+  ]
+}

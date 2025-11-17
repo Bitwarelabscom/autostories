@@ -1,0 +1,69 @@
+{
+  "chapter": 30,
+  "title": "Hunt Protocol",
+  "word_count": 2000,
+  "book": 2,
+  "character_states": {
+    "Colonel_Reeves": {
+      "arc_position": 0.35,
+      "emotional_state": "Cold determination, viewing Changed as disease to eradicate",
+      "knowledge": [
+        "890 Changed scattered globally, 12 captured",
+        "Changed can disable electronic equipment through EM perception",
+        "Analog equipment necessary for containment",
+        "Captured Ramirez but gained no intelligence",
+        "Network shares all experiences - learning from every capture",
+        "Changed population doubling every 60 days",
+        "Mathematics favor the Changed, not containment"
+      ],
+      "strategy": "Shifting from capture to elimination",
+      "action": "Requesting shoot-on-sight authorization",
+      "justification": "Exponential threat growth requires lethal response"
+    },
+    "Ramirez": {
+      "status": "Captured in Seattle, providing no useful intelligence",
+      "demonstration": "Shows interrogation is meaningless against Stage Three",
+      "significance": "Network learns from her capture, shares knowledge"
+    },
+    "Network_Collective": {
+      "current_size": "890 nodes (12 captured, 14 newly transformed)",
+      "net_growth": "+11 despite captures",
+      "defensive_capabilities": "EM equipment disruption, shared learning from captures",
+      "growth_rate": "Doubling every 60 days at current rate"
+    }
+  },
+  "planted_elements": [
+    {
+      "element": "Reeves requesting shoot-on-sight authorization",
+      "planted_for": "Escalation through remainder of Book 2"
+    },
+    {
+      "element": "Network grows faster than containment can eliminate",
+      "planted_for": "Mathematical inevitability of Changed survival"
+    },
+    {
+      "element": "Changed learning from every capture",
+      "planted_for": "Increasing capability to evade and resist"
+    }
+  ],
+  "themes_touched": [
+    "Containment versus elimination",
+    "Disease metaphor dehumanizing the Changed",
+    "Exponential growth versus linear response",
+    "Rules of engagement in posthuman conflict"
+  ],
+  "atmosphere": "Military manhunt, cold calculation, escalating to lethal force",
+  "key_images": [
+    "Map showing 890 targets",
+    "Montana team's equipment failing",
+    "Ramirez in interrogation, perfectly still",
+    "Reeves typing authorization for lethal force",
+    "Projection showing exponential growth"
+  ],
+  "foreshadowing": [
+    "Shift to kill-on-sight orders",
+    "Reeves becoming more ruthless",
+    "Changed population growth unstoppable",
+    "War escalating to lethal confrontation"
+  ]
+}

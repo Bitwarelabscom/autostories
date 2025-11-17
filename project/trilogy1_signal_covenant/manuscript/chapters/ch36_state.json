@@ -1,0 +1,87 @@
+{
+  "chapter": 36,
+  "title": "The Question of Deserving",
+  "word_count": 2100,
+  "characters_present": ["Marcus Reid", "Sofia Navarro"],
+  "character_knowledge": {
+    "BOTH": [
+      "Consensus climbed to 32.4% (up from 31%, first sustained increase in weeks)",
+      "Growth coming from grassroots regions, not managed campaigns",
+      "Projection models show best case 45-52% by deadline, still far from 85%",
+      "NAU and Asian Coalition presenting competing proposals - institutional fracture",
+      "4 months 17 days remaining"
+    ],
+    "Marcus_Reid": [
+      "Apologized to Sofia for trying to control outcomes",
+      "Admitted she was right about transparency and trust",
+      "Decided to commit fully to grassroots-first approach",
+      "Choosing to trust people rather than manage them",
+      "Accepted that failure is probable but trying anyway",
+      "Character growth: from hedge-his-bets to full commitment despite odds"
+    ],
+    "Sofia_Navarro": [
+      "Acknowledged Marcus was right about needing infrastructure",
+      "Believes passing may not be the point - growth is",
+      "Theory: Assembled testing capacity for trying, not perfection",
+      "Shared story of her brother who believed in her",
+      "Brother's wisdom: 'believing you can finish makes first step possible'",
+      "Accepted failure is probable but refuses to give up",
+      "Won't lie to herself about likelihood but will try impossible things"
+    ]
+  },
+  "world_state": {
+    "time": "~3 days after Ch35 fight (4 months 17 days remaining)",
+    "consensus_percentage": "32.4% (first sustained growth in weeks)",
+    "growth_source": "Grassroots organic organizing, not managed campaigns",
+    "projection": "Best case 45-52% by deadline (unbridgeable gap to 85%)",
+    "institutional_status": "Fracturing - NAU and Asian Coalition competing proposals",
+    "yuki_status": "Hospitalized, physically recovering, mentally struggling"
+  },
+  "marcus_sofia_reconciliation": {
+    "mutual_apologies": "Both acknowledged being right and wrong",
+    "integration_decision": "Grassroots-first with institutional infrastructure support",
+    "philosophical_alignment": "Try despite impossible odds, trust over control",
+    "remaining_difference": "Marcus slightly more hopeful, Sofia more realistic",
+    "relationship_status": "Reconciled, unified approach"
+  },
+  "key_insights": {
+    "sofia_theory": "Test is about growth capacity, not perfection. Trying matters even if failing.",
+    "marcus_realization": "Control undermines trust. Must build infrastructure then let go.",
+    "brother_wisdom": "Belief you might succeed enables first step, even if journey proves impossible.",
+    "growth_evidence": "Organic grassroots organizing producing real consensus increase",
+    "institutional_failure": "Managed approaches producing stagnation or decline"
+  },
+  "planted_elements": [
+    {
+      "element": "32.4% from grassroots, showing it works",
+      "description": "First evidence that organic organizing succeeds where management failed",
+      "foreshadowing": "Will support full grassroots pivot in Ch40"
+    },
+    {
+      "element": "Growth as test, not just passing",
+      "description": "Sofia's theory that Assembled value development capacity",
+      "foreshadowing": "May be confirmed in final alien response, even if consensus falls short"
+    },
+    {
+      "element": "Institutions fracturing",
+      "description": "NAU and Asian Coalition competing proposals",
+      "foreshadowing": "Ch38 will show full fracture, Ch37 will be the breaking point"
+    },
+    {
+      "element": "Trying impossible things because possible ones failed",
+      "description": "Commitment to attempt radical solutions",
+      "foreshadowing": "Sets up Sofia's referendum bypass proposal in Ch40"
+    }
+  },
+  "themes": {
+    "hope_vs_realism": "Trying despite acknowledging probable failure",
+    "growth_over_perfection": "Process and development matter more than final number",
+    "brother_sacrifice": "Sofia's motivation rooted in personal loss and belief"
+  },
+  "next_chapter_hooks": [
+    "Emergency commission meeting about NAU/Asian Coalition split",
+    "Institutional coalition fracturing",
+    "32.4% consensus, slowly climbing but insufficient",
+    "4 months 17 days to bridge unbridgeable gap"
+  ]
+}

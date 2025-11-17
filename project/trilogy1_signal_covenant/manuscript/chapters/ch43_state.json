@@ -1,0 +1,81 @@
+{
+  "chapter": 43,
+  "title": "Beyond the Network",
+  "word_count": 2198,
+  "characters_present": ["Marcus Reid", "Sofia Navarro", "Yuki Tanaka", "Dr. Rashid", "Sarah Chen (by phone)"],
+  "character_knowledge": {
+    "ALL_TEAM_MEMBERS": [
+      "Expanded offline participation to remote regions",
+      "12,000 volunteers mobilized to reach populations without internet",
+      "Reached 12,000 remote communities, added 80 million participants",
+      "Offline participants voting 58% yes, 42% no (lower than online)",
+      "Total: 647 million participants, 60.4% yes, 39.6% no",
+      "32 days until Voyager arrival"
+    ],
+    "Marcus_Reid": [
+      "Faced brutal media scrutiny questioning his mental stability",
+      "Acknowledged past errors while defending current findings",
+      "Received validation call from Sarah Chen",
+      "Realized growth means learning from being wrong",
+      "Committed to honest inclusion over optimized percentages"
+    ],
+    "Sofia_Navarro": [
+      "Coordinating massive offline participation logistics",
+      "Running command center like aid organization",
+      "Managing volunteer movements across remote regions"
+    ],
+    "Sarah_Chen": [
+      "Called Marcus to offer support based on her own experience",
+      "Validated that being wrong before doesn't invalidate being right now",
+      "Shared her own pattern-recognition failures before Mumbai"
+    ]
+  },
+  "world_state": {
+    "time": "32 days before Voyager arrival",
+    "voyager_status": "Approaching, 0.6 AU distance",
+    "referendum_status": {
+      "participants": "647 million",
+      "yes_votes": "60.4%",
+      "no_votes": "39.6%",
+      "trend": "Massive participation growth, minimal percentage change"
+    },
+    "offline_expansion": {
+      "volunteers": "12,000 deployed",
+      "communities_reached": "12,000",
+      "new_participants": "80 million from remote regions",
+      "challenges": "3-day travel times, cultural translation, language barriers"
+    }
+  },
+  "planted_elements": [
+    {
+      "element": "Sarah Chen validation",
+      "description": "Chen calls to support Marcus, sharing her experience",
+      "foreshadowing": "Kessler's arc coming full circle through Chen"
+    },
+    {
+      "element": "Indigenous communities thanking inclusion",
+      "description": "Communities appreciate being asked instead of decided for",
+      "foreshadowing": "Ethics of inclusion being tested and validated"
+    },
+    {
+      "element": "Media questioning Marcus's sanity",
+      "description": "Reporters suggesting mental instability",
+      "foreshadowing": "Personal attacks will intensify as pressure builds"
+    }
+  ],
+  "character_arcs": {
+    "Marcus_Reid": "From paralysis after being wrong to confidence while acknowledging fallibility - growth embodied",
+    "Sofia_Navarro": "Expanding from digital organizing to physical logistics, building global infrastructure"
+  },
+  "themes": {
+    "learning_from_failure": "Being wrong before doesn't invalidate being right now",
+    "ethical_inclusion": "Including everyone honestly even if it hurts the numbers",
+    "growth_over_perfection": "Trying ethically matters more than winning"
+  },
+  "next_chapter_hooks": [
+    "Still stuck at 60%, need breakthrough to reach 62% by Ch47",
+    "Volunteers in field facing logistical challenges",
+    "Media pressure on Marcus intensifying",
+    "32 days remaining, time pressure mounting"
+  ]
+}

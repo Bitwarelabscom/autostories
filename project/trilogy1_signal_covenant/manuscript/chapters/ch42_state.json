@@ -1,0 +1,91 @@
+{
+  "chapter": 42,
+  "title": "Fracture Lines",
+  "word_count": 2347,
+  "characters_present": ["Marcus Reid", "Sofia Navarro", "Yuki Tanaka", "Dr. Rashid", "James Kessler (by phone)"],
+  "character_knowledge": {
+    "ALL_TEAM_MEMBERS": [
+      "Voyager Vigil movement established permanent encampments, 3 million participants",
+      "Vigil split: 60% vote yes, 30% vote no, 10% abstain for religious reasons",
+      "Earth First movement has 5 million participants, 98% voting no",
+      "Total participants: 489 million, 60.7% yes, 39.3% no",
+      "Consensus plateauing despite growing participation",
+      "40 days until Voyager arrival",
+      "No-vote coalition has valid concerns: sovereignty, dependency, historical trauma"
+    ],
+    "Marcus_Reid": [
+      "Analyzed no-voter concerns in detail",
+      "Chose honesty over persuasion in addressing concerns",
+      "Published transparent risk acknowledgment",
+      "Received message from Earth First member respecting the honesty"
+    ],
+    "Sofia_Navarro": [
+      "Identified historical trauma in former colonies driving no votes",
+      "Helped draft honest risk acknowledgment",
+      "Recognized progress in respectful dialogue even without conversion"
+    ],
+    "James_Kessler": [
+      "Tracking 5 violent splinter groups, 2 threatening individuals, 1 planning sabotage",
+      "Warned about threats against Sofia specifically",
+      "Military factions using radicalization to justify Voyager destruction",
+      "Now defending the referendum process as best path forward"
+    ]
+  },
+  "world_state": {
+    "time": "37-40 days before Voyager arrival",
+    "voyager_status": "Visibly approaching, growing brighter",
+    "referendum_status": {
+      "participants": "489 million and growing",
+      "yes_votes": "60.7%",
+      "no_votes": "39.3%",
+      "trend": "Plateauing despite growth"
+    },
+    "new_factions": {
+      "voyager_vigil": {
+        "members": "3 million",
+        "position": "Mixed - 60% yes, 30% no, 10% abstain",
+        "motivation": "Religious/spiritual interpretation of contact"
+      },
+      "earth_first": {
+        "members": "5 million",
+        "position": "98% no",
+        "motivation": "Sovereignty concerns, anti-dependency, historical trauma",
+        "leader": "Dr. Helena Vasquez (anthropologist)"
+      }
+    },
+    "threats": "Splinter groups advocating violence, threats against individuals, military factions considering Voyager destruction"
+  },
+  "planted_elements": [
+    {
+      "element": "Threats against Sofia",
+      "description": "Credible threats serious enough for protection recommendations",
+      "foreshadowing": "Will complicate her organizing work in coming chapters"
+    },
+    {
+      "element": "Military factions justifying intervention",
+      "description": "Using radicalization to argue for destroying Voyager",
+      "foreshadowing": "Sets up Ch47 weapon option"
+    },
+    {
+      "element": "Earth First member respecting honesty",
+      "description": "Morrison message showing dialogue is working",
+      "foreshadowing": "Some opposition can be neutralized through respect"
+    }
+  ],
+  "character_arcs": {
+    "Marcus_Reid": "Chooses honesty over persuasion, transparency over manipulation",
+    "Sofia_Navarro": "Connects personal experience to global sovereignty concerns",
+    "James_Kessler": "Now defending referendum instead of threatening it"
+  },
+  "themes": {
+    "ethical_means": "Honest risk acknowledgment over manipulative certainty",
+    "inclusion_of_dissent": "Publishing counter-arguments, respecting no voters",
+    "historical_trauma": "Recognition that valid concerns come from real wounds"
+  },
+  "next_chapter_hooks": [
+    "Consensus plateaued at 60%, need breakthrough strategy",
+    "37 days remaining, time pressure building",
+    "Violent splinter groups threaten to destabilize process",
+    "Offline participation mechanisms need expansion"
+  ]
+}

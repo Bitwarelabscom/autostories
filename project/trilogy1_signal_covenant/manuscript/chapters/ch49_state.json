@@ -1,0 +1,50 @@
+{
+  "chapter": 49,
+  "title": "Fractures in Command",
+  "word_count": 1598,
+  "characters_present": ["Marcus Reid", "Sofia Navarro", "Yuki Tanaka", "Dr. Rashid", "General Patricia Reeves (by phone)"],
+  "character_knowledge": {
+    "ALL_TEAM_MEMBERS": [
+      "4 of 7 primary military commanders publicly withdrew support for Operation Guardian Shield",
+      "Military split approximately 50/50 on whether to destroy Voyager",
+      "Pro-referendum military personnel blocking rogue cells from acting",
+      "Rogue cells being shut down by other military members, not governmental action",
+      "Total: 1.22 billion participants, 63.8% yes, 36.2% no",
+      "12 days until Voyager arrival",
+      "Published message acknowledging uncertainty as valid"
+    ],
+    "Marcus_Reid": [
+      "Strategy of exposing all unauthorized military activity working",
+      "Published message about choosing despite uncertainty",
+      "Gained 1 full percentage point from acknowledging uncertainty",
+      "Leading without governmental authority, using only transparency"
+    ]
+  },
+  "world_state": {
+    "time": "12 days before Voyager arrival",
+    "referendum_status": {
+      "participants": "1.22 billion",
+      "yes_votes": "63.8%",
+      "no_votes": "36.2%",
+      "trend": "Growing through acknowledgment of uncertainty"
+    },
+    "military_situation": {
+      "split": "Approximately 50/50 for and against Voyager destruction",
+      "status": "Internal checks preventing unilateral action",
+      "rogue_cells": "Being shut down by pro-referendum military personnel",
+      "threat_level": "Neutralized through internal division"
+    }
+  },
+  "character_arcs": {
+    "Marcus_Reid": "Leading through transparency, not authority - accepting leadership role fully"
+  },
+  "themes": {
+    "healthy_division": "Not unity through force, but balance through diversity",
+    "uncertainty_as_valid": "Acknowledging fear as legitimate, choosing anyway as growth"
+  },
+  "next_chapter_hooks": [
+    "12 days remaining, 63.8% consensus",
+    "Military stable through internal division",
+    "Approaching mid-60s percentage"
+  ]
+}

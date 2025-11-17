@@ -1,0 +1,74 @@
+{
+  "chapter": 26,
+  "title": "Detection",
+  "word_count": 2200,
+  "book": 2,
+  "character_states": {
+    "Adrian_Keller": {
+      "arc_position": 0.40,
+      "change_stage": "Stage 3 - hours before escape",
+      "emotional_state": "Clinical preparation, accepting necessity of action",
+      "knowledge": [
+        "Military activity increasing at all facilities",
+        "Termination timeline moved up - hours not days",
+        "Changed can manipulate electronic systems through EM perception",
+        "Observer effect allows them to influence reality subtly",
+        "Dr. Okonkwo will help them escape",
+        "891 Changed globally, all coordinated",
+        "Escape set for 0300 tonight"
+      ],
+      "transformation_markers": [
+        "Operating with distributed consciousness while eating lunch",
+        "Remembering humanity without caring about it",
+        "Accepting they're the threat Reeves identified"
+      ]
+    },
+    "Dr_Marie_Okonkwo": {
+      "arc_position": 0.30,
+      "emotional_state": "Defeated, grieving, choosing treason over genocide",
+      "crisis_resolution": "Decides to help Changed escape - evolution over extinction",
+      "action": "Will sabotage security systems at 0300 to create escape window",
+      "risk": "Committing treason, will face consequences"
+    },
+    "Network_Collective": {
+      "current_size": "891 nodes globally across six facilities",
+      "new_capabilities": "Can manipulate electronic systems through focused EM perception - power grids, HVAC, alarms, security",
+      "theory": "Observer effect scaling up at dimensional boundaries",
+      "plan": "Simultaneous escape at 0300 with Okonkwo's help",
+      "objective": "Zero casualties, but survival takes priority"
+    }
+  },
+  "planted_elements": [
+    {
+      "element": "Changed can affect reality through observation/will",
+      "planted_for": "Chapter 32+ - seeing and manipulating reality's code"
+    },
+    {
+      "element": "Okonkwo chooses to help Changed",
+      "planted_for": "Her arc through Book 3 - ally not enemy"
+    },
+    {
+      "element": "0300 escape timeline",
+      "planted_for": "Immediate connection to Chapter 27 events"
+    }
+  ],
+  "themes_touched": [
+    "Observer effect - consciousness affecting reality",
+    "Evolution cannot be prevented, only aided or resisted",
+    "Choosing between species loyalty and moral conviction",
+    "Becoming the threat they're accused of being"
+  ],
+  "atmosphere": "Final countdown, preparation for violence, inevitability",
+  "key_images": [
+    "Power flickering as Changed test their abilities",
+    "Okonkwo's shaking hands making impossible choice",
+    "891 minds coordinating across six facilities",
+    "Clocks counting down to 0300"
+  ],
+  "foreshadowing": [
+    "Escape at 0300 - immediately before/during Chapter 27",
+    "Violence may be necessary despite intentions",
+    "War between human and posthuman beginning",
+    "Changed proving Reeves correct about threat level"
+  ]
+}

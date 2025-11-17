@@ -1,0 +1,58 @@
+{
+  "chapter": 36,
+  "title": "Reyes Triangulation",
+  "book": 2,
+  "word_count": 1833,
+  "date_written": "2025-11-17",
+  "temporal_setting": "August 12, 2030 - 3:41 PM",
+  "location": "Oakland, California - Recursionist Facility",
+  "pov_character": "Elliot Cross",
+  "type": "Bridge chapter - sets up Ch37 Reyes capture",
+  "key_scenes": [
+    "Federal surveillance tightening around facility",
+    "Strategy session about inevitable capture",
+    "Cassandra suggesting prepared capture vs evasion",
+    "Elliot mapping 7% probability of converting Reyes",
+    "Deciding to secure device off-site and allow capture",
+    "Week of preparation for conversion-oriented capture",
+    "Increasing probability from 7% to 14%",
+    "Final evening before August 19th raid"
+  ],
+  "characters_present": ["Elliot Cross", "Cassandra Wright", "Dr. Yuki Chen", "Dr. Marcus Soren"],
+  "revelations": [
+    "Reyes will capture them by September regardless of evasion",
+    "7% probability branch where capture leads to alliance",
+    "Prepared capture better than disorganized capture",
+    "Device will be secured in Berkeley separately",
+    "Elliot can navigate conversation using superposition",
+    "Practice increases conversion probability to 14%",
+    "August 19th set as raid date"
+  ],
+  "planted_elements": [
+    "14% probability sets stakes for Ch37",
+    "Device location in Berkeley for post-escape retrieval",
+    "Conversation practice pays off in Ch37",
+    "Terrible odds but only odds available"
+  ],
+  "character_states": {
+    "Elliot_Cross": {
+      "emotional_state": "Strategic, prepared, anxious about terrible odds",
+      "arc_position": 0.60
+    },
+    "Cassandra_Wright": {
+      "emotional_state": "Strategic partner, supportive, realistic about risks",
+      "arc_position": 0.60
+    }
+  },
+  "themes_explored": [
+    "Preparing for inevitable challenges",
+    "Navigating terrible odds",
+    "Strategic surrender vs desperate evasion",
+    "Loading probability toward desired outcomes"
+  ],
+  "next_chapter_hooks": [
+    "Will 14% be enough?",
+    "How does capture unfold?",
+    "Does conversation practice work?"
+  ]
+}

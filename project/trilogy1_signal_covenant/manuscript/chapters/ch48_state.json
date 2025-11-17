@@ -1,0 +1,94 @@
+{
+  "chapter": 48,
+  "title": "After the Exposure",
+  "word_count": 2071,
+  "characters_present": ["Marcus Reid", "Sofia Navarro", "Yuki Tanaka", "Dr. Rashid", "General Patricia Reeves (by phone)"],
+  "character_knowledge": {
+    "ALL_TEAM_MEMBERS": [
+      "Kessler arrested at 6:42 AM for unauthorized disclosure",
+      "Charged with violation of security protocols, obstruction",
+      "UN Security Council in chaotic debate about Operation Guardian Shield",
+      "General Reeves withdrew NAU support for coordinated strike",
+      "Some military factions continuing independently but no coordinated action",
+      "Participation surged 70M in 12 hours post-exposure",
+      "Total: 1.11 billion participants, 62.1% yes, 37.9% no",
+      "18 days until Voyager arrival",
+      "Team now operating without Kessler's governmental connections"
+    ],
+    "Yuki_Tanaka": [
+      "Analyzing Thorne's behavior pattern - believes she's researching third option",
+      "Identified tertiary frameworks in Assembled's mathematics",
+      "Running parallel analysis on mathematical structures",
+      "Suspects third option exists at 75% consensus"
+    ],
+    "Marcus_Reid": [
+      "Spoke with General Reeves who withdrew NAU support",
+      "Received encrypted message from Thorne about 75% tertiary stability point",
+      "Thorne needs 2 more weeks for verification",
+      "Marcus decided to hold line without promising third option",
+      "Stepping into leadership role with Kessler absent"
+    ],
+    "Evelyn_Thorne": [
+      "Sent encrypted message to Marcus about tertiary stability point",
+      "Working on verification of third option at 75%",
+      "Needs two more weeks (reveals just before deadline)",
+      "Continuing secret mathematical research"
+    ]
+  },
+  "world_state": {
+    "time": "18 days before Voyager arrival",
+    "voyager_status": "Continuing approach, coordinated military threat neutralized but individual threats remain",
+    "referendum_status": {
+      "participants": "1.11 billion",
+      "yes_votes": "62.1%",
+      "no_votes": "37.9%",
+      "trend": "Participation surging post-exposure, percentage slowly rising"
+    },
+    "military_situation": {
+      "coordinated_strike": "Terminated after public exposure",
+      "remaining_threats": "Individual military factions may still attempt independent action",
+      "general_reeves": "Withdrew NAU support, will testify for Kessler"
+    },
+    "political_situation": {
+      "kessler_status": "Arrested, federal detention, awaiting trial",
+      "security_council": "Debating but no consensus on how to respond",
+      "public_response": "Participation surge as people defend right to choose"
+    }
+  },
+  "planted_elements": [
+    {
+      "element": "Third option at 75% consensus",
+      "description": "Thorne's message confirms tertiary stability point research",
+      "significance": "Sets up Ch52 revelation directly, team now knows to expect possibility",
+      "status": "Major foreshadowing"
+    },
+    {
+      "element": "Thorne needs 2 weeks for verification",
+      "description": "Timeline means reveal happens ~4 days before deadline",
+      "significance": "Creates tight timeline pressure for Ch52-56"
+    },
+    {
+      "element": "Kessler's sacrifice vindicated",
+      "description": "General Reeves confirms exposure worked, will testify for him",
+      "significance": "Kessler's character arc validated"
+    }
+  ],
+  "character_arcs": {
+    "Marcus_Reid": "Stepping into full leadership role with Kessler absent - accepting responsibility he didn't seek",
+    "Yuki_Tanaka": "Intuition about mathematical patterns proving correct - building confidence",
+    "James_Kessler": "Sacrificed everything to preserve democracy - arc complete, awaiting vindication",
+    "Evelyn_Thorne": "Secret research continuing - redemption arc building toward Ch52"
+  },
+  "themes": {
+    "sacrifice_for_principle": "Kessler's arrest as cost of preserving democracy",
+    "trust_without_certainty": "Team must trust Thorne's research without proof",
+    "leadership_through_necessity": "Marcus accepting role because circumstances demand it"
+  },
+  "next_chapter_hooks": [
+    "18 days remaining, 62.1% consensus",
+    "Third option possibly exists at 75%, but unverified",
+    "Military threats not eliminated, just uncoordinated",
+    "Thorne researching for 2 more weeks",
+    "Team operating without Kessler's connections"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "chapter": 46,
+  "title": "Duty and Conscience",
+  "word_count": 2394,
+  "characters_present": ["James Kessler", "Marcus Reid", "Sofia Navarro", "General Patricia Reeves", "General Chen", "General Okonkwo"],
+  "character_knowledge": {
+    "ALL_TEAM_MEMBERS": [
+      "Operation Guardian Shield authorized through proper military channels",
+      "Multi-nation coordinated strike planned for 72 hours",
+      "Four generals from NAU, Asian Coalition, African Union coordinating",
+      "Kessler opposed but operation approved without his authorization",
+      "Kessler decided to expose operation publicly",
+      "Will face arrest and court-martial for violation of security protocols",
+      "Total: 1.04 billion participants, 62.0% yes, 38.0% no",
+      "20 days until Voyager arrival"
+    ],
+    "James_Kessler": [
+      "Attended classified briefing with four generals",
+      "Learned strike approved through Joint Chiefs and Security Council",
+      "Confronted with Mumbai failure as justification",
+      "Chose to expose operation despite consequences",
+      "Met with Marcus to coordinate",
+      "Beginning public exposure of Operation Guardian Shield",
+      "Will be arrested and court-martialed"
+    ],
+    "Marcus_Reid": [
+      "Emergency meeting with Kessler at 2 AM",
+      "Learned of 72-hour timeline to strike",
+      "Convinced Kessler to expose operation",
+      "Preparing for political chaos when exposure hits",
+      "Must hold referendum together while Kessler under arrest"
+    ]
+  },
+  "world_state": {
+    "time": "20 days before Voyager arrival (72 hours before planned strike)",
+    "voyager_status": "0.35 AU from Earth, entering optimal intercept range",
+    "referendum_status": {
+      "participants": "1.04 billion (crossed one billion milestone)",
+      "yes_votes": "62.0%",
+      "no_votes": "38.0%",
+      "trend": "Steady growth but still 23 points short of 85%"
+    },
+    "military_situation": {
+      "operation": "Guardian Shield",
+      "status": "Authorized through Joint Chiefs and Security Council",
+      "timeline": "72 hours until launch window",
+      "participants": "NAU, Asian Coalition, African Union, European Federation",
+      "target": "Voyager 2 at 0.35 AU",
+      "method": "Coordinated kinetic intercept",
+      "kessler_response": "Public exposure beginning"
+    }
+  },
+  "planted_elements": [
+    {
+      "element": "Kessler's Mumbai failure weaponized against him",
+      "description": "General Reeves uses his past mistake to justify current operation",
+      "significance": "Kessler must overcome his defining failure to make right choice now"
+    },
+    {
+      "element": "Kessler choosing judgment over systems",
+      "description": "Reverses his post-Mumbai commitment to trust systems over individuals",
+      "significance": "Character arc climax approaching - will complete in Ch47",
+      "foreshadowing": "Sets up his arrest and vindication"
+    },
+    {
+      "element": "1 billion participant milestone",
+      "description": "Crossed major participation threshold",
+      "significance": "Shows democratic process working even if percentage falls short"
+    }
+  ],
+  "character_arcs": {
+    "James_Kessler": "Confronts Mumbai failure, chooses trust over control, conscience over duty - major character turn preparing for Ch47 climax",
+    "Marcus_Reid": "Must hold process together when Kessler arrested - leadership responsibility increasing"
+  },
+  "themes": {
+    "conscience_vs_duty": "Kessler choosing what's right over what's authorized",
+    "wisdom_vs_systems": "Knowing when to trust judgment over institutional logic",
+    "honest_failure_vs_dishonest_success": "Trying ethically even if it means falling short"
+  },
+  "next_chapter_hooks": [
+    "Operation Guardian Shield about to be exposed publicly (Ch47 begins with Kessler's exposure)",
+    "Political chaos imminent as exposure breaks",
+    "Kessler will be arrested within hours",
+    "Marcus must lead through crisis without Kessler",
+    "20 days to Voyager arrival, 62% consensus"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "chapter": 28,
+  "title": "Fractured Alliance",
+  "word_count": 2400,
+  "characters_present": ["Evelyn Thorne", "Director James Kessler", "Ambassador Chen", "General Morrison", "Dr. Elena Volkov"],
+  "character_knowledge": {
+    "ALL_COMMISSION_MEMBERS": [
+      "Thorne's Project Covenant mission specs have been leaked to Kessler",
+      "Mission cost: $11 billion",
+      "Launches in 5 weeks",
+      "Designed to intercept Voyager before Earth arrival",
+      "Russia attempted similar mission 2 months ago, failed during launch",
+      "General Morrison threatened military destruction of spacecraft",
+      "Kessler demanding Thorne abort mission or he'll expose it publicly"
+    ],
+    "James_Kessler": [
+      "Sees Thorne's mission as sabotage of referendum process",
+      "Believes exposure will destroy remaining consensus",
+      "Wants mission aborted and funds redirected to referendum",
+      "Will expose the mission publicly (timing TBD)",
+      "Alliance with Thorne is fractured beyond repair"
+    ],
+    "Evelyn_Thorne": [
+      "Refuses to abort mission",
+      "Sees it as insurance against referendum failure, not sabotage",
+      "Willing to accept consensus collapse if it means securing technology",
+      "Plans to launch in 5 weeks regardless of Kessler's threats",
+      "Recognizes Kessler will expose the mission",
+      "Justifies mission as ensuring humanity gets something rather than nothing"
+    ],
+    "Ambassador_Chen": [
+      "Suggested nationalizing Project Covenant under international oversight",
+      "Proposal rejected by Thorne as too slow"
+    ],
+    "General_Morrison": [
+      "Threatened military destruction of Thorne's spacecraft",
+      "NAU has assets capable of shoot-down"
+    ],
+    "Dr_Elena_Volkov": [
+      "Called mission 'colonialism dressed as exploration'",
+      "Noted Russia's own failed attempt at Voyager intercept",
+      "Concerned mission creates technological inequality"
+    ]
+  },
+  "world_state": {
+    "time": "~2 weeks after Ch26 (8 months remaining approximately)",
+    "consensus_percentage": "39%",
+    "project_covenant_status": "5 weeks to launch, Thorne refusing to abort",
+    "kessler_thorne_alliance": "Fractured - openly hostile",
+    "pending_crisis": "Kessler will expose mission publicly soon"
+  },
+  "planted_elements": [
+    {
+      "element": "Kessler will expose mission publicly",
+      "description": "Waiting to coordinate with commission members and time revelation",
+      "foreshadowing": "Will happen in next chapter or two, causing massive trust crisis"
+    },
+    {
+      "element": "Military threat to shoot down spacecraft",
+      "description": "Morrison's capability to destroy Project Covenant",
+      "foreshadowing": "May become actual threat later in Book 3"
+    },
+    {
+      "element": "Thorne's choice already made",
+      "description": "Will launch regardless of consequences to referendum",
+      "foreshadowing": "Mission will proceed, creating international crisis in Ch29-31"
+    },
+    {
+      "element": "Russia's failed Voyager intercept attempt",
+      "description": "Other nations also tried and failed",
+      "foreshadowing": "Not just Prometheus pursuing this path"
+    }
+  ],
+  "themes": {
+    "pragmatism_vs_principle": "Thorne's insurance vs Kessler's honest failure",
+    "unity_vs_division": "Mission will create technological inequality if successful",
+    "trust_and_betrayal": "Partnership between Kessler and Thorne completely destroyed"
+  },
+  "next_chapter_hooks": [
+    "Thorne will launch in 5 weeks",
+    "Kessler will expose mission publicly",
+    "International cooperation will fracture when news breaks",
+    "Consensus likely to drop further from 39%"
+  ]
+}

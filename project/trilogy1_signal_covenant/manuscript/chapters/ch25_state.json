@@ -1,0 +1,76 @@
+{
+  "chapter": 25,
+  "title": "The Streets Awaken",
+  "word_count": 2400,
+  "characters_present": ["Marcus Reid", "Sofia Navarro", "Yuki Tanaka", "Director James Kessler", "Ambassador Chen", "Evelyn Thorne (remote)"],
+  "character_knowledge": {
+    "ALL_TEAM_MEMBERS": [
+      "47 major demonstrations happening globally",
+      "Pro-contact marches organized by Sofia's grassroots network",
+      "Anti-contact counter-protests by nationalist and religious groups",
+      "Violence erupted in Jakarta and Mumbai",
+      "Injuries reported, including Sofia (minor arm wound)",
+      "Consensus climbed to 54% (up 3 points from demonstrations)",
+      "9 months remaining until deadline"
+    ],
+    "Marcus_Reid": [
+      "Traveled to Mexico City against Kessler's orders",
+      "Seeing protests as revealing fundamental divisions in humanity",
+      "Concerned that passion is replacing deliberation",
+      "Realizes easy converts are done, remaining 31% will be exponentially harder"
+    ],
+    "Sofia_Navarro": [
+      "Leading Mexico City pro-contact march (500,000 people)",
+      "Injured in clash with counter-protesters",
+      "Believes passionate demonstration is necessary for democracy",
+      "Coordinating grassroots network across multiple cities globally"
+    ],
+    "James_Kessler": [
+      "Operating crisis management center for demonstrations",
+      "Wants to suppress protests, sees them as destabilizing",
+      "Blames parallel campaigns for creating competing narratives"
+    ],
+    "Evelyn_Thorne": [
+      "Advocated for letting protests play out as 'pressure valve'",
+      "Surprisingly supportive of demonstrations showing investment"
+    ]
+  },
+  "world_state": {
+    "time": "~2 months after Ch24 (9 months remaining)",
+    "consensus_percentage": "54%",
+    "demonstrations": {
+      "pro_contact_cities": ["Mexico City (500K)", "Seoul", "São Paulo", "Nairobi", "Cairo"],
+      "anti_contact_cities": ["Dallas", "Moscow", "Houston", "Jakarta", "Sydney"],
+      "violent_clashes": ["Jakarta", "Mumbai"]
+    },
+    "casualties": "Multiple injuries reported, at least one serious (woman with head wound)"
+  },
+  "planted_elements": [
+    {
+      "element": "Pro vs anti-contact violence",
+      "description": "First clashes between competing factions",
+      "foreshadowing": "Will escalate to deaths in Ch26, worse in later chapters"
+    },
+    {
+      "element": "54% consensus plateau",
+      "description": "'Easy converts are done' - remaining 31% exponentially harder",
+      "foreshadowing": "Numbers will actually drop instead of rise, leading to crisis"
+    },
+    {
+      "element": "Test is about whether humanity can want something together",
+      "description": "Marcus's realization about the real nature of the test",
+      "foreshadowing": "Will be confirmed when ethics test revealed (Ch32)"
+    }
+  ],
+  "themes": {
+    "unity_vs_division": "Protests reveal existing divisions rather than creating unity",
+    "democracy_and_legitimacy": "Messy democratic expression vs orderly managed process",
+    "passion_vs_deliberation": "Sofia advocates passion, Marcus wants thoughtful dialogue"
+  },
+  "next_chapter_hooks": [
+    "Protests continuing and spreading",
+    "Violence likely to escalate",
+    "Consensus at 54%, may have plateaued",
+    "9 months to convert another 31% of humanity"
+  ]
+}
