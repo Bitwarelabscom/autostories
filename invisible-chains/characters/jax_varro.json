@@ -1,0 +1,43 @@
+{
+  "name": "Jax Varro",
+  "age_range": "25-42 across trilogy",
+  "caste": "Gamma (labor caste)",
+  "core_wound": "Born with genetic modifications he never chose, treated as subhuman his entire life, believes he's inherently lesser",
+  "wants": "To escape the undercity, to be seen as equal, to be free",
+  "needs": "To accept himself and realize the system is wrong, not him",
+  "voice_markers": [
+    "Noir detective style narration in internal thoughts",
+    "Dry, dark humor",
+    "Self-deprecating, calls himself 'just a Gamma'",
+    "Uses undercity slang mixed with surprising vocabulary from stolen books"
+  ],
+  "contradiction": "Believes the caste system is unjust but has internalized that he's inferior, wants freedom but scared of what he'd do with it",
+  "physical_description": "Mixed race (Black and Asian), stocky build from Gamma modifications, stronger than he looks, scarred knuckles, tired eyes, moves like someone expecting violence, by his 40s looks weathered and haunted",
+  "arc_position_book1": 0.0,
+  "arc_position_book2": 0.5,
+  "arc_position_book3": 1.0,
+  "skills": [
+    "Street dealing and survival",
+    "Reading people - knows when to run",
+    "Undercity navigation - knows every tunnel and blind spot",
+    "Basic hand-to-hand combat from street fights"
+  ],
+  "flaws": [
+    "Drift addiction throughout trilogy, gets worse under stress",
+    "Internalized oppression - believes he deserves his treatment",
+    "Trust issues - assumes everyone will betray him",
+    "Self-sabotage when things go well"
+  ],
+  "knowledge_state_book1_start": [
+    "Undercity layout intimately",
+    "Drug trade low-level operations",
+    "Survival skills",
+    "Nothing about upper castes except what he's seen from below"
+  ],
+  "relationships": {
+    "Elara Quinn": "Alpha caste investigator who infiltrates, becomes love interest - forbidden and dangerous relationship",
+    "Finn": "Best friend and fellow dealer, undercity family",
+    "The Collector": "Mysterious fence who buys the Earth currency, connection to upper world",
+    "Station Authority": "They see him as non-person, he sees them as oppressors"
+  }
+}

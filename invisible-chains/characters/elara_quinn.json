@@ -1,0 +1,43 @@
+{
+  "name": "Elara Quinn",
+  "age_range": "28-45 across trilogy",
+  "caste": "Alpha (elite)",
+  "core_wound": "Raised in privilege, taught Gammas were lesser beings, discovering the truth destroys her worldview",
+  "wants": "To do her job well, to maintain order, to be a good person",
+  "needs": "To recognize she's complicit in oppression, to choose justice over comfort",
+  "voice_markers": [
+    "Formal, controlled speech that loosens as she changes",
+    "Uses corporate/investigative jargon",
+    "Pauses when confronting uncomfortable truths",
+    "Eventually adopts some of Jax's slang unconsciously"
+  ],
+  "contradiction": "Believes in justice but serves an unjust system, wants to be good but benefits from evil",
+  "physical_description": "White woman, tall and elegant, initially perfectly put together - tailored suits, controlled hair, by trilogy's end she's disheveled and hardened, scar across her face from Book 2 incident",
+  "arc_position_book1": 0.0,
+  "arc_position_book2": 0.7,
+  "arc_position_book3": 1.0,
+  "skills": [
+    "Investigation and intelligence analysis",
+    "Understanding of corporate/government structures",
+    "Combat training (but refined, not street-level)",
+    "Access to systems and databases"
+  ],
+  "flaws": [
+    "Initial prejudice against lower castes",
+    "Difficulty accepting she's been wrong her whole life",
+    "Struggles with losing her privilege",
+    "Can be patronizing even when trying to help"
+  ],
+  "knowledge_state_book1_start": [
+    "Station authority systems and procedures",
+    "Alpha caste culture and politics",
+    "Investigation techniques",
+    "Propaganda about lower castes, not reality"
+  ],
+  "relationships": {
+    "Jax Varro": "Target of investigation becomes love interest, challenges everything she believes",
+    "Director Ashton": "Her superior, represents the system she must eventually betray",
+    "Her family": "Wealthy Alpha family who disown her when she goes against the system",
+    "Gamma community": "Initially sees as subjects to study, eventually sees as people, then as her people"
+  }
+}

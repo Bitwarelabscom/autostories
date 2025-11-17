@@ -1,0 +1,45 @@
+{
+  "genre": "Noir thriller / Biopunk science fiction",
+  "setting": {
+    "time_period": "2950 CE",
+    "primary_location": "Orbital Station Meridian-9, a stratified space station with biometrically enforced caste system, orbiting Saturn",
+    "atmosphere": "Noir and paranoid, heavy surveillance state, dark corridors and neon lights, constant rain of recycled condensation in lower levels creating perpetual wetness"
+  },
+  "rules": {
+    "technology_level": {
+      "general": "High-tech dystopia - advanced genetic engineering, biometric tracking, AI surveillance, but distributed by caste",
+      "biometric_system": "CRITICAL WORLD RULE - Every person's DNA is scanned and categorized into genetic castes based on modifications made to their ancestors 200 years ago. Lower castes were engineered for manual labor (enhanced strength, endurance, pain tolerance) but marked genetically as subhuman. Upper castes are 'pure' baseline human DNA.",
+      "scanners": "Omnipresent at every level transition, employment checkpoint, housing zone. Cannot be fooled except by deep genetic hacking. Attempting to bypass is capital offense.",
+      "currency": "Digital credits for upper castes, physical scrip for lower castes (who can't access banking system), and black market barter in undercity",
+      "surveillance": "AI monitoring in all legal zones, facial recognition, movement tracking. Undercity has blind spots where old city infrastructure blocks signals."
+    },
+    "social_structures": {
+      "caste_system": "Three main castes - Alpha (pure human DNA, corporate/political elite), Beta (minimal modifications, professionals/managers), Gamma (labor modifications, workers/service class). Gammas are 60% of population but have 5% of resources. Movement between castes is genetically impossible - you're born into your caste.",
+      "undercity": "Level 9 - the old station core from 200 years ago, now sealed off and abandoned officially. Thousands of Gammas live there illegally in squatter communities. Station authority pretends it doesn't exist.",
+      "employment": "Gammas legally barred from most professions, restricted to manual labor, sanitation, dangerous work. Pay is legally lower for same work.",
+      "reproduction": "Genetic screening of pregnancies, 'corrective' modifications offered (forced) to ensure caste continuation. Mixed-caste relationships are illegal.",
+      "drugs": "Drift (the main drug) - chemically numbs both physical and emotional pain, highly addictive, originally developed as painkiller for Gamma workers doing dangerous jobs, now epidemic. Makes users compliant and dreamlike."
+    },
+    "economic_rules": {
+      "mobility": "GENETICALLY IMPOSSIBLE - no amount of money or achievement can change your caste. System is enforced by biology itself.",
+      "currency_collecting": "Physical Earth currency (paper bills, coins) from pre-collapse era are incredibly valuable to collectors in Alpha caste - worth millions because of scarcity and historical significance.",
+      "black_market": "Thriving underground economy in undercity, smuggling, stolen goods, genetic hacking services (illegal and dangerous)."
+    },
+    "world_physics": {
+      "gravity": "Rotating sections provide artificial gravity, but undercity rotation has slowed over decades - lower gravity in some sections, disorienting",
+      "atmosphere": "Recycled air, humid in lower levels from failing climate control, condensation drips constantly creating 'rain', upper levels are climate controlled and dry",
+      "old_city": "Level 9 - original station from 200 years ago, art deco architecture now rusted, beautiful bones of a more hopeful era, now tomb for the forgotten"
+    },
+    "historical_context": {
+      "the_engineering": "200 years ago, corporate coalition genetically modified workers for labor efficiency. Claimed it was voluntary and beneficial. Created permanent genetic underclass. By the time people realized, three generations had been born into it.",
+      "the_sealing": "150 years ago, when first generation of modified workers started organizing, station authority 'decommissioned' Level 9, sealed it off, moved everyone to Level 8. Level 9 became unofficial refuge for those who refuse to participate in system."
+    }
+  },
+  "themes": [
+    "Nature vs. nurture - are we defined by our genetics?",
+    "The invisible chains of systemic oppression - when biology itself is weaponized",
+    "Can love exist across power imbalances?",
+    "Is violent resistance against unjust law justified?"
+  ],
+  "tone": "Dark noir with moments of beauty, rain-soaked and neon-lit, paranoid and claustrophobic, hard-boiled dialogue, moral ambiguity, romantic but tragic"
+}

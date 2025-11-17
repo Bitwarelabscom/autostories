@@ -1,0 +1,47 @@
+{
+  "genre": "Dark satire / Social science fiction",
+  "setting": {
+    "time_period": "2950 CE",
+    "primary_location": "Orbital Station Nova Prosperity, a corporate-run megastation orbiting Mars, divided into numbered sectors",
+    "atmosphere": "Gleaming corporate dystopia with dark underbelly, everything is monetized, constant advertising, crushing optimism forced on workers, 'smile or be fired' culture in official spaces vs. exhausted despair in residential sectors"
+  },
+  "rules": {
+    "technology_level": {
+      "general": "Advanced but deliberately withheld - tech exists to eliminate scarcity but is gated behind paywalls and corporate ownership",
+      "automation": "Most manufacturing and service jobs could be automated but aren't - keeping humans employed in terrible jobs is corporate policy to maintain control",
+      "surveillance": "Everything is tracked for 'productivity metrics' - work output, spending habits, social media sentiment. Citizens have 'prosperity scores' that affect access to services.",
+      "currency": "Station Credits (SC) - digital only, all transactions monitored. Black market uses barter and physical goods.",
+      "medical": "Tiered healthcare based on employment and prosperity score - executives get nanotech healing, workers get basic care, unemployed get nothing"
+    },
+    "social_structures": {
+      "sector_system": "Station divided into 50 numbered sectors. Lower numbers (1-10) are executive and elite, mid-numbers (11-35) are worker residential and commercial, high numbers (36-50) are industrial slums and poor residential. Sector 12 is industrial/working class.",
+      "employment": "Work is mandatory - unemployment beyond 60 days results in 'labor reassignment' to worst jobs. Everything is gig economy with no benefits. Citizens have multiple jobs to survive.",
+      "corporate_governance": "Station is owned and run by Prosperity Collective Inc. - a megacorp that positions itself as benevolent. The Board is effectively the government. Elections are theater.",
+      "prosperity_score": "Algorithm-generated score based on employment, spending, debt, social connections. Affects housing, healthcare, even food quality. Climbing the score is nearly impossible for lower sectors.",
+      "drugs": "Leveler - synthetic drug that reduces anxiety and increases compliance, originally developed as antidepressant. Highly addictive. Black market cutting makes it dangerous. Workers take it to handle multiple jobs and constant stress."
+    },
+    "economic_rules": {
+      "everything_costs": "Literally everything - air quality above baseline costs extra, water beyond rations costs, education, healthcare, even grief counseling after workplace deaths has a fee",
+      "debt_spiral": "Designed to keep workers in debt - high-interest loans for everything, hidden fees, 'prosperity improvement' charges",
+      "corporate_scrip": "Many workers paid partially in sector-specific scrip only usable at company stores, trapping them in exploitation loop",
+      "black_market": "Thriving underground economy trading goods and services outside corporate monitoring"
+    },
+    "corporate_propaganda": {
+      "language": "Everything is rebranded - no 'poor people', only 'pre-prosperous citizens'; no 'exploitation', only 'opportunity for growth'; no 'death', only 'early resource reallocation'",
+      "media": "Constant corporate media about 'Nova Prosperity Dream' - work hard and prosper. Every sector has mandatory motivational broadcasts.",
+      "mandatory_optimism": "Expressing negativity about the station or Prosperity Collective in public or online can lower your prosperity score or result in 'wellness intervention'"
+    },
+    "world_physics": {
+      "gravity": "Perfect artificial gravity throughout - this is a 'premier' station",
+      "atmosphere": "Climate controlled but tiered - executive sectors are perfect, worker sectors are adequate, slum sectors are barely maintained",
+      "architecture": "Corporate modernist - lots of glass and steel, everything looks clean and efficient on surface, hiding the exploitation beneath"
+    }
+  },
+  "themes": [
+    "What happens when you remove scarcity from one group?",
+    "Are people inherently lazy or just ground down by survival?",
+    "Can individual action expose systemic flaws?",
+    "The difference between charity and solidarity"
+  ],
+  "tone": "Darkly satirical with moments of genuine warmth, absurdist corporate-speak contrasted with human connection, tragic-comic, biting social commentary wrapped in character-driven story"
+}

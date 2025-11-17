@@ -1,0 +1,42 @@
+{
+  "name": "Dr. Amara Osei",
+  "age_range": "32-49 across trilogy",
+  "core_wound": "Grew up in Sector 8 (mid-level worker), escaped through education, feels guilt about leaving her community behind while benefiting from studying their suffering",
+  "wants": "To understand why systems fail people, to publish groundbreaking research",
+  "needs": "To realize research without action is complicity, to use her position to help not just observe",
+  "voice_markers": [
+    "Academic language she tries to simplify",
+    "Asks questions instead of making statements",
+    "Says 'interesting' when something disturbs her",
+    "Apologizes unnecessarily when from lower-sector backgrounds"
+  ],
+  "contradiction": "Studies oppression while benefiting from it, wants to help but trained to be objective observer, cares deeply but hides behind professionalism",
+  "physical_description": "Black woman, natural hair she straightens for professional settings then stops, dresses carefully in 'respectable' clothes, carries tablet everywhere, by trilogy's end looks less polished and more alive",
+  "arc_position_book1": 0.0,
+  "arc_position_book2": 0.6,
+  "arc_position_book3": 1.0,
+  "skills": [
+    "Sociological research and data analysis",
+    "Understanding of both mid-tier and lower-tier cultures",
+    "Academic writing and presentation",
+    "Statistical modeling and prediction"
+  ],
+  "flaws": [
+    "Analysis paralysis - overthinks instead of acting",
+    "Imposter syndrome despite clear competence",
+    "Tendency to intellectualize emotions",
+    "Fear of losing her hard-won status"
+  ],
+  "knowledge_state_book1_start": [
+    "Academic understanding of poverty and inequality",
+    "Corporate and academic institutional structures",
+    "Research methodology",
+    "Theory but not practice of social change"
+  ],
+  "relationships": {
+    "Reed Salazar": "Research subject becomes collaborator becomes something more, she learns to see him as person not data",
+    "Her academic department": "Pressured by them to produce non-controversial results",
+    "Her family in Sector 8": "Complicated - proud of her but she rarely visits",
+    "Corporate Board": "Initially neutral, becomes enemy when her research threatens them"
+  }
+}

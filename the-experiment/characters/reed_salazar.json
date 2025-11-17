@@ -1,0 +1,42 @@
+{
+  "name": "Reed Salazar",
+  "age_range": "30-47 across trilogy",
+  "core_wound": "Watched his younger brother work himself to death at 25, three jobs trying to pay off medical debt, system killed him and called it 'opportunity'",
+  "wants": "Initially nothing - just to get through each day. Later: to see if people can be happy without struggle.",
+  "needs": "To believe his brother's death meant something, that the system can be proven wrong",
+  "voice_markers": [
+    "Deadpan, exhausted humor",
+    "Uses corporate-speak ironically",
+    "Trails off mid-sentence when overwhelmed",
+    "Laughs at inappropriate moments"
+  ],
+  "contradiction": "Nihilistic but can't stop caring, claims not to hope but keeps taking action, says he's given up but hasn't",
+  "physical_description": "Latino, thin from years of poor nutrition and drug use, permanent bags under eyes, tattoos from before he gave up on life, by his 40s looks gaunt and sick but eyes are sharper than ever",
+  "arc_position_book1": 0.0,
+  "arc_position_book2": 0.5,
+  "arc_position_book3": 1.0,
+  "skills": [
+    "Small-scale drug dealing and black market navigation",
+    "Understanding of financial systems from his pre-dealer life",
+    "Reading people's breaking points",
+    "Surprisingly good with data and analysis"
+  ],
+  "flaws": [
+    "Leveler addiction throughout, functional but dependent",
+    "Depression and suicidal ideation",
+    "Difficulty accepting he matters to people",
+    "Self-isolation even when people try to connect"
+  ],
+  "knowledge_state_book1_start": [
+    "Sector 12 intimately",
+    "Drug trade basics",
+    "Corporate systems from working in them before",
+    "Nothing about economics or social organizing"
+  ],
+  "relationships": {
+    "Dr. Amara Osei": "Sociologist studying his experiment, becomes collaborator and maybe love interest",
+    "The Community": "Anonymous benefactor they debate and mythologize, doesn't realize how much they need him",
+    "Corporate Board": "Faceless enemy until they become very interested in stopping him",
+    "His dead brother": "Haunted by him, everything he does is for Marco"
+  }
+}

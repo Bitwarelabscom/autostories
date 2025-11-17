@@ -1,0 +1,42 @@
+{
+  "name": "Executive Director Jonathan Harris",
+  "age_range": "55-72 across trilogy",
+  "core_wound": "Born into wealth, never struggled a day, genuinely cannot comprehend that the system doesn't work for everyone - not malicious, just completely insulated",
+  "wants": "To maintain station prosperity (for his class) and order",
+  "needs": "To see the reality of how lower sectors live, to understand his complicity",
+  "voice_markers": [
+    "Corporate euphemisms for everything",
+    "Never says 'poor' or 'suffering', only 'pre-prosperous' and 'growth opportunities'",
+    "Friendly tone even when ordering cruelty",
+    "Calls everyone by first name to seem accessible"
+  ],
+  "contradiction": "Genuinely believes he's helping people while implementing policies that kill them, thinks he's earned his wealth despite inheriting it",
+  "physical_description": "White man, perfectly maintained appearance, expensive suits, aging gracefully with medical tech, looks like everyone's friendly grandfather, by trilogy's end looks confused and lost",
+  "arc_position_book1": 0.0,
+  "arc_position_book2": 0.2,
+  "arc_position_book3": 0.5,
+  "skills": [
+    "Corporate leadership and management",
+    "Public relations and spin",
+    "Understanding of station systems and economics",
+    "Genuinely good at organizing (for wrong purposes)"
+  ],
+  "flaws": [
+    "Willful blindness to suffering",
+    "Believes his own propaganda",
+    "Cannot imagine life outside his bubble",
+    "Mistakes being nice for being good"
+  ],
+  "knowledge_state_book1_start": [
+    "Station administration and corporate structure",
+    "Upper-sector culture exclusively",
+    "Economic theory (but not reality)",
+    "Nothing about how lower sectors actually live"
+  ],
+  "relationships": {
+    "Reed Salazar": "Doesn't know he exists until he's a problem, then fascinated/horrified",
+    "Dr. Amara Osei": "Approves her research initially, feels betrayed when it critiques the system",
+    "The Board": "Answers to them, increasingly pressured to stop the 'Sector 12 situation'",
+    "His own conscience": "By trilogy's end, beginning to wake up to what he's done"
+  }
+}

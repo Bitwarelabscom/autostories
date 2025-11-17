@@ -1,0 +1,42 @@
+{
+  "name": "Maya Torres",
+  "age_range": "29-48 across trilogy",
+  "core_wound": "Grew up in Level 8 with Nico, managed to escape to Level 6 through education, feels survivor's guilt for leaving people behind",
+  "wants": "To fix the system through proper channels, to save Nico specifically",
+  "needs": "To realize the system can't be fixed from within, that sometimes rules must be broken",
+  "voice_markers": [
+    "Speaks carefully, formally - worked hard to lose her lower-tier accent",
+    "Uses social work jargon as armor",
+    "Pauses before speaking when emotional",
+    "Says 'Listen to me' when frustrated"
+  ],
+  "contradiction": "Believes in the system while working with people the system has abandoned; wants to help but constrained by regulations that prevent real help",
+  "physical_description": "Latina, professional appearance, carries exhaustion in her posture, kind eyes that have seen too much, maintains appearance carefully as armor against tier prejudice",
+  "arc_position_book1": 0.0,
+  "arc_position_book2": 0.6,
+  "arc_position_book3": 1.0,
+  "skills": [
+    "Social work training - crisis intervention, resource navigation",
+    "Bureaucracy navigation",
+    "Empathy and active listening",
+    "Code-switching between tier cultures"
+  ],
+  "flaws": [
+    "Rigid adherence to rules even when they don't work",
+    "Judgmental of people still using drugs (defense mechanism)",
+    "Workaholic to avoid processing her own trauma",
+    "Tendency to try to 'fix' people rather than listen"
+  ],
+  "knowledge_state_book1_start": [
+    "Social services system intimately",
+    "Both lower tier culture and mid-tier professional culture",
+    "Station regulations and policies",
+    "Nico's history and potential"
+  ],
+  "relationships": {
+    "Nico Chen": "Former close friend, maybe more before his addiction spiraled, now her most difficult client, mix of frustration and hope",
+    "Kade Rivera": "Dislikes him, sees him as enabler keeping Nico trapped",
+    "Dr. Sarah Kim": "Her supervisor, represents institutional constraints",
+    "Level 6 colleagues": "Never fully accepted, they see her lower-tier origins"
+  }
+}

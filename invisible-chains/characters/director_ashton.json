@@ -1,0 +1,43 @@
+{
+  "name": "Director Marcus Ashton",
+  "age_range": "52-69 across trilogy",
+  "caste": "Alpha",
+  "core_wound": "His grandfather was a Gamma who underwent illegal genetic modification to 'pass' as Alpha - Marcus's entire life is built on a secret that would destroy him",
+  "wants": "To maintain the caste system at all costs, to protect his secret",
+  "needs": "To accept his heritage and dismantle the system he's defending",
+  "voice_markers": [
+    "Corporate speak, euphemisms for violence",
+    "Never raises his voice, more dangerous when quiet",
+    "Says 'for the good of the station' before ordering cruelty",
+    "Clears throat when lying"
+  ],
+  "contradiction": "Enforces genetic purity while secretly being 'impure', believes in the system while knowing it's a lie",
+  "physical_description": "White man, distinguished gray hair, expensive suits, thin and cold, hands that shake slightly when stressed (genetic instability from his grandfather's modification), carries himself with rigid control",
+  "arc_position_book1": 0.0,
+  "arc_position_book2": 0.2,
+  "arc_position_book3": 0.6,
+  "skills": [
+    "Political maneuvering and manipulation",
+    "Intelligence operations and surveillance",
+    "Understanding of genetic systems",
+    "Ruthless decision-making"
+  ],
+  "flaws": [
+    "Paranoia about his secret being discovered",
+    "Self-hatred projected as hatred of Gammas",
+    "Unable to show weakness or compassion",
+    "Addicted to control"
+  ],
+  "knowledge_state_book1_start": [
+    "All station security and surveillance systems",
+    "His own genetic secret",
+    "Political landscape of Alpha caste",
+    "How to erase people and information"
+  ],
+  "relationships": {
+    "Elara Quinn": "His best investigator, sees her as protégé, furious when she betrays him",
+    "Jax Varro": "Sees as embodiment of everything he fears about himself",
+    "Alpha Council": "Reports to them, desperate for their approval to prove he belongs",
+    "His grandfather's memory": "Haunted by it, both grateful and ashamed"
+  }
+}

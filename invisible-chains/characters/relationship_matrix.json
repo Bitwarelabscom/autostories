@@ -1,0 +1,68 @@
+{
+  "relationships": [
+    {
+      "character_a": "Jax Varro",
+      "character_b": "Elara Quinn",
+      "initial_dynamic": "She's undercover investigating him, he's wary of the too-curious stranger",
+      "power_balance": "She has all institutional power, he has knowledge of undercity",
+      "core_tension": "Forbidden cross-caste attraction, her mission vs. her heart, his distrust vs. his feelings",
+      "evolution": "Book 1: Investigation becomes attraction. Book 2: Love despite system, she's compromised and hunted. Book 3: Partners in revolution, trying to survive together"
+    },
+    {
+      "character_a": "Jax Varro",
+      "character_b": "Finn",
+      "initial_dynamic": "Best friends, undercity family, total trust",
+      "power_balance": "Equal, both Gamma, both surviving together",
+      "core_tension": "Finn's unspoken love for Jax, Jax's obliviousness, Finn's jealousy of Elara",
+      "evolution": "Book 1: Solid friendship. Book 2: Strained by Jax's relationship with Elara. Book 3: Finn accepts they'll never be together, finds own purpose in revolution"
+    },
+    {
+      "character_a": "Jax Varro",
+      "character_b": "Mother Sera",
+      "initial_dynamic": "She's community elder, he's just another lost boy",
+      "power_balance": "She has wisdom and respect, he has youth and recklessness",
+      "core_tension": "She wants him to lead, he doesn't believe he can",
+      "evolution": "Book 1: She sees potential he doesn't. Book 2: She mentors him to accept himself. Book 3: He becomes the leader she knew he could be, watches her die having fulfilled her purpose"
+    },
+    {
+      "character_a": "Jax Varro",
+      "character_b": "Director Ashton",
+      "initial_dynamic": "Ashton barely knows Jax exists, Jax knows Ashton as the face of oppression",
+      "power_balance": "Ashton has all power, Jax is nothing in his eyes",
+      "core_tension": "Jax becomes threat to Ashton's secret and system",
+      "evolution": "Book 1: Distant enemies. Book 2: Personal vendetta when Jax threatens system. Book 3: Final confrontation where Ashton's secret is revealed"
+    },
+    {
+      "character_a": "Elara Quinn",
+      "character_b": "Director Ashton",
+      "initial_dynamic": "Mentor and protégé, he trained her and trusts her",
+      "power_balance": "He has authority, she has competence and his trust",
+      "core_tension": "She discovers truth, must choose between loyalty and justice",
+      "evolution": "Book 1: Professional respect. Book 2: She realizes he's a monster, begins sabotaging him. Book 3: Open enemies, she knows his secret and threatens to expose it"
+    },
+    {
+      "character_a": "Elara Quinn",
+      "character_b": "Finn",
+      "initial_dynamic": "Finn sees her as Alpha threat, she barely registers them",
+      "power_balance": "She has caste power, Finn has undercity knowledge",
+      "core_tension": "Finn loves Jax, sees Elara as stealing him, she's oblivious to this",
+      "evolution": "Book 1: Mutual suspicion. Book 2: Grudging alliance when she's hunted. Book 3: Real friendship when Finn sees she's sacrificed everything"
+    },
+    {
+      "character_a": "Finn",
+      "character_b": "Mother Sera",
+      "initial_dynamic": "Sera knew Finn's mother, feels protective",
+      "power_balance": "Sera has elder authority, Finn has street skills",
+      "core_tension": "Sera wants Finn to be more than a thief, Finn doesn't believe in more",
+      "evolution": "Book 1: Surrogate family. Book 2: Finn starts believing because Sera believes. Book 3: Finn carries on her work after her death"
+    },
+    {
+      "character_a": "Mother Sera",
+      "character_b": "Elara Quinn",
+      "initial_dynamic": "Sera deeply suspicious of any Alpha",
+      "power_balance": "Sera has community trust, Elara has nothing once she's hunted",
+      "core_tension": "Sera tests if Elara is truly committed or tourist in their struggle",
+      "evolution": "Book 1: Cold distance. Book 2: Brutal testing. Book 3: Acceptance when Elara proves herself, blesses Jax and Elara's relationship before dying"
+    }
+  ]
+}

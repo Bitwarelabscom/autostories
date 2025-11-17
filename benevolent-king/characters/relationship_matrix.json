@@ -1,0 +1,60 @@
+{
+  "relationships": [
+    {
+      "character_a": "Nico Chen",
+      "character_b": "Maya Torres",
+      "initial_dynamic": "Former friends with unresolved romantic tension, now client and social worker",
+      "power_balance": "Maya has institutional power, Nico has street knowledge",
+      "core_tension": "Maya wants to save Nico through the system, Nico knows the system can't save him",
+      "evolution": "Book 1: Strained professional. Book 2: Allies in building alternative economy. Book 3: Maya realizes Nico was right, joins his cause fully"
+    },
+    {
+      "character_a": "Nico Chen",
+      "character_b": "Kade Rivera",
+      "initial_dynamic": "Business partners in drug trade, guarded friendship",
+      "power_balance": "Kade has more experience and connections, Nico is younger and more ambitious",
+      "core_tension": "Nico wants more from life, Kade has given up",
+      "evolution": "Book 1: Kade reluctantly helps with the money scheme. Book 2: Becomes Nico's enforcer and right hand. Book 3: Sacrifices himself to protect Nico's legacy"
+    },
+    {
+      "character_a": "Nico Chen",
+      "character_b": "Commander Wright",
+      "initial_dynamic": "Cat and mouse - small-time criminal vs. law enforcement",
+      "power_balance": "Wright has all institutional power, but Nico gains social power",
+      "core_tension": "Nico proves the system is failing while Wright tries to maintain it",
+      "evolution": "Book 1: Wright dismisses Nico. Book 2: Sees him as serious threat. Book 3: Final confrontation where Wright must choose between orders and conscience"
+    },
+    {
+      "character_a": "Nico Chen",
+      "character_b": "Lin Zhao",
+      "initial_dynamic": "She dismisses him as another junkie dealer",
+      "power_balance": "Lin has community respect and moral authority, Nico has money",
+      "core_tension": "Lin tests if Nico's charity is real or ego-driven",
+      "evolution": "Book 1: She's skeptical but watches. Book 2: Becomes his advisor and conscience. Book 3: Witnesses his martyrdom, carries his story forward"
+    },
+    {
+      "character_a": "Maya Torres",
+      "character_b": "Commander Wright",
+      "initial_dynamic": "Professional cooperation - social services and security",
+      "power_balance": "Wright has authority, Maya has none",
+      "core_tension": "Maya sees people to help, Wright sees problems to manage",
+      "evolution": "Book 1: Cordial. Book 2: Maya increasingly opposes his methods. Book 3: She actively works against him"
+    },
+    {
+      "character_a": "Kade Rivera",
+      "character_b": "Lin Zhao",
+      "initial_dynamic": "She knows him as the neighborhood junkie with medical skills",
+      "power_balance": "Equal - both respected for different reasons",
+      "core_tension": "She wants him to get clean and use his skills properly, he thinks he's beyond saving",
+      "evolution": "Book 1: Distant. Book 2: She recruits him to run medical clinic. Book 3: She grieves his death as a son"
+    },
+    {
+      "character_a": "Maya Torres",
+      "character_b": "Kade Rivera",
+      "initial_dynamic": "She dislikes him as Nico's enabler",
+      "power_balance": "Maya has legitimacy, Kade has practical knowledge",
+      "core_tension": "Different philosophies of help - harm reduction vs. abstinence",
+      "evolution": "Book 1: Mutual dislike. Book 2: Grudging respect as they work together. Book 3: Maya regrets judging him when she understands his sacrifice"
+    }
+  ]
+}

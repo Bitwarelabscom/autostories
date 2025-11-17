@@ -1,0 +1,207 @@
+{
+  "trilogy_structure": {
+    "book_1": {
+      "title": "The Score",
+      "timespan": "Ages 25-28, approximately 3 years",
+      "core_arc": "Jax finds the fortune in old Earth currency, sells to collectors, becomes rich but discovers he's genetically barred from leaving the undercity. Begins building the 'Free Level' while Elara investigates him undercover.",
+      "chapters": 20,
+      "tentpoles": [
+        {
+          "chapter": 1,
+          "type": "hook",
+          "description": "Noir opening - Jax's daily life dealing Drift in the perpetually wet undercity, showing the biometric caste system in action, a deal goes wrong and he barely escapes"
+        },
+        {
+          "chapter": 5,
+          "type": "inciting_incident",
+          "description": "Following a dying scavenger's directions, Jax explores deep into Old City Level 9, finds the vault with Earth currency - paper bills and coins, billions worth to collectors"
+        },
+        {
+          "chapter": 10,
+          "type": "midpoint_reversal",
+          "description": "Jax tries to leave undercity with his wealth, biometric scanners reject him. Discovers his DNA is flagged as Gamma - genetically barred. He's rich and still trapped. Rage turns to determination - he'll make the undercity worth living in."
+        },
+        {
+          "chapter": 15,
+          "type": "complication",
+          "description": "Elara arrives undercover as a Beta worker fleeing bad debts, integrates into community, gets close to Jax. Meanwhile, Jax's improvements to undercity attract attention from authorities above."
+        },
+        {
+          "chapter": 20,
+          "type": "book_climax",
+          "description": "Elara discovers the truth about the biometric system's cruelty, can't bring herself to turn Jax in. She makes initial choice to deceive her bosses. Jax doesn't know she's undercover. Book ends with her compromised."
+        }
+      ],
+      "chapter_outline": [
+        {"ch": 1, "title": "Rain in the Undercity", "summary": "TENTPOLE - Noir intro to Jax, the undercity, the caste system. Drug deal goes bad, Jax escapes through tunnels, shows his knowledge of the labyrinth."},
+        {"ch": 2, "title": "The Dying Scavenger", "summary": "Jax finds old man dying in alley, man tells him about discovery in Old City in exchange for Drift to ease his death."},
+        {"ch": 3, "title": "Into the Deep", "summary": "Jax and Finn navigate abandoned sections, art deco ruins, evidence of better past."},
+        {"ch": 4, "title": "The Vault", "summary": "Finding the hidden vault, sealed for 200 years, inside: preserved Earth currency."},
+        {"ch": 5, "title": "Paper Fortune", "summary": "TENTPOLE - Jax realizes what he's found, gets Finn to help move it, connection to fence called 'The Collector.'"},
+        {"ch": 6, "title": "The Collector", "summary": "Meeting mysterious Alpha collector, selling first batch for 200 million credits, Jax is rich."},
+        {"ch": 7, "title": "Dreams of Escape", "summary": "Jax planning to leave, imagining life in upper levels, high on Drift and hope."},
+        {"ch": 8, "title": "The Scanner", "summary": "Jax at Level 8 gate, trying to pass to Level 7. Biometric scanner. Rejected. Alarm."},
+        {"ch": 9, "title": "Genetically Barred", "summary": "Explanation of how his DNA is flagged, no amount of money can change biology, system is absolute."},
+        {"ch": 10, "title": "Trapped Rich", "summary": "TENTPOLE - Jax's rage and despair, gets heavily intoxicated, decides if he can't leave, he'll make undercity livable."},
+        {"ch": 11, "title": "The Free Level Begins", "summary": "Buying first building, offering free food and housing, people think it's a scam."},
+        {"ch": 12, "title": "Word Spreads", "summary": "More people taking advantage, Jax hires Gammas to run operations, creating jobs and dignity."},
+        {"ch": 13, "title": "Mother Sera Watches", "summary": "Elder observing Jax, suspicious of motives, tests him by asking him to help someone who can't pay him back."},
+        {"ch": 14, "title": "The Influx", "summary": "Gammas from Level 8 moving to undercity Free Level, population boom, authorities notice."},
+        {"ch": 15, "title": "The Investigator", "summary": "TENTPOLE - Elara arrives undercover as Beta fugitive, integration into community, meets Jax."},
+        {"ch": 16, "title": "Getting Close", "summary": "Elara investigating Jax while becoming attracted, internal conflict, noir sexual tension."},
+        {"ch": 17, "title": "Finn's Suspicion", "summary": "Finn doesn't trust Elara, warns Jax, but Jax is falling for her."},
+        {"ch": 18, "title": "The Truth Witnessed", "summary": "Elara sees brutal reality - SSS raid on Level 8, Gammas beaten for existing, children traumatized, she can't unsee it."},
+        {"ch": 19, "title": "Report Falsified", "summary": "Elara writes report to Ashton, lies about Jax's operation, minimizes threat. She's crossed a line."},
+        {"ch": 20, "title": "Compromised", "summary": "TENTPOLE - Elara knows she can't turn Jax in, questions everything she believed. Jax still doesn't know she's investigating him. Kiss in the rain-soaked undercity."}
+      ]
+    },
+    "book_2": {
+      "title": "Invisible Chains",
+      "timespan": "Ages 29-35, approximately 6 years",
+      "core_arc": "The Free Level flourishes but authorities decide to crush it. Elara's identity revealed, she's hunted by her own people. Jax and Elara's relationship deepens. Planning the genetic database heist to free the Gammas.",
+      "chapters": 20,
+      "tentpoles": [
+        {
+          "chapter": 1,
+          "type": "hook",
+          "description": "Two years later, Free Level thriving, Jax and Elara in relationship (he still doesn't know her past). Director Ashton realizes she's been lying, tracks her to undercity."
+        },
+        {
+          "chapter": 7,
+          "type": "identity_reveal",
+          "description": "Ashton exposes Elara's identity publicly in undercity, crowd turns on her, Jax feels utterly betrayed. She barely escapes with life. Now hunted by both sides."
+        },
+        {
+          "chapter": 12,
+          "type": "midpoint_reversal",
+          "description": "Elara returns, confronts Jax, honest conversation about her mission and her change. He doesn't forgive but acknowledges she gave up everything. They form alliance - if they can't change castes individually, they'll hack the system for everyone."
+        },
+        {
+          "chapter": 16,
+          "type": "complication",
+          "description": "Heist planning, but to access genetic database need someone with Alpha clearance - Elara's been locked out. Need to turn an insider. Meanwhile, Ashton tightens security, knows something's coming."
+        },
+        {
+          "chapter": 20,
+          "type": "book_climax",
+          "description": "Heist begins - breaking into Central Administration genetic databank. Multi-stage infiltration. Cliffhanger at moment of truth: Jax is inside the system, about to corrupt the caste data."
+        }
+      ],
+      "chapter_outline": [
+        {"ch": 1, "title": "Paradise in Hell", "summary": "TENTPOLE - 2 years later, Free Level transformed, Jax and Elara together, seeming happiness. But Ashton reviewing Elara's old reports, knows she's lied."},
+        {"ch": 2, "title": "The Hunt Begins", "summary": "Ashton sending agents to find his rogue investigator, getting close."},
+        {"ch": 3, "title": "Mother Sera's Counsel", "summary": "Sera tells Jax she sees trouble coming, he's too comfortable, preparing him."},
+        {"ch": 4, "title": "Finn's Heartbreak", "summary": "Finn watching Jax and Elara together, coping with unrequited love through work."},
+        {"ch": 5, "title": "The Trap Closes", "summary": "Ashton's agents identify Elara in surveillance footage, plan to expose her publicly."},
+        {"ch": 6, "title": "False Peace", "summary": "Jax and Elara's last happy night before everything breaks, they discuss future, planning to tell him truth soon."},
+        {"ch": 7, "title": "The Betrayal Revealed", "summary": "TENTPOLE - Ashton broadcasts Elara's identity to undercity, shows footage of her as Alpha investigator. Jax's devastation. Crowd violence. She runs."},
+        {"ch": 8, "title": "Hunted", "summary": "Elara fleeing through undercity, people who were friends now want her dead, barely survives."},
+        {"ch": 9, "title": "Jax's Rage", "summary": "Jax destroying their shared space, drug use spiraling, Finn trying to talk him down."},
+        {"ch": 10, "title": "Alpha Fugitive", "summary": "Elara surviving alone, everything stripped away, understanding what Gammas live with."},
+        {"ch": 11, "title": "Mother Sera's Message", "summary": "Sera gets message to Elara - come meet alone. Brutal conversation testing Elara's sincerity."},
+        {"ch": 12, "title": "The Proposition", "summary": "TENTPOLE - Elara tells Jax she knows how to hack genetic database, can free everyone. He doesn't forgive but recognizes opportunity."},
+        {"ch": 13, "title": "Unlikely Alliance", "summary": "Planning begins, Jax and Elara working together but cold, professional distance."},
+        {"ch": 14, "title": "Assembling the Team", "summary": "Recruiting undercity residents with specific skills, explaining the plan."},
+        {"ch": 15, "title": "The Insider Problem", "summary": "Realizing they need Alpha clearance, Elara's locked out, need to turn someone."},
+        {"ch": 16, "title": "Finding the Weak Link", "summary": "TENTPOLE - Identifying Alpha bureaucrat with gambling debts, approaching him with deal."},
+        {"ch": 17, "title": "Training Montage", "summary": "Team preparing, Jax learning systems, building trust between him and Elara slowly."},
+        {"ch": 18, "title": "Ashton's Paranoia", "summary": "Ashton upgrading security, sensing threat, doesn't know what but preparing."},
+        {"ch": 19, "title": "The Eve", "summary": "Night before heist, Jax and Elara finally talk honestly, beginning of forgiveness, rekindling of connection."},
+        {"ch": 20, "title": "Infiltration", "summary": "TENTPOLE - Heist begins, multi-stage breaking in, getting to genetic database core, Jax plugging in virus. Cliffhanger."}
+      ]
+    },
+    "book_3": {
+      "title": "Freedom's Price",
+      "timespan": "Ages 36-42, approximately 6 years",
+      "core_arc": "Heist succeeds, caste system crashes, chaos erupts. Jax and Elara lead the revolution. Ashton's secret revealed. Final confrontation. Victory is messy and costly.",
+      "chapters": 20,
+      "tentpoles": [
+        {
+          "chapter": 1,
+          "type": "hook",
+          "description": "The virus works - genetic database corrupted, thousands of Gammas suddenly reclassified as Beta or Alpha. Scanners don't know what to do. System in chaos."
+        },
+        {
+          "chapter": 6,
+          "type": "revolution",
+          "description": "Gammas start moving up levels, authorities try to stop them violently, full-scale riots. The station is at war with itself. Jax and Elara become revolutionary leaders."
+        },
+        {
+          "chapter": 12,
+          "type": "midpoint_reversal",
+          "description": "Ashton's secret discovered - his Gamma heritage. He's exposed publicly. His authority collapses. But in desperation, he becomes more dangerous."
+        },
+        {
+          "chapter": 16,
+          "type": "sacrifice",
+          "description": "Mother Sera dies in Authority attack on revolutionary base. Her death galvanizes the movement. Finn takes up her mantle."
+        },
+        {
+          "chapter": 20,
+          "type": "resolution",
+          "description": "Final confrontation with Ashton, talk-down rather than violence. System is permanently broken. Epilogue: 5 years later, new system emerging, still imperfect, but Jax and Elara building something better."
+        }
+      ],
+      "chapter_outline": [
+        {"ch": 1, "title": "System Crash", "summary": "TENTPOLE - The virus activates, genetic records corrupting, scanners malfunctioning, people crossing levels, authorities in chaos."},
+        {"ch": 2, "title": "The First Free Steps", "summary": "Jax walking into Level 8, scanner showing him as Beta, then Alpha, his disbelief and joy."},
+        {"ch": 3, "title": "Mass Movement", "summary": "Thousands of Gammas realizing they can move up, exodus from undercity."},
+        {"ch": 4, "title": "Authority Lockdown", "summary": "Emergency measures, trying to manually check people, violence erupting."},
+        {"ch": 5, "title": "Ashton's Desperation", "summary": "Director trying to restore system, ordering crackdowns, system slipping from control."},
+        {"ch": 6, "title": "The Uprising", "summary": "TENTPOLE - Full riots, Gammas fighting back, Jax and Elara coordinating resistance, becoming leaders."},
+        {"ch": 7, "title": "Revolutionary Council", "summary": "Forming leadership, Mother Sera, Finn, Jax, Elara, others planning strategy."},
+        {"ch": 8, "title": "The Holdouts", "summary": "Alpha and Beta citizens terrified, some fleeing, others joining Authority forces."},
+        {"ch": 9, "title": "Finn's Leadership", "summary": "Finn leading tactical operations, coming into their own as military leader."},
+        {"ch": 10, "title": "Elara's Guilt", "summary": "Elara struggling with violence, people dying because of plan she helped create."},
+        {"ch": 11, "title": "The Investigation", "summary": "While fighting, Jax finds old records that reveal Ashton's secret genetic heritage."},
+        {"ch": 12, "title": "The Exposure", "summary": "TENTPOLE - Broadcasting Ashton's Gamma heritage, his authority evaporates, his people turn on him."},
+        {"ch": 13, "title": "Ashton Broken", "summary": "Director in hiding, everything he defended destroyed, confronting what he's done."},
+        {"ch": 14, "title": "The Final Offensive", "summary": "Authority making last stand, planning to destroy undercity completely."},
+        {"ch": 15, "title": "Defending Home", "summary": "Revolutionary forces protecting undercity, outnumbered but determined."},
+        {"ch": 16, "title": "Mother Sera Falls", "summary": "TENTPOLE - Sera killed in Authority airstrike, dying she tells them to build something better, her death unites everyone."},
+        {"ch": 17, "title": "The Grief", "summary": "Mourning Sera, Finn's rage and pain, Jax's determination to honor her."},
+        {"ch": 18, "title": "The Hunt for Ashton", "summary": "Tracking Ashton to his hiding place, Jax going to confront him."},
+        {"ch": 19, "title": "The Confrontation", "summary": "Jax and Ashton face-to-face, Ashton expects to die, but Jax talks him down, both victims of the system in different ways. Mercy instead of revenge."},
+        {"ch": 20, "title": "New Dawn", "summary": "TENTPOLE - War ends, system dismantled. Epilogue 5 years later: new governance forming, still problems but based on equality. Jax and Elara together, no longer hidden. Finn running community center in Mother Sera's name. Imperfect but hopeful."}
+      ]
+    }
+  },
+  "trilogy_themes": [
+    "Oppression enforced by biology is still oppression - genes don't determine worth",
+    "Love across power imbalances requires the powerful to give up power",
+    "Systems of control can be broken but rebuilding is harder than destroying",
+    "The cage doesn't disappear just because you can't see the bars"
+  ],
+  "planted_elements_across_trilogy": [
+    {
+      "element": "Ashton's genetic secret",
+      "planted": "Book 1, Chapter 15 - subtle hand tremor mentioned",
+      "payoff": "Book 3, Chapter 12 - full revelation",
+      "significance": "Shows even enforcers of oppression are victims of it"
+    },
+    {
+      "element": "Finn's unrequited love",
+      "planted": "Book 1, Chapter 17",
+      "payoff": "Book 3, Chapter 16 - during grief over Sera, finally let it go",
+      "significance": "Not all love is fulfilled, but it still matters"
+    },
+    {
+      "element": "The Old City vault location",
+      "planted": "Book 1, Chapter 4",
+      "payoff": "Book 3, Chapter 15 - becomes revolutionary base, using the past to fight for future",
+      "significance": "History provides tools for liberation"
+    },
+    {
+      "element": "Elara's family disowning her",
+      "planted": "Book 2, Chapter 8",
+      "payoff": "Book 3, Chapter 20 - epilogue shows she's built new family with Jax and Finn",
+      "significance": "Family is chosen, not just genetic"
+    },
+    {
+      "element": "Mother Sera's labor songs",
+      "planted": "Book 1, Chapter 13",
+      "payoff": "Book 3, Chapter 16 - sung at her funeral, becomes anthem of movement",
+      "significance": "Culture survives oppression and becomes weapon against it"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "trilogy_structure": {
+    "book_1": {
+      "title": "Universal Basic Chaos",
+      "timespan": "Ages 30-34, approximately 4 years",
+      "core_arc": "Reed finds corporate slush fund, starts UBI experiment in Sector 12 on a whim. Sector transforms as people stop working terrible jobs. Corporate media attacks them. Dr. Osei begins studying the phenomenon.",
+      "chapters": 20,
+      "tentpoles": [
+        {
+          "chapter": 1,
+          "type": "hook",
+          "description": "Reed's exhausted, nihilistic daily life dealing Leveler in Sector 12, showing the grinding poverty and corporate propaganda. Visiting his brother's memorial plaque. Corporate courier dies in his building."
+        },
+        {
+          "chapter": 5,
+          "type": "inciting_incident",
+          "description": "Reed finds data chip with 500 million credits - corporate black ops fund. Realizes he has money he can't be traced to. Gets high and has the idea: what if people just... didn't have to work?"
+        },
+        {
+          "chapter": 10,
+          "type": "midpoint_reversal",
+          "description": "Six months in, Sector 12 is transforming. People quitting bad jobs but not all jobs - some still work by choice. Crime down. Health improving. Reed realizes it's actually working. Corporate media starts hit pieces."
+        },
+        {
+          "chapter": 15,
+          "type": "complication",
+          "description": "Dr. Osei arrives to study the phenomenon, Reed contacts her anonymously. Corporate board escalates - cuts services to Sector 12, imposes taxes, makes life harder to prove people need to work."
+        },
+        {
+          "chapter": 20,
+          "type": "book_climax",
+          "description": "Despite corporate interference, Sector 12 is measurably better. Osei presents preliminary findings at conference - data shows people thrive when secure. Corporate board furious, orders her to stop research or lose funding."
+        }
+      ],
+      "chapter_outline": [
+        {"ch": 1, "title": "Pre-Prosperous", "summary": "TENTPOLE - Reed's daily grind, dealing drugs, corporate propaganda everywhere, visiting his brother's memorial. Exhausted and done with everything."},
+        {"ch": 2, "title": "The Body", "summary": "Corporate courier has heart attack in Reed's building, dies before help arrives (healthcare delay), Reed loots body out of habit."},
+        {"ch": 3, "title": "The Data Chip", "summary": "Finding encrypted data chip, getting it cracked by a contact, discovering 500 million credits."},
+        {"ch": 4, "title": "What If", "summary": "Reed high on Leveler, thinking about his brother, has the thought: what if people didn't have to struggle? Weird experiment idea."},
+        {"ch": 5, "title": "The First Transfer", "summary": "TENTPOLE - Setting up anonymous system, giving everyone in his building 2000 credits/month. They think it's a scam."},
+        {"ch": 6, "title": "Suspicion", "summary": "People checking if money is real, waiting for the catch, some spend it immediately, others save, no one believes it will continue."},
+        {"ch": 7, "title": "The First Changes", "summary": "Second month payment arrives. People start believing. Some quit their worst jobs. Corporate managers confused."},
+        {"ch": 8, "title": "Yuki's Decision", "summary": "Yuki quits second and third job, keeps first because they like it. Can finally sleep. Transformation begins."},
+        {"ch": 9, "title": "Marcus Breathes", "summary": "Marcus can afford pain medication, can help his kids with school, sees hope for first time in years."},
+        {"ch": 10, "title": "Six Month Mark", "summary": "TENTPOLE - Sector 12 measurably different. Less stress, better health, people pursuing hobbies. Corporate media: 'Sector 12's Laziness Problem'."},
+        {"ch": 11, "title": "The Hit Pieces", "summary": "Corporate propaganda attacking Sector 12, interviewing angry managers about labor shortage, not talking to actual residents."},
+        {"ch": 12, "title": "Reed Watches", "summary": "Reed observing changes, documenting everything, still using but feeling something like purpose."},
+        {"ch": 13, "title": "The Sociologist Arrives", "summary": "Dr. Osei gets permission to study Sector 12, sees opportunity for career-making research."},
+        {"ch": 14, "title": "Data Collection", "summary": "Amara interviewing residents, seeing genuine happiness, data contradicting corporate narrative."},
+        {"ch": 15, "title": "Anonymous Contact", "summary": "TENTPOLE - Reed sends Amara encrypted message with financial data, anonymously offers to collaborate. She's torn but intrigued."},
+        {"ch": 16, "title": "Corporate Escalation", "summary": "Board meeting - decision to make Sector 12 suffer to prove UBI doesn't work. Cut services, impose 'luxury taxes'."},
+        {"ch": 17, "title": "The Squeeze", "summary": "Sector 12 facing increased costs, service cuts, Reed has to spend more to maintain quality of life."},
+        {"ch": 18, "title": "Community Response", "summary": "People organizing mutual aid, sharing resources, cooperating. Stronger together than corporate board expected."},
+        {"ch": 19, "title": "Preliminary Findings", "summary": "Amara presents research at academic conference - data proves UBI works, people are healthier and happier."},
+        {"ch": 20, "title": "The Warning", "summary": "TENTPOLE - Harris calls Amara, tells her to stop research or lose funding. She refuses. Reed sees conference footage, realizes he's started something he can't stop."}
+      ]
+    },
+    "book_2": {
+      "title": "The Crisis of Purpose",
+      "timespan": "Ages 35-40, approximately 5 years",
+      "core_arc": "Experiment goes viral, other sectors demand UBI. Corporate escalates warfare. Reed's health failing from stress and addiction. Amara gets closer to identifying him. Other sectors start organizing even without UBI.",
+      "chapters": 20,
+      "tentpoles": [
+        {
+          "chapter": 1,
+          "type": "hook",
+          "description": "Two years later. Sector 12 thriving despite corporate sabotage. Other sectors protesting, demanding same treatment. Reed's money running lower, health declining. Media circus around 'the mysterious benefactor'."
+        },
+        {
+          "chapter": 7,
+          "type": "escalation",
+          "description": "Corporate board infiltrates Sector 12 with agitators, false flag incidents blamed on UBI recipients. Media covers 'Sector 12 chaos'. Reed has to spend money on security and PR."
+        },
+        {
+          "chapter": 12,
+          "type": "midpoint_reversal",
+          "description": "Workers in other sectors organize strikes and cooperatives inspired by Sector 12, even without UBI. Reed realizes the money was catalyst but people are doing the real work."
+        },
+        {
+          "chapter": 16,
+          "type": "complication",
+          "description": "Amara's economic modeling identifies Reed as most likely source. She tracks him down, confronts him. He admits everything. She has to choose: report him or protect him."
+        },
+        {
+          "chapter": 20,
+          "type": "book_climax",
+          "description": "Harris offers Reed the deal: reveal yourself, admit experiment failed, help discredit UBI. In exchange: immunity, medical care, wealth, comfort. Reed has 48 hours to decide."
+        }
+      ],
+      "chapter_outline": [
+        {"ch": 1, "title": "Two Years On", "summary": "TENTPOLE - Sector 12 established as different, Reed running low on funds, health declining, other sectors demanding change."},
+        {"ch": 2, "title": "The Myth Grows", "summary": "People speculating about benefactor identity, wild theories, Reed is nobody they'd ever suspect."},
+        {"ch": 3, "title": "Yuki's Art", "summary": "Yuki discovered they're talented artist, first gallery show, transformation from anxious worker to fulfilled person."},
+        {"ch": 4, "title": "Marcus's Kids", "summary": "Marcus's children thriving in school, he's teaching community classes in repair work, finding purpose beyond labor."},
+        {"ch": 5, "title": "Amara's Career", "summary": "Her research making waves, book in progress, but pressure from corporate funders to change conclusions."},
+        {"ch": 6, "title": "Other Sectors Organize", "summary": "Sectors 8, 15, 23 demanding UBI, protesting, corporate board worried about contagion."},
+        {"ch": 7, "title": "False Flag", "summary": "TENTPOLE - Corporate plants cause violence in Sector 12, media blames UBI recipients, public opinion manipulation."},
+        {"ch": 8, "title": "Fighting Lies", "summary": "Sector 12 residents trying to counter narrative, producing their own media, grassroots truth-telling."},
+        {"ch": 9, "title": "Reed's Isolation", "summary": "Reed more isolated, can't tell anyone, stress crushing, using more Leveler, health declining."},
+        {"ch": 10, "title": "The Money Math", "summary": "Reed calculating he has maybe 2 years left at current burn rate, needs exit strategy."},
+        {"ch": 11, "title": "Amara's Suspicion", "summary": "Her economic modeling shows money source must be someone in Sector 12, narrowing possibilities."},
+        {"ch": 12, "title": "Strikes Begin", "summary": "TENTPOLE - Workers inspired by Sector 12 organizing across station, even without UBI, proving cooperative economics work."},
+        {"ch": 13, "title": "Corporate Panic", "summary": "Board realizing they're facing systemic challenge, not just one sector anomaly."},
+        {"ch": 14, "title": "Reed's Purpose", "summary": "Reed watching labor movement, realizing his role was spark not fuel, people are carrying it forward."},
+        {"ch": 15, "title": "The Trail", "summary": "Amara tracking financial patterns, her investigation leading to Reed."},
+        {"ch": 16, "title": "The Confrontation", "summary": "TENTPOLE - Amara finds Reed, he admits everything, vulnerable moment, she chooses to protect him."},
+        {"ch": 17, "title": "Collaboration", "summary": "Reed and Amara working together now, he gives her all his data, she helps him plan endgame."},
+        {"ch": 18, "title": "Connection", "summary": "Reed and Amara becoming close, intellectual and emotional connection, maybe falling in love."},
+        {"ch": 19, "title": "The Offer Comes", "summary": "Corporate board identifies Reed through investigation, makes the offer through intermediary."},
+        {"ch": 20, "title": "Forty-Eight Hours", "summary": "TENTPOLE - Reed shown what he'd get if he cooperates, medical care he desperately needs, comfort, legitimacy. Tempted but knows it would betray everyone."}
+      ]
+    },
+    "book_3": {
+      "title": "The Reckoning",
+      "timespan": "Ages 41-47, approximately 6 years",
+      "core_arc": "Reed refuses the deal, uses last funds to seed cooperatives. Labor movement grows. His health fails. Final video explaining everything. Dies at 47. Epilogue shows his complex legacy.",
+      "chapters": 20,
+      "tentpoles": [
+        {
+          "chapter": 1,
+          "type": "hook",
+          "description": "Reed refuses deal, immediately faces consequences. Assets traced and frozen. Has weeks of funds left. Health crisis - needs dialysis he can't get without revealing himself."
+        },
+        {
+          "chapter": 6,
+          "type": "final_plan",
+          "description": "With Amara and community leaders, Reed pivots: using last money to seed worker cooperatives and union funds. Teaching people to sustain themselves after he's gone."
+        },
+        {
+          "chapter": 12,
+          "type": "midpoint_reversal",
+          "description": "The cooperatives work. Station-wide labor movement coordinated by worker councils. Corporate board forced to negotiate. Reed's UBI ending but community organization continuing."
+        },
+        {
+          "chapter": 16,
+          "type": "sacrifice",
+          "description": "Reed's kidneys fail completely. Needs treatment or dies in weeks. Chooses to use final days recording video explanation of experiment, findings, and meaning."
+        },
+        {
+          "chapter": 20,
+          "type": "resolution",
+          "description": "Reed dies at 47 in community clinic. Video released posthumously. Massive station-wide debate. Epilogue: 10 years later, system changed but still imperfect. Reed's legacy debated but undeniable."
+        }
+      ],
+      "chapter_outline": [
+        {"ch": 1, "title": "The Refusal", "summary": "TENTPOLE - Reed tells corporate no, accepts he's dying, money frozen, has weeks left."},
+        {"ch": 2, "title": "Health Crisis", "summary": "Kidney failure diagnosis, needs dialysis, can't get without medical insurance, without identity reveal."},
+        {"ch": 3, "title": "Amara's Fear", "summary": "Amara wants him to take the deal, save himself, he refuses, their first real fight."},
+        {"ch": 4, "title": "Community Discovers", "summary": "Marcus figures out Reed is the benefactor, word spreads quietly, people want to help him."},
+        {"ch": 5, "title": "Collective Decision", "summary": "Community meeting, Reed explains situation, they plan together how to use last funds."},
+        {"ch": 6, "title": "Seeding Cooperatives", "summary": "TENTPOLE - Last money funding worker-owned businesses, union funds, mutual aid networks, building infrastructure for after."},
+        {"ch": 7, "title": "Teaching Economics", "summary": "Reed and Amara running workshops on cooperative economics, collective bargaining, organizing."},
+        {"ch": 8, "title": "Yuki Leads", "summary": "Yuki becomes spokesperson for cooperative movement, transformed from anxious worker to confident leader."},
+        {"ch": 9, "title": "Marcus's Last Lessons", "summary": "Marcus teaching from his union days, passing knowledge to new generation before he's too old."},
+        {"ch": 10, "title": "The Movement Spreads", "summary": "Worker cooperatives in Sectors 8, 15, 23, 30, coordinated action across station."},
+        {"ch": 11, "title": "Corporate Negotiation", "summary": "Board forced to negotiate with worker councils, first time in station history, small concessions won."},
+        {"ch": 12, "title": "The UBI Ends", "summary": "TENTPOLE - Reed's money runs out, payments stop, but cooperative infrastructure sustains improved quality of life."},
+        {"ch": 13, "title": "Data Proves It", "summary": "Amara's complete dataset shows experiment succeeded, people thrived, system could work."},
+        {"ch": 14, "title": "Harris's Crisis", "summary": "Harris reviewing data, can't deny it anymore, begins questioning everything he's believed."},
+        {"ch": 15, "title": "Failing Body", "summary": "Reed's health rapidly declining, pain constant, Leveler not enough anymore."},
+        {"ch": 16, "title": "Final Project", "summary": "TENTPOLE - Reed decides to record everything - who he is, why he did it, what he learned, legacy message."},
+        {"ch": 17, "title": "The Recording", "summary": "Reed's video testimony, explaining the experiment, the data, the meaning, his hope for the future."},
+        {"ch": 18, "title": "Last Days", "summary": "Reed in community clinic, Amara by his side, visits from Marcus, Yuki, others whose lives changed."},
+        {"ch": 19, "title": "Marco's Brother", "summary": "Reed's final thoughts of his brother, hoping he proved something, that Marco's death meant something."},
+        {"ch": 20, "title": "Legacy", "summary": "TENTPOLE - Reed dies surrounded by community. Video released. Station-wide reaction. Epilogue: 10 years later, cooperative movement changed station labor relations, still imperfect but better. Amara's book 'The Salazar Experiment' required reading. Reed remembered as complex - dealer, thief, experimenter, accidental activist. His question remains: if people had security, what could they become?"}
+      ]
+    }
+  },
+  "trilogy_themes": [
+    "Are people inherently lazy or systemically exhausted?",
+    "What is the relationship between labor and worth?",
+    "Can one person prove a system wrong?",
+    "The difference between charity and structural change"
+  ],
+  "planted_elements_across_trilogy": [
+    {
+      "element": "Reed's brother Marco",
+      "planted": "Book 1, Chapter 1 - visiting memorial",
+      "payoff": "Book 3, Chapter 19 - Reed's final thoughts about proving something for Marco",
+      "significance": "Everything Reed does is for his brother, to prove the system killed him unnecessarily"
+    },
+    {
+      "element": "Yuki's anxiety and multi-job juggling",
+      "planted": "Book 1, Chapter 8",
+      "payoff": "Book 3, Chapter 8 - Yuki as confident leader, complete transformation",
+      "significance": "Shows what people can become when basic needs are met"
+    },
+    {
+      "element": "Marcus's body breaking down from labor",
+      "planted": "Book 1, Chapter 9",
+      "payoff": "Book 3, Chapter 18 - Marcus living longer, healthier because he could afford care and rest",
+      "significance": "System literally kills workers, security saves lives"
+    },
+    {
+      "element": "Amara's guilt about studying suffering",
+      "planted": "Book 1, Chapter 13",
+      "payoff": "Book 3, Chapter 20 - her book tells story humanely, uses position to advocate",
+      "significance": "Intellectuals must choose between observation and action"
+    },
+    {
+      "element": "Harris's willful blindness",
+      "planted": "Book 1, Chapter 16",
+      "payoff": "Book 3, Chapter 14 - finally sees data, begins to understand complicity",
+      "significance": "Even oppressors can wake up, but often too late"
+    },
+    {
+      "element": "Corporate propaganda language",
+      "planted": "Book 1, Chapter 1 - 'pre-prosperous'",
+      "payoff": "Book 3, Chapter 20 - people reclaiming direct language, calling poverty poverty",
+      "significance": "Language shapes reality, changing language changes consciousness"
+    }
+  ]
+}

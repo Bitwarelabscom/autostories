@@ -1,0 +1,68 @@
+{
+  "relationships": [
+    {
+      "character_a": "Reed Salazar",
+      "character_b": "Dr. Amara Osei",
+      "initial_dynamic": "Anonymous data point and researcher",
+      "power_balance": "She has institutional power and education, he has lived experience and the money",
+      "core_tension": "She wants to study without interfering, he wants to prove a point, gradually becomes partnership",
+      "evolution": "Book 1: Anonymous collaboration. Book 2: Working together, intellectual connection. Book 3: Love and true partnership in final days"
+    },
+    {
+      "character_a": "Reed Salazar",
+      "character_b": "Yuki Tanaka",
+      "initial_dynamic": "Anonymous benefactor and recipient",
+      "power_balance": "He has resources, they have gratitude and visibility as subject",
+      "core_tension": "He wants anonymity, they want to thank him, media makes them the face of experiment",
+      "evolution": "Book 1: Don't interact. Book 2: Brief meeting. Book 3: Yuki speaks at his memorial, tells his true story"
+    },
+    {
+      "character_a": "Reed Salazar",
+      "character_b": "Executive Harris",
+      "initial_dynamic": "Unknown citizen and executive director",
+      "power_balance": "Harris has all institutional power, Reed has truth",
+      "core_tension": "Reed's experiment proves Harris's worldview is wrong",
+      "evolution": "Book 1: Harris unaware. Book 2: Harris fascinated then threatened. Book 3: Harris offers him everything to stop, Reed refuses"
+    },
+    {
+      "character_a": "Reed Salazar",
+      "character_b": "Marcus Ibrahim",
+      "initial_dynamic": "Dealer and customer (Leveler)",
+      "power_balance": "Equal - both struggling, both using",
+      "core_tension": "Marcus sees Reed's potential before Reed does",
+      "evolution": "Book 1: Drug trade relationship becomes friendship. Book 2: Marcus helps him see meaning in the work. Book 3: Marcus speaks at his memorial"
+    },
+    {
+      "character_a": "Dr. Amara Osei",
+      "character_b": "Executive Harris",
+      "initial_dynamic": "Researcher and institutional funder",
+      "power_balance": "He controls resources, she controls findings",
+      "core_tension": "He wants positive research supporting the system, she's finding the opposite",
+      "evolution": "Book 1: Professional. Book 2: Tension as her findings critique system. Book 3: She publishes despite his pressure, burns that bridge"
+    },
+    {
+      "character_a": "Dr. Amara Osei",
+      "character_b": "Yuki Tanaka",
+      "initial_dynamic": "Researcher and research subject",
+      "power_balance": "Amara has institutional position, Yuki has authenticity",
+      "core_tension": "Ethics of studying people's suffering for career advancement",
+      "evolution": "Book 1: Professional interview. Book 2: Genuine friendship as Amara stops just observing. Book 3: Yuki helps Amara write the book humanely"
+    },
+    {
+      "character_a": "Yuki Tanaka",
+      "character_b": "Marcus Ibrahim",
+      "initial_dynamic": "Fellow Sector 12 residents, different generations",
+      "power_balance": "Equal in circumstance, Marcus has experience",
+      "core_tension": "Yuki's anxiety vs. Marcus's patience, teaching relationship",
+      "evolution": "Book 1: Neighbors. Book 2: Marcus teaches Yuki to slow down and live. Book 3: Yuki caring for aging Marcus, role reversal"
+    },
+    {
+      "character_a": "Marcus Ibrahim",
+      "character_b": "Executive Harris",
+      "initial_dynamic": "Invisible worker and executive who never sees workers",
+      "power_balance": "Complete imbalance - Marcus is nothing to Harris",
+      "core_tension": "Marcus's body is destroyed by policies Harris approved without thought",
+      "evolution": "Book 1: No interaction. Book 2: Marcus interviewed for media about experiment, Harris sees him as 'ungrateful'. Book 3: Harris finally understands what his policies did, but too late"
+    }
+  ]
+}
