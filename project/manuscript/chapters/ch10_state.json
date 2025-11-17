@@ -1,0 +1,298 @@
+{
+  "chapter": 10,
+  "title": "Access Points",
+  "word_count": 2464,
+  "timeline": "Thursday (day after Ch9)",
+  "location": "Turning Torso and Västra Hamnen apartments, police station conference room, Emil's lab, Sara's apartment",
+  "weather": "Morning light, not specified in detail",
+  "characters_present": [
+    "Sara Lindqvist",
+    "Emil Bergström",
+    "Markus Westerberg (Turning Torso victim)",
+    "Emma Lundström (Västra Hamnen victim, mentioned)",
+    "Lisa Holm (Västra Hamnen victim, mentioned)",
+    "Jakob Persson (Turning Torso victim, mentioned)",
+    "Captain Lindberg",
+    "Detective Svensson (Property Crime)",
+    "National Cybercrime Center representative"
+  ],
+  "characters_mentioned": [
+    "Chen Wei (identified as port smuggling suspect)",
+    "Katarina Ek (SweClean AB owner - first mention)",
+    "NullGradient/Adversary (forum activity)",
+    "Service workers (cleaners, maintenance, delivery)"
+  ],
+  "character_states": {
+    "Sara_Lindqvist": {
+      "location": "Moving between victim apartments, police station, Emil's lab, home",
+      "emotional_state": "Frustrated by jurisdictional battles, determined despite obstacles, sympathetic to service workers, recognizing systemic scope",
+      "knows": [
+        "Seven burglaries all in smart buildings using SecureWatch",
+        "All occurred during legitimate service windows",
+        "No forced entry - perpetrators made themselves invisible to algorithms",
+        "SweClean AB has access to six of seven victim apartments",
+        "FacilityTech has access to five of seven",
+        "Service companies have terrible cybersecurity",
+        "Chen Wei identified as port smuggling suspect",
+        "Chen Wei active in same dark web forums as NullGradient/Adversary",
+        "This is an ecosystem across sectors - port workers, service workers",
+        "Someone is teaching these techniques to economically vulnerable people",
+        "Jurisdictional divisions prevent holistic investigation",
+        "Service workers are economically marginalized but information-rich",
+        "Katarina Ek owns SweClean AB"
+      ],
+      "doesn't_know_yet": [
+        "Whether Katarina Ek is perpetrator or just access point",
+        "How many service workers are involved",
+        "Whether crimes are coordinated or parallel evolution",
+        "Full extent of the teaching network",
+        "How to get institutional support for systemic investigation"
+      ],
+      "arc_position": 0.4,
+      "skills_demonstrated": [
+        "Systematic victim interviewing",
+        "Pattern recognition across locations and companies",
+        "Cross-referencing service company access",
+        "Navigating jurisdictional politics (unsuccessfully but competently)",
+        "Understanding economic motivations",
+        "Explaining technical crimes to non-technical victims"
+      ],
+      "institutional_frustration": "Budget meeting shows bureaucratic obstacles. Divisions protecting turf while criminals coordinate across sectors. Sara can see the pattern but can't get resources to investigate it properly."
+    },
+    "Emil_Bergström": {
+      "location": "Emil's lab primarily, budget meeting",
+      "emotional_state": "Cynical about institutional capabilities, professionally engaged in technical analysis, resigned to working with insufficient resources",
+      "knows": [
+        "SweClean AB corporate records and employee information",
+        "Service companies have weak cybersecurity - easy targets",
+        "Chen Wei identified in port case with forum activity",
+        "NullGradient and Adversary are teaching in same forums Chen Wei used",
+        "Ideology frames teaching as liberation and resistance",
+        "Dozens or hundreds may have learned these techniques",
+        "Law enforcement divisions are structurally mismatched to ecosystem threat",
+        "Legal barriers prevent accessing service company systems without warrants",
+        "Service workers are demographically marginalized populations"
+      ],
+      "doesn't_know_yet": [
+        "Specific identities beyond Chen Wei",
+        "How to legally access service company data",
+        "Whether Katarina Ek will cooperate or resist"
+      ],
+      "arc_position": 0.4,
+      "skills_demonstrated": [
+        "Corporate records research",
+        "Forum activity analysis",
+        "Cross-case pattern recognition",
+        "Understanding legal limitations on investigation",
+        "Supporting Sara in jurisdictional battles"
+      ],
+      "cynicism_evolution": "Articulates structural mismatch explicitly: 'Twenty divisions, zero coordination. Meanwhile criminals are teaching each other, sharing tools, building networks across case types.'"
+    },
+    "Chen_Wei": {
+      "location": "Unknown - not arrested yet",
+      "status": "Identified as person of interest in port smuggling case",
+      "revealed_information": [
+        "Port worker, logistics coordinator",
+        "Access credentials match ghost container timing",
+        "Knowledge and access to upload false IoT signatures",
+        "Active in same dark web forums as NullGradient and Adversary",
+        "Likely learned techniques from the teaching network"
+      ],
+      "significance": "First concrete connection between different case types. Proves this is an ecosystem with shared methodology taught through forums.",
+      "arc_position": 0.3,
+      "next_appearance": "Will be brought in for questioning, leading to Ch12"
+    },
+    "Katarina_Ek": {
+      "location": "Unknown - not yet contacted",
+      "revealed_information": [
+        "Owner/operator of SweClean AB",
+        "Age 46",
+        "Business address in Limhamn",
+        "Company has 40 employees, contracts with high-end buildings",
+        "SweClean has access to six of seven burglary victims"
+      ],
+      "status": "Identified as key person to interview",
+      "significance": "Will be the breakthrough that connects service workers to burglaries in Ch12. Setup for midpoint revelation.",
+      "arc_position": 0.3,
+      "reader_knowledge": "Reader knows name and company but not involvement level yet"
+    },
+    "Yusuf_Hassan": {
+      "digital_presence": "NullGradient/Adversary forum posts analyzed",
+      "ideology": "Teaching as liberation, making people ungovernable through algorithmic literacy",
+      "quote": "Every person who learns to see algorithmic systems becomes ungovernable. Every exploit we share is an act of collective liberation.",
+      "significance": "Ideological framing becoming clearer - this is political resistance to them, not just crime",
+      "arc_position": 0.4
+    }
+  },
+  "revealed_to_reader": [
+    "All seven burglary victims are in smart buildings with SecureWatch systems",
+    "Burglaries occurred during legitimate service access windows",
+    "SweClean AB appears on six of seven victim lists",
+    "Service companies have weak cybersecurity",
+    "Katarina Ek owns SweClean AB",
+    "Chen Wei identified as port smuggling suspect",
+    "Chen Wei was active in same forums as NullGradient/Adversary",
+    "Teaching network exists across dark web forums",
+    "Ideology frames exploits as collective liberation",
+    "Police divisions fight over jurisdiction instead of coordinating",
+    "Sara's budget request denied - institutional obstacles",
+    "Service workers are economically vulnerable but information-rich",
+    "This is parallel evolution, not centralized coordination"
+  ],
+  "planted": [
+    {
+      "element": "Katarina Ek and SweClean AB",
+      "planted_how": "Name revealed, company identified, access to victims documented",
+      "payoff_chapter": 12,
+      "significance": "Direct setup for breakthrough interview where service worker connection is confirmed"
+    },
+    {
+      "element": "Chen Wei's forum activity",
+      "planted_how": "Port case team identifies her in same forums as NullGradient/Adversary",
+      "payoff_chapter": 12,
+      "significance": "Proves teaching network spans multiple crime types and sectors"
+    },
+    {
+      "element": "Service worker economic vulnerability",
+      "planted_how": "Statistics on wages, turnover, minimal benefits, access vs income disparity",
+      "payoff_chapter": 12,
+      "significance": "Understanding motivation for data exhaust economy"
+    },
+    {
+      "element": "Documents stolen from Jakob Persson",
+      "planted_how": "Mentioned as bothering Sara - suggests targeted selection not random theft",
+      "payoff_chapter": 12,
+      "significance": "Shows sophisticated planning and client targeting"
+    },
+    {
+      "element": "Jurisdictional divisions as vulnerability",
+      "planted_how": "Budget meeting shows lack of coordination across divisions",
+      "payoff_chapter": 20,
+      "significance": "Will motivate creation of specialized algorithmic crime task force in resolution"
+    },
+    {
+      "element": "Ideology as resistance not crime",
+      "planted_how": "Adversary's posts about collective liberation and ungovernable citizens",
+      "payoff_chapter": 17,
+      "significance": "Understanding how to approach Yusuf - as ideologue, not just criminal"
+    }
+  ],
+  "active_tensions": [
+    "Sara's holistic investigation vs institutional jurisdictional divisions",
+    "Resource needs vs budget constraints",
+    "Individual arrests vs ecosystem problem",
+    "Service workers as victims vs perpetrators",
+    "Economic marginalization as motivation vs crime as choice",
+    "Liberation ideology vs theft reality",
+    "Investigation needs vs legal warrant requirements",
+    "Fast-moving criminal innovation vs slow institutional response"
+  ],
+  "world_changes": [
+    "Seven apartment burglaries fully documented and connected",
+    "SweClean AB identified as key access point",
+    "Katarina Ek identified for interview",
+    "Chen Wei identified as port smuggling suspect",
+    "Forum teaching network understood as cross-sector",
+    "Economic Crime Division denied additional resources",
+    "Property Crime given jurisdiction over burglaries (bureaucratic obstacle)",
+    "Sara and Emil committed to holistic investigation despite lack of support"
+  ],
+  "technical_concepts_introduced": [
+    "Smart building access control credentials",
+    "Temporary access windows tied to service schedules",
+    "Service company credential exploitation",
+    "Building algorithm pattern recognition (normal vs suspicious)",
+    "Service company cybersecurity vulnerabilities",
+    "Cross-sector methodology application",
+    "Parallel evolution vs centralized coordination"
+  ],
+  "locations_established": {
+    "Turning_Torso_penthouses": "Architecture magazine aesthetic, floor-to-ceiling Öresund views, minimalist, smart home controls, expensive art, SecureWatch systems",
+    "Västra_Hamnen_apartments": "Similar luxury smart buildings, high-end residential",
+    "Police_conference_room": "Budget meeting location, bureaucratic battleground",
+    "Victim_apartments": "Seven locations showing consistent pattern"
+  },
+  "investigation_progress": {
+    "apartment_burglaries_case": {
+      "incidents": "Seven fully documented",
+      "victims": [
+        "Markus Westerberg (Turning Torso) - Hilma af Klint painting, 600k kr",
+        "Emma Lundström (Västra Hamnen) - jewelry, 200k kr",
+        "Lisa Holm (Västra Hamnen) - electronics and cash",
+        "Jakob Persson (Turning Torso) - watches, art, documents",
+        "Three others mentioned"
+      ],
+      "pattern_confirmed": [
+        "All smart buildings with SecureWatch access control",
+        "All during legitimate service windows",
+        "No forced entry, no suspicious access logs",
+        "Professional selection of high-value items"
+      ],
+      "evidence_collected": [
+        "Building access logs",
+        "Service company contracts and schedules",
+        "Cross-reference showing SweClean AB on 6/7 victims",
+        "FacilityTech on 5/7 victims",
+        "Building security system specifications"
+      ],
+      "leads": [
+        "SweClean AB and Katarina Ek as key interview targets",
+        "Service company cybersecurity vulnerabilities",
+        "Potential employee involvement or credential theft"
+      ],
+      "next_steps": [
+        "Interview Katarina Ek as witness",
+        "Assess her security practices",
+        "Determine if she's victim or perpetrator",
+        "Connect to NullGradient's teaching network"
+      ],
+      "obstacles": [
+        "Property Crime claiming jurisdiction",
+        "No additional resources allocated",
+        "Warrant requirements for accessing company systems",
+        "Institutional division preventing coordinated approach"
+      ]
+    },
+    "port_smuggling_case": {
+      "status": "Chen Wei identified as person of interest",
+      "new_evidence": [
+        "Chen Wei's access credentials match ghost container timing",
+        "Forum activity in NullGradient/Adversary communities",
+        "Learned techniques from teaching network"
+      ],
+      "significance": "First direct connection between cases through shared methodology and teaching source"
+    },
+    "meta_investigation": {
+      "understanding": [
+        "This is ecosystem of parallel evolution, not conspiracy",
+        "Teaching network operates through dark web forums",
+        "Multiple sectors being exploited - ports, retail, residential",
+        "Service workers across industries are targets/perpetrators",
+        "Economic vulnerability creates motivation",
+        "Ideology frames exploitation as resistance and liberation",
+        "Dozens or hundreds may have learned techniques",
+        "Law enforcement structurally unprepared for this threat type"
+      ],
+      "strategic_decision": "Focus on apartment burglaries as most trackable case, use it to understand broader ecosystem"
+    }
+  },
+  "themes_developed": {
+    "invisibility_through_pattern": "Burglars invisible by appearing normal during legitimate service windows. System can't distinguish attack from routine.",
+    "data_exhaust_as_weapon": "Service worker schedules, access patterns, building routines all become exploitable data.",
+    "human_obsolescence": "Service workers paid poverty wages but generate valuable data. Their access is worth more than their labor.",
+    "systemic_vs_individual": "Can't arrest way out of ideological movement that offers economic survival. Underlying causes must be addressed.",
+    "institutional_dysfunction": "Police divisions protect turf while criminals coordinate across sectors. Bureaucracy as vulnerability.",
+    "resistance_vs_crime": "Ideology frames exploits as liberation. Is this theft or resistance to oppressive systems?",
+    "class_and_access": "Wealthy have smart homes for security. Service workers have access and desperation. Security creates vulnerability."
+  },
+  "emotional_beats": {
+    "westerberg_confusion": "Paid for security, got vulnerability. Smart city promise backfires.",
+    "sara_pattern_recognition": "SweClean AB connection - detective satisfaction",
+    "budget_meeting_frustration": "Institutional obstacles, jurisdictional battles, denied resources",
+    "emil_cynicism": "Twenty divisions, zero coordination - structural futility",
+    "chen_wei_connection": "First proof of teaching network spanning sectors",
+    "sara_evening_reflection": "Can't blame service workers, can't stop investigating. Professional duty vs sympathy.",
+    "determination_despite_obstacles": "Do what we can, document everything, hope for eventual change"
+  },
+  "tone_notes": "Procedural investigation building to institutional frustration. Victim interviews are sympathetic but reveal privilege. Budget meeting is dry bureaucratic realism - no dramatic confrontations, just banal obstacles. Evening reflection shows Sara's moral complexity - understanding criminals doesn't mean not investigating them. Nordic noir tone: competent people facing systemic problems with limited tools. Chapter ends on quiet determination rather than revelation. The work continues despite obstacles."
+}

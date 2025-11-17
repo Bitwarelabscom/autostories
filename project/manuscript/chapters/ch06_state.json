@@ -1,0 +1,310 @@
+{
+  "chapter": 6,
+  "title": "Transitions",
+  "word_count": 2900,
+  "timeline": "Tuesday through Wednesday evening (end of second/beginning of third week)",
+  "location": "Economic Crime Division office, cleaning staff interviews, Sara's apartment",
+  "weather": "First snow that sticks to ground, continuing through evening",
+  "characters_present": [
+    "Sara Lindqvist",
+    "Emil Bergström",
+    "Katarina Ek (cleaning staff interview)",
+    "Three other cleaners (brief interviews)",
+    "Karin Ljungström (phone call)",
+    "Captain (mentioned - approves Yusuf meeting)",
+    "Yusuf Hassan (encrypted messages only)"
+  ],
+  "characters_mentioned": [
+    "Chen Wei (in protective custody)",
+    "Katarina's daughter (17, high-functioning autism)",
+    "Swedish embassy Beijing staff",
+    "Europol prosecutors",
+    "Erik Lindqvist (Sara's father, dream sequence)"
+  ],
+  "character_states": {
+    "Sara_Lindqvist": {
+      "location": "Office, interviews, home",
+      "emotional_state": "Trying to maintain hope while seeing port case close unsatisfactorily. Worried about Emil's crisis. Preparing for Yusuf meeting with mixture of curiosity and caution.",
+      "knows": [
+        "Chen Wei in Europol protection and relocation",
+        "Prosecutors debating charges vs immunity for Chen Wei",
+        "Swedish police can't protect Chen Wei's family in China",
+        "Chen Wei's testimony helps understand network but won't catch top operators",
+        "Yusuf Hassan: 47 matches in Malmö, too common without more info",
+        "Trustpilot review pattern clear enough for prosecution",
+        "Can't connect reviews to specific person yet",
+        "Nordic Clean Services employs 43 people across Malmö",
+        "Katarina Ek: 41, former math teacher, cleaning for 2 years after budget cuts",
+        "Katarina services three pharmacies including Apotek Hjärtat",
+        "Katarina has Wednesday off for daughter's therapy - alibis for robbery nights",
+        "Katarina is overqualified, economically precarious, intelligent",
+        "Yusuf wants to meet Thursday 3 PM, Rosengård Centrum food court",
+        "Yusuf knows she'll bring backup despite 'come alone' request",
+        "Emil is at breaking point, considering quitting",
+        "Port case administratively complete"
+      ],
+      "doesn't_know_yet": [
+        "What Yusuf will reveal at meeting",
+        "Whether Katarina is actually involved despite alibis",
+        "If service worker theory is correct or dead end",
+        "Whether she can pull Emil back from quitting",
+        "If pharmacy case will provide breakthrough or another ghost",
+        "What Yusuf is gaining from meeting her"
+      ],
+      "arc_position": 0.25,
+      "skills_demonstrated": [
+        "Interview technique with cleaning staff",
+        "Pattern recognition on Katarina's background",
+        "Emotional intelligence supporting Emil",
+        "Strategic thinking about Yusuf meeting",
+        "Understanding criminal motivation (working around broken systems)"
+      ],
+      "personal_development": "Confronting parallels between multiple trajectories - Chen Wei, father, Emil, Katarina, herself. All trying to work around broken systems. Dream about father's obsolescence warning. Self-aware about being 'well-documented' even if obsolete. Still choosing to continue."
+    },
+    "Emil_Bergström": {
+      "location": "Office, late into night",
+      "emotional_state": "Crisis point. Explicitly stating he may quit. Running on 'fumes and spite.' Recognizing burnout.",
+      "knows": [
+        "47 Yusuf Hassan matches in Malmö - too many",
+        "Trustpilot pattern prosecutable but can't connect to individual",
+        "Yusuf claimed teaching not doing - legally protected speech possibly",
+        "SecureWatch algorithm exploitation mechanism almost complete",
+        "Katarina Ek background - overqualified, precarious",
+        "Service worker theory may be dead end",
+        "Public information could explain pharmacy targeting without inside knowledge",
+        "Yusuf wants to meet Thursday 3 PM Rosengård",
+        "Meeting is likely trap or misdirection",
+        "If he takes break, won't come back - momentum is all that keeps him going"
+      ],
+      "doesn't_know_yet": [
+        "Yusuf's real identity beyond common name",
+        "Whether SecureWatch analysis will matter",
+        "If he can continue this work long-term",
+        "Whether pharmacy case will provide breakthrough"
+      ],
+      "arc_position": 0.25,
+      "skills_demonstrated": [
+        "Background analysis on suspects",
+        "Algorithm analysis work on SecureWatch",
+        "Database research across multiple systems",
+        "Operational planning for Yusuf meeting backup"
+      ],
+      "burnout_trajectory": "Peak crisis. Explicit statements: 'already burned out,' 'running on fumes and spite,' 'if I stop moving I'll see how pointless this is,' 'if I take a break I'll never come back,' 'I'm tired of being too late,' considering quitting seriously. Sara barely keeping him engaged."
+    },
+    "Chen_Wei": {
+      "location": "Protective custody location undisclosed",
+      "emotional_state": "Unknown, likely terrified and uncertain",
+      "knows": [
+        "She's cooperating with Europol",
+        "Prosecution decision pending - charges with suspended sentence vs immunity",
+        "Swedish police can't protect her family in China",
+        "She's in relocation process"
+      ],
+      "arc_position": 0.25,
+      "status": "Out of Sara's hands. In Europol custody. Fate undecided. Testimony providing intelligence but won't catch top operators.",
+      "reader_knows": "Her cooperation matters for understanding network structure but won't achieve justice against those who coerced her."
+    },
+    "Katarina_Ek": {
+      "location": "Interview room, then back to work",
+      "emotional_state": "Tired, resigned to downward trajectory, professional about work",
+      "knows": [
+        "She's being interviewed about pharmacy robberies",
+        "She has alibis (Wednesdays off for daughter's therapy)",
+        "She has security system access codes",
+        "System disarms automatically when she clocks in",
+        "She notices camera indicator lights and reboot patterns",
+        "Cleaners are invisible - people forget they exist",
+        "She sees everything at night - affairs, drug paraphernalia, financial docs"
+      ],
+      "doesn't_know_yet": [
+        "Whether she's a suspect or just witness",
+        "That she's been flagged for follow-up",
+        "That her intelligence and trajectory make her interesting to investigators"
+      ],
+      "arc_position": 0.10,
+      "background": [
+        "41 years old, Swedish-born",
+        "Former high school math teacher",
+        "Lost position 3 years ago in budget cuts",
+        "Applied to 47 teaching positions, none hired - too old, too expensive",
+        "Nordic Clean Services employee for 2 years",
+        "Night shift to supplement teaching income, kept after job loss",
+        "Daughter is 17, high-functioning autism, expensive therapy",
+        "Services 3 pharmacies, 2 medical offices, 1 dental clinic - 6 nights/week",
+        "Wednesdays off for daughter's therapy appointments",
+        "No criminal record",
+        "Financially tight but not desperate",
+        "Reasonable rent, medical bills only major debt"
+      ],
+      "significance": "Introduced as potential connection but has alibis. Math background makes her capable of understanding systems. Trajectory from professional to service worker parallels other characters. Will become major character in Ch12 revelation.",
+      "reader_knows": "Intelligent, overqualified, economically precarious. Has knowledge and access but alibis check out. Sara's instinct says she matters despite lack of evidence."
+    },
+    "Yusuf_Hassan": {
+      "location": "Unknown, planning Rosengård meeting",
+      "emotional_state": "Confident, strategic, interested in being understood",
+      "knows": [
+        "Sara is investigating pharmacy robberies",
+        "Sara will bring backup despite request to come alone",
+        "Sara will file meeting time/location with superiors",
+        "He can control the meeting by choosing public crowded location with exits",
+        "He's gaining something from this dialogue (reader doesn't know what yet)",
+        "Police who understand are 'better' than police who don't"
+      ],
+      "arc_position": 0.25,
+      "messages_to_Sara": [
+        "'Bring questions, not just accusations. This could be interesting for both of us.'",
+        "'Because police who understand are better than police who don't. Better investigations, better prosecutions, better systems eventually.'",
+        "'I'd rather be caught by someone smart than harassed by someone stupid.'"
+      ],
+      "reader_knows": "Sophisticated, strategic, sees himself as educator not criminal. Wants recognition and understanding. Testing Sara. Has already modeled police responses. Meeting is calculated move with unclear endgame.",
+      "investigation_status": "Meeting scheduled Thursday 3 PM, Rosengård Centrum food court. Sara approved to meet with backup and protocols."
+    }
+  },
+  "revealed_to_reader": [
+    "Chen Wei in protective custody, charges vs immunity being debated",
+    "Chinese organized crime can threaten families beyond Swedish police protection",
+    "Chen Wei's testimony helps understanding but won't catch top operators",
+    "Katarina Ek introduced - math teacher turned cleaner, intelligent, precarious",
+    "Cleaners have security access, see everything while being invisible",
+    "Katarina has alibis for robbery nights but Sara's instinct says she matters",
+    "Service worker theory may be dead end - robberies could be purely remote",
+    "Yusuf Hassan meeting scheduled - Thursday 3 PM Rosengård Centrum",
+    "Yusuf wants to be understood, sees police understanding as beneficial",
+    "Yusuf has modeled police responses, knows meeting protocols",
+    "Emil at crisis point - explicitly considering quitting",
+    "Port case administratively complete, handed to Europol",
+    "Sara dreaming about father warning her about documenting own obsolescence",
+    "Multiple trajectories parallel - all working around broken systems"
+  ],
+  "planted": [
+    {
+      "element": "Katarina Ek introduction",
+      "planted_how": "Math teacher turned cleaner. Intelligent, sees everything, has access, alibis check out but flagged.",
+      "payoff_chapter": 12,
+      "significance": "Major character for Turning Torso case and data exhaust economy revelation"
+    },
+    {
+      "element": "Cleaners see everything while invisible",
+      "planted_how": "Katarina's description of finding affairs, drugs, financial docs at night",
+      "payoff_chapter": 12,
+      "significance": "Setup for service workers building predictive models from observation"
+    },
+    {
+      "element": "Cleaners have security system access",
+      "planted_how": "Override codes, automatic disarm when clocking in, notice camera patterns",
+      "payoff_chapter": 12,
+      "significance": "Direct capability to understand and exploit building security"
+    },
+    {
+      "element": "Yusuf wants understanding not just arrest",
+      "planted_how": "Messages emphasizing smart police better than stupid police, better systems eventually",
+      "payoff_chapter": 17,
+      "significance": "Setup for eventual deal - teaching police in exchange for reduced charges"
+    },
+    {
+      "element": "Rosengård meeting location",
+      "planted_how": "Public, crowded, multiple exits - Yusuf's strategic choice",
+      "payoff_chapter": 7,
+      "significance": "First face-to-face, begins Yusuf's arc, establishes Rosengård connection"
+    },
+    {
+      "element": "Emil's explicit crisis - will quit if no breakthrough",
+      "planted_how": "'If I take a break I'll never come back' and Sara's intervention barely working",
+      "payoff_chapter": 12,
+      "significance": "Midpoint crisis where Sara must pull him back from quitting"
+    },
+    {
+      "element": "Sara's dream about father and obsolescence",
+      "planted_how": "Father says 'You can't fight machines, only document your obsolescence'",
+      "payoff_chapter": 12,
+      "significance": "Personal arc confrontation with fears about own trajectory"
+    },
+    {
+      "element": "All working around broken systems theme",
+      "planted_how": "Sara recognizes Chen Wei, Katarina, Emil, herself all navigating broken systems - difference is legality",
+      "payoff_chapter": 17,
+      "significance": "Moral complexity - criminals vs police both trying to survive system failures"
+    }
+  ],
+  "active_tensions": [
+    "Chen Wei's fate uncertain - charges vs immunity, family unprotected",
+    "Katarina flagged but has alibis - Sara's instinct vs evidence",
+    "Yusuf meeting tomorrow - breakthrough or trap?",
+    "Emil considering quitting - Sara barely keeping him engaged",
+    "Service worker theory may be wrong - wasted investigation angle?",
+    "Multiple trajectories of decline - everyone working around broken systems",
+    "Port case closed without real justice - documentation without victory",
+    "What is Yusuf gaining from meeting Sara?"
+  ],
+  "world_changes": [
+    "Chen Wei in Europol protective custody and relocation",
+    "Port case officially closed locally, active internationally",
+    "Pharmacy case now primary focus for Sara and Emil",
+    "Katarina Ek flagged in investigation files",
+    "Yusuf meeting approved with protocols - Thursday 3 PM",
+    "Nordic Clean Services aware of police interviews",
+    "First snow of season covering Malmö"
+  ],
+  "technical_concepts_introduced": [
+    "Witness protection and relocation protocols",
+    "Prosecution vs immunity negotiations",
+    "International limitations on protecting foreign nationals",
+    "Smart lock override codes for service workers",
+    "Security system automatic disarm based on employee credentials",
+    "Camera indicator light patterns showing reboot status",
+    "Encrypted messaging for criminal coordination",
+    "Body camera protocols for police meetings"
+  ],
+  "locations_established": {
+    "Nordic_Clean_Services": "Contractor employing 43 people across Malmö. Services pharmacies, medical offices, dental clinics.",
+    "Interview_Room": "Where cleaning staff interviewed, standard police setting",
+    "Rosengård_Centrum": "Food court. Public, crowded, multiple exits. Yusuf's choice for meeting. Thursday 3 PM.",
+    "Sara_Apartment_Night": "Snow falling outside, Turning Torso barely visible. Dream sequence about father. Coffee at 6 AM preparing questions."
+  },
+  "investigation_progress": {
+    "port_case": {
+      "status": "Closed locally. Europol lead. Administratively complete.",
+      "outcome": "Chen Wei cooperating. Network structure being mapped. Top operators likely won't be caught. Understanding achieved, justice partial."
+    },
+    "pharmacy_case": {
+      "status": "Active. Primary case. Building toward breakthrough or another failure.",
+      "evidence_collected": [
+        "Trustpilot review pattern - prosecutable correlation",
+        "SecureWatch algorithm analysis near complete",
+        "Cleaning staff interviews - 6 people covering three pharmacies",
+        "Katarina Ek flagged - math background, access, alibis check out",
+        "Nordic Clean Services employee records and schedules",
+        "Yusuf Hassan encrypted messages"
+      ],
+      "leads": [
+        "Yusuf meeting Thursday 3 PM Rosengård Centrum - major potential breakthrough",
+        "Katarina Ek - flagged despite alibis, Sara's instinct",
+        "SecureWatch algorithm mechanism nearly proven",
+        "Trustpilot review accounts to be traced",
+        "Service worker access patterns"
+      ],
+      "dead_ends": [
+        "Service worker theory may be wrong - robberies could be purely remote",
+        "Public information sufficient to target pharmacies without inside help",
+        "Can't connect reviews to specific individual yet",
+        "47 Yusuf Hassan matches - too common without more info"
+      ],
+      "next_steps": [
+        "Thursday 3 PM: Meet Yusuf Hassan at Rosengård Centrum",
+        "Complete SecureWatch algorithm analysis",
+        "Verify Katarina's alibis thoroughly",
+        "Trace Trustpilot review account creation",
+        "Continue investigating with Emil (if he doesn't quit)"
+      ]
+    }
+  },
+  "themes_developed": {
+    "invisibility_through_pattern": "Cleaners invisible despite seeing everything. Yusuf invisible through encryption and burners. Crime invisible through pattern mimicry.",
+    "data_exhaust_as_weapon": "Customer satisfaction data weaponized. Security logs reveal patterns. Employee schedules create opportunities.",
+    "human_obsolescence": "Katarina's trajectory teacher to cleaner. Emil's crisis about becoming obsolete. Sara's dream about documenting obsolescence. Father's warning. All parallel downward trajectories.",
+    "working_around_broken_systems": "New major theme. Everyone working around system failures - Chen Wei, Katarina, Emil, Sara, Yusuf. Difference is legality, not motivation.",
+    "understanding_vs_winning": "Port case: complete understanding, minimal justice. Chen Wei: helped but fate uncertain. Documentation without victory.",
+    "trajectories_and_decline": "Multiple characters on downward economic/professional trajectories. System failures creating desperation. Competence not protecting from obsolescence."
+  },
+  "tone_notes": "Nordic noir with snow as visual cleansing that doesn't actually clean anything underneath. Katarina interview shows intelligence and resignation - no melodrama, just tired acceptance of downward trajectory. Emil's crisis explicit and raw - 'fumes and spite' powerful image. Sara's dream sequence breaks realistic tone briefly for psychological depth. Yusuf's messages mix confidence and genuine intellectual curiosity. Chen Wei's fate uncertain and unsatisfying - bureaucratic limbo. Port case administrative closing feels like funeral paperwork. Snow falling on city running on algorithms - beautiful surface, complex exploitable infrastructure underneath. Chapter ends preparing for Thursday meeting - hope and dread balanced. Transitions theme: port case to pharmacy case, second week to third, investigation to potential breakthrough, Emil near quitting to continuing, Sara documenting to possibly catching."
+}
