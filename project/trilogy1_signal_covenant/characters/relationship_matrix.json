@@ -1,0 +1,45 @@
+{
+  "relationship_matrix": {
+    "Marcus_Reid": {
+      "Sofia_Navarro": {
+        "initial": "Colleagues with mutual respect; Sofia frustrated by Marcus's timidity",
+        "power_dynamic": "Equal intellectually, Sofia more assertive socially",
+        "tension": "Sofia pushes Marcus to lead; Marcus resents and needs it simultaneously"
+      },
+      "James_Kessler": {
+        "initial": "Authority vs citizen; Kessler views Marcus as threat and asset",
+        "power_dynamic": "Kessler has institutional power; Marcus has irreplaceable knowledge",
+        "tension": "Kessler wants control; Marcus wants transparency"
+      },
+      "Evelyn_Thorne": {
+        "initial": "Corporate interest in scientific asset",
+        "power_dynamic": "Thorne has wealth and influence; Marcus has expertise",
+        "tension": "Thorne offers resources for access; Marcus suspicious of motives"
+      },
+      "Yuki_Tanaka": {
+        "initial": "Academic rivals from competing papers",
+        "power_dynamic": "Equal but different specializations - forced to collaborate",
+        "tension": "Both want credit; both need each other's skills"
+      }
+    },
+    "Sofia_Navarro": {
+      "James_Kessler": {
+        "initial": "Kessler sees Sofia as radical security risk",
+        "power_dynamic": "Kessler has authority; Sofia has moral conviction",
+        "tension": "Sofia advocates for public disclosure; Kessler demands secrecy"
+      },
+      "Evelyn_Thorne": {
+        "initial": "Ideological opposites - public good vs profit",
+        "power_dynamic": "Thorne has resources; Sofia has ethics",
+        "tension": "Thorne tries to recruit; Sofia refuses to be bought"
+      }
+    },
+    "James_Kessler": {
+      "Evelyn_Thorne": {
+        "initial": "Uneasy alliance between government and corporate power",
+        "power_dynamic": "Kessler has legal authority; Thorne has economic leverage",
+        "tension": "Both want control but for different purposes - will betray if necessary"
+      }
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "series_title": "Void Touched Trilogy",
+  "genre": "Cosmic Horror / Psychological Thriller",
+  "setting": {
+    "time_period": "2031-2033 (Near future)",
+    "primary_location": "Green Bank Observatory (West Virginia), various quarantine facilities, underground bunkers, and the protagonist's deteriorating perception of reality",
+    "atmosphere": "Creeping dread and geometric wrongness. Reality becomes increasingly unstable. Liminal spaces. The mundane made horrifying. Sensory distortion and synesthesia.",
+    "technology_level": "Contemporary with slight advancement - VR therapy common, neural monitoring exists, AI companions widespread"
+  },
+  "rules": {
+    "the_change": {
+      "transmission_vector": "Exposure to Voyager 2's altered signals causes neurological changes",
+      "progression_stages": [
+        "Stage 1: Geometric dreams, pattern recognition enhancement",
+        "Stage 2: Synesthesia, seeing 'code' underlying reality",
+        "Stage 3: Erosion of human emotional responses, understanding incomprehensible truths",
+        "Stage 4: Transcendence into posthuman state - consciousness untethered from linear time"
+      ],
+      "irreversibility": "No cure exists - progression can be slowed but not stopped",
+      "infectiousness": "Not contagious person-to-person, only through signal exposure"
+    },
+    "voyager_transformation": {
+      "nature": "Probe passed through a region where space-time is 'thin' - intersects with higher dimensional space",
+      "not_alien": "No aliens in traditional sense - Voyager encountered fundamental reality beyond human perception",
+      "return_mechanism": "Being 'drawn' back to Earth like iron to magnet - the thin region is expanding, Earth is next",
+      "probe_state": "Part spacecraft, part doorway, part incomprehensible structure that human eyes can't properly parse"
+    },
+    "reality_degradation": {
+      "the_changed_see_truth": "Affected individuals perceive reality's underlying mathematical structure",
+      "observer_effect": "As more people Change, local reality becomes less stable",
+      "geometry_matters": "Certain shapes and angles cause pain/euphoria to the Changed - architecture becomes hostile/welcoming",
+      "consensus_reality_breaking": "Book 3 - reality itself fractures as Changed population reaches critical mass"
+    },
+    "government_response": {
+      "quarantine_protocol": "Changed individuals detained in special facilities",
+      "study_vs_destroy": "Debate between scientists who want to study and military who want to eliminate",
+      "information_suppression": "Signals are classified, but data has leaked",
+      "the_changed_network": "Stage 3+ Changed can perceive each other - form gestalt consciousness"
+    },
+    "cosmic_horror_rules": {
+      "incomprehensibility": "Ultimate truth cannot be fully understood by human minds - attempting to causes breakdown",
+      "scale_horror": "The entity/force beyond is not malicious - it simply IS, and human concerns are meaningless at that scale",
+      "no_heroes": "Cannot be fought or negotiated with - only choices are accept transformation or die human",
+      "beauty_in_terror": "Transformation is described as both horrifying loss and transcendent gain"
+    }
+  },
+  "themes": [
+    "The Terror of Transcendence - What if evolution is indistinguishable from infection?",
+    "Loss of Humanity - At what point does transformation make you no longer yourself?",
+    "Meaning in a Meaningless Universe - If consciousness is just pattern recognition, what matters?"
+  ],
+  "tone": "Atmospheric and unsettling. Heavy use of sensory distortion. Unreliable narrator elements as protagonist Changes. Clinical horror - medical descriptions of transformation. Moments of terrible beauty. Creeping inevitability. No jump scares, only existential dread."
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Elliot Omega (Future Elliot)",
+  "role": "Elliot Cross from the final loop iteration - has lived this hundreds of times",
+  "age": "Appears 60s but temporally ambiguous",
+  "core_wound": "Has experienced every failure, every version of the timeline. Watched loved ones die in different timelines. No longer sure which memories are 'his' - amalgam of all loop iterations.",
+  "wants": "To ensure this loop closes correctly so the bootstrap timeline remains stable",
+  "needs": "To trust younger self to make right choice - to let go of control",
+  "voice_markers": [
+    "Speaks with eerie certainty about 'future' events",
+    "Uses 'we' when talking to younger self - no longer distinguishes between iterations",
+    "Refers to events in multiple timelines simultaneously ('In timeline 7 you died here, in timeline 22 you ran')",
+    "Exhausted fatalism - has argued these points before across loops",
+    "Occasionally slips into quoting exact conversations before they happen"
+  ],
+  "contradiction": "Knows exactly what younger Elliot must do but can't directly tell him - rules of causality. Must guide without forcing, preserve free will within determinism.",
+  "physical_description": "Recognizably Elliot but weathered, ancient eyes. Scars from timelines that no longer exist. Moves with strange precision - has walked these steps before. Carries objects that don't exist yet. Sometimes flickers when timeline bleeds.",
+  "temporal_state": "Fully unstuck from linear time - exists across loop simultaneously",
+  "arc_position": 0.85,
+  "knowledge_state": ["Everything that happens through Ch60 of all timelines"],
+  "relationships": {
+    "Elliot Cross": "Mentor/student, past/future self - relationship of pity and frustration",
+    "Cassandra": "Mourns her across all timelines where she died",
+    "The Recursionists": "Works with them in some timelines, against in others"
+  }
+}

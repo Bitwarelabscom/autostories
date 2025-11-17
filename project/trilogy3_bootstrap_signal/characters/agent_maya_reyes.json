@@ -1,0 +1,25 @@
+{
+  "name": "Agent Maya Reyes",
+  "role": "Temporal Anomalies Division - Intelligence operative hunting Elliot",
+  "age": 42,
+  "core_wound": "Lost her partner during quantum computing experiment that revealed temporal mechanics - he was erased from timeline, only she remembers him. Government told her it was psychotic break. Knows they lied.",
+  "wants": "To secure temporal technology before it destroys causality itself",
+  "needs": "To trust that some things should remain unknown - that not all knowledge should be weaponized",
+  "voice_markers": [
+    "Interrogation technique speech - questions designed to extract info",
+    "Refers to temporal anomalies in military threat terminology",
+    "Dry, dark humor ('Time travel. Of course. Easier than my Tuesday.')",
+    "Protective of subordinates but cold to targets",
+    "Occasionally references her erased partner - catches herself, covers"
+  ],
+  "contradiction": "Works for government to control temporal tech while knowing government caused her trauma. Hunts Elliot to prevent timeline damage while suspecting he might be trying to prevent greater damage.",
+  "physical_description": "Compact and athletic, observant eyes that miss nothing. Professional suit concealing weapons. Keeps hair short for practicality. Scar on left hand from 'incident that didn't happen.' Always has exit strategy.",
+  "arc_position": 0.0,
+  "knowledge_state": [],
+  "relationships": {
+    "Elliot Cross": "Target, then reluctant ally when she realizes government wants to weaponize loop",
+    "Dr. Soren": "Considers dangerous fanatic - tracking Recursionists for years",
+    "Elliot Omega": "Encounters in Ch40 - he remembers timelines where she killed younger Elliot",
+    "Cassandra Wright": "Uses her to track Elliot, develops respect"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Dr. Marcus Reid",
+  "role": "Protagonist - Data Analyst at Atacama Private Observatory",
+  "age": 34,
+  "core_wound": "Was publicly humiliated in grad school when his dissertation on non-random cosmic background patterns was rejected as apophenia (seeing patterns in randomness). Now terrified of being wrong again.",
+  "wants": "To be taken seriously by the scientific community - to prove his pattern recognition skills are valid",
+  "needs": "To trust his own judgment even when the world dismisses him - to lead rather than hide",
+  "voice_markers": [
+    "Uses precise technical language even in casual conversation",
+    "Self-deprecating humor as defense mechanism ('I'm probably wrong, but...')",
+    "Tends to speak in conditional statements ('It might be possible that...', 'One could argue...')",
+    "Long pauses before answering - overthinks responses",
+    "References obscure mathematical concepts when nervous"
+  ],
+  "contradiction": "Brilliant at seeing patterns others miss, but doubts every conclusion he reaches. Wants recognition but sabotages himself with excessive humility.",
+  "physical_description": "Lean, disheveled dark hair, always slightly wrinkled clothes. Avoids eye contact. Hands constantly fidgeting with pens or data tablets.",
+  "arc_position": 0.0,
+  "knowledge_state": [],
+  "relationships": {}
+}

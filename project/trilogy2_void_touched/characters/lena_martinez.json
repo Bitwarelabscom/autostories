@@ -1,0 +1,24 @@
+{
+  "name": "Lena Martinez",
+  "role": "Adrian's ex-girlfriend - represents human connection and what he's losing",
+  "age": 30,
+  "core_wound": "Father had schizophrenia - she spent childhood unable to distinguish his reality from delusion. Now hypervigilant about mental illness in loved ones.",
+  "wants": "To save Adrian from what she perceives as psychosis",
+  "needs": "To accept that some experiences are real even if incomprehensible - to trust Adrian",
+  "voice_markers": [
+    "Warm but worried tone - like talking someone off a ledge",
+    "Uses Adrian's name frequently ('Adrian, please listen...')",
+    "References shared memories to ground him in reality",
+    "Switches between compassion and frustration",
+    "Medical language from years of dealing with her father's care"
+  ],
+  "contradiction": "Loves Adrian deeply but her trauma makes her interpret his Change as illness not transformation. Her caring becomes controlling.",
+  "physical_description": "Expressive face - wears emotions openly. Curly brown hair often in practical ponytail. Casual artist clothes (she's an illustrator). Touch-oriented - reaches out to comfort but Adrian increasingly flinches away.",
+  "arc_position": 0.0,
+  "knowledge_state": [],
+  "relationships": {
+    "Adrian Keller": "Dated for 2 years, broke up 6 months before story starts because of his emotional unavailability. Still loves him. His Change retraumatizes her.",
+    "Dr. Okonkwo": "Allies in trying to 'save' Adrian, though their definitions differ",
+    "Sera Volkov": "Sees as corrupting influence - the 'dealer' making Adrian's 'addiction' worse"
+  }
+}

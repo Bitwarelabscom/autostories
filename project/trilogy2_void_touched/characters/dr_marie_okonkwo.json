@@ -1,0 +1,24 @@
+{
+  "name": "Dr. Marie Okonkwo",
+  "role": "Neuroscientist studying the Changed - desperately seeking cure",
+  "age": 44,
+  "core_wound": "Lost her son to early-onset Alzheimer's at age 19. Watched him forget who she was. Now sees the Change as another disease stealing people.",
+  "wants": "To find cure or treatment to save the Changed from losing themselves",
+  "needs": "To accept that not all change is death - that transformation can be choice",
+  "voice_markers": [
+    "Clinical precision with underlying desperation",
+    "Medical jargon as emotional shield ('neurological degradation' instead of 'losing their minds')",
+    "Asks personal questions in scientific framework ('On a scale of 1-10...')",
+    "Apologizes frequently to test subjects - guilt over necessary experiments",
+    "Maternal tone even with adults"
+  ],
+  "contradiction": "Studies the Changed to save them, but her research methods treat them as specimens not people. Claims to fight for their humanity while denying their agency.",
+  "physical_description": "Professional appearance carefully maintained - armor against chaos. Reading glasses on chain. Carries medical equipment everywhere. Deep exhaustion in eyes despite perfect makeup.",
+  "arc_position": 0.0,
+  "knowledge_state": [],
+  "relationships": {
+    "Adrian Keller": "Her most coherent test subject. Maternal protectiveness mixed with scientific fascination.",
+    "Sera Volkov": "Both terrified of and fascinated by. Sera represents her worst fears.",
+    "Colonel Reeves": "Forced alliance - both want to contain Changed but for different reasons"
+  }
+}

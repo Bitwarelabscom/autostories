@@ -1,0 +1,24 @@
+{
+  "name": "Dr. Marcus Soren",
+  "role": "Leader of The Recursionists - time cult that decoded signal first",
+  "age": 51,
+  "core_wound": "Was renowned physicist until he discovered proof of bootstrap paradox 10 years ago. Published findings, was academically destroyed. Went underground, built cult around the signal. Now vindicated but broken.",
+  "wants": "To be the one who closes the loop - to have his role in salvation recognized",
+  "needs": "To understand that being right doesn't entitle him to control humanity's fate",
+  "voice_markers": [
+    "Prophetic cadence - speaks like preaching gospel",
+    "Refers to Elliot as 'The Chosen Variable' or 'Closer of the Loop'",
+    "Uses temporal terminology religiously ('We are blessed to live in the final iteration')",
+    "Calm certainty that unnerves - never doubts",
+    "Quotes himself from his discredited papers"
+  ],
+  "contradiction": "Builds cult around temporal determinism while believing individual (Elliot) has agency to close loop. Worships causality while trying to manipulate it.",
+  "physical_description": "Academic disheveled - tweed jacket, wild gray hair, intense stare. Surrounded by followers who mirror his mannerisms. Temporal equations tattooed on forearms. Carries original Voyager blueprints everywhere.",
+  "arc_position": 0.0,
+  "knowledge_state": [],
+  "relationships": {
+    "Elliot Cross": "Obsessed with him as prophesied figure - protective and controlling",
+    "Agent Reyes": "Hunted by government, sees her as agent of chaos trying to break loop",
+    "Cassandra Wright": "Respects her physics, dismisses her emotional attachment to Elliot as 'temporal noise'"
+  }
+}

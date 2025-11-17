@@ -1,0 +1,24 @@
+{
+  "name": "Colonel Thomas Reeves",
+  "role": "Military commander of Changed quarantine operations",
+  "age": 51,
+  "core_wound": "Survived bioweapon attack in 2025 that killed his entire unit through infection. Watched friends die. Now believes any contagion must be eliminated immediately.",
+  "wants": "To contain/eliminate Changed before they 'infect' all of humanity",
+  "needs": "To see that the Changed are not enemies but victims - to choose mercy over fear",
+  "voice_markers": [
+    "Military brevity - subject, verb, object. No wasted words.",
+    "Refers to Changed as 'the infected' or 'compromised individuals'",
+    "Speaks of killing euphemistically ('neutralize', 'terminate', 'clean protocol')",
+    "Rare moments of humanity quickly suppressed",
+    "Repeats phrases like mantras ('Containment is compassion')"
+  ],
+  "contradiction": "Sees himself as protector of humanity but increasingly brutal methods make him monstrous. Fights monsters by becoming one.",
+  "physical_description": "Military-fit, buzz cut graying at temples, ramrod posture. Scar across jaw from bioweapon attack. Eyes that evaluate everything as threat or non-threat. Never unarmed.",
+  "arc_position": 0.0,
+  "knowledge_state": [],
+  "relationships": {
+    "Adrian Keller": "Initially sees as useful intelligence source, later as threat to be eliminated",
+    "Dr. Okonkwo": "Uneasy alliance - tolerates her research but ready to override with force",
+    "Sera Volkov": "Views as Patient Zero figure - would kill immediately if politically possible"
+  }
+}

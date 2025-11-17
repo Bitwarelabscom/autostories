@@ -1,0 +1,23 @@
+{
+  "name": "Director James Kessler",
+  "role": "Head of NAU Space Intelligence Agency - Government antagonist/complex ally",
+  "age": 52,
+  "core_wound": "Failed to prevent a terrorist attack in 2029 that killed 3,000 people because he dismissed a junior analyst's warning as improbable. Now trusts institutions over individuals.",
+  "wants": "To control the Voyager situation for national security - prevent chaos and maintain order",
+  "needs": "To learn that control isn't the same as safety - to trust people outside the system",
+  "voice_markers": [
+    "Military-precise diction - short sentences, active voice",
+    "Uses euphemisms for harsh realities ('managed disclosure', 'containment protocols')",
+    "Rarely uses first person - speaks in institutional 'we'",
+    "Asks rhetorical questions to make points ('Do you know what panic looks like?')",
+    "Calm, measured tone even when delivering threats"
+  ],
+  "contradiction": "Genuinely believes he's protecting humanity but willing to sacrifice individual freedoms. Patriot who might betray global interests.",
+  "physical_description": "Silver-haired, ramrod posture, expensive tailored suits. Expressionless face - trained to reveal nothing. Strong handshake that feels like a test.",
+  "arc_position": 0.0,
+  "knowledge_state": [],
+  "relationships": {
+    "Marcus Reid": "Sees him as both threat and asset - wants to control or neutralize him",
+    "Sofia Navarro": "Views as radical element - potential security risk"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Dr. Elliot Cross",
+  "role": "Protagonist - SETI Signal Analyst and reluctant time traveler",
+  "age": 36,
+  "core_wound": "Grew up as child of deterministic atheist father who taught that free will is illusion. Spent life trying to prove choices matter. Discovering he's living a predestined loop destroys his philosophical foundation.",
+  "wants": "To understand the signal and break free from the temporal loop",
+  "needs": "To accept that choice can matter even within determinism - that how you walk the path is freedom",
+  "voice_markers": [
+    "Noir internal monologue - cynical, observational ('The rain didn't care about my problems')",
+    "Questions phrased as statements ('I wasn't sure if I was remembering or predicting')",
+    "Temporal confusion in tense - shifts between past/present/future mid-sentence",
+    "Philosophical asides about free will and causality",
+    "Dark humor about determinism ('I chose to have no choice')"
+  ],
+  "contradiction": "Fights against predetermined fate while using future knowledge to navigate present. Claims to want freedom while following the script. Seeks to break the loop while knowing loop must complete.",
+  "physical_description": "Perpetually exhausted, dark circles under gray eyes. Unkempt dark hair showing early gray. Wears same clothes for days - doesn't see point in maintaining appearance. Notebook full of annotations in different handwriting (his own, across loops). Chain smoker despite knowing it doesn't matter.",
+  "temporal_state": {
+    "loop_awareness_ch1": "None - living linearly",
+    "first_bleed_ch7": "Memories from another loop intrude",
+    "device_activation_ch20": "Can now perceive timeline echoes",
+    "meets_future_self_ch35": "Converses with self from loop iterations",
+    "temporal_entanglement_ch52": "Consciousness unstuck in time - living multiple moments simultaneously"
+  },
+  "arc_position": 0.0,
+  "knowledge_state": [],
+  "relationships": {}
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Sera Volkov",
+  "role": "First Changed - Stage 3 when Adrian meets her, Russian astrophysicist",
+  "age": 28,
+  "core_wound": "Grew up in orphanage, never belonged anywhere. Spent life searching for meaning and finding emptiness. Nihilism masked as scientific objectivity.",
+  "wants": "To transcend the meaningless of human existence",
+  "needs": "To find meaning in the transformation rather than just escape from pain",
+  "voice_markers": [
+    "Eerily calm even when describing horrifying transformations",
+    "Speaks in present tense about past and future - time becoming fluid",
+    "Uses plural 'we' even when alone (connecting to gestalt)",
+    "Poetic descriptions of mathematical concepts",
+    "Rarely uses emotional words - 'interesting' covers everything from joy to terror"
+  ],
+  "contradiction": "Embraces the Change to escape nihilism, but the Change makes meaning even more elusive. Seeks transcendence but finds only vast indifference.",
+  "physical_description": "Unsettlingly still - barely blinks. Eyes sometimes seem to focus on things not visible. Moves with strange precision, like choreographed. Hair cut very short. Multiple scars on arms from 'testing pain perception changes.'",
+  "change_progression": {
+    "introduced_ch8": "Already Stage 3 - emotionally distant, sees reality's structure",
+    "ch25": "Reaching Stage 4 - consciousness fragmenting across time",
+    "ch45": "Fully transformed - communicates in ways Adrian barely understands",
+    "ch58": "Becomes the voice of the Changed collective - barely recognizable as human"
+  },
+  "arc_position": 0.6,
+  "knowledge_state": [],
+  "relationships": {
+    "Adrian Keller": "Sees him as 'younger sibling' in the Change. Guides him but also uses him for her own transcendence goals."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Dr. Adrian Keller",
+  "role": "Protagonist - Radio Astronomer at Green Bank Observatory",
+  "age": 31,
+  "core_wound": "Severe social anxiety from childhood bullying. Found safety in numbers and patterns - they don't judge or hurt. Views human interaction as chaotic and threatening.",
+  "wants": "To understand the signals and prove he's not going insane",
+  "needs": "To accept that some things cannot be understood, only experienced - to embrace rather than analyze",
+  "voice_markers": [
+    "Overly technical even when describing emotions ('elevated heart rate' instead of 'scared')",
+    "Speaks in fragments when stressed - incomplete sentences",
+    "Uses mathematical metaphors for everything ('probability of friendship is low')",
+    "Long silences, then verbal avalanches of explanation",
+    "Starts sentences with 'Objectively speaking...' or 'The data suggests...'"
+  ],
+  "contradiction": "Desperate to maintain humanity through logic, but the Change makes him feel more whole than he ever has. Terrified of losing himself while secretly relieved to become something else.",
+  "physical_description": "Gaunt, pale from too much indoor time, perpetually tired eyes. Hunched posture. Hands shake slightly when not holding something. Wears noise-canceling headphones even when off.",
+  "change_progression": {
+    "stage_1_ch5": "Geometric dreams begin, enhanced pattern recognition",
+    "stage_2_ch15": "Develops synesthesia - sees sounds as colors, feels radio waves",
+    "stage_3_ch30": "Emotions flatten, can see 'code' of reality, communicates with other Changed",
+    "stage_4_ch55": "Near-complete transformation, consciousness expanding beyond linear time"
+  },
+  "arc_position": 0.0,
+  "knowledge_state": [],
+  "relationships": {}
+}

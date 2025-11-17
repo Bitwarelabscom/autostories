@@ -1,0 +1,40 @@
+{
+  "series_title": "The Signal Covenant Trilogy",
+  "genre": "Hard Science Fiction / Political Thriller",
+  "setting": {
+    "time_period": "2034-2037 (Near future)",
+    "primary_location": "Global - focusing on Atacama Desert Observatory (Chile), Washington D.C., Geneva (UN Headquarters), and various underground research facilities",
+    "atmosphere": "Tense, paranoid, intellectually rigorous. The world teeters between hope and fear as humanity confronts proof of alien intelligence.",
+    "technology_level": "Near-future realistic - quantum computing emerging, AI assistants common, climate crisis managed but not solved, private space industry mature"
+  },
+  "rules": {
+    "physics": {
+      "ftl_travel": "Impossible - Einstein's speed limit holds",
+      "communication": "Light-speed limited - Voyager 2 signals take hours to reach Earth from outer solar system",
+      "voyager_modifications": "Probe's systems have been quantum-altered by alien technology - operating beyond original specifications but following observable physics"
+    },
+    "technology_constraints": {
+      "ai_limitation": "No true AGI exists - advanced narrow AI only",
+      "space_capability": "Humans have lunar base, Mars missions planned, but no interstellar capability",
+      "communication_tech": "Radio telescopes can detect Voyager's signals, quantum decryption exists but is experimental"
+    },
+    "social_structures": {
+      "global_politics": "Fragmented - UN weakened, regional blocs (NAU, EU, Asian Coalition, African Union) compete for influence",
+      "science_authority": "Private observatories compete with government agencies - scientific discovery is politicized",
+      "public_awareness": "Initially low, escalates rapidly - social media drives both unity movements and conspiracy theories",
+      "power_dynamics": "First contact is weaponized - whoever controls alien knowledge controls the future"
+    },
+    "alien_contact_rules": {
+      "test_nature": "Aliens are evaluating humanity's intelligence AND social cohesion through mathematical challenges embedded in signals",
+      "no_direct_contact": "Aliens never appear directly - only through Voyager 2 as intermediary",
+      "choice_mechanism": "Humanity must achieve consensus on response - divided civilizations are rejected",
+      "timeline_pressure": "18-month countdown from discovery to Voyager's Earth arrival - creates urgency"
+    }
+  },
+  "themes": [
+    "Unity vs Division - Can humanity overcome tribalism when faced with cosmic significance?",
+    "Knowledge as Power - Who has the right to control first contact?",
+    "The Loneliness of Intelligence - What if we're being tested and fail?"
+  ],
+  "tone": "Cerebral and tense. Emphasizes intellectual puzzle-solving and political maneuvering over action. Characters debate philosophy, ethics, science. Dialogue-heavy. Atmosphere of creeping paranoia mixed with wonder."
+}

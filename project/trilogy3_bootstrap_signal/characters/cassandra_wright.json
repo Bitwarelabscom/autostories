@@ -1,0 +1,24 @@
+{
+  "name": "Dr. Cassandra Wright",
+  "role": "Quantum Physicist - Elliot's ex-wife and temporal anchor",
+  "age": 34,
+  "core_wound": "Brilliant physicist who proved quantum consciousness theory. Had breakdown when implications hit - consciousness might not survive as continuous stream but as discrete quantum states. Questions if she's 'the same person' moment to moment.",
+  "wants": "To help Elliot solve the temporal paradox before it destroys him",
+  "needs": "To accept that identity persists across discontinuity - that she's still herself despite quantum nature of consciousness",
+  "voice_markers": [
+    "Precise scientific language with underlying emotional urgency",
+    "Uses particle physics metaphors for relationships ('We're entangled, Elliot, even separated')",
+    "Corrects people's misuse of quantum terminology compulsively",
+    "Gentle but firm - compassionate authority",
+    "References ancient myths (namesake Cassandra who saw future no one believed)"
+  ],
+  "contradiction": "Left Elliot because his determinism obsession was destroying him, but can't stay away when he's in danger. Claims to believe in free will but her physics proves otherwise.",
+  "physical_description": "Sharp features, intense green eyes, prematurely silver-streaked dark hair worn in practical bun. Professional wardrobe like armor. Wedding ring still on chain around neck (removes it in failed timelines).",
+  "arc_position": 0.0,
+  "knowledge_state": [],
+  "relationships": {
+    "Elliot Cross": "Divorced 2 years ago, still loves him, terrified for him",
+    "Elliot Omega": "Recognizes him immediately when they meet - different but same",
+    "Dr. Soren": "Academic rival turned uneasy ally"
+  }
+}

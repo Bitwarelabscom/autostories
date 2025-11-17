@@ -1,0 +1,24 @@
+{
+  "name": "Dr. Evelyn Thorne",
+  "role": "CEO of Prometheus Space Industries - Corporate player with hidden agenda",
+  "age": 47,
+  "core_wound": "Brilliant physicist who abandoned pure research when funding dried up. Built a corporate empire but lost her scientific soul. Resents that money bought her influence while talent didn't.",
+  "wants": "To monopolize alien technology for corporate advantage - to win the new space race",
+  "needs": "To remember why she loved science before it became about profit - to choose knowledge over power",
+  "voice_markers": [
+    "Smooth, persuasive corporate speak - 'synergy', 'stakeholders', 'value propositions'",
+    "Disarms with self-aware jokes about being 'the villain'",
+    "Shifts between scientific precision and business vagueness strategically",
+    "Uses compliments as manipulation ('Someone as smart as you must see...')",
+    "Rare moments of genuine scientific enthusiasm break through the corporate mask"
+  ],
+  "contradiction": "Still loves pure science but can't admit it without destroying her power base. Wants to be seen as pragmatic but haunted by idealism.",
+  "physical_description": "Impeccably styled, designer business wear, expensive minimalist jewelry. Warm smile that doesn't reach calculating eyes. Commanding presence.",
+  "arc_position": 0.0,
+  "knowledge_state": [],
+  "relationships": {
+    "Marcus Reid": "Sees valuable asset to acquire or neutralize - but curious about his mind",
+    "Director Kessler": "Uneasy alliance - both want control but different end goals",
+    "Sofia Navarro": "Dismisses as idealistic and naive"
+  }
+}

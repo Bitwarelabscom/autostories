@@ -1,0 +1,287 @@
+{
+  "trilogy_structure": {
+    "book_1": "First Echo (Chapters 1-20)",
+    "book_2": "The Decryption (Chapters 21-40)",
+    "book_3": "Arrival Protocol (Chapters 41-60)"
+  },
+  "tentpoles": [
+    {
+      "chapter": 1,
+      "book": 1,
+      "type": "hook",
+      "title": "The Anomaly",
+      "description": "Marcus discovers Voyager 2's signal ping pattern is accelerating - impossible unless the probe is decelerating toward Earth. He runs the numbers repeatedly, terrified he's wrong."
+    },
+    {
+      "chapter": 5,
+      "book": 1,
+      "type": "complication",
+      "title": "Institutional Dismissal",
+      "description": "Marcus presents findings to observatory director and government liaison. They dismiss it as equipment error. Sofia believes him - they decide to investigate independently."
+    },
+    {
+      "chapter": 10,
+      "book": 1,
+      "type": "midpoint_reversal",
+      "title": "The Mathematical Test",
+      "description": "Marcus and Yuki decode the signal - it contains a mathematical proof humanity has never discovered. Proof aliens are using Voyager to test human intelligence. They're being evaluated."
+    },
+    {
+      "chapter": 15,
+      "book": 1,
+      "type": "escalation",
+      "title": "Going Dark",
+      "description": "Kessler's agency raids the observatory. Marcus and team go underground with the data. Public leak forces government acknowledgment. World fractures into believer/denier camps."
+    },
+    {
+      "chapter": 20,
+      "book": 1,
+      "type": "book_climax",
+      "title": "The Choice Revealed",
+      "description": "Final signal decoded: aliens offer humanity a binary choice - unite to accept contact, or remain divided and be left alone forever. Voyager will arrive in 12 months. Clock starts."
+    },
+    {
+      "chapter": 21,
+      "book": 2,
+      "type": "hook",
+      "title": "The Summit",
+      "description": "UN convenes emergency global summit. Marcus invited as expert witness. Power blocs immediately begin positioning for advantage. Kessler and Thorne form alliance."
+    },
+    {
+      "chapter": 27,
+      "book": 2,
+      "type": "complication",
+      "title": "Corporate Conspiracy",
+      "description": "Thorne's Prometheus Industries attempts to intercept Voyager with private spacecraft to monopolize alien tech. Marcus must expose the plan without destabilizing fragile international cooperation."
+    },
+    {
+      "chapter": 32,
+      "book": 2,
+      "type": "midpoint_reversal",
+      "title": "The Second Test",
+      "description": "New signal reveals the test has two parts: intelligence (passed) and ethics. Aliens are watching how humanity handles the choice. Every conflict, every betrayal is being evaluated."
+    },
+    {
+      "chapter": 37,
+      "book": 2,
+      "type": "escalation",
+      "title": "Fracture Point",
+      "description": "NAU and Asian Coalition split over response strategy. Small nations demand equal voice. Violent protests erupt globally. Humanity is failing the ethics test. Marcus realizes consensus is impossible through politics."
+    },
+    {
+      "chapter": 40,
+      "book": 2,
+      "type": "book_climax",
+      "title": "The Grassroots Solution",
+      "description": "Sofia proposes bypassing governments - direct global referendum through distributed network. Marcus and Yuki build the system. Kessler faces choice: suppress it or allow it. He allows it. Thorne sabotages it. Chaos."
+    },
+    {
+      "chapter": 41,
+      "book": 3,
+      "type": "hook",
+      "title": "Six Months",
+      "description": "Voyager detected visually entering solar system. Global referendum shows 60% unity - not enough. New factions emerge: saboteurs who want to destroy Voyager, worshippers who see it as divine, scientists who want to study it."
+    },
+    {
+      "chapter": 47,
+      "book": 3,
+      "type": "complication",
+      "title": "The Weapon Option",
+      "description": "Military faction plans to destroy Voyager before arrival. Kessler torn between duty and conscience. Marcus must convince him that violence guarantees failure of the ethics test."
+    },
+    {
+      "chapter": 52,
+      "book": 3,
+      "type": "midpoint_reversal",
+      "title": "Thorne's Redemption",
+      "description": "Thorne reveals she sabotaged the referendum because she discovered a third option in the alien math: humanity can defer the choice if it demonstrates potential for growth. She's been working on proof."
+    },
+    {
+      "chapter": 56,
+      "book": 3,
+      "type": "escalation",
+      "title": "Three Days",
+      "description": "Voyager three days from Earth. Military launches strike despite orders. Thorne sacrifices her corporate empire to broadcast proof of third option. Yuki completes the mathematical proof. Marcus must present it to the world."
+    },
+    {
+      "chapter": 60,
+      "book": 3,
+      "type": "series_climax",
+      "title": "First Echo, Final Answer",
+      "description": "Marcus addresses world as military strike inbound. He presents the proof - humanity is young, divided, but learning. We ask for time. Voyager intercepts the missile, disables it harmlessly, broadcasts acceptance. First contact on human terms."
+    }
+  ],
+  "causal_chains": [
+    {
+      "cause": "Marcus discovers signal anomaly (Ch1)",
+      "effect": "Institution dismisses him, forcing underground investigation (Ch5)",
+      "chapters": [1, 5],
+      "thread": "Marcus's credibility crisis"
+    },
+    {
+      "cause": "Mathematical test decoded (Ch10)",
+      "effect": "Understanding of alien evaluation criteria drives all future strategy (Ch20, Ch32)",
+      "chapters": [10, 20, 32],
+      "thread": "Nature of the test"
+    },
+    {
+      "cause": "Choice revealed - unite or be left alone (Ch20)",
+      "effect": "Global summit convened, power struggles begin (Ch21)",
+      "chapters": [20, 21],
+      "thread": "Political response"
+    },
+    {
+      "cause": "Thorne's corporate interception attempt (Ch27)",
+      "effect": "International trust collapses, leading to fracture (Ch37)",
+      "chapters": [27, 37],
+      "thread": "Corporate greed as destabilizer"
+    },
+    {
+      "cause": "Second test revealed - ethics matter (Ch32)",
+      "effect": "Realization that political consensus won't work, need grassroots (Ch40)",
+      "chapters": [32, 40],
+      "thread": "Path to solution"
+    },
+    {
+      "cause": "Grassroots referendum built (Ch40)",
+      "effect": "Shows 60% unity but reveals saboteurs and new factions (Ch41)",
+      "chapters": [40, 41],
+      "thread": "Referendum outcome"
+    },
+    {
+      "cause": "Military weapon option introduced (Ch47)",
+      "effect": "Kessler's character arc comes to crisis point - duty vs conscience (Ch47-56)",
+      "chapters": [47, 56],
+      "thread": "Kessler's transformation"
+    },
+    {
+      "cause": "Thorne's sabotage in Book 2 (Ch40)",
+      "effect": "Thorne's redemption and revelation of third option (Ch52)",
+      "chapters": [40, 52],
+      "thread": "Thorne's arc"
+    },
+    {
+      "cause": "Third option discovered - ask for time to grow (Ch52)",
+      "effect": "Marcus's final speech presents this to world and aliens (Ch60)",
+      "chapters": [52, 60],
+      "thread": "Resolution path"
+    }
+  ],
+  "planted_elements": [
+    {
+      "element": "Marcus's grad school humiliation over pattern recognition",
+      "planted_chapter": 1,
+      "payoff_chapter": 60,
+      "status": "pending",
+      "significance": "His early dismissal parallels humanity's near-dismissal by aliens - both deserve second chances"
+    },
+    {
+      "element": "Sofia's brother who believed in her",
+      "planted_chapter": 3,
+      "payoff_chapter": 40,
+      "status": "pending",
+      "significance": "Inspires grassroots approach - belief from below, not authority from above"
+    },
+    {
+      "element": "Kessler's failure to prevent 2029 attack",
+      "planted_chapter": 8,
+      "payoff_chapter": 47,
+      "status": "pending",
+      "significance": "Must choose to trust individual judgment over institutional protocols"
+    },
+    {
+      "element": "Thorne's abandoned scientific idealism",
+      "planted_chapter": 12,
+      "payoff_chapter": 52,
+      "status": "pending",
+      "significance": "Rediscovers love of pure knowledge over profit in discovering third option"
+    },
+    {
+      "element": "Yuki's imposter syndrome",
+      "planted_chapter": 6,
+      "payoff_chapter": 56,
+      "status": "pending",
+      "significance": "Her 'luck' was actually brilliance - completes the proof that saves humanity"
+    },
+    {
+      "element": "Voyager's Golden Record (human greeting sent in 1977)",
+      "planted_chapter": 2,
+      "payoff_chapter": 60,
+      "status": "pending",
+      "significance": "Aliens return it with addendum - an invitation to grow and rejoin them later"
+    },
+    {
+      "element": "The ping acceleration as heartbeat metaphor",
+      "planted_chapter": 1,
+      "payoff_chapter": 60,
+      "status": "pending",
+      "significance": "Voyager's signals become calmer after humanity asks for time - aliens are patient"
+    }
+  ],
+  "character_arcs": {
+    "Marcus_Reid": {
+      "arc_type": "From doubt to leadership",
+      "key_moments": [
+        {"chapter": 1, "position": 0.0, "state": "Terrified of being wrong again"},
+        {"chapter": 10, "position": 0.15, "state": "Gains confidence through Yuki's validation"},
+        {"chapter": 20, "position": 0.33, "state": "Accepts role as spokesperson despite fear"},
+        {"chapter": 32, "position": 0.53, "state": "Realizes leadership isn't about certainty"},
+        {"chapter": 52, "position": 0.87, "state": "Trusts his judgment even when alone"},
+        {"chapter": 60, "position": 1.0, "state": "Speaks for humanity with earned authority"}
+      ]
+    },
+    "Sofia_Navarro": {
+      "arc_type": "From lone fighter to team builder",
+      "key_moments": [
+        {"chapter": 5, "position": 0.08, "state": "Only one who believes Marcus"},
+        {"chapter": 15, "position": 0.25, "state": "Frustrated by political systems"},
+        {"chapter": 40, "position": 0.67, "state": "Conceives grassroots solution - trusts the people"},
+        {"chapter": 60, "position": 1.0, "state": "Shares victory, honors her brother's belief"}
+      ]
+    },
+    "James_Kessler": {
+      "arc_type": "From control to trust",
+      "key_moments": [
+        {"chapter": 8, "position": 0.13, "state": "Haunted by past failure to trust individual"},
+        {"chapter": 21, "position": 0.35, "state": "Forms alliance with Thorne for control"},
+        {"chapter": 40, "position": 0.67, "state": "Allows referendum despite orders"},
+        {"chapter": 47, "position": 0.78, "state": "Crisis - weapon or trust?"},
+        {"chapter": 60, "position": 1.0, "state": "Defies military order, trusts Marcus"}
+      ]
+    },
+    "Evelyn_Thorne": {
+      "arc_type": "From profit to purpose",
+      "key_moments": [
+        {"chapter": 12, "position": 0.2, "state": "Pursuing corporate advantage"},
+        {"chapter": 27, "position": 0.45, "state": "Attempts to monopolize contact"},
+        {"chapter": 40, "position": 0.67, "state": "Sabotages referendum - lowest point"},
+        {"chapter": 52, "position": 0.87, "state": "Reveals she was seeking third option all along"},
+        {"chapter": 56, "position": 1.0, "state": "Sacrifices empire for knowledge"}
+      ]
+    },
+    "Yuki_Tanaka": {
+      "arc_type": "From competition to collaboration",
+      "key_moments": [
+        {"chapter": 6, "position": 0.1, "state": "Rivals with Marcus"},
+        {"chapter": 10, "position": 0.17, "state": "Must work together to decode"},
+        {"chapter": 32, "position": 0.53, "state": "Partnership becomes friendship"},
+        {"chapter": 56, "position": 0.93, "state": "Completes proof - shares credit"},
+        {"chapter": 60, "position": 1.0, "state": "Accepts she's brilliant AND lucky"}
+      ]
+    }
+  },
+  "themes_tracking": {
+    "unity_vs_division": {
+      "progression": "From individual isolation → small team → failed politics → grassroots movement → fragile global consensus",
+      "key_chapters": [1, 5, 15, 21, 37, 40, 56, 60]
+    },
+    "knowledge_as_power": {
+      "progression": "From hoarded secrets → weaponized information → transparent sharing → knowledge as gift",
+      "key_chapters": [5, 12, 27, 40, 52, 60]
+    },
+    "loneliness_of_intelligence": {
+      "progression": "From Marcus alone with truth → small team believes → world divided → humanity seen as young species → not alone in universe",
+      "key_chapters": [1, 10, 20, 32, 52, 60]
+    }
+  }
+}

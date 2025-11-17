@@ -1,0 +1,309 @@
+{
+  "trilogy_structure": {
+    "book_1": "Causality Chain (Chapters 1-20)",
+    "book_2": "The Recursion (Chapters 21-40)",
+    "book_3": "Omega Point (Chapters 41-60)"
+  },
+  "tentpoles": [
+    {
+      "chapter": 1,
+      "book": 1,
+      "type": "hook",
+      "title": "The Impossible Data",
+      "description": "Elliot decodes Voyager 2 signal containing mathematical proofs discovered by humanity in 2045. He runs the numbers obsessively - data is valid but shouldn't exist. Remembers his father's determinism lectures. Feels sick realization: bootstrap paradox is real."
+    },
+    {
+      "chapter": 5,
+      "book": 1,
+      "type": "complication",
+      "title": "The Recursionists",
+      "description": "Dr. Soren's cult finds Elliot. They've been tracking the signal for years, built theology around it. Show him their calculations: he's the 'Closer' - the person whose actions in 2032 will complete the loop by ensuring signal is embedded in Voyager at 1977 launch. He thinks they're insane."
+    },
+    {
+      "chapter": 10,
+      "book": 1,
+      "type": "midpoint_reversal",
+      "title": "First Temporal Bleed",
+      "description": "Elliot experiences vivid 'memory' of being shot in an alley - but he's never been shot. Cassandra identifies it as temporal displacement - he's remembering a timeline that hasn't happened yet (or already failed). Signal is causing his consciousness to bleed across loop iterations."
+    },
+    {
+      "chapter": 15,
+      "book": 1,
+      "type": "escalation",
+      "title": "Agent Reyes Closes In",
+      "description": "Government raid on SETI. Reyes interrogates Elliot about signal. She knows about temporal tech - her division has been preparing. Elliot realizes government wants to weaponize future knowledge. Escapes with Soren's help. Now fugitive."
+    },
+    {
+      "chapter": 20,
+      "book": 1,
+      "type": "book_climax",
+      "title": "Building the Device",
+      "description": "Signal contains blueprints. Cassandra helps Elliot build quantum temporal interface. When activated, he sees timeline echoes - failed loops where different choices led to extinction. Sees himself die dozens of ways. Last layer of signal unlocks: personal message from his future self. 'This is the last loop. Close it right.'"
+    },
+    {
+      "chapter": 21,
+      "book": 2,
+      "type": "hook",
+      "title": "Living in Echoes",
+      "description": "Device allows Elliot to perceive probability waves across timelines. He's now living multiple moments simultaneously - talking to Cassandra while also experiencing timeline where she died. Fragmenting. Struggling to stay in 'correct' timeline."
+    },
+    {
+      "chapter": 27,
+      "book": 2,
+      "type": "complication",
+      "title": "The Weaponization Timeline",
+      "description": "Elliot accesses timeline echo where government used temporal tech militarily. Nuclear war 2034. 8 billion dead. That timeline's Elliot tried to prevent it, failed, sent warning back. Our Elliot realizes every choice he makes could branch toward that outcome."
+    },
+    {
+      "chapter": 32,
+      "book": 2,
+      "type": "midpoint_reversal",
+      "title": "The Original Timeline",
+      "description": "Through device, contacts dying humanity from original timeline (2150). No time travel, no bootstrap. Voyager was destroyed by debris, humanity never achieved interstellar travel, dying from climate collapse. They built quantum transmitter with last resources, sent one signal back to create bootstrap paradox. Elliot is living in timeline that shouldn't exist - a gift from the dead."
+    },
+    {
+      "chapter": 37,
+      "book": 2,
+      "type": "escalation",
+      "title": "Reyes' Trauma Revealed",
+      "description": "Agent Reyes captures Elliot. Under interrogation, she breaks - tells him about partner erased from timeline. Government experiment went wrong. She's the only one who remembers. Elliot uses device, finds timeline where partner existed. Shows her. She lets him go - uneasy alliance."
+    },
+    {
+      "chapter": 40,
+      "book": 2,
+      "type": "book_climax",
+      "title": "Meeting Omega",
+      "description": "Elliot meets his future self - Elliot Omega, the iteration who has lived this loop approaching infinite times. Omega is barely human anymore, consciousness spread across temporal probability. Tells him: loop is destabilizing. This is final iteration. Elliot must go back to 1977, embed signal in Voyager, close the causal loop forever. Or timeline collapses, humanity never existed at all."
+    },
+    {
+      "chapter": 41,
+      "book": 3,
+      "type": "hook",
+      "title": "Temporal Pressure",
+      "description": "Timeline degradation accelerates. Causality violations multiply - objects appearing before manufactured, people remembering events differently, déjà vu worldwide. Reality fighting the paradox. Elliot has weeks before total collapse. Must complete mission."
+    },
+    {
+      "chapter": 47,
+      "book": 3,
+      "type": "complication",
+      "title": "Soren's Sacrifice",
+      "description": "Government faction tries to seize device to weaponize. Soren and Recursionists defend Elliot - final stand. Soren dies telling Elliot 'Your choice makes determinism sacred.' Elliot now has device and knowledge, but hunted by military."
+    },
+    {
+      "chapter": 52,
+      "book": 3,
+      "type": "midpoint_reversal",
+      "title": "The Burden of Choice",
+      "description": "Cassandra decodes final layer of signal. Reveals truth: Elliot doesn't have to close the loop. He can let it collapse. Original timeline humanity is already dead - bootstrap timeline is bonus. But letting it collapse erases everyone he knows from existence. Choice: preserve bootstrap timeline (trapping humanity in loop forever) or free them to nonexistence."
+    },
+    {
+      "chapter": 56,
+      "book": 3,
+      "type": "escalation",
+      "title": "Journey to 1977",
+      "description": "Device fully activated. Elliot's consciousness travels back to August 1977, month before Voyager launch. Can only interact with timeline through quantum probability - must subtly influence engineers to embed signal. Discovers someone already there: Omega, ensuring it happens. They work together across time."
+    },
+    {
+      "chapter": 60,
+      "book": 3,
+      "type": "series_climax",
+      "title": "The Loop Closes",
+      "description": "Elliot completes the embedding. Signal is now in Voyager, will be discovered in 2029, creating loop. But adds one change: hidden final layer only he can decode. Message to himself: 'You had a choice. You chose to preserve what matters.' Returns to 2032. Timeline stabilizes. Reunites with Cassandra. Bootstrap paradox complete. Humanity lives in loop, but loop was chosen - that makes it free will. Elliot Omega fades as loop closes - no longer needed. Elliot keeps the device, just in case."
+    }
+  ],
+  "causal_chains": [
+    {
+      "cause": "Elliot discovers bootstrap signal (Ch1)",
+      "effect": "Recursionists identify him as Closer, begin protection (Ch5)",
+      "chapters": [1, 5],
+      "thread": "Destiny vs agency"
+    },
+    {
+      "cause": "Temporal bleeding begins (Ch10)",
+      "effect": "Can build device to perceive timelines (Ch20)",
+      "chapters": [10, 20],
+      "thread": "Gaining temporal perception"
+    },
+    {
+      "cause": "Builds temporal device (Ch20)",
+      "effect": "Lives across multiple probability streams (Ch21)",
+      "chapters": [20, 21],
+      "thread": "Consciousness fragmentation"
+    },
+    {
+      "cause": "Accesses weaponization timeline (Ch27)",
+      "effect": "Understands stakes of choices, becomes cautious (Ch32-60)",
+      "chapters": [27, 32, 60],
+      "thread": "Awareness of consequences"
+    },
+    {
+      "cause": "Contacts original timeline humanity (Ch32)",
+      "effect": "Understands bootstrap timeline is gift, not trap (Ch52, Ch60)",
+      "chapters": [32, 52, 60],
+      "thread": "Meaning of the loop"
+    },
+    {
+      "cause": "Reyes' partner erased, she allies with Elliot (Ch37)",
+      "effect": "Has government insider helping him evade military (Ch41-56)",
+      "chapters": [37, 41, 56],
+      "thread": "Reyes' arc"
+    },
+    {
+      "cause": "Meets Elliot Omega (Ch40)",
+      "effect": "Learns mission requirements and final timeline stakes (Ch41, Ch56)",
+      "chapters": [40, 41, 56],
+      "thread": "Omega guidance"
+    },
+    {
+      "cause": "Soren dies protecting him (Ch47)",
+      "effect": "Elliot accepts role not as destiny but as choice (Ch52, Ch60)",
+      "chapters": [47, 52, 60],
+      "thread": "Accepting the mission"
+    },
+    {
+      "cause": "Cassandra reveals Elliot can choose to collapse loop (Ch52)",
+      "effect": "Final decision to close loop becomes authentic choice, not compulsion (Ch60)",
+      "chapters": [52, 60],
+      "thread": "True free will"
+    },
+    {
+      "cause": "Elliot travels to 1977, embeds signal with Omega (Ch56)",
+      "effect": "Loop closes, timeline stabilizes, paradox preserved (Ch60)",
+      "chapters": [56, 60],
+      "thread": "Mission completion"
+    }
+  ],
+  "planted_elements": [
+    {
+      "element": "Elliot's father teaching him free will is illusion",
+      "planted_chapter": 1,
+      "payoff_chapter": 60,
+      "status": "pending",
+      "significance": "Proves father wrong - choice within determinism is still choice"
+    },
+    {
+      "element": "Cassandra's quantum consciousness theory",
+      "planted_chapter": 6,
+      "payoff_chapter": 56,
+      "status": "pending",
+      "significance": "Her theory explains how Elliot's consciousness can travel to 1977"
+    },
+    {
+      "element": "Reyes' partner who was erased",
+      "planted_chapter": 14,
+      "payoff_chapter": 37,
+      "status": "pending",
+      "significance": "Elliot uses device to show her partner existed - proves timelines are real"
+    },
+    {
+      "element": "Soren's discredited paper on bootstrap paradoxes",
+      "planted_chapter": 5,
+      "payoff_chapter": 32,
+      "status": "pending",
+      "significance": "Paper was correct all along - vindication in death"
+    },
+    {
+      "element": "Elliot's recurring dream of being shot in alley",
+      "planted_chapter": 10,
+      "payoff_chapter": 45,
+      "status": "pending",
+      "significance": "Happens in failed timeline - Cassandra saves him by remembering his 'memory'"
+    },
+    {
+      "element": "Voyager's Golden Record (humanity's message to cosmos)",
+      "planted_chapter": 2,
+      "payoff_chapter": 60,
+      "status": "pending",
+      "significance": "Elliot's final layer added to Record - message to himself across loop"
+    },
+    {
+      "element": "Cassandra's wedding ring on chain",
+      "planted_chapter": 8,
+      "payoff_chapter": 60,
+      "status": "pending",
+      "significance": "After loop closes, she puts it back on her finger - remarriage implied"
+    },
+    {
+      "element": "Omega's scars from 'timelines that no longer exist'",
+      "planted_chapter": 40,
+      "payoff_chapter": 56,
+      "status": "pending",
+      "significance": "Elliot gets same scar in Ch56 - realizing he's becoming Omega, breaks the cycle"
+    }
+  ],
+  "character_arcs": {
+    "Elliot_Cross": {
+      "arc_type": "From determinism as prison to determinism as canvas",
+      "key_moments": [
+        {"chapter": 1, "position": 0.0, "state": "Discovering bootstrap - feels trapped by causality"},
+        {"chapter": 10, "position": 0.17, "state": "Temporal bleeding - losing sense of linear self"},
+        {"chapter": 20, "position": 0.33, "state": "Builds device - gains power, loses stability"},
+        {"chapter": 32, "position": 0.53, "state": "Learns truth of original timeline - loop is gift not trap"},
+        {"chapter": 40, "position": 0.67, "state": "Meets Omega - terrified of becoming him"},
+        {"chapter": 52, "position": 0.87, "state": "Learns he can choose to collapse loop - makes preservation choice"},
+        {"chapter": 60, "position": 1.0, "state": "Closes loop by choice - determinism becomes freedom"}
+      ]
+    },
+    "Elliot_Omega": {
+      "arc_type": "From control to trust",
+      "key_moments": [
+        {"chapter": 40, "position": 0.85, "state": "Appears to guide younger self"},
+        {"chapter": 56, "position": 0.95, "state": "Works with Elliot in 1977 - must let him lead"},
+        {"chapter": 60, "position": 1.0, "state": "Fades as loop closes - no longer needed, can rest"}
+      ]
+    },
+    "Cassandra_Wright": {
+      "arc_type": "From leaving to returning",
+      "key_moments": [
+        {"chapter": 6, "position": 0.1, "state": "Divorced Elliot to save herself from his obsession"},
+        {"chapter": 15, "position": 0.25, "state": "Can't abandon him when he's in danger"},
+        {"chapter": 28, "position": 0.47, "state": "Builds device with him - scientific partnership renewed"},
+        {"chapter": 52, "position": 0.87, "state": "Reveals he can choose - gives him freedom she wanted for him"},
+        {"chapter": 60, "position": 1.0, "state": "Remarries him - loop is their shared choice now"}
+      ]
+    },
+    "Dr_Marcus_Soren": {
+      "arc_type": "Vindication and sacrifice",
+      "key_moments": [
+        {"chapter": 5, "position": 0.08, "state": "Fanatical leader who found Elliot"},
+        {"chapter": 20, "position": 0.33, "state": "Helps build device - science validates faith"},
+        {"chapter": 32, "position": 0.53, "state": "Original timeline revealed - he was right about paradox"},
+        {"chapter": 47, "position": 0.78, "state": "Dies protecting Elliot - martyrdom for causality"},
+        {"chapter": 60, "position": 1.0, "state": "His theology proven correct - loop is sacred"}
+      ]
+    },
+    "Agent_Maya_Reyes": {
+      "arc_type": "From hunter to protector",
+      "key_moments": [
+        {"chapter": 15, "position": 0.25, "state": "Hunting Elliot for government"},
+        {"chapter": 37, "position": 0.62, "state": "Elliot proves her partner existed - trauma validated"},
+        {"chapter": 41, "position": 0.68, "state": "Becomes his ally against military faction"},
+        {"chapter": 56, "position": 0.93, "state": "Protects him during 1977 journey"},
+        {"chapter": 60, "position": 1.0, "state": "Destroys government files on temporal tech - some knowledge should stay hidden"}
+      ]
+    }
+  },
+  "themes_tracking": {
+    "determinism_vs_free_will": {
+      "progression": "Trapped by fate → understanding causality → perceiving choice within determinism → choosing the predetermined → freedom through acceptance",
+      "key_chapters": [1, 10, 32, 52, 60]
+    },
+    "burden_of_knowledge": {
+      "progression": "Discovery as curse → knowledge as weapon → understanding as responsibility → wisdom to know what to preserve",
+      "key_chapters": [1, 15, 27, 52, 60]
+    },
+    "identity_across_time": {
+      "progression": "Linear self → bleeding memories → fragmented consciousness → meeting future self → integrating all selves → choosing which self to be",
+      "key_chapters": [10, 21, 32, 40, 56, 60]
+    }
+  },
+  "timeline_structure": {
+    "note": "Multiple timelines exist as probability echoes - reader sees glimpses",
+    "original_timeline": "Voyager destroyed 2025, humanity extinct 2150, sends bootstrap signal as last act",
+    "weaponization_timeline": "Government seizes tech, nuclear war 2034",
+    "isolation_timeline": "Humanity ignores signal, slow decline",
+    "current_timeline": "Elliot closes loop correctly, bootstrap timeline stabilizes",
+    "timeline_bleeding_chapters": [10, 21, 27, 32, 41, 45, 52],
+    "temporal_journey_chapter": 56
+  }
+}

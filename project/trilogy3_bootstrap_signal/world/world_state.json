@@ -1,0 +1,53 @@
+{
+  "series_title": "Bootstrap Signal Trilogy",
+  "genre": "Time Travel Thriller / Existential Mystery / Noir Sci-Fi",
+  "setting": {
+    "time_period": "2029-2032 (Near future, but timeline is unstable)",
+    "primary_location": "SETI Institute (Mountain View, CA), various underground bunkers, temporal 'echo chambers' where past/present/future overlap",
+    "atmosphere": "Noir paranoia meets temporal vertigo. Reality has déjà vu quality. Characters question whether they're making choices or following script. Film noir aesthetics - shadows, rain, isolation - but with quantum physics.",
+    "technology_level": "Near future with quantum computing breakthroughs. Temporal mechanics experimentally proven but not applied. No time machines until protagonist builds one from signal data."
+  },
+  "rules": {
+    "temporal_mechanics": {
+      "bootstrap_paradox": "Information with no origin point - Voyager contains data from future that teaches how to send it back, creating closed causality loop",
+      "timeline_types": "Multiple failed timelines exist as 'echoes' - protagonist can perceive them as the loop destabilizes",
+      "consistency_principle": "Timeline fights to maintain consistency - changes cause 'temporal pressure' like wound trying to heal",
+      "observer_effect": "Protagonist is 'temporally entangled' with Voyager - his observations collapse probability waves across timelines"
+    },
+    "the_signal_content": {
+      "layer_1_mathematics": "Advanced physics - quantum temporal mechanics humanity hasn't discovered yet",
+      "layer_2_blueprints": "Design for quantum device that can interface with past via Voyager as anchor",
+      "layer_3_warning": "Encrypted message from dying future humanity - original timeline extinction event",
+      "layer_4_personal": "Protagonist's own notes from future iterations of the loop"
+    },
+    "loop_mechanics": {
+      "anchor_point": "Voyager 2's launch in 1977 - fixed point where signal must be embedded",
+      "loop_duration": "Each loop spans ~55 years (1977-2032)",
+      "loop_instability": "Current loop showing cracks - timeline 'bleeding' causing temporal anomalies",
+      "final_loop_rule": "This is provably the last stable iteration - next loop collapses paradox and erases bootstrapped timeline"
+    },
+    "alternate_timelines": {
+      "original_timeline": "Voyager destroyed by cosmic debris 2025, humanity never gets interstellar capability, extinction from climate/war ~2150",
+      "weaponization_timeline": "Humanity uses future tech militarily, nuclear war 2034",
+      "isolation_timeline": "Humanity ignores signal, slower decline, extinction ~2200",
+      "current_timeline": "Unknown outcome - protagonist must choose how to close loop"
+    },
+    "temporal_perception": {
+      "bleeding_effect": "Protagonist increasingly experiences memories from other loops - not hallucinations but actual temporally displaced consciousness",
+      "alternate_self_encounters": "Can communicate with past/future versions via quantum device",
+      "determinism_weight": "The more protagonist learns from future data, the more constrained his choices become - free will narrows"
+    },
+    "conspiracy_elements": {
+      "time_cult": "Organization that discovered signal first, believes protagonist is messianic 'Closer of the Loop'",
+      "government_hunters": "Intelligence agencies want to weaponize temporal technology",
+      "corporate_interests": "Tech companies willing to kill to monopolize future knowledge",
+      "future_agents": "Late in trilogy, reveal that some antagonists are from failed future loops trying different solutions"
+    }
+  },
+  "themes": [
+    "Determinism vs Free Will - If your choices are predetermined by closed time loop, are they still choices?",
+    "Burden of Knowledge - Future information as curse not blessing",
+    "Identity Across Time - Are you the same person as your temporal echo?"
+  ],
+  "tone": "Neo-noir paranoia with existential philosophy. Protagonist is haunted detective figure chasing truth that destroys him. Dialogue is sharp, cynical. Atmosphere of fatalism mixed with desperate hope that choice still matters. Visual motif: mirror reflections and echoes. Temporal confusion rendered clearly - reader always knows 'when' even if protagonist doesn't."
+}

@@ -1,0 +1,63 @@
+{
+  "relationship_matrix": {
+    "Elliot_Cross": {
+      "Elliot_Omega": {
+        "initial": "Meets Ch35 - horror of seeing his future, recognition of self",
+        "power_dynamic": "Omega has knowledge, Cross has agency in 'now'",
+        "tension": "Omega can't tell him everything due to causality rules - must guide indirectly",
+        "evolution": "By Ch55, they're thinking in sync - barely two separate people"
+      },
+      "Cassandra_Wright": {
+        "initial": "Divorced but unresolved - he calls when desperate",
+        "power_dynamic": "Equal intellectually, but she's emotionally healthier",
+        "tension": "She wants him to let go of determinism obsession; he can't because it's real",
+        "evolution": "Reconnection through crisis, love persists across timelines"
+      },
+      "Dr_Marcus_Soren": {
+        "initial": "Soren finds Elliot, reveals cult's beliefs about him",
+        "power_dynamic": "Soren has resources and knowledge; Elliot has role Soren wants",
+        "tension": "Soren treats Elliot as prophet; Elliot rejects messianic role",
+        "evolution": "Alliance of necessity, mutual discomfort with deterministic fate"
+      },
+      "Agent_Maya_Reyes": {
+        "initial": "Hunter/prey - she's tracking him as threat",
+        "power_dynamic": "She has institutional power; he has temporal knowledge",
+        "tension": "Both trying to prevent timeline collapse, opposite methods",
+        "evolution": "Becomes ally when government faction tries to weaponize loop"
+      }
+    },
+    "Elliot_Omega": {
+      "Cassandra_Wright": {
+        "initial": "Recognition across time - she sees his pain from all loops",
+        "power_dynamic": "She grounds him to linear time, he shows her what becomes of them",
+        "tension": "In some loops she died saving Elliot - he mourns timelines she doesn't remember"
+      },
+      "Dr_Marcus_Soren": {
+        "initial": "Omega reveals Soren's cult is necessary for loop closure",
+        "power_dynamic": "Mutual understanding of temporal mechanics",
+        "tension": "Soren wants Omega to confirm his theology; Omega knows it's more complex"
+      }
+    },
+    "Cassandra_Wright": {
+      "Agent_Maya_Reyes": {
+        "initial": "Reyes uses Cassandra to find Elliot",
+        "power_dynamic": "Reyes has authority, Cassandra has ethics",
+        "tension": "Cassandra protects Elliot, Reyes sees her as obstruction then ally",
+        "evolution": "Bond over both losing people to temporal mechanics"
+      },
+      "Dr_Marcus_Soren": {
+        "initial": "Academic rivals - Cassandra thinks he's crackpot, he dismisses her emotions",
+        "power_dynamic": "Both brilliant, different approaches to same problem",
+        "tension": "Science vs faith in determinism"
+      }
+    },
+    "Dr_Marcus_Soren": {
+      "Agent_Maya_Reyes": {
+        "initial": "She's hunted his cult for years",
+        "power_dynamic": "Cat and mouse - he evades, she pursues",
+        "tension": "Law vs belief in higher purpose",
+        "evolution": "Temporary truce when both realize loop is destabilizing"
+      }
+    }
+  }
+}

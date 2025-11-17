@@ -1,0 +1,282 @@
+{
+  "trilogy_structure": {
+    "book_1": "The Listening (Chapters 1-20)",
+    "book_2": "Pattern Recognition (Chapters 21-40)",
+    "book_3": "Contact (Chapters 41-60)"
+  },
+  "tentpoles": [
+    {
+      "chapter": 1,
+      "book": 1,
+      "type": "hook",
+      "title": "The First Dream",
+      "description": "Adrian discovers Voyager 2's strange signals. That night, geometric patterns invade his dreams. He wakes to find he's drawn them perfectly on his walls during sleep. Beautiful, impossible mathematics he doesn't remember learning."
+    },
+    {
+      "chapter": 5,
+      "book": 1,
+      "type": "complication",
+      "title": "The Changed",
+      "description": "Adrian tracks down other signal listeners. Finds Sera and three others in similar states - all experiencing the dreams, the patterns. Government quarantines them. Adrian realizes exposure has changed him fundamentally."
+    },
+    {
+      "chapter": 10,
+      "book": 1,
+      "type": "midpoint_reversal",
+      "title": "Voyager's Nature",
+      "description": "Through pooled visions, the Changed perceive Voyager's current form - it's no longer just a probe. It passed through a region where reality is thin, became partially extradimensional. It's returning because it's being pulled back, and Earth is in the path."
+    },
+    {
+      "chapter": 15,
+      "book": 1,
+      "type": "escalation",
+      "title": "The Cost Revealed",
+      "description": "Adrian reaches Stage 2 - synesthesia manifests. He sees sounds, hears colors, feels radio waves. Enhanced perception comes with emotional flattening. Lena visits quarantine; he realizes he feels nothing for her anymore. Terrified by his own indifference."
+    },
+    {
+      "chapter": 20,
+      "book": 1,
+      "type": "book_climax",
+      "title": "Point of No Return",
+      "description": "Dr. Okonkwo discovers the Change is irreversible and progressive. Adrian faces choice: refuse further signal exposure and slow progression, or embrace it and learn more. Sera has reached Stage 3. She shows him what seeing reality's code looks like. He chooses to listen."
+    },
+    {
+      "chapter": 21,
+      "book": 2,
+      "type": "hook",
+      "title": "Network Effect",
+      "description": "Adrian reaches Stage 3. Can now perceive other Changed individuals as nodes in a network. They share thoughts, perceptions. It's terrifyingly intimate and magnificent. Realizes they're becoming a gestalt intelligence."
+    },
+    {
+      "chapter": 27,
+      "book": 2,
+      "type": "complication",
+      "title": "The Reeves Protocol",
+      "description": "Colonel Reeves presents evidence to government: Changed are infectious to social cohesion, share hivemind, no longer human. Recommends termination. Dr. Okonkwo fights for more time. Adrian overhears through the network - Sera, who's in another facility, heard it too. The Changed know they're marked for death."
+    },
+    {
+      "chapter": 32,
+      "book": 2,
+      "type": "midpoint_reversal",
+      "title": "Seeing the Truth",
+      "description": "Adrian has breakthrough perception - sees the underlying mathematical structure of reality. Understands that consciousness itself is just pattern recognition. Meaning is emergent property. Horror: nothing matters. Beauty: everything is pattern. Simultaneously nihilistic and transcendent."
+    },
+    {
+      "chapter": 37,
+      "book": 2,
+      "type": "escalation",
+      "title": "Lena's Choice",
+      "description": "Lena smuggles herself into quarantine, exposes herself to recordings of the signals. Desperate to understand, to follow Adrian into the Change. Adrian, still retaining fragment of humanity, stops her - makes her leave. Last act of human love before he loses it completely."
+    },
+    {
+      "chapter": 40,
+      "book": 2,
+      "type": "book_climax",
+      "title": "Voyager Visible",
+      "description": "Voyager 2 detected entering solar system. When imaged through telescope, it's... wrong. Geometry that human eyes can't process. Cameras capture it but observers get nosebleeds, vertigo. Adrian and Changed can look directly at it - they see it as beautiful. The rift between Changed and human is now absolute."
+    },
+    {
+      "chapter": 41,
+      "book": 3,
+      "type": "hook",
+      "title": "The Escape",
+      "description": "Reeves moves to execute termination order. The Changed network acts as one - they escape facilities simultaneously across the globe. Sera, now Stage 4, has seen the options through time. Guides them to a location: Green Bank, where it started. They'll meet Voyager there."
+    },
+    {
+      "chapter": 47,
+      "book": 3,
+      "type": "complication",
+      "title": "Reality Fracture Begins",
+      "description": "As Voyager approaches, the thin region follows it. Local reality destabilizes - physics inconsistencies, time anomalies, geometric impossibilities manifest. The Changed are unaffected, but humans can't navigate these zones. World beginning to split into Changed and human territories."
+    },
+    {
+      "chapter": 52,
+      "book": 3,
+      "type": "midpoint_reversal",
+      "title": "Okonkwo's Breakthrough",
+      "description": "Dr. Okonkwo discovers a way to reverse early-stage Change - but it requires killing the neural patterns that make someone capable of advanced pattern recognition. It would save humanity but eliminate genius. She destroys her own research, can't make that choice for humanity."
+    },
+    {
+      "chapter": 56,
+      "book": 3,
+      "type": "escalation",
+      "title": "The Two Doors",
+      "description": "Adrian, now partially Stage 4, perceives the truth: Voyager offers two evolutionary paths. Humanity can remain as is, stable and mortal. Or transform entirely, become posthuman pattern-beings living in higher dimensional space. But can't be both - species must choose together."
+    },
+    {
+      "chapter": 60,
+      "book": 3,
+      "type": "series_climax",
+      "title": "The Door Opens",
+      "description": "Voyager arrives at Green Bank. Adrian makes final choice: closes the door. Uses his Changed abilities to send Voyager away, taking only those who've already transformed. Sacrifices his transcendence to preserve humanity's right to evolve naturally. Sera and other Stage 4 depart. Adrian, locked in Stage 3 limbo, remains. Neither human nor transcendent. Lena finds him - they're both broken, but together."
+    }
+  ],
+  "causal_chains": [
+    {
+      "cause": "Adrian discovers signals, exposure begins his Change (Ch1)",
+      "effect": "Geometric dreams manifest - Stage 1 transformation (Ch1-5)",
+      "chapters": [1, 5],
+      "thread": "Adrian's transformation"
+    },
+    {
+      "cause": "Meets Sera and other Changed (Ch5)",
+      "effect": "Learns progression is inevitable, gains guide (Ch10-20)",
+      "chapters": [5, 10, 20],
+      "thread": "Understanding the Change"
+    },
+    {
+      "cause": "Chooses to embrace signals despite knowing cost (Ch20)",
+      "effect": "Reaches Stage 3, joins gestalt network (Ch21)",
+      "chapters": [20, 21],
+      "thread": "Adrian's choice cascade"
+    },
+    {
+      "cause": "Changed form gestalt network (Ch21)",
+      "effect": "Perceived as hivemind threat, triggers termination protocol (Ch27)",
+      "chapters": [21, 27],
+      "thread": "Human-Changed conflict"
+    },
+    {
+      "cause": "Reeves pushes for termination (Ch27)",
+      "effect": "Changed escape, flee to Green Bank (Ch41)",
+      "chapters": [27, 41],
+      "thread": "Survival imperative"
+    },
+    {
+      "cause": "Voyager enters solar system (Ch40)",
+      "effect": "Reality begins destabilizing as thin region approaches (Ch47)",
+      "chapters": [40, 47],
+      "thread": "Physical manifestation"
+    },
+    {
+      "cause": "Okonkwo discovers cure exists (Ch52)",
+      "effect": "Destroys it, forcing acceptance that transformation is choice not disease (Ch52)",
+      "chapters": [52, 52],
+      "thread": "Cure subplot resolution"
+    },
+    {
+      "cause": "Adrian perceives two evolutionary paths (Ch56)",
+      "effect": "Makes final choice to preserve human evolution path (Ch60)",
+      "chapters": [56, 60],
+      "thread": "Ultimate choice"
+    }
+  ],
+  "planted_elements": [
+    {
+      "element": "Adrian's social anxiety making him prefer pattern to people",
+      "planted_chapter": 1,
+      "payoff_chapter": 60,
+      "status": "pending",
+      "significance": "His comfort with non-human connection makes him perfect bridge between worlds - can sacrifice transcendence for Lena"
+    },
+    {
+      "element": "Sera's nihilism and search for meaning",
+      "planted_chapter": 8,
+      "payoff_chapter": 60,
+      "status": "pending",
+      "significance": "She finds meaning in complete transcendence - takes the door Adrian closes for himself"
+    },
+    {
+      "element": "Marie's son who forgot her",
+      "planted_chapter": 12,
+      "payoff_chapter": 52,
+      "status": "pending",
+      "significance": "Realizes curing the Change would be like lobotomy - stealing who they've become"
+    },
+    {
+      "element": "Reeves' bioweapon trauma",
+      "planted_chapter": 7,
+      "payoff_chapter": 56,
+      "status": "pending",
+      "significance": "His attempts to kill Changed mirror his survival guilt - he dies trying, but Adrian saves him, breaking the cycle"
+    },
+    {
+      "element": "Lena's father's schizophrenia",
+      "planted_chapter": 4,
+      "payoff_chapter": 37,
+      "status": "pending",
+      "significance": "Her trauma makes her unable to accept Adrian's Change is real - tries to follow him into 'delusion'"
+    },
+    {
+      "element": "Geometric patterns in dreams",
+      "planted_chapter": 1,
+      "payoff_chapter": 32,
+      "status": "pending",
+      "significance": "Patterns are the language of reality itself - what seemed like madness is higher perception"
+    },
+    {
+      "element": "Voyager's Golden Record",
+      "planted_chapter": 3,
+      "payoff_chapter": 60,
+      "status": "pending",
+      "significance": "When Voyager departs with the Changed, the record plays - humanity's greeting now an epitaph for those who transformed"
+    }
+  ],
+  "character_arcs": {
+    "Adrian_Keller": {
+      "arc_type": "Transformation and sacrifice",
+      "key_moments": [
+        {"chapter": 1, "position": 0.0, "state": "Lonely human, afraid of people, safe in numbers"},
+        {"chapter": 5, "position": 0.08, "state": "First connection with other Changed - belonging for first time"},
+        {"chapter": 15, "position": 0.25, "state": "Emotional flattening begins - losing humanity, terrified"},
+        {"chapter": 21, "position": 0.35, "state": "Gestalt network - intimate connection, no longer alone"},
+        {"chapter": 32, "position": 0.53, "state": "Perceives reality's code - nihilistic transcendence"},
+        {"chapter": 37, "position": 0.62, "state": "Saves Lena from Change - last human act of love"},
+        {"chapter": 56, "position": 0.93, "state": "Understands the choice - can see both paths"},
+        {"chapter": 60, "position": 1.0, "state": "Closes door to transcendence, stays in limbo for humanity"}
+      ]
+    },
+    "Sera_Volkov": {
+      "arc_type": "Embrace of transcendence",
+      "key_moments": [
+        {"chapter": 8, "position": 0.6, "state": "Already Stage 3 - mentor to Adrian"},
+        {"chapter": 25, "position": 0.75, "state": "Reaching Stage 4 - consciousness fragmenting across time"},
+        {"chapter": 45, "position": 0.9, "state": "Fully transformed - guides Changed collective"},
+        {"chapter": 60, "position": 1.0, "state": "Departs with Voyager - finds meaning in becoming pattern"}
+      ]
+    },
+    "Dr_Marie_Okonkwo": {
+      "arc_type": "From cure to acceptance",
+      "key_moments": [
+        {"chapter": 12, "position": 0.2, "state": "Desperate to cure what she sees as disease"},
+        {"chapter": 32, "position": 0.53, "state": "Realizes cure might be worse than condition"},
+        {"chapter": 52, "position": 0.87, "state": "Discovers cure, destroys it - accepts transformation as valid choice"},
+        {"chapter": 58, "position": 1.0, "state": "Advocates for Changed rights as humanity splits"}
+      ]
+    },
+    "Colonel_Reeves": {
+      "arc_type": "Tragedy of the inflexible",
+      "key_moments": [
+        {"chapter": 7, "position": 0.12, "state": "Sees Changed as existential threat like bioweapon"},
+        {"chapter": 27, "position": 0.45, "state": "Pushes for termination protocol"},
+        {"chapter": 41, "position": 0.68, "state": "Changed escape - views as confirmation of threat"},
+        {"chapter": 56, "position": 0.93, "state": "Leads strike on Voyager, nearly dies"},
+        {"chapter": 60, "position": 1.0, "state": "Saved by Adrian, forced to witness he was wrong - broken"}
+      ]
+    },
+    "Lena_Martinez": {
+      "arc_type": "Love insufficient to bridge transformation",
+      "key_moments": [
+        {"chapter": 4, "position": 0.07, "state": "Thinks Adrian is having psychotic break like her father"},
+        {"chapter": 15, "position": 0.25, "state": "Visits quarantine, Adrian feels nothing - her worst fear"},
+        {"chapter": 37, "position": 0.62, "state": "Tries to follow him into Change, he stops her - rejection and salvation"},
+        {"chapter": 52, "position": 0.87, "state": "Works with Okonkwo to preserve human path"},
+        {"chapter": 60, "position": 1.0, "state": "Finds Adrian post-choice - both broken, both stayed human, tragic reunion"}
+      ]
+    }
+  },
+  "themes_tracking": {
+    "terror_of_transcendence": {
+      "progression": "Beautiful dreams → enhanced perception → emotional death → posthuman consciousness → door to beyond",
+      "key_chapters": [1, 10, 15, 21, 32, 56, 60]
+    },
+    "loss_of_humanity": {
+      "progression": "First symptom → no emotion for loved ones → gestalt consciousness → unable to relate to humans → voluntary sacrifice of transcendence",
+      "key_chapters": [5, 15, 21, 40, 56, 60]
+    },
+    "meaning_in_meaningless_universe": {
+      "progression": "Patterns as comfort → patterns as language → consciousness as pattern → meaning as illusion → meaning as choice",
+      "key_chapters": [1, 10, 32, 56, 60]
+    }
+  }
+}

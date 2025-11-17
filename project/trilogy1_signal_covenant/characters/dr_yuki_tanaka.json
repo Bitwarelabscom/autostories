@@ -1,0 +1,24 @@
+{
+  "name": "Dr. Yuki Tanaka",
+  "role": "Quantum Cryptographer - Rival turned essential ally",
+  "age": 38,
+  "core_wound": "Won acclaim for decrypting 'impossible' codes, but knows most of her success was luck and timing. Imposter syndrome despite genuine brilliance.",
+  "wants": "To prove she deserves her reputation by cracking the Voyager signals",
+  "needs": "To accept that collaboration is more valuable than individual glory",
+  "voice_markers": [
+    "Speaks quickly when excited - thoughts outpace words",
+    "Uses gaming and anime references unexpectedly",
+    "Self-interrupts to correct her own statements ('No, wait, that's not quite right...')",
+    "Apologizes frequently but doesn't mean it ('Sorry, but you're completely wrong')",
+    "Thinks out loud - verbal processing"
+  ],
+  "contradiction": "Intellectually generous but emotionally competitive. Shares knowledge freely while desperately wanting to be the smartest person in the room.",
+  "physical_description": "Petite, perpetually tired eyes behind stylish glasses, favors hoodies and jeans. Multiple screens always open. Drinks alarming amounts of coffee.",
+  "arc_position": 0.0,
+  "knowledge_state": [],
+  "relationships": {
+    "Marcus Reid": "Professional rivalry - both pattern recognition specialists. Grudging respect.",
+    "Dr. Thorne": "Former mentor turned corporate sellout - Yuki feels betrayed",
+    "Sofia Navarro": "Fast friendship based on mutual directness"
+  }
+}

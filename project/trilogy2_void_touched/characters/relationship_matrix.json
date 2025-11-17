@@ -1,0 +1,54 @@
+{
+  "relationship_matrix": {
+    "Adrian_Keller": {
+      "Sera_Volkov": {
+        "initial": "Guide/student - she's further along the Change, shows him what he's becoming",
+        "power_dynamic": "Sera has knowledge and acceptance; Adrian has fear and resistance",
+        "tension": "She wants him to embrace transformation; he wants to stay human",
+        "evolution": "By Book 3, they think in synchrony - barely need words"
+      },
+      "Dr_Marie_Okonkwo": {
+        "initial": "Doctor/patient - she studies him, he cooperates hoping for cure",
+        "power_dynamic": "She has institutional power; he has information she needs",
+        "tension": "She treats him as specimen; he needs to be seen as person",
+        "evolution": "Grows into mutual respect, then tragedy as he transcends her help"
+      },
+      "Colonel_Reeves": {
+        "initial": "Jailer/prisoner dynamic",
+        "power_dynamic": "Reeves has physical control; Adrian has nothing to lose",
+        "tension": "Reeves sees him as threat; Adrian sees him as murderer in waiting",
+        "evolution": "Escalates to existential confrontation - human vs posthuman"
+      },
+      "Lena_Martinez": {
+        "initial": "Ex-lovers - unresolved feelings and pain",
+        "power_dynamic": "Emotionally equal but increasingly different realities",
+        "tension": "She represents humanity and normalcy he's losing; he represents her trauma",
+        "evolution": "Heartbreaking divergence - love insufficient to bridge transformation"
+      }
+    },
+    "Sera_Volkov": {
+      "Dr_Marie_Okonkwo": {
+        "initial": "Test subject/researcher but Sera has all the power through acceptance",
+        "power_dynamic": "Marie has physical control; Sera has psychological dominance",
+        "tension": "Marie wants to cure; Sera pities her blindness"
+      },
+      "Colonel_Reeves": {
+        "initial": "Reeves wants her dead; Sera is beyond caring",
+        "power_dynamic": "Reeves has weapons; Sera has transcended fear of death",
+        "tension": "She's the future; he's fighting the inevitable"
+      }
+    },
+    "Dr_Marie_Okonkwo": {
+      "Colonel_Reeves": {
+        "initial": "Uneasy alliance - cure vs kill",
+        "power_dynamic": "Reeves has military authority; Marie has scientific expertise",
+        "tension": "She needs time to research; he wants immediate elimination"
+      },
+      "Lena_Martinez": {
+        "initial": "Allies in trying to save Adrian",
+        "power_dynamic": "Marie has expertise; Lena has emotional connection",
+        "tension": "Different visions of what 'saving' means"
+      }
+    }
+  }
+}

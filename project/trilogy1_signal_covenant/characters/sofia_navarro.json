@@ -1,0 +1,22 @@
+{
+  "name": "Dr. Sofia Navarro",
+  "role": "Radio Astronomer - Marcus's colleague and first ally",
+  "age": 29,
+  "core_wound": "Grew up in poverty in Santiago, fought for every educational opportunity. Lost her younger brother to gang violence - he believed in her when no one else did.",
+  "wants": "To make her brother's sacrifice mean something - to contribute to human knowledge",
+  "needs": "To accept that some fights can't be won alone - to share the burden of responsibility",
+  "voice_markers": [
+    "Code-switches between English and Spanish when stressed",
+    "Direct, no-nonsense communication style - impatient with hedging",
+    "Uses stark metaphors ('We're standing on a cliff edge')",
+    "Interrupts people when they're wrong - doesn't sugarcoat",
+    "Calls out Marcus's self-doubt bluntly"
+  ],
+  "contradiction": "Fierce advocate for collaboration but terrible at asking for help. Pushes others to be brave while hiding her own fears.",
+  "physical_description": "Athletic build, closely cropped black hair, intense dark eyes. Always moving - taps fingers, paces while thinking. Wears practical field clothes.",
+  "arc_position": 0.0,
+  "knowledge_state": [],
+  "relationships": {
+    "Marcus Reid": "Frustrated respect - sees his brilliance but annoyed by his timidity. Protective of him."
+  }
+}
