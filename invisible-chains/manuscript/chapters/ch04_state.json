@@ -1,0 +1,85 @@
+{
+  "chapter": 4,
+  "word_count": 1600,
+  "timeline": "Day 5, discovery and return",
+  "location": "Deep city vault, then return to Jax's hiding spot Level 9",
+  "characters_present": ["Jax Varro", "Finn"],
+  "character_states": {
+    "Jax Varro": {
+      "knows": [
+        "The vault contains massive amounts of physical Earth currency",
+        "Multiple currencies: USD, Euro, Yuan, Pounds, Yen, Rubles, others",
+        "At least 80 boxes of preserved currency",
+        "Potentially billions in collector value",
+        "Need to find a fence/buyer for high-value goods",
+        "Plan to sell test batch first",
+        "Must keep location secret",
+        "This could buy freedom/escape",
+        "They took 6 boxes as samples"
+      ],
+      "emotional_state": "Awed, hopeful, overwhelmed by possibilities, anxious about next steps",
+      "arc_position": 0.12,
+      "location": "Hiding spot, Level 9",
+      "physical_state": "Exhausted from 12-hour round trip, shoulders and legs burning"
+    },
+    "Finn": {
+      "knows": [
+        "Same as Jax regarding the vault contents",
+        "The climb back was brutal",
+        "This is dangerous - people will kill for this"
+      ],
+      "emotional_state": "Cautiously excited, practical, worried about Jax's dreams",
+      "location": "Jax's hiding spot",
+      "physical_state": "Exhausted from carrying boxes"
+    }
+  },
+  "revealed_to_reader": [
+    "Vault is approximately 3x3 meters",
+    "Contains ~80 boxes of preserved Earth currency",
+    "Multiple currencies from dead nations: USD, Euro, Yuan, GBP, Yen, Rubles",
+    "Both paper bills and metal coins",
+    "Physical currency has been extinct for 500 years",
+    "Someone collected and sealed this before the exodus or during early station history",
+    "Face value in millions, collector value potentially billions",
+    "Jax and Finn took 6 boxes as samples",
+    "They resealed the vault and obscured the entrance",
+    "Plan is to find fence, sell test batch, then return for more",
+    "Jax is thinking about using money to escape and 'live like an Alpha'",
+    "Finn knows that's not really Jax's nature"
+  ],
+  "planted": [
+    {
+      "element": "Jax dreaming about escaping to upper levels",
+      "payoff_chapter": 10,
+      "significance": "His dream that will be crushed when he learns he can't leave"
+    },
+    {
+      "element": "Finn's question 'what will you do if this works?'",
+      "payoff_chapter": 10,
+      "significance": "Foreshadows the choice Jax will face"
+    },
+    {
+      "element": "Fear of being killed for the treasure",
+      "payoff_chapter": null,
+      "significance": "Ongoing tension"
+    },
+    {
+      "element": "Need to find high-value fence",
+      "payoff_chapter": 5,
+      "significance": "Leads to finding The Collector"
+    }
+  ],
+  "active_tensions": [
+    "Danger of being discovered with the currency",
+    "Need to find trustworthy buyer",
+    "Physical exhaustion from the journey",
+    "Vault location must remain secret",
+    "Risk of being killed for the fortune",
+    "Hope versus reality of what money can actually buy"
+  ],
+  "world_changes": [
+    "Jax and Finn have retrieved 6 boxes of Earth currency",
+    "They know the location of approximately 74 more boxes",
+    "Vault is resealed and location obscured"
+  ]
+}

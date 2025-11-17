@@ -1,0 +1,21 @@
+{
+  "chapter": 18,
+  "word_count": 2100,
+  "timeline": "Week 10 (Day 105)",
+  "location": "Chen's, Marcus's pod, Kumar's Curry",
+  "characters_present": ["Nico Chen", "Kade Rivera", "Wei", "Marcus Chen", "Jian"],
+  "character_states": {
+    "Nico Chen": {
+      "knows": ["40k in supplies stolen using his authorization code", "Marcus Chen (employee at Kumar's) sold them for 30k", "Marcus's daughter needs 500k heart surgery, has 6 months to live", "Marcus asked Nico 3 weeks ago, was told to wait (triage system)", "Paid 500k for surgery, fired Marcus but didn't punish violently", "Kade says this shows weakness, invites more theft", "Staff thinks he's soft—anyone with sad story can steal", "Using Veil again to cope (2 vials)", "Has 43.5M left (~9-10 months)", "Compassion looks like weakness, strength looks like cruelty", "He's failing at making impossible choices"],
+      "emotional_state": "Torn between compassion and pragmatism, using again, feeling like he's failing",
+      "arc_position": 0.58,
+      "physical_state": "Using again (2 vials)—first time in weeks",
+      "current_resources": "~43.5M credits (paid 500k for surgery, lost 40k to theft)",
+      "moral_crisis": "Can't balance compassion with organizational needs—every kind choice creates vulnerability"
+    }
+  },
+  "revealed_to_reader": ["40k theft discovered by Wei's inventory system", "Marcus Chen stole to save dying daughter (heart surgery 500k, 6 months to live)", "Marcus asked Nico 3 weeks ago—told to wait in triage queue", "Nico paid for surgery anyway, fired Marcus but no violence", "Kade wanted harsh punishment (break hands like firebomber)", "Staff thinks Nico is soft—theft will increase", "Nico used 2 vials to cope—first use in weeks", "Has 43.5M left", "Impossible choices: save kid or protect organization from future theft", "Nico's compassion is systemic vulnerability"],
+  "planted": [{"element": "Pattern: compassion = weakness in power structures", "payoff_chapter": null, "significance": "Why charity can't replace systems"}, {"element": "Nico using again under stress", "payoff_chapter": null, "significance": "Addiction worsens through trilogy"}],
+  "world_changes": ["Marcus fired, daughter gets surgery", "Perception: Nico is soft, theft may increase", "Nico using Veil again—stress breaking coping"],
+  "notes": "Title 'The First Betrayal' is key—not just Marcus betraying Nico, but Nico betraying his own values by becoming pragmatic power-broker. The theft forces impossible choice: save dying child or protect organization. Nico chooses compassion (pays 500k) but staff sees weakness. Kade's argument: fear + love = lasting power, love alone = vulnerability. Marcus's justification is valid—Nico's triage left him behind, so he took what he needed. Systemic critique: when resources are limited, someone always suffers. Nico can't be both compassionate leader and effective administrator. His return to Veil (2 vials) shows stress overwhelming his coping. Arc 0.58—past midpoint, facing failure. The chapter shows charity's limitation: you can't scale compassion because it creates exploitable patterns. Wei catching theft shows she's competent, but also shows system is vulnerable. Nico's final realization: he's probably already failing, doesn't know how to stop. Sets up need for systematic solutions (cooperatives) in ch19."
+}

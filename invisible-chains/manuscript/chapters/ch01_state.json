@@ -1,0 +1,82 @@
+{
+  "chapter": 1,
+  "word_count": 2100,
+  "timeline": "Night 1, 22:47 station time",
+  "location": "Undercity Level 9 - Sector 7 (old casino), Sector 4 (Jax's squat)",
+  "characters_present": ["Jax Varro", "Chen (Beta informant)", "SSS officers", "Level 8 border guard", "Finn (via message)"],
+  "character_states": {
+    "Jax Varro": {
+      "knows": [
+        "He's Gamma caste, genetically barred from upper levels",
+        "Biometric scanners read DNA and enforce caste boundaries",
+        "Undercity layout intimately",
+        "Drift is addictive but provides chemical relief",
+        "SSS is hunting him for dealing",
+        "Chen betrayed him to SSS",
+        "Deep sections of old city exist, scavengers supposedly find things there"
+      ],
+      "emotional_state": "Wary, exhausted, resigned to his place but with underlying anger and longing",
+      "arc_position": 0.0,
+      "location": "His squat, Sector 4, Level 9",
+      "physical_state": "Exhausted from chase, under influence of Drift"
+    },
+    "Finn": {
+      "knows": [
+        "Jax's deal went bad",
+        "Chen betrayed Jax"
+      ],
+      "emotional_state": "Concerned for Jax, darkly humorous",
+      "location": "Unknown, undercity"
+    }
+  },
+  "revealed_to_reader": [
+    "Biometric caste system enforced by DNA scanning",
+    "Three castes: Alpha (pure DNA), Beta (minimal mods), Gamma (labor mods)",
+    "Level 9 (undercity) is abandoned by station authority",
+    "Perpetual 'rain' from failing climate control",
+    "Drift drug - painkiller designed for Gammas, highly addictive",
+    "SSS (Station Security Services) enforces caste boundaries",
+    "Art deco architecture of old station",
+    "Jax is a small-time Drift dealer",
+    "Jax reads old Earth noir novels",
+    "Setting is Orbital Station Meridian-9 around Saturn",
+    "Genetic modifications were done to ancestors 200 years ago",
+    "The Sealing happened decades ago"
+  ],
+  "planted": [
+    {
+      "element": "Deep old city sections beyond Level 9",
+      "payoff_chapter": 3,
+      "significance": "Where the vault will be found"
+    },
+    {
+      "element": "Scavengers finding valuable things in deep sections",
+      "payoff_chapter": 2,
+      "significance": "The dying scavenger who gives Jax directions"
+    },
+    {
+      "element": "Jax's intelligence hidden under survival mode (reads Hammett, Chandler)",
+      "payoff_chapter": null,
+      "significance": "Character depth, shows he's more than just a dealer"
+    },
+    {
+      "element": "Finn's relationship with Jax",
+      "payoff_chapter": null,
+      "significance": "Ongoing relationship through trilogy"
+    },
+    {
+      "element": "Old casino and entertainment district ruins",
+      "payoff_chapter": null,
+      "significance": "World building, shows what was lost"
+    }
+  ],
+  "active_tensions": [
+    "Jax hunted by SSS for dealing",
+    "Survival in the undercity",
+    "Genetic oppression via biometric system",
+    "Drift addiction",
+    "Internalized belief he's lesser",
+    "Longing for freedom he can't have"
+  ],
+  "world_changes": []
+}

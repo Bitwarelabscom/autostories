@@ -1,0 +1,136 @@
+{
+  "chapter": 5,
+  "word_count": 2850,
+  "timeline": "Approximately 2 weeks after Chapter 1, spanning one month",
+  "location": "Sector 12, Building 7, Reed's apartment and common areas",
+  "characters_present": ["Reed Salazar", "Marcus Ibrahim", "Yuki Tanaka", "Chen Rodriguez", "Sarah Kim", "Dmitri Washington"],
+  "character_states": {
+    "Reed Salazar": {
+      "knows": [
+        "He has 500 million credits from corporate black ops fund",
+        "He's set up anonymous UBI payments for his building",
+        "The transfers are untraceable (he thinks)",
+        "He's using his old financial analyst skills",
+        "This could get him killed",
+        "People are starting to believe the money is real"
+      ],
+      "emotional_state": "Numb curiosity overlaying grief and nihilism. High on Leveler. Describes it as 'either most interesting thing I've done or will get me killed. Possibly both.'",
+      "arc_position": 0.05,
+      "location": "Sector 12, Building 7",
+      "physical_state": "Using Leveler regularly, hands shaking when not high, still malnourished"
+    },
+    "Marcus Ibrahim": {
+      "knows": [
+        "He received 2000 credits from 'Future Forward Solutions'",
+        "The money appeared two months in a row",
+        "He bought his daughter new shoes",
+        "He doesn't know who's behind it"
+      ],
+      "emotional_state": "Deeply suspicious but starting to hope. Terrified of the trap but desperate for relief.",
+      "arc_position": 0.05,
+      "location": "Sector 12, Building 7",
+      "physical_state": "Still in chronic pain, still missing fingers, but slightly less stressed"
+    },
+    "Yuki Tanaka": {
+      "knows": [
+        "They received the mysterious 2000 credits twice",
+        "Everyone in the building got it",
+        "Nobody knows who's behind it"
+      ],
+      "emotional_state": "Anxious and oscillating between hope and fear of the trap",
+      "arc_position": 0.02,
+      "location": "Sector 12, Building 7"
+    },
+    "Chen Rodriguez": {
+      "knows": [
+        "He received 2000 credits twice",
+        "He quit his worst job (overnight cargo processing)",
+        "He slept eight hours for the first time in years"
+      ],
+      "emotional_state": "Terrified but exhilarated. 'Either best or worst decision of my life.'",
+      "arc_position": 0.08,
+      "location": "Sector 12, Building 7"
+    }
+  },
+  "revealed_to_reader": [
+    "Reed has 500 million credits from corporate black ops fund (found in chapters 2-3)",
+    "He's set up anonymous UBI payments of 2000 credits/month for all 200 units in his building",
+    "The payments route through shell accounts and fake company 'Future Forward Solutions'",
+    "Reed has financial analyst skills from before he became a dealer",
+    "He has 125 months of funding (about 10 years)",
+    "People in Sector 12 are deeply suspicious of good things - assume everything is a scam",
+    "First person to quit a job: Chen Rodriguez, overnight shift",
+    "The community is starting to hope but scared to believe",
+    "Reed is doing this as a kind of experiment to prove his brother's death meant something"
+  ],
+  "planted": [
+    {
+      "element": "Chen quitting his worst job",
+      "payoff_chapter": 7,
+      "significance": "First domino - will inspire others to quit bad jobs"
+    },
+    {
+      "element": "Building gossip network and community",
+      "payoff_chapter": null,
+      "significance": "Community bonds that will strengthen throughout book and become mutual aid network"
+    },
+    {
+      "element": "Marcus buying his daughter shoes",
+      "payoff_chapter": 9,
+      "significance": "First sign of Marcus being able to provide for his kids, eventual arc of him finding new purpose"
+    },
+    {
+      "element": "Anonymous boards discussing the mystery",
+      "payoff_chapter": null,
+      "significance": "Word will spread beyond building, eventually reaching Dr. Osei"
+    },
+    {
+      "element": "Reed's 10-year timeline calculation",
+      "payoff_chapter": null,
+      "significance": "He won't make it 10 years - money will run out in Book 3 and he'll die before seeing full results"
+    },
+    {
+      "element": "People's assumption that 'corporate doesn't give you money'",
+      "payoff_chapter": null,
+      "significance": "This systemic distrust will be both obstacle and protection for Reed"
+    }
+  ],
+  "active_tensions": [
+    "Will the money keep coming or is it a scam?",
+    "Will people spend it or save it defensively?",
+    "Will corporate notice the irregular transfers?",
+    "Reed's risk of being discovered",
+    "Community's fear vs hope",
+    "What will happen when people start quitting jobs?"
+  ],
+  "world_changes": [
+    "200 units in Building 7 now receiving 2000 credits/month",
+    "First resident (Chen) has quit a terrible job",
+    "Community starting to gather and discuss openly - unusual for Sector 12",
+    "Hope appearing in Sector 12 for first time"
+  ],
+  "continuity_notes": [
+    "Building 7 has 200 residential units",
+    "Payments are 2000 credits per month per unit",
+    "Total monthly expenditure: 400,000 credits",
+    "Total funding available: 500 million credits = 125 months = ~10 years",
+    "Transfers happen on first of month at 6 AM",
+    "Source shows as 'Future Forward Solutions' (fake company Reed created)",
+    "Payments route through 17 different sector exchanges",
+    "Reed uses his old financial analyst skills to set up the system",
+    "Chen's worst job was overnight cargo processing in freezing temperatures"
+  ],
+  "voice_check": {
+    "Reed": "Maintained - 'This was either the most interesting thing he'd ever done, or it would get him killed. Possibly both.' Deadpan, flat affect, ironic detachment",
+    "Yuki": "Established - 'talking too fast, always talking too fast', nervous, apologetic, anxious",
+    "Marcus": "Established - thoughtful, slow speech, cynical but not hopeless, 'In my experience' phrases",
+    "Chen": "New - slightly unhinged laughter when stressed, direct"
+  },
+  "themes_developed": [
+    "What if people aren't lazy, just tired?",
+    "Systemic distrust as both survival mechanism and trap",
+    "The first domino: one person making a brave choice",
+    "Hope as dangerous in exploitative systems",
+    "Anonymous altruism vs personal redemption"
+  ]
+}

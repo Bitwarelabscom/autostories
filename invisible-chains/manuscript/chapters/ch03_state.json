@@ -1,0 +1,77 @@
+{
+  "chapter": 3,
+  "word_count": 1200,
+  "timeline": "Day 5, the journey into deep city",
+  "location": "Deep city below Level 9 - maintenance corridors, old residential sector, Sector 13 subsection D",
+  "characters_present": ["Jax Varro", "Finn"],
+  "character_states": {
+    "Jax Varro": {
+      "knows": [
+        "The deep city is exactly as dangerous as warned",
+        "Gravity fluctuates in unsealed sections",
+        "Old residential areas were evacuated during the Sealing",
+        "Marcus Chen spent 189 days working on the vault lock",
+        "The vault exists and they've found it",
+        "They're looking at the treasure (revealed in next chapter)"
+      ],
+      "emotional_state": "Tense from the dangerous journey, awed by discovering the vault",
+      "arc_position": 0.08,
+      "location": "Vault chamber, deep city",
+      "physical_state": "Cold, tired from 6-hour descent, nauseous from gravity changes"
+    },
+    "Finn": {
+      "knows": [
+        "Same as Jax",
+        "How to bypass mechanical door seals"
+      ],
+      "emotional_state": "Darkly humorous about the danger, shocked by the discovery",
+      "location": "Vault chamber",
+      "physical_state": "Cold, tired, alert"
+    }
+  },
+  "revealed_to_reader": [
+    "Deep city descent takes 6 hours",
+    "Gravity fluctuates dangerously in abandoned sections",
+    "Temperature drops significantly below Level 9",
+    "Old residential sector was evacuated during the Sealing",
+    "The Sealing was about population control, not structural issues",
+    "Frozen apartments with interrupted lives remain",
+    "Children drew suns despite never seeing one",
+    "Marcus Chen spent 189 days working on the vault lock",
+    "Outer hull seals are compromised in some sections (wind present)",
+    "The vault door has sophisticated biometric and pressure seals",
+    "The treasure is real and inside the vault"
+  ],
+  "planted": [
+    {
+      "element": "Frozen residential section with abandoned lives",
+      "payoff_chapter": "Book 3, Chapter 15",
+      "significance": "This vault location becomes revolutionary base"
+    },
+    {
+      "element": "Hull compromise creating wind",
+      "payoff_chapter": null,
+      "significance": "World building, shows station decay"
+    },
+    {
+      "element": "Children drawing suns they never saw",
+      "payoff_chapter": null,
+      "significance": "Thematic - hope and memory persisting"
+    },
+    {
+      "element": "The Sealing was for population control",
+      "payoff_chapter": null,
+      "significance": "World building, shows system's true nature"
+    }
+  ],
+  "active_tensions": [
+    "Physical danger of deep city exploration",
+    "Uncertainty about what's in the vault",
+    "Time pressure (limited supplies)",
+    "Structural instability of deep sections"
+  ],
+  "world_changes": [
+    "Jax and Finn have reached the vault",
+    "About to discover the Earth currency"
+  ]
+}

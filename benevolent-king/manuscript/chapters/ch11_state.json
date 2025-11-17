@@ -1,0 +1,142 @@
+{
+  "chapter": 11,
+  "word_count": 2500,
+  "timeline": "Day 33, the day after Chapter 10",
+  "location": "Chen's Noodle House, Level 8",
+  "characters_present": ["Nico Chen", "Kade Rivera", "Jian (new cook)", "Mara (new waitress)", "Lee (new dishwasher/prep)", "Various Level 8 residents (113 total served)"],
+  "character_states": {
+    "Nico Chen": {
+      "knows": [
+        "He owns Chen's Noodle House (50k deposit paid, transfer processing)",
+        "His public announcement brought immediate response—70+ people lined up at 0800",
+        "He has no idea how to run a restaurant",
+        "People are volunteering to work for wages+meals because they're desperate",
+        "Level 8's hunger is worse than he'd realized—he'd stopped seeing it",
+        "This will attract gang attention and SSS notice (Kade's warning)",
+        "Word is spreading fast—tomorrow will be even bigger",
+        "Hope is dangerous—makes people expect more"
+      ],
+      "emotional_state": "Overwhelmed but purposeful, hangover mixing with clarity, feeling needed for first time in years",
+      "arc_position": 0.28,
+      "location": "Chen's Noodle House at chapter end",
+      "physical_state": "Hungover, exhausted from first day, running on purpose more than Veil",
+      "current_resources": "~49.65M credits (spent 50k deposit + ~5k on day 1 supplies + wages)",
+      "key_realization": "He'd stopped seeing the hunger around him—really seeing people",
+      "new_identity": "Restaurant owner, employer, provider—not just dealer"
+    },
+    "Kade Rivera": {
+      "knows": [
+        "Nico's decision was impulsive but real",
+        "This will attract danger—gangs and authorities",
+        "Nico just gave people hope, which is dangerous",
+        "This is just the beginning of something bigger",
+        "The kid needs help and protection"
+      ],
+      "emotional_state": "Proud and worried, helping despite recognizing the danger",
+      "arc_position": 0.12,
+      "location": "Chen's Noodle House",
+      "role_evolution": "From supplier to advisor/protector/partner",
+      "new_deal": "Nico owes him 600k now (up from 500k for his help)"
+    },
+    "Jian": {
+      "knows": [
+        "Nico is serious but inexperienced",
+        "She has a sister with supply chain experience",
+        "This could be steady work for her"
+      ],
+      "emotional_state": "Pragmatic, professional, willing to help build this",
+      "arc_position": 0.0,
+      "role": "Head cook, taking charge of kitchen operations"
+    },
+    "Mara": {
+      "knows": [
+        "She needs free meals for her family",
+        "This job means she can work and feed her kids"
+      ],
+      "emotional_state": "Grateful, determined, needs this to work",
+      "arc_position": 0.0,
+      "role": "Waitress/line manager",
+      "status": "Single parent with two young children"
+    },
+    "Lee": {
+      "knows": [
+        "His partner is sick and can't work",
+        "They need food more than wages"
+      ],
+      "emotional_state": "Nervous, eager to help, needs this desperately",
+      "arc_position": 0.0,
+      "role": "Dishwasher, prep work, supply runner"
+    }
+  },
+  "revealed_to_reader": [
+    "Line started forming at 0800 for 1100 opening—70+ people by opening",
+    "They fed 113 people total on day one (73 before supply run, 40 after)",
+    "Nico spent night in restaurant's back room (too drunk/high to get home)",
+    "Three people volunteered immediately as staff: Jian (former Chen's cook), Mara (former waitress, single parent), Lee (needs food for sick partner)",
+    "Standard meal: noodles in broth with vegetables, protein if available",
+    "Staff gets wages plus meals—both needed",
+    "Nico spent ~5k on emergency supply run to Level 7 suppliers",
+    "Level 8 has many families with children—Nico hadn't noticed",
+    "The hunger is worse than Nico realized—people crying while eating, sharing bowls",
+    "Mrs. Huang is frailer than Nico remembered",
+    "Tomorrow will likely have double or triple the crowd",
+    "Kade predicts gangs will want a piece and SSS will notice",
+    "Jian has sister with supply chain experience (Station Maintenance background)"
+  ],
+  "planted": [
+    {
+      "element": "Jian's sister with supply chain background",
+      "payoff_chapter": 12,
+      "significance": "Will help scale operation as it grows"
+    },
+    {
+      "element": "Kade's warning about gangs wanting a piece",
+      "payoff_chapter": 14,
+      "significance": "Gang protection money demand coming"
+    },
+    {
+      "element": "Kade's warning about SSS noticing",
+      "payoff_chapter": 15,
+      "significance": "Authorities will investigate"
+    },
+    {
+      "element": "Mara's two children being fed and cared for",
+      "payoff_chapter": null,
+      "significance": "Shows Nico's operation serves families, not just individuals"
+    },
+    {
+      "element": "People crying while eating, father sharing bowl with kids",
+      "payoff_chapter": null,
+      "significance": "Establishes depth of Level 8 food insecurity"
+    },
+    {
+      "element": "Nico: 'I'm done failing people'",
+      "payoff_chapter": null,
+      "significance": "Character defining moment—his identity shift is complete"
+    },
+    {
+      "element": "Kade: 'Hope makes people expect more'",
+      "payoff_chapter": null,
+      "significance": "Foreshadows growing expectations and eventual labor movement"
+    }
+  ],
+  "active_tensions": [
+    "Tomorrow will have 200-300 people—can Nico scale fast enough?",
+    "Gangs will demand protection money soon",
+    "SSS will investigate eventually",
+    "Nico has money but no experience running operations",
+    "People are expecting more now—he's raised hopes he must meet",
+    "His staff are as desperate as the people they're feeding",
+    "This public operation makes him visible and vulnerable"
+  ],
+  "world_changes": [
+    "Chen's Noodle House is now operational as free meal service",
+    "113 Level 8 residents fed on day one",
+    "Nico has created three jobs (Jian, Mara, Lee)",
+    "Word is spreading—tomorrow will be much bigger",
+    "Nico is now publicly known as the restaurant owner providing free meals",
+    "A staff is forming around him—people who need this to succeed",
+    "Level 8 residents are experiencing hope and expecting more"
+  },
+  "notes": "First bridge chapter after midpoint. Shows the immediate aftermath of Ch10's drunken decision becoming real. The line forming at 0800 demonstrates how fast word spreads in close-knit lower-tier communities. Nico's realization that he'd 'stopped seeing' the hunger around him is key character development—moving from self-absorption to community awareness. The volunteers (Jian, Mara, Lee) all have their own desperate needs, showing this isn't just charity—it's mutual aid. They need the work as much as people need the food. Kade's warning about hope being dangerous is thematically important: charity/mutual aid creates expectations and can be the spark for larger movements. Nico's arc position moves to 0.28—he's actively transforming his identity. The sensory details (people crying while eating, father sharing bowl, teenager asking for seconds) make the hunger visceral and real. The number 113 is specific and significant—each person matters. Nico's exhaustion but determination shows he's found purpose beyond using. His final line 'I'm done failing people' is character-defining. The scale issue is planted: tomorrow will be 200-300 people, requiring exponential growth of operation. This chapter establishes the pattern: Nico makes impulsive generous decision → has to figure out logistics → meets immediate needs → realizes it's bigger than expected → must scale up. Also establishes his growing team."
+}

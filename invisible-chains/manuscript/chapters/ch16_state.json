@@ -1,0 +1,210 @@
+{
+  "chapter": 16,
+  "word_count": 2800,
+  "timeline": "~1 week after Chapter 15, days 3-10 of Elara's infiltration",
+  "location": "Building 47 kitchen, rooftop, distribution center supply room, Jax's office",
+  "characters_present": ["Elara Quinn (as Elara Frost)", "Jax Varro", "Finn", "Director Ashton (via encrypted message)"],
+  "character_states": {
+    "Elara Quinn": {
+      "knows": [
+        "Jax is perceptive and sees through parts of her cover",
+        "He knows she's hiding something but is attracted anyway",
+        "She's volunteered in kitchen for 3 days straight",
+        "Mother Sera has noticed her asking specific questions",
+        "Jax is genetically barred from leaving Level 9 - tried and was rejected",
+        "Free Level is genuine, no criminal activity",
+        "She's falling for Jax (admitted to herself and him)",
+        "She kissed him on the rooftop",
+        "They've slept together",
+        "Finn has figured out she's not really a Beta worker",
+        "Finn threatened her about hurting Jax",
+        "She's supposed to confess the truth but can't bring herself to",
+        "She's filing false reports to Ashton, downplaying the situation",
+        "The lies are getting easier - which terrifies her"
+      ],
+      "emotional_state": "Deeply compromised, conflicted, falling for Jax, guilt-ridden, unable to confess",
+      "arc_position": 0.2,
+      "location": "Moving between Free Level locations",
+      "physical_state": "Healthy, maintaining cover while in relationship with Jax",
+      "relationship_status": "Sleeping with Jax while maintaining deception"
+    },
+    "Jax Varro": {
+      "knows": [
+        "Elara is hiding something - moves like she's trained for violence",
+        "She asks specific questions about funding and operations",
+        "She's not a desperate Beta worker fleeing debts",
+        "She's too controlled and deliberate",
+        "Mother Sera thinks something is off about her",
+        "Despite all this, he's falling for her anyway",
+        "She picked the roof lock easily",
+        "She's the most interesting thing to happen to him in months",
+        "She makes him want to trust people again",
+        "They've kissed and are now sleeping together"
+      ],
+      "emotional_state": "Attracted, falling for Elara, aware she's hiding things but choosing to trust anyway, lonely and wanting connection",
+      "arc_position": 0.65,
+      "location": "Building 47 primarily",
+      "physical_state": "Using Drift when weight gets heavy, managing operations",
+      "vulnerability": "Admitting he's afraid of trusting her, admitting he feels less alone with her",
+      "relationship_status": "Sleeping with Elara despite knowing she's hiding something"
+    },
+    "Finn": {
+      "knows": [
+        "Elara is sleeping with Jax",
+        "She's not a Beta worker - moves like someone trained for violence",
+        "She's not desperate or broken enough to be genuine",
+        "She asks questions like she's gathering intelligence",
+        "She started using Jax but claims it's changed",
+        "Jax is falling for her (actually falling, not just attracted)",
+        "When Jax finds out she's been lying, it will destroy him"
+      ],
+      "emotional_state": "Suspicious, protective of Jax, angry, giving Elara ultimatum",
+      "location": "Distribution center",
+      "action": "Confronted Elara, demanded she tell truth or leave",
+      "ultimatum": "Tell Jax the truth or leave before causing more damage"
+    },
+    "Director Ashton": {
+      "knows": [
+        "Elara reports Free Level operation appears genuine",
+        "She's recommending downgraded threat assessment",
+        "Funding confirmed as personal wealth",
+        "She hasn't identified all sources yet"
+      ],
+      "emotional_state": "Focused on investigation",
+      "instruction": "Continue investigation, identify funding sources, don't compromise cover",
+      "ignorance": "Doesn't know Elara is romantically involved with Jax"
+    }
+  },
+  "revealed_to_reader": [
+    "Jax watched Elara for 3 days before approaching her alone",
+    "They're both assessing each other consciously",
+    "Elara trained to handle interrogations, charm, attraction",
+    "Jax is different - not trying to charm, just present and real",
+    "Elara volunteered in kitchen 3 days straight",
+    "Jax noticed she asks specific questions about funding, supply chains, operations",
+    "He can tell she moves like someone trained to be invisible",
+    "Mother Sera has reported Elara's questioning to Jax",
+    "Elara filed false report to Ashton - downplayed threat, omitted key facts",
+    "Ashton told her to continue investigation and not compromise cover",
+    "Jax goes to Building 47 roof when weight gets heavy",
+    "Roof is technically restricted (structural/safety), but lock is easy to bypass",
+    "Jax uses Drift when pressure is too much - admits he's addicted",
+    "He tried to leave Level 9, was rejected by scanner - genetically barred",
+    "Built Free Level because cage forced him to do something that matters",
+    "Quote: 'Sometimes the cage is what forces you to do something that matters'",
+    "Elara told version of truth: feeling she's participating in something wrong, deserves to lose it",
+    "Jax to Elara: 'You make me want to trust you. I've learned not to trust people who make me feel things'",
+    "Elara: 'What do I make you feel?' Jax: 'Like maybe I'm not as alone as I thought'",
+    "They kissed on the rooftop - desperate and certain, not gentle",
+    "Jax tastes like Drift and rain",
+    "Elara pulled away first, admitted 'I'm not who you think I am'",
+    "Jax: 'I know. But right now I don't care'",
+    "They kissed again, are now sleeping together",
+    "Elara didn't report the kiss or relationship to Ashton",
+    "Her lies in reports are getting easier",
+    "Finn confronted Elara 3 days after first kiss",
+    "Finn figured out she's not Beta worker - too trained, asks intelligence questions",
+    "Elara admitted: 'It started that way. It's not anymore'",
+    "Finn warned if she hurts Jax, they'll make her regret it",
+    "Finn: Jax is 'barely holding together' and discovery will 'destroy something in him'",
+    "Finn's ultimatum: tell truth or leave",
+    "Elara tried to confess to Jax, couldn't do it",
+    "Instead told him 'I'm falling for you and it scares me'",
+    "Kept postponing confession day after day",
+    "Ending: 'The lies were getting easier. And that was the most terrifying thing of all.'"
+  ],
+  "planted": [
+    {
+      "element": "Jax knows Elara is hiding something but trusts anyway",
+      "payoff_chapter": "Book 2, Chapter 7",
+      "significance": "Makes betrayal revelation more devastating - he chose to trust despite warnings"
+    },
+    {
+      "element": "Finn's warning about destroying Jax",
+      "payoff_chapter": "Book 2, Chapter 7",
+      "significance": "Prophecy that will come true when identity revealed"
+    },
+    {
+      "element": "Elara's inability to confess",
+      "payoff_chapter": "Book 2, Chapter 7",
+      "significance": "Choice to postpone makes eventual exposure worse"
+    },
+    {
+      "element": "False reports to Ashton",
+      "payoff_chapter": "Book 2, Chapter 1",
+      "significance": "Ashton will realize she's been lying in reports"
+    },
+    {
+      "element": "Jax admitting Elara makes him feel less alone",
+      "payoff_chapter": "Book 2",
+      "significance": "What makes betrayal so painful - she filled void"
+    },
+    {
+      "element": "Roof as private meeting place",
+      "payoff_chapter": null,
+      "significance": "Intimate location for key conversations"
+    },
+    {
+      "element": "Jax using Drift when weight is heavy",
+      "payoff_chapter": "Book 2, Chapter 9",
+      "significance": "Will spiral when Elara's identity is revealed"
+    }
+  },
+  "active_tensions": [
+    "Elara's deception versus growing genuine feelings",
+    "Jax suspecting truth but choosing to trust anyway",
+    "Finn's suspicion and protective ultimatum",
+    "Elara's inability to confess despite intending to",
+    "False reports to Ashton - cover-up of her compromise",
+    "Sexual/romantic relationship built on lies",
+    "Ticking clock until truth comes out",
+    "Elara terrified that lies are getting easier",
+    "Question of when/how Jax will find out",
+    "Whether Elara will choose truth or keep lying"
+  ],
+  "world_changes": [
+    "Jax and Elara are now in romantic/sexual relationship",
+    "Finn knows Elara is hiding something significant",
+    "Elara has stopped providing accurate intelligence to Ashton",
+    "Mother Sera's suspicions have been shared with Jax",
+    "Elara is emotionally compromised in her mission",
+    "Rooftop of Building 47 established as meeting place"
+  ],
+  "continuity_notes": [
+    "~1 week after Ch15 (days 3-10 of infiltration)",
+    "Day 3: Jax approaches Elara in kitchen",
+    "Day 5 approx: Rooftop kiss",
+    "Day 8 approx: Finn confronts Elara",
+    "Day 10 approx: Elara tries to confess, can't do it",
+    "They're sleeping together by end of chapter",
+    "Building 47 roof accessed by bypassing lock",
+    "Kitchen feeding 200 people",
+    "Elara volunteered 3 days straight before Jax approached",
+    "Mother Sera has been watching and reporting to Jax",
+    "Jax takes Drift from vial when stressed",
+    "He tried to leave Level 9 and was scanner-rejected (past event, pre-Ch10)"
+  ],
+  "romantic_beats": [
+    "Jax watching Elara for 3 days",
+    "Their awareness of watching each other",
+    "Kitchen confrontation about hiding things",
+    "Rooftop scene - vulnerability and honesty",
+    "Jax offering Drift, showing his addiction",
+    "Admission: 'You make me feel less alone'",
+    "First kiss - desperate and certain",
+    "Elara trying to pull away but kissing him again",
+    "Sexual tension building to relationship",
+    "Attempted confession failing, admission of falling for him instead",
+    "Postponing truth day after day"
+  ],
+  "noir_elements": [
+    "Femme fatale infiltrator falling for her target",
+    "Damaged detective figure (Jax) knowing he's being deceived",
+    "Rain-soaked rooftop romance",
+    "Addiction (Drift) as coping mechanism",
+    "Choosing dangerous trust over safe suspicion",
+    "Lies getting easier - moral decay",
+    "Loyal friend (Finn) warning of betrayal",
+    "Doom foreshadowed but pursued anyway"
+  ]
+}

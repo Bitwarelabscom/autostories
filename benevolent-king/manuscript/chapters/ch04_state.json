@@ -1,0 +1,102 @@
+{
+  "chapter": 4,
+  "word_count": 2600,
+  "timeline": "Day 4 afternoon and Day 5 morning (10am meeting with Maya)",
+  "location": "Level 8 observation deck, Level 7 coffee shop",
+  "characters_present": ["Nico Chen", "Maya Torres"],
+  "character_states": {
+    "Nico Chen": {
+      "knows": [
+        "He has 30-60 million credits worth of access codes",
+        "Money doesn't actually solve his core problems",
+        "Treatment hasn't worked for him in the past (tried 3 times, relapsed 3 times)",
+        "The system is rigged to keep him trapped regardless of money",
+        "He doesn't want to stop using Veil - actively choosing addiction",
+        "Maya still cares about him and wants to save him",
+        "He has two arrests in past month, two more means mandatory detention"
+      ],
+      "emotional_state": "High on Veil, processing overwhelming news through escapist fantasies, defensive with Maya, aware money doesn't solve addiction",
+      "arc_position": 0.04,
+      "location": "Walking back to Level 8 at chapter end",
+      "physical_state": "Using heavily - bought 2 vials he couldn't afford, currently high during Maya meeting next morning (implied)",
+      "current_resources": "Nearly broke, data core in pocket, using more than usual to cope",
+      "key_realization": "Money doesn't solve problems, fever dreams are just fantasies, but maybe it buys time",
+      "rejection": "Turned down Maya's offer of Level 5 treatment program (18-month residential)"
+    },
+    "Maya Torres": {
+      "knows": [
+        "Nico has two recent arrests for possession",
+        "Two more arrests = mandatory detention",
+        "Treatment hasn't worked before (she knows his history)",
+        "He's actively choosing to use, not in denial",
+        "He believes the system is rigged against people like him",
+        "He's given up on being saved through conventional means"
+      ],
+      "emotional_state": "Frustrated, sad, refusing to give up on him despite his rejection, caring deeply",
+      "arc_position": 0.02,
+      "location": "Level 7 coffee shop, her workplace",
+      "offer_made": "Level 5 residential treatment, 18 months with job training - superior to anything Nico's tried before",
+      "rejection_faced": "Nico explicitly turned her down, said he doesn't want to stop using"
+    }
+  },
+  "revealed_to_reader": [
+    "Nico has tried treatment 3 times and relapsed all 3 times",
+    "He's been arrested twice in past month for possession/dealing",
+    "Two more arrests trigger mandatory detention (90-day warehouse program with 93% relapse rate)",
+    "Nico consciously chooses to use Veil - not in denial about addiction",
+    "He uses because sobriety means feeling pain he's avoided for 9 years",
+    "Nico was 19 when addiction started - now 28 (9 years using)",
+    "Maya can access real treatment programs (Level 5, 18-month residential)",
+    "Nico's record prevents him from getting legitimate jobs or housing",
+    "Maya and Nico knew each other before his addiction spiral",
+    "Level 7 is marginally better than Level 8 but still bottom tier",
+    "The fever dreams reveal Nico's actual desires: escape OR revenge, not reconciliation with his life"
+  ],
+  "planted": [
+    {
+      "element": "Nico's two recent arrests and impending mandatory detention threshold",
+      "payoff_chapter": null,
+      "significance": "Creates time pressure - if arrested again before using money, loses opportunity"
+    },
+    {
+      "element": "Fever Dream #2 - becoming provider for Level 8, funding clinics and housing",
+      "payoff_chapter": 10,
+      "significance": "This fantasy becomes his actual choice after failing to escape"
+    },
+    {
+      "element": "Maya's Level 5 treatment offer",
+      "payoff_chapter": null,
+      "significance": "Establishes she has resources to help - will matter when he needs allies later"
+    },
+    {
+      "element": "Nico: 'Money doesn't solve problems' realization",
+      "payoff_chapter": null,
+      "significance": "Central theme - money doesn't fix his core issues, foreshadows Book 1's ending"
+    },
+    {
+      "element": "Maya: 'I refuse to believe you're beyond saving'",
+      "payoff_chapter": 17,
+      "significance": "Her persistent faith in him eventually pulls her into his operation"
+    },
+    {
+      "element": "Nico's conscious choice to keep using rather than seek treatment",
+      "payoff_chapter": null,
+      "significance": "His addiction continues throughout trilogy - never gets clean, dies from organ failure"
+    }
+  ],
+  "active_tensions": [
+    "Nico has life-changing money but it doesn't solve his addiction",
+    "Maya's persistent attempts to save him vs. his rejection",
+    "His awareness that money doesn't fix problems vs. desperate hope it might",
+    "Two arrests away from mandatory detention - running out of time",
+    "The gap between his fever dreams (escape/revenge) and his reality (still broke and using)",
+    "His care for Maya vs. his inability to accept her help"
+  ],
+  "world_changes": [
+    "Maya has formally offered Nico real treatment (Level 5, 18-month program)",
+    "Nico has explicitly rejected treatment again",
+    "Their dynamic is now clearly established: she tries to save, he refuses",
+    "Nico's arrest record is approaching critical threshold"
+  ],
+  "notes": "Bridge chapter showing internal processing of the money revelation. The fever dreams reveal his actual desires and his understanding that they're fantasies. Key scene with Maya establishes their relationship dynamic: she cares deeply and keeps trying, he recognizes her efforts but rejects them because he's choosing his addiction consciously. His articulation of why treatment doesn't work is clear-eyed and honest - he's not in denial, he's actively choosing Veil because sobriety means pain. The chapter shows money hasn't changed anything yet - he's still using, still broke (spent money on vials), still rejecting help. Arc barely moves (0.04) because he's in stasis between knowing about the money and acting on it. The coffee shop scene on Level 7 (neutral ground) shows class boundaries and Maya's privilege vs. Nico's reality. Fever Dream #2 foreshadows his actual choice in Ch 10. Theme: money as insufficient solution to fundamental problems. This chapter is necessary to establish that Nico's upcoming choices are about more than just addiction - they're about agency, dignity, and finding purpose outside conventional 'recovery' narratives."
+}

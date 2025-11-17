@@ -1,0 +1,112 @@
+{
+  "chapter": 6,
+  "word_count": 2400,
+  "timeline": "Day 6 after Chapter 1 (first major sale to The Collector)",
+  "location": "Level 3 penthouse (The Collector's meeting space), then undercity alley",
+  "characters_present": ["Jax Varro", "The Collector", "Finn"],
+  "character_states": {
+    "Jax Varro": {
+      "knows": [
+        "The Collector is a sophisticated Alpha woman in her 60s",
+        "The Earth currency is worth 250-300 million total",
+        "Sold sample box for 5 million credits immediately",
+        "Has exclusive contract to sell all currency to The Collector",
+        "Will receive 255 million total when full collection delivered",
+        "The Collector noticed his Drift use",
+        "Wealth attracts danger",
+        "He can now afford real food for the first time",
+        "Level 3 is Alpha territory with real windows and luxury"
+      ],
+      "emotional_state": "Overwhelmed, excited, scared - processing sudden wealth, hands shaking despite Drift",
+      "arc_position": 0.2,
+      "location": "Undercity alley with Finn, after meeting",
+      "physical_state": "Shaking from adrenaline and Drift, nervous but elated",
+      "wealth": "5 million credits in account, 250 million more pending delivery"
+    },
+    "Finn": {
+      "knows": [
+        "Jax sold samples for 5 million",
+        "Total deal worth 250 million",
+        "Was extraction backup during the meet",
+        "They can afford real food now"
+      ],
+      "emotional_state": "Shocked, laughing with disbelief, protective",
+      "location": "Undercity alley meeting spot",
+      "physical_state": "Alert, on watch"
+    },
+    "The Collector": {
+      "knows": [
+        "Full extent and value of Jax's Earth currency collection",
+        "Jax is Gamma caste",
+        "Jax uses Drift",
+        "The vault location is in deep city (general knowledge)",
+        "This is an authentic pre-Collapse find"
+      ],
+      "emotional_state": "Professional, hungry for the collection, calculating",
+      "location": "Level 3 penthouse"
+    }
+  },
+  "revealed_to_reader": [
+    "The Collector is an elegant Alpha woman in her 60s",
+    "She represents a consortium of Alpha collectors",
+    "Earth currency from 2089-2097 is especially valuable (last years before Collapse)",
+    "Specific denominations mentioned: $100 US bill from 2089, Euro from 2094, Yuan from 2097",
+    "The currency is worth 250+ million credits total",
+    "5 million paid immediately for samples",
+    "Jax bought a temporary pass to Level 3 for 50k from corrupt Beta administrator",
+    "Real coffee exists and is expensive",
+    "The Collector can smell Drift on people",
+    "Jax and Finn have never had real food before, always expired rations",
+    "Level 3 has real windows overlooking Saturn's rings"
+  ],
+  "planted": [
+    {
+      "element": "The Collector's warning about wealth attracting attention",
+      "payoff_chapter": 14,
+      "significance": "Foreshadows authorities noticing his activities"
+    },
+    {
+      "element": "The Collector's advice about Drift addiction and wealth",
+      "payoff_chapter": 10,
+      "significance": "Jax's drug use will escalate after discovering he's trapped"
+    },
+    {
+      "element": "Temporary pass that works once or twice before being flagged",
+      "payoff_chapter": 8,
+      "significance": "Suggests Jax will try to use such passes to escape"
+    },
+    {
+      "element": "Jax has no idea what wealth means",
+      "payoff_chapter": 10,
+      "significance": "Sets up his devastating realization that money can't buy freedom"
+    },
+    {
+      "element": "Multiple deliveries needed over weeks/months",
+      "payoff_chapter": null,
+      "significance": "Establishes ongoing relationship with The Collector"
+    }
+  ],
+  "active_tensions": [
+    "Jax now has 5 million but still lives in undercity squat",
+    "Massive wealth coming but he doesn't know what to do with it",
+    "The Collector warned about sharks being attracted to blood",
+    "Jax's Drift addiction noted by The Collector",
+    "Need to make multiple trips to deliver full collection",
+    "Temporary passes can be flagged by system",
+    "Sudden wealth in a place where everyone is poor"
+  ],
+  "world_changes": [
+    "Jax is now wealthy (5 million in hand, 250 million pending)",
+    "The Collector has samples and is authenticating them",
+    "Exclusive contract signed between Jax and The Collector's consortium",
+    "Jax and Finn can now afford real food",
+    "Jax has used a temporary pass successfully to reach Level 3"
+  ],
+  "continuity_notes": [
+    "Jax took Drift before meeting to calm nerves - The Collector smelled it",
+    "Timeline: approximately 2 weeks after finding the vault (Chapter 4-5)",
+    "Finn is positioned as extraction backup, showing their operational dynamic",
+    "This is the first time Jax has been to Level 3 (Alpha territory)",
+    "The currency includes US dollars, Euros, Yuan, Yen from 2089-2097"
+  ]
+}

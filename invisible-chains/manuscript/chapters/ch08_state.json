@@ -1,0 +1,122 @@
+{
+  "chapter": 8,
+  "word_count": 2400,
+  "timeline": "Three days after Chapter 7, early morning third shift (03:47)",
+  "location": "Jax's apartment, Level 8 checkpoint, undercity corridors Sector 6, back to apartment",
+  "characters_present": ["Jax Varro", "SSS guards (unnamed)", "Finn"],
+  "character_states": {
+    "Jax Varro": {
+      "knows": [
+        "Fake Beta credentials don't work - scanners read actual DNA",
+        "The scanner detected identity fraud immediately",
+        "He's now flagged in the system for identity fraud",
+        "Warrants have been issued but will probably be dropped after fine",
+        "No amount of money can change his genetic code",
+        "Dr. Yin and Finn were right - he can't escape his DNA",
+        "Marcus Webb was a fantasy that cost 3 million credits",
+        "He tried to cross the Level 8 checkpoint at 03:47 during third shift",
+        "The scanner announced his real identity publicly"
+      ],
+      "emotional_state": "Devastated, broken, spiraling into heavy Drift use, processing that hope was poison",
+      "arc_position": 0.4,
+      "location": "His apartment, after escape and 16-hour Drift binge",
+      "physical_state": "Heavily drugged, sick from Drift overuse, hollowed out",
+      "wealth": "~409 million credits (spent 3 million on credentials)",
+      "psychological_state": "Breaking - realization that money is meaningless, hope was delusion"
+    },
+    "Finn": {
+      "knows": [
+        "Someone tried to cross checkpoint with fake Beta credentials (heard through network)",
+        "Figured it was Jax",
+        "Found him 16 hours later in Drift binge",
+        "He's breaking emotionally"
+      ],
+      "emotional_state": "Sad, compassionate, staying with Jax through crisis",
+      "location": "Jax's apartment",
+      "physical_state": "Alert, sober, on watch"
+    }
+  },
+  "revealed_to_reader": [
+    "Fake Beta credentials included: employment records, residential authorization, medical history, education, family registry",
+    "The fake identity was 'Marcus Webb, logistics coordinator'",
+    "Total cost for fake credentials was 3 million (2 million + 1 million in physical scrip)",
+    "Documents had holographic security features and looked perfect",
+    "Jax left his real identification chip at home",
+    "Level 8 checkpoint during third shift has two guards instead of six",
+    "Scanner does DNA comparison in about three seconds",
+    "Alarm is soft and polite-sounding despite what it means",
+    "Scanner announces 'GENETIC MISMATCH' and identifies real name/caste publicly",
+    "Identity fraud by Gammas is common enough that charges are usually dropped after fine",
+    "Level 8 is noticeably better maintained than Level 9 - working lights, dry floors",
+    "Old industrial zone in Sector 6 has low ceilings that advantage Gammas escaping",
+    "Jax went on 16-hour Drift binge after the rejection",
+    "Used multiple vials in rapid succession",
+    "Finn stays with people during crisis - doesn't try to fix, just witnesses"
+  ],
+  "planted": [
+    {
+      "element": "Warrants for identity fraud on Jax's record",
+      "payoff_chapter": null,
+      "significance": "He's now flagged in system, will matter if he tries anything else"
+    },
+    {
+      "element": "Jax's realization that hope was poison",
+      "payoff_chapter": 10,
+      "significance": "Sets up his emotional state for deciding to rebuild undercity"
+    },
+    {
+      "element": "Quote: 'rich and trapped'",
+      "payoff_chapter": 10,
+      "significance": "Core thesis of his dilemma"
+    },
+    {
+      "element": "Finn staying through crisis without trying to fix",
+      "payoff_chapter": null,
+      "significance": "Character trait - Finn's loyalty and emotional intelligence"
+    },
+    {
+      "element": "Heavy Drift binge (multiple vials in rapid succession)",
+      "payoff_chapter": 10,
+      "significance": "Escalating addiction pattern under stress"
+    },
+    {
+      "element": "Scanner voice repeating in Jax's head",
+      "payoff_chapter": null,
+      "significance": "Trauma from the rejection, internalized oppression"
+    }
+  ],
+  "active_tensions": [
+    "Jax's devastation and what he'll do with it",
+    "400+ million credits with nowhere to go",
+    "Identity fraud warrants (though minor)",
+    "Heavy Drift use spiraling",
+    "Finn watching Jax break",
+    "Question of what happens next - rage? despair? something else?",
+    "Money that can buy everything except freedom"
+  ],
+  "world_changes": [
+    "Jax is now flagged in security system for identity fraud attempt",
+    "He's lost 3 million credits on useless credentials",
+    "His hope of escape is completely destroyed",
+    "He's beginning to understand the absolute nature of genetic imprisonment"
+  ],
+  "continuity_notes": [
+    "Timeline: Three days after Ch7 (when he got credentials)",
+    "Attempt at 03:47 during third shift",
+    "16 hours later (evening) when Finn finds him",
+    "Guards at checkpoint were two female SSS officers",
+    "Escaped through Sector 6 industrial zone",
+    "Marcus Webb identity permanently burned",
+    "This is the breaking point that leads to Ch10 decision"
+  ],
+  "emotional_beats": [
+    "Hope as he examines perfect credentials",
+    "Nervous confidence approaching checkpoint",
+    "Three seconds of suspended possibility during scan",
+    "Crushing alarm and red light",
+    "Terror during escape",
+    "Despair in corridor holding torn documents",
+    "Numb Drift binge for 16 hours",
+    "Hollow acceptance with Finn at the end"
+  ]
+}

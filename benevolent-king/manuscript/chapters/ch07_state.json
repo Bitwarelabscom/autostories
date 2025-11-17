@@ -1,0 +1,102 @@
+{
+  "chapter": 7,
+  "word_count": 2600,
+  "timeline": "Days 13-14, two days after Ch 6",
+  "location": "The Gradient bar (Level 6), Level 8 Archway Pods",
+  "characters_present": ["Nico Chen", "David Reeves (con artist)", "Bartender (minor)", "Kade Rivera (messages only)", "Maya Torres (message only)"],
+  "character_states": {
+    "Nico Chen": {
+      "knows": [
+        "He just lost 50k credits to a con artist posing as housing official",
+        "David Reeves was never a real housing administrator",
+        "Marcus Flynn's verification service was part of the scam",
+        "The money was immediately distributed to untraceable accounts",
+        "He was an obvious mark - desperate and showing it",
+        "Kade warned him this would happen",
+        "He ignored every red flag because he wanted to believe",
+        "He still has ~49.9 million credits left",
+        "Maya has heard about his housing application rejection"
+      ],
+      "emotional_state": "Humiliated, angry at himself, heavy Veil use to cope, feeling like a target",
+      "arc_position": 0.15,
+      "location": "Level 8 Archway Pods at chapter end",
+      "physical_state": "Used two vials back-to-back after scam, in heavy Veil haze",
+      "current_resources": "49,950,000 credits remaining (lost 50k to scam)",
+      "key_realization": "Money makes him a target, not a peer - he's still just a mark to everyone",
+      "new_pattern": "Using Veil more heavily to cope with failures"
+    },
+    "Maya Torres": {
+      "knows": [
+        "Nico tried and failed to get Level 6 housing",
+        "He's struggling with understanding systemic barriers",
+        "She wants to help him understand why the system works the way it does"
+      ],
+      "emotional_state": "Concerned, wanting to help him process this constructively",
+      "arc_position": 0.03,
+      "location": "Unknown, sent message to Nico",
+      "offer_made": "To explain the system without judgment, help him understand"
+    },
+    "Kade Rivera": {
+      "knows": [
+        "Nico has been busy with something",
+        "Something is probably going wrong (instinct)"
+      ],
+      "emotional_state": "Concerned but giving Nico space",
+      "arc_position": 0.06
+    }
+  },
+  "revealed_to_reader": [
+    "Con artists specifically target lower-tier people with sudden money",
+    "The scam was sophisticated - fake identity, fake verification service, immediate dispersal of funds",
+    "Nico missed obvious red flags due to desperation (no ID check, upfront payment, too-smooth agreement)",
+    "Black market info brokers can be wrong or sell bad information",
+    "Level 6 bars like The Gradient cater to mid-tier professionals trying to feel sophisticated",
+    "Nico is visibly marked as Level 8 even in new clothes",
+    "His class markers (body language, speech, desperation) make him instantly readable",
+    "The Gradient bar costs more per drink than a day's food in Level 8",
+    "Nico used two vials back-to-back - heaviest use shown so far",
+    "Maya somehow knows about his housing rejection (Station social services network?)"
+  ],
+  "planted": [
+    {
+      "element": "Nico's increasing Veil use under stress",
+      "payoff_chapter": null,
+      "significance": "Pattern throughout trilogy - stress increases addiction"
+    },
+    {
+      "element": "Maya's offer to explain the system",
+      "payoff_chapter": 8,
+      "significance": "Sets up next chapter's conversation"
+    },
+    {
+      "element": "Nico's realization that money makes him a target",
+      "payoff_chapter": 14,
+      "significance": "When gangs come for protection money"
+    },
+    {
+      "element": "His inability to read middle-tier social cues",
+      "payoff_chapter": null,
+      "significance": "Why he'll never pass as belonging to higher tiers"
+    },
+    {
+      "element": "Kade's warning proved right",
+      "payoff_chapter": null,
+      "significance": "Establishes Kade as reliable advisor, Nico learns to listen"
+    }
+  ],
+  "active_tensions": [
+    "Nico has massive wealth but keeps losing money to scams/rejections",
+    "His desperation makes him vulnerable to predators",
+    "He's using more heavily as failures pile up",
+    "Kade was right but Nico couldn't admit he failed",
+    "Maya wants to help but from a perspective Nico might resent",
+    "Each failure is teaching him the system is rigged but not changing his goal yet"
+  ],
+  "world_changes": [
+    "Nico down to ~49.95 million credits",
+    "He's learned con artists target lower-tier people with sudden money",
+    "His reputation as a mark is probably spreading (black market gossip)",
+    "Maya is actively reaching out, establishing connection"
+  ],
+  "notes": "Second bridge chapter in the 'failed escape' arc. Shows Nico learning hard lessons about being marked as lower-tier regardless of money. The con is sophisticated enough to be believable but obvious enough in hindsight to be humiliating. Reeves reading Nico's desperation immediately establishes the power dynamic - Nico thought he was buying help, but he was always the product. The fifty thousand loss is significant (more than most Level 8 residents see in lifetime) but barely dents his fortune, showing the scale disparity. His double-vial use shows addiction intensifying under stress - coping mechanism failing to cope. Maya's message at the end sets up Ch 8 but also shows she's monitoring him, which could feel invasive or caring depending on perspective. Arc position moves slightly (0.15) as Nico accumulates knowledge about systemic barriers, but he's still in the phase of believing he can find a workaround. The chapter title 'The Bribe' is ironic - he tried to bribe someone, got robbed instead, revealing he never had the power he thought money would give him."
+}

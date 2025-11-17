@@ -1,0 +1,109 @@
+{
+  "chapter": 2,
+  "word_count": 2000,
+  "timeline": "Day 2-3 after Chapter 1",
+  "location": "Sector 12, Building 7 and Dmitri's building",
+  "characters_present": ["Reed Salazar", "Dmitri Washington", "dead courier"],
+  "character_states": {
+    "Reed Salazar": {
+      "knows": [
+        "A second courier died in his building",
+        "Emergency services marked body as collected but it wasn't",
+        "He looted the body and took the data chip",
+        "The chip contains access to 487 million credits in corporate black ops fund",
+        "This is highly illegal money used for bribes and suppression",
+        "Touching this money will get him killed eventually",
+        "Dmitri can teach him to move money anonymously",
+        "He's decided to steal it anyway"
+      ],
+      "emotional_state": "Nihilistic but with growing purpose. 'Fuck them' becoming his motivation. Accepting death as consequence.",
+      "arc_position": 0.08,
+      "location": "Sector 12",
+      "physical_state": "Still on Leveler, functional"
+    },
+    "Dmitri Washington": {
+      "knows": [
+        "Reed has access codes to corporate black ops fund",
+        "The money is highly illegal and dangerous",
+        "Reed wants to steal it",
+        "Reed knows this will likely get him killed",
+        "Reed wants to 'prove something' with the money"
+      ],
+      "emotional_state": "Alarmed but intrigued. Thinks Reed is insane but willing to help for money and because 'fuck corporate'",
+      "arc_position": 0.05,
+      "location": "Sector 12, different building"
+    }
+  },
+  "revealed_to_reader": [
+    "Another courier dies in Building 7 (third death mentioned in trilogy counting Marco)",
+    "Corporate emergency services are incompetent for Sector 12 - mark jobs done that aren't",
+    "Reed loots the dead courier's bag - survival instinct",
+    "Data chip contains access to 487 million credits",
+    "Money is labeled 'Black Operations Fund' - board-level only, classified",
+    "Used for bribes, surveillance, suppression, payoffs - off-books illegal activity",
+    "Courier was delivering access codes when he died",
+    "Corporate will hunt anyone who touches this money",
+    "Dmitri is former corporate data analyst, dropped to Sector 12 due to prosperity score incident",
+    "Dmitri can crack corporate encryption and teach anonymous transfers",
+    "Reed decides to steal the money to 'prove something'",
+    "Reed accepts he'll die for this but doesn't care"
+  ],
+  "planted": [
+    {
+      "element": "Dmitri as tech expert and collaborator",
+      "payoff_chapter": 5,
+      "significance": "Dmitri helps Reed set up the anonymous payment system"
+    },
+    {
+      "element": "487 million credits (changed to 500 million by ch 5 due to rounding/other accounts)",
+      "payoff_chapter": 5,
+      "significance": "This is the funding source for entire UBI experiment"
+    },
+    {
+      "element": "Reed's acceptance of eventual death",
+      "payoff_chapter": null,
+      "significance": "Throughout trilogy, Reed knows this will kill him and is okay with it"
+    },
+    {
+      "element": "Corporate black ops fund details",
+      "payoff_chapter": 20,
+      "significance": "When corporate traces money, they know Reed stole from black ops - makes charges more serious"
+    },
+    {
+      "element": "Shell accounts and anonymous transfers",
+      "payoff_chapter": 5,
+      "significance": "How Reed will structure the UBI payments"
+    }
+  ],
+  "active_tensions": [
+    "Will corporate notice the courier died with the chip?",
+    "How long can Reed stay hidden after stealing?",
+    "Can Dmitri teach Reed enough to avoid detection?",
+    "What exactly is Reed planning to prove?",
+    "Is Reed suicidal or purposeful?"
+  ],
+  "world_changes": [
+    "Reed now has access to 487 million credits of black ops money",
+    "Corporate has lost access codes to their illegal fund",
+    "Dmitri is aware of Reed's plan and collaborating"
+  ],
+  "continuity_notes": [
+    "Black ops fund: 487,326,441 SC (rounds to ~500 million)",
+    "Dmitri's fee: 10,000 credits up front",
+    "Dmitri was corporate data analyst before prosperity score incident",
+    "High-level encryption: three-layer security",
+    "Money is board-level authorization only, classified purpose",
+    "Transfers in files go back 5 years"
+  ],
+  "voice_check": {
+    "Reed": "Maintained - deadpan ('Fucking bureaucracy'), survival instinct (looting without guilt), 'fuck them' nihilism, acceptance of death",
+    "Dmitri": "Established - excited by technical challenge, pragmatic, cynical, 'You're absolutely insane' but helps anyway"
+  },
+  "themes_developed": [
+    "Looting as survival in broken system",
+    "Corporate crime vs individual crime (who's really the thief?)",
+    "Choosing death with meaning over life without",
+    "System's casual disposal of bodies and people",
+    "Technical skills underutilized in lower sectors"
+  ]
+}

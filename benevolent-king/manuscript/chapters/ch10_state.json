@@ -1,0 +1,97 @@
+{
+  "chapter": 10,
+  "word_count": 2100,
+  "timeline": "Four weeks after Ch 5, evening",
+  "location": "Chen's Noodle House, Level 8",
+  "characters_present": ["Nico Chen", "Mrs. Chen (noodle shop owner)", "Patel brothers", "Jess", "various Level 8 residents"],
+  "character_states": {
+    "Nico Chen": {
+      "knows": [
+        "All attempts to move up tiers have failed completely",
+        "He spent ~300k trying to buy his way up - all wasted",
+        "The system is designed to keep him trapped",
+        "Housing denied, business licenses denied, bribes were scams",
+        "He still has nearly 50 million credits left",
+        "The money can't buy him escape, but could do something else"
+      ],
+      "emotional_state": "Drunk, high, reckless, angry at the system, but experiencing clarity and purpose for first time - liberating and terrifying",
+      "arc_position": 0.25,
+      "location": "Chen's Noodle House, Level 8",
+      "physical_state": "Intoxicated on alcohol and Veil (2 vials in 4 hours), making impulsive decisions",
+      "current_resources": "49,712,843 credits remaining, now owns Chen's Noodle House (50k deposit paid)",
+      "key_decision": "Pivots from personal escape to community investment - THE turning point of the entire trilogy"
+    },
+    "Mrs. Chen": {
+      "knows": [
+        "Nico somehow has real money (claims inheritance)",
+        "He's serious about buying the restaurant and making it free",
+        "He's drunk and high but also genuinely committed",
+        "She's witnessed his character over years"
+      ],
+      "emotional_state": "Amused, cautiously hopeful, protective of her legacy and community",
+      "arc_position": 0.0,
+      "location": "Her restaurant",
+      "status": "Selling the restaurant to retire with daughter on Level 7, getting 100k total (50k deposit now)"
+    }
+  },
+  "revealed_to_reader": [
+    "Nico has spent 4 weeks trying to escape Level 8 with money",
+    "Every attempt to move up tiers has failed systematically",
+    "Criminal records permanently bar tier advancement",
+    "He was scammed out of 100k trying to bribe housing official",
+    "He still has nearly 50 million credits",
+    "Chen's Noodle House has been his regular spot for years",
+    "Mrs. Chen has known him since he was 19",
+    "The decision to help Level 8 instead of escape is made while drunk and high - impulsive but authentic",
+    "Free meals start tomorrow, not just Fridays - every day",
+    "This public announcement means Nico can't hide anymore"
+  ],
+  "planted": [
+    {
+      "element": "Public announcement of free meals",
+      "payoff_chapter": 11,
+      "significance": "Word will spread fast, lines will form, this is the start of Nico's public persona"
+    },
+    {
+      "element": "Mrs. Chen's condition: serve real food, respect for people",
+      "payoff_chapter": null,
+      "significance": "Establishes that Nico's charity must maintain dignity, not just provide handouts"
+    },
+    {
+      "element": "Nico's thought: 'Kade is going to kill him'",
+      "payoff_chapter": 11,
+      "significance": "Foreshadows Kade's reaction to this very public move"
+    },
+    {
+      "element": "The restaurant becoming a target",
+      "payoff_chapter": 14,
+      "significance": "Gang attention, then later official attention"
+    },
+    {
+      "element": "People calling him nephew, family language",
+      "payoff_chapter": 13,
+      "significance": "Will evolve into 'Uncle Nico' and 'The King'"
+    },
+    {
+      "element": "Nico 'really seeing' Level 8 people for first time",
+      "payoff_chapter": null,
+      "significance": "Character growth - moving from self-absorption to community awareness"
+    }
+  ],
+  "active_tensions": [
+    "Nico's made a very public move after trying to stay hidden",
+    "He's committed to spending money continuously on free food",
+    "The decision was made while intoxicated - will he regret it sober?",
+    "This is opposite of Kade's advice to be careful and discreet",
+    "People now know he has money - dangerous exposure",
+    "Can he actually run a restaurant? Does he know what he's doing?"
+  ],
+  "world_changes": [
+    "Chen's Noodle House sold to Nico for 100k (50k deposit)",
+    "Free meals announced starting tomorrow",
+    "Nico's secret wealth is now semi-public",
+    "He's shifted from trying to escape to investing in Level 8",
+    "Level 8 residents beginning to see him differently - not just a dealer"
+  ],
+  "notes": "Third tentpole chapter (MIDPOINT REVERSAL). This is THE turning point - Nico's goal inverts from personal escape to community support. Made drunk and high, the decision is both reckless and authentic. His frustration with systemic rejection boils over into defiant generosity. Key line: 'Because fuck them.' The alcohol and Veil lower his inhibitions enough to do what maybe he wanted to do anyway. Mrs. Chen's blessing gives it legitimacy. Public announcement means no taking it back. Arc position jumps to 0.25 - he's committed to a new path even if he doesn't fully understand it yet. This single decision sets up the entire rest of the trilogy."
+}

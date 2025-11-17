@@ -1,0 +1,21 @@
+{
+  "chapter": 19,
+  "word_count": 1750,
+  "timeline": "Week 11-14 (Days 112-133, covering 3 weeks)",
+  "location": "Chen's office, various Level 8 locations, leads to SSS office",
+  "characters_present": ["Nico Chen", "Maya Torres", "Lin Zhao", "Yuki (union organizer)", "Dmitri (teacher)", "Sara (logistics)", "Kade Rivera", "Commander Wright"],
+  "character_states": {
+    "Nico Chen": {
+      "knows": ["Controls 40% of Level 8 economy after 3 months", "7 restaurants, 2 clinics, housing co-op, repair collective, childcare center", "Burn rate: 22k/day, 7M/month, 84M/year", "Has 42M left—6 months maximum", "Built parallel economy proving alternative is possible", "Lin's group teaching him cooperatives, collective management, worker ownership", "Converting restaurants to worker co-ops", "Creating resident councils for resource allocation", "Training community health workers", "Teaching repair skills instead of hiring contractors", "Commander Wright summoned him—investigation time", "He's built something that might outlast him"],
+      "emotional_state": "Exhausted, running on fumes, occasional Veil use, but seeing path forward",
+      "arc_position": 0.68,
+      "physical_state": "Exhausted, occasional Veil to cope",
+      "current_resources": "~42M credits, 6 months",
+      "key_shift": "From savior to teacher—making himself unnecessary"
+    }
+  },
+  "revealed_to_reader": ["Controls 40% of Level 8 economy", "7 restaurants, 2 clinics, housing co-op, repair collective, childcare center", "22k/day burn (84M/year), 42M left, 6 months", "Maya: built demonstration project showing alternative is possible", "Lin brought organizers: Yuki (union), Dmitri (teacher), Sara (logistics)", "Plan: worker cooperatives, collective ownership, training programs, trade networks", "Converting 3 restaurants to worker co-ops", "Creating resident councils for resource allocation", "Training community health workers", "Teaching repair skills collectively", "Shift: from charity to building sustainable structures", "Commander Wright summons Nico to SSS office—investigation coming", "Kade: 'You built something good'"],
+  "planted": [{"element": "Worker cooperatives and collective ownership", "payoff_chapter": null, "significance": "Book 3's organizing model"}, {"element": "Wright summoning Nico to SSS office", "payoff_chapter": 20, "significance": "Direct confrontation"}, {"element": "Training programs and skill-building", "payoff_chapter": null, "significance": "Building autonomous capacity"}, {"element": "Resident councils making allocation decisions", "payoff_chapter": null, "significance": "Democratic governance emerging"}],
+  "world_changes": ["40% of Level 8 economy under Nico's influence", "3 restaurants converted to worker co-ops", "Resident councils created", "Community health worker program started", "Repair collectives teaching skills", "Parallel economy demonstrated as viable alternative", "SSS ready to confront Nico"],
+  "notes": "Montage chapter covering 3 weeks of transformation. Title 'Building the Kingdom' shows scope of what Nico's created—not just charity, but alternative economic system. Key shift: from king/savior to teacher. Lin's group provides expertise he lacks (cooperatives, organizing, education). The economics are stark: 84M/year burn vs 42M remaining = 6 months. But he's using that time to build lasting structures. Worker co-ops show people becoming owners, not dependents. Resident councils decentralize decision-making. Health worker training builds capacity. Maya's framing: demonstration project proving alternatives exist. When money ends, people will demand Station provide what Nico did. Arc 0.68—approaching climax, transformation nearly complete. Wright's summons ends chapter on tension—reckoning has come. Kade's line 'you built something good' is benediction before confrontation. The kingdom is built; now comes the test. This chapter shows evolution from individual charity (ch11) to collective structures (ch19)—the growth Lin demanded."
+}

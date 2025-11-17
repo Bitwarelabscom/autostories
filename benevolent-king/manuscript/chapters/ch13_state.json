@@ -1,0 +1,28 @@
+{
+  "chapter": 13,
+  "word_count": 2300,
+  "timeline": "Week 5-6 since Ch 11 (approximately Day 70)",
+  "location": "Chen's Noodle House, Zhao's Family Restaurant, various Level 8 locations",
+  "characters_present": ["Nico Chen", "Kade Rivera", "Lin Zhao", "various Level 8 residents"],
+  "character_states": {
+    "Nico Chen": {
+      "knows": ["People call him Uncle Nico/King of Eight/Benefactor", "Stories about him (some true, many exaggerated)", "He's become the person people come to when official systems fail", "Handled 7+ requests for help in one day", "Funded building repairs (15k), exam fees, jobs for ex-convicts", "People gather just to see him—he's become a public figure", "Lin says he's wasting power on charity instead of system change", "Has ~46M credits left, maybe a year at current burn rate", "Must choose between charity (temporary) vs teaching people to fight (legacy)"],
+      "emotional_state": "Uncomfortable with hero worship, overwhelmed by expectations, using less Veil (too busy), grappling with leadership role",
+      "arc_position": 0.42,
+      "physical_state": "Exhausted, using less due to lack of time, running on purpose",
+      "current_resources": "~46M credits (spent ~3M in past month)",
+      "key_realization": "He's their king whether he wants it or not—has real power but doesn't know how to use it for lasting change"
+    },
+    "Lin Zhao": {
+      "knows": ["Nico is acting like charity, not revolution", "People power is real power", "His money will run out—then what?", "He's shown people life can be different—now they'll demand it"],
+      "emotional_state": "Blunt, challenging, trying to radicalize him",
+      "arc_position": 0.15,
+      "role": "Elder voice pushing him toward systemic thinking"
+    }
+  },
+  "revealed_to_reader": ["Term 'Uncle Nico' started with old woman thanking him", "Stories about him spread (some true, many false)", "He fixed building heat (15k), paid exam fees, hired ex-convicts", "People come to him for: funding, mediation, employment, landlord disputes", "He's handled 7+ requests in a single day", "20-30 people gather outside restaurants just to see him", "Homemade signs: 'Thank You Uncle Nico,' 'King of Eight—Our Hero'", "Using less Veil—too busy, exhausted by work", "Funded water system repair (12k) for 40 families", "Lin Zhao challenges him: charity vs revolution", "Has ~46M left, maybe a year at current burn rate"],
+  "planted": [{"element": "Lin's challenge: teach them to fight, not just give charity", "payoff_chapter": null, "significance": "Book 3's shift to organizing/unions"}, {"element": "Your legacy—make it count", "payoff_chapter": 20, "significance": "Question of what he leaves behind"}, {"element": "People gathering just to see him—building cult of personality", "payoff_chapter": null, "significance": "Book 2's riots defending him"}],
+  "active_tensions": ["Hero worship makes Nico uncomfortable", "Seven+ requests daily—unsustainable personally", "One year of money left maximum", "Choice between temporary charity vs lasting change", "People's expectations growing beyond what he can meet"],
+  "world_changes": ["Nico is publicly known as Uncle Nico/King of Eight", "People gather to see him", "He's become unofficial mayor/leader of Level 8", "Handles community mediation, dispute resolution, resource allocation", "20-30 people witness his movements", "His legend growing (exaggerated stories spreading)"],
+  "notes": "Bridge chapter showing Nico's elevation to folk hero/king status. Title shift from dealer to Uncle to King. Lin Zhao introduced as radical elder voice challenging charity model. Key theme: charity vs revolution, survival vs system change. Nico uncomfortable with power but can't refuse it. Using less Veil (progress?) because too busy. Arc 0.42—past midpoint, fully committed but struggling with sustainability and strategy. The gathering crowds show his visibility—can't hide anymore. Lin's challenge plants seed for Book 3's evolution. The 'Uncle' title shows cultural respect and family language—he's become part of community identity. His daily request load (7+) shows impossibility of individual charity at scale. Burn rate down to one year maximum creates urgency. Chapter ends with acceptance: he's the King whether he wants it or not, must figure out what that means."
+}

@@ -1,0 +1,165 @@
+{
+  "chapter": 11,
+  "word_count": 2800,
+  "timeline": "Approximately 8 weeks after Chapter 10 decision (6 weeks renovation + 2 weeks operation)",
+  "location": "Sector 4 Building 47 (the first Free Level building), Jax's office",
+  "characters_present": ["Jax Varro", "Finn", "Kara (crew boss)", "Dr. Yin", "First residents including old man, mother with two children"],
+  "character_states": {
+    "Jax Varro": {
+      "knows": [
+        "Bought Building 47 in Sector 4 for 12 million (worth ~50k in scrap)",
+        "Spent 90 million on renovation (total: 102 million)",
+        "Operating costs are 60 million per year (5 million per month)",
+        "All 20 units are full with waiting list of 47 names",
+        "People are deeply suspicious but coming anyway",
+        "Word is spreading through the undercity",
+        "He has enough money to run this for 5 years without selling more currency",
+        "Has billions more in Earth currency to sell",
+        "Property in Sector 6 is next target for expansion"
+      ],
+      "emotional_state": "Purposeful, driven, finding meaning in building instead of escaping",
+      "arc_position": 0.55,
+      "location": "His office at Building 47",
+      "physical_state": "Functioning, focused on the work",
+      "wealth": "~300 million liquid (spent ~100 million on Building 47), billions more in unsold currency",
+      "transformation": "From dealer to community builder, finding purpose in being trapped"
+    },
+    "Finn": {
+      "knows": [
+        "Running the kitchen three meals a day (08:00, 13:00, 19:00)",
+        "People think it's a cult, gang, or experiment",
+        "It's actually working despite suspicion",
+        "Jax is planning to expand to Sector 6",
+        "Waiting list has 47 names"
+      ],
+      "emotional_state": "Cautiously supportive, helpful, seeing Jax find purpose",
+      "location": "Building 47 kitchen and common area",
+      "role": "Kitchen manager/operations"
+    },
+    "Kara": {
+      "knows": [
+        "Was crew boss for renovation",
+        "Former maintenance worker laid off by station authority",
+        "Paid triple legal minimum wage by Jax",
+        "Initially suspicious it was gang recruitment or organ harvesting"
+      ],
+      "emotional_state": "Skeptical but professional",
+      "background": "Gamma with enhanced muscle density, experienced with old station infrastructure"
+    },
+    "Dr. Yin": {
+      "knows": [
+        "Running clinic three days a week (Tuesday, Thursday, Saturday)",
+        "Treating anyone without questions, reporting, or billing",
+        "Jax is attracting outlaws and fugitives (as predicted)",
+        "Being paid to provide free medical care"
+      ],
+      "emotional_state": "Professional, committed to the work",
+      "conditions": "No reporting to authority, no genetic verification, no billing"
+    }
+  },
+  "revealed_to_reader": [
+    "Building 47 in Sector 4 was condemned for 15 years before Jax bought it",
+    "20 units total: 18 one-bedrooms, 2 studios",
+    "Art deco architecture from station's first generation",
+    "Bought for 12 million from Beta property speculator doing tax write-offs",
+    "Renovation cost 90 million, took 6 weeks",
+    "Ground floor: industrial kitchen, common area, medical clinic",
+    "Hired exclusively Gamma workers, paid triple legal minimum wage",
+    "Operating costs: 60 million per year (5 million per month)",
+    "Kitchen serves meals at 08:00, 13:00, 19:00",
+    "Clinic open Tuesday, Thursday, Saturday",
+    "No rent, no obligations, no contracts",
+    "Posted notices: 'FREE HOUSING AND MEALS - No cost. No contract. No catch.'",
+    "All 20 units filled within 2 weeks",
+    "Waiting list of 47 names",
+    "Everyone asks 'what's the catch' or 'what do you want'",
+    "Residents include: old man from collapsed hotel, mother with two children ages 4 and 7",
+    "People test food for drugs/poison, check doors for control, wait for revelation",
+    "Rumors: cult recruitment, gang operation, human experiments",
+    "Next expansion planned for Sector 6, budget 100 million"
+  ],
+  "planted": [
+    {
+      "element": "Kara the crew boss",
+      "payoff_chapter": null,
+      "significance": "Potential recurring character, represents Gamma workers"
+    },
+    {
+      "element": "47-name waiting list",
+      "payoff_chapter": 12,
+      "significance": "Demand exceeds supply, driving expansion"
+    },
+    {
+      "element": "People testing food for poison, checking locks",
+      "payoff_chapter": null,
+      "significance": "Shows undercity paranoia, earned distrust"
+    },
+    {
+      "element": "Mother with two children finding safety",
+      "payoff_chapter": null,
+      "significance": "Emotional core, what this project means to vulnerable people"
+    },
+    {
+      "element": "Everyone asking 'why' and 'what do you want'",
+      "payoff_chapter": 13,
+      "significance": "Sets up Mother Sera testing Jax's motives"
+    },
+    {
+      "element": "Expansion to Sector 6 planned",
+      "payoff_chapter": 12,
+      "significance": "Free Level is growing"
+    },
+    {
+      "element": "Attracting outlaws and fugitives (Dr. Yin's warning)",
+      "payoff_chapter": 14,
+      "significance": "Will attract authority attention"
+    },
+    {
+      "element": "Finn helping run operations",
+      "payoff_chapter": null,
+      "significance": "Shows their loyalty and partnership with Jax"
+    }
+  ],
+  "active_tensions": [
+    "Everyone's suspicion versus reality of free services",
+    "Sustainability of 60 million per year operating costs",
+    "47 people on waiting list needing housing",
+    "Word spreading = more attention (good and bad)",
+    "Question of what happens when money runs out",
+    "Paranoia slowly giving way to trust",
+    "Jax's transformation from dealer to builder",
+    "Rumors of cult/gang/experiments",
+    "Attracting fugitives will attract authority"
+  ],
+  "world_changes": [
+    "Building 47 in Sector 4 is now operational Free Level facility",
+    "20 residents living in free housing with free meals and medical care",
+    "47 more people waiting for housing",
+    "Word spreading through undercity about 'charity that might be real'",
+    "Jax has spent ~100 million of his fortune",
+    "Dr. Yin now working for Jax 3 days per week",
+    "Finn managing kitchen operations",
+    "Gamma workers were hired and paid triple minimum wage",
+    "Expansion to Sector 6 being planned"
+  ],
+  "continuity_notes": [
+    "Timeline: ~8 weeks after Ch10 (6 week renovation, 2 weeks operation)",
+    "Building 47, Sector 4 is the first Free Level location",
+    "Meals at 08:00, 13:00, 19:00 (military time)",
+    "Clinic Tuesday, Thursday, Saturday",
+    "Units: 18 one-bedroom, 2 studio",
+    "One two-bedroom unit mentioned for family (may be inaccuracy or custom renovation)",
+    "Jax has office in building, small room off common area",
+    "Operating cost: 5 million per month, 60 million per year",
+    "Next building budgeted at 100 million",
+    "Waiting list: 47 names"
+  ],
+  "character_moments": [
+    "Old man testing if it's real before accepting",
+    "Mother with children getting emotional when she realizes it's free",
+    "Kids seeing their own beds for first time",
+    "Finn hiding smile when Jax commits to expanding",
+    "Jax kneeling to talk to children at their eye level",
+    "Everyone asking 'why' and Jax giving honest answer about being trapped"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "chapter": 17,
+  "word_count": 1900,
+  "timeline": "Week 9 (approximately Day 98)",
+  "location": "Maya's office Level 6, Chen's Noodle House",
+  "characters_present": ["Maya Torres", "Dr. Sarah Kim (supervisor)", "Nico Chen"],
+  "character_states": {
+    "Maya Torres": {
+      "knows": ["Financial Investigation Request on her desk—must sign by Friday", "Signing means Nico gets investigated/arrested, operation shuts down", "Not signing risks her job, housing, everything she's built in 15 years", "Upper-tier financial crimes get ignored, lower-tier ones get flagged immediately", "System is designed to protect upper tiers, punish lower tiers", "Nico has ~10 months of money left", "She's risking everything for him"],
+      "emotional_state": "Conflicted but resolute, choosing solidarity over rules, calm about consequences",
+      "arc_position": 0.35,
+      "key_decision": "Refuses to sign report, will stall for 1-2 months to buy Nico time",
+      "consequences_accepted": "Will likely lose job, housing, career—everything she spent 15 years building"
+    },
+    "Nico Chen": {
+      "knows": ["SSS investigation coming", "Maya risking her career to protect him", "He thinks he's not worth it", "Accepts defeat easily—resignation", "Believes his operation is temporary and will leave nothing lasting"],
+      "emotional_state": "Exhausted, resigned, doesn't think he's worth saving",
+      "arc_position": 0.55
+    }
+  },
+  "revealed_to_reader": ["Financial Investigation Request filed for Nico—delayed 8 weeks already", "Maya's supervisor (Dr. Sarah Kim) pushing her to sign by Friday", "Maya confronts systemic inequality: upper-tier crimes ignored, lower-tier flagged immediately", "Nico feeds 1400 daily, employs dozens, pays medical care—but money origin questionable", "Signing report = Nico arrested, operation ends, people go hungry", "Maya refuses to sign—risks career/housing", "Sarah gives her until Friday to reconsider", "Maya tells Nico—he says to file it, don't throw away her life", "Nico resigned to being caught eventually", "Maya stalls investigation 1-2 months to buy time", "Nico thinner, exhausted, running on fumes", "Maya feels like she's actually helping for first time in 15 years"],
+  "planted": [{"element": "Maya's refusal to sign report", "payoff_chapter": null, "significance": "Book 2—she joins operation fully after losing job"}, {"element": "Maya: 'Maybe it's time I stopped following rules'", "payoff_chapter": null, "significance": "Her radicalization arc"}, {"element": "Sarah's deadline—Friday", "payoff_chapter": null, "significance": "Maya will miss deadline, lose job"}],
+  "world_changes": ["Maya has chosen Nico's operation over her career", "Investigation delayed 1-2 months", "Maya moving from system insider to rebel", "She's accepted she'll lose everything she built"],
+  "notes": "Maya's transformation chapter. Title 'Maya's Dilemma' captures her impossible choice: follow rules (lose Nico's good work) or break rules (lose her life's work). Her confrontation with Sarah reveals systemic double standards—upper-tier crimes ignored, lower-tier prosecuted. Maya's arc 0.35 shows her radicalization beginning. She's been working within broken system for years; now chooses to break out. Nico's resignation ('file the report') shows his fatalism—doesn't believe he's worth saving. But Maya sees bigger picture: what he's doing matters even if temporary. Her line 'the people you're feeding are worth it' reframes his worth through collective impact. She buys him 1-2 months by stalling. The detail about Nico looking thinner, exhausted shows physical toll. Maya's final thought—first time in 15 years she feels like she's actually helping—captures her disillusionment with social services and her growing radicalism. Sets up her full joining of operation in Book 2."
+}

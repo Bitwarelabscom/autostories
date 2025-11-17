@@ -1,0 +1,119 @@
+{
+  "chapter": 20,
+  "word_count": 2700,
+  "timeline": "5 months after Chapter 15, total of ~11 months since start of Book 1",
+  "location": "Level 8 (SSS raid), Elara's apartment Level 9, Community Center roof",
+  "characters_present": ["Elara Quinn (as Elara Frost)", "Jax Varro", "SSS tactical team", "Martinez family (Gamma family raided)", "Director Ashton (via messages)"],
+  "character_states": {
+    "Elara Quinn": {
+      "knows": [
+        "She witnessed brutal SSS raid on Gamma family for educational fraud",
+        "She's been filing false reports to Ashton for 5 months",
+        "She's fallen in love with Jax",
+        "Jax suspects something is off but doesn't know she's SSS",
+        "She's fundamentally compromised - can't turn Jax in",
+        "She's betraying her oath and service",
+        "Ashton still trusts her reports",
+        "The caste system is morally wrong",
+        "She can't go back to who she was",
+        "She's chosen to protect Jax and the Free Level",
+        "She's living a lie that will eventually be discovered"
+      ],
+      "emotional_state": "Morally transformed, compromised, in love, guilty but committed to her choice, terrified but determined",
+      "arc_position": 0.35,
+      "location": "Her apartment, Level 9",
+      "physical_state": "Exhausted from 36 hours awake, emotionally drained"
+    },
+    "Jax Varro": {
+      "knows": [
+        "SSS raided Martinez family on Level 8",
+        "9-year-old girl was removed from Beta school for being Gamma",
+        "Elara is not who she claims to be (suspects she's running from something)",
+        "Elara cares about the Free Level and its people",
+        "He's falling in love with her",
+        "She has secrets but probably isn't a threat",
+        "She kissed him and chose to stay"
+      ],
+      "emotional_state": "Attracted to Elara, conflicted between suspicion and trust, angry about the Martinez raid, hopeful about their relationship",
+      "arc_position": 0.7,
+      "location": "Community center",
+      "physical_state": "Tired but functional"
+    },
+    "Director Ashton": {
+      "knows": [
+        "Elara's reports show Free Level as low threat",
+        "The operation is stable according to her",
+        "Subject Varro has romantic relationship with Beta worker (doesn't know it's Elara)",
+        "Population growth has 'plateaued'",
+        "Is beginning to suspect something (foreshadowed at end)"
+      ],
+      "emotional_state": "Trusting of Elara but with growing suspicion",
+      "arc_position": 0.1,
+      "location": "SSS Headquarters"
+    }
+  },
+  "revealed_to_reader": [
+    "SSS uses overwhelming force for minor infractions (6 officers for family of 3)",
+    "Genetic fraud (using forged credentials for education) is serious offense",
+    "Gamma schools are vocational training only, designed to limit potential",
+    "Children are traumatized by enforcement of caste system",
+    "Elara has been filing false reports for 5 months, minimizing Free Level threat",
+    "Elara and Jax have developed romantic relationship over weeks of meetings",
+    "Jax suspects Elara is hiding something but doesn't know what",
+    "Jax was also a brilliant child who learned to 'make himself smaller'",
+    "Elara has fundamentally changed her worldview",
+    "Elara has chosen to protect Jax over her duty to SSS",
+    "Their relationship is built on deception from Elara's side",
+    "Ashton is beginning to suspect Elara's loyalty",
+    "Book ends with Elara fully compromised but Jax not knowing the truth"
+  ],
+  "planted": [
+    {
+      "element": "Ashton beginning to suspect Elara",
+      "payoff_chapter": "Book 2, Chapter 1",
+      "significance": "Sets up Book 2's conflict"
+    },
+    {
+      "element": "Elara's lies are 'thinner than she thought'",
+      "payoff_chapter": "Book 2, Chapter 7",
+      "significance": "Foreshadowing her exposure"
+    },
+    {
+      "element": "The reckoning is coming",
+      "payoff_chapter": "Book 2, Chapter 7",
+      "significance": "Setup for identity reveal"
+    },
+    {
+      "element": "Martinez family raid and daughter's trauma",
+      "payoff_chapter": null,
+      "significance": "Concrete example of system's cruelty, turning point for Elara"
+    },
+    {
+      "element": "Jax's understanding that smart Gamma children learn to make themselves smaller",
+      "payoff_chapter": null,
+      "significance": "Reveals his own childhood trauma, character depth"
+    },
+    {
+      "element": "Elara's admission she was wrong about caste system",
+      "payoff_chapter": null,
+      "significance": "Her arc progression, moral transformation"
+    }
+  ],
+  "active_tensions": [
+    "Elara's deception versus her love for Jax",
+    "Ashton's growing suspicion versus Elara's false reports",
+    "Jax's partial knowledge versus full truth",
+    "Elara's transformation versus her former identity",
+    "The inevitability of discovery",
+    "System's violence versus Free Level's hope",
+    "Elara's betrayal of SSS versus her new loyalty to Free Level",
+    "Romantic relationship built on lies"
+  ],
+  "world_changes": [
+    "Elara has made definitive choice to betray SSS and protect Free Level",
+    "Elara and Jax are in romantic relationship",
+    "Elara has completed moral transformation (no longer believes in caste system)",
+    "SSS continues violent enforcement of genetic boundaries",
+    "Ashton's suspicion is growing (setup for Book 2)"
+  ]
+}

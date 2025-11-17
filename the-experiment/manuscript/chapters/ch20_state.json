@@ -1,0 +1,181 @@
+{
+  "chapter": 20,
+  "word_count": 3200,
+  "timeline": "Month 14 of the experiment, day after the conference",
+  "location": "Sector 15 cafe, Reed's apartment, Sector 12 memorial wall",
+  "characters_present": ["Reed Salazar", "Dr. Amara Osei", "Executive Director Jonathan Harris (on call)", "Corporate Security", "Building 7 residents (background)"],
+  "character_states": {
+    "Reed Salazar": {
+      "knows": [
+        "Amara's presentation went viral",
+        "Corporate is attacking the research publicly",
+        "Harris threatened Amara personally to stop research",
+        "Corporate has traced the black ops fund",
+        "They're coming for him within hours",
+        "Amara is publishing everything including Harris's threat",
+        "He's about to be arrested",
+        "His data has survived and changed the conversation",
+        "He's ready to be arrested rather than run"
+      ],
+      "emotional_state": "Calm acceptance. Pride in what was accomplished. No regrets. Ready for consequences. Finding meaning in sacrifice.",
+      "arc_position": 0.60,
+      "location": "Arrested at Sector 12 memorial wall",
+      "physical_state": "Healthy enough, still using Leveler but functional, about to lose freedom"
+    },
+    "Dr. Amara Osei": {
+      "knows": [
+        "Harris threatened her career explicitly",
+        "She recorded the threat",
+        "Publishing everything will destroy her career potentially",
+        "Reed is about to be arrested",
+        "The research is backed up and distributed",
+        "She's choosing truth over safety",
+        "She met Reed face to face finally"
+      ],
+      "emotional_state": "Terrified but committed. Angry at corporate suppression. Determined to fight. Grateful to Reed. No longer complicit.",
+      "arc_position": 0.50,
+      "location": "Sector 12 memorial wall",
+      "physical_state": "Stressed but determined, recording Reed's arrest to make it public"
+    },
+    "Executive Director Jonathan Harris": {
+      "knows": [
+        "Amara's research threatens the system",
+        "The UBI was funded by stolen corporate black ops money",
+        "The research is based on illegal activity",
+        "He can threaten funding to suppress research",
+        "Amara recorded him and published the threat"
+      ],
+      "emotional_state": "Threatened, trying to maintain control, genuinely believes he's protecting stability, failing to suppress the truth",
+      "arc_position": 0.10,
+      "location": "Corporate offices"
+    }
+  },
+  "revealed_to_reader": [
+    "Amara presents at Interstation Economics Conference",
+    "Key findings: 67% crime decrease, 82% health improvement, 340% education increase, 156% community organization increase",
+    "Core message: 'When basic needs are secure, people don't degenerate. They flourish.'",
+    "Research goes viral immediately across station and interstation networks",
+    "Corporate media publishes immediate attack pieces questioning methodology and credentials",
+    "Harris calls Amara personally at 11 PM to threaten her funding and career",
+    "Threat is clear: stop research or lose everything",
+    "Amara records the call",
+    "Amara publishes everything: research, data, and recording of Harris's threat",
+    "Corporate forensics are actively tracing the black ops fund to Reed",
+    "Reed and Amara meet face to face at Marco's memorial plaque",
+    "Reed is arrested for theft, fraud, and unauthorized distribution",
+    "Building 7 residents witness the arrest - making it public",
+    "The data survives Reed's arrest - distributed and backed up",
+    "Reed has no regrets - he proved the system wrong"
+  ],
+  "planted": [
+    {
+      "element": "Reed's arrest and incarceration",
+      "payoff_chapter": null,
+      "significance": "Book 2 will deal with trial, public attention, Reed becoming symbol"
+    },
+    {
+      "element": "Amara's recording of Harris's threat",
+      "payoff_chapter": null,
+      "significance": "Evidence of corporate suppression, will be used in Book 2-3"
+    },
+    {
+      "element": "Data distributed and backed up",
+      "payoff_chapter": null,
+      "significance": "Can't be suppressed even if Reed and Amara are silenced"
+    },
+    {
+      "element": "Building 7 residents as witnesses",
+      "payoff_chapter": null,
+      "significance": "Community becomes visible advocates in Book 2"
+    },
+    {
+      "element": "Dead-man switch on Reed's files",
+      "payoff_chapter": null,
+      "significance": "Auto-forwards to Amara if Reed is killed/disappeared"
+    },
+    {
+      "element": "Public debate about UBI now explosive",
+      "payoff_chapter": null,
+      "significance": "Other sectors will demand same treatment in Book 2"
+    },
+    {
+      "element": "Harris denying censorship, calling recording 'out of context'",
+      "payoff_chapter": null,
+      "significance": "Corporate PR strategy for Book 2"
+    }
+  ],
+  "active_tensions": [
+    "What will happen to Reed in custody?",
+    "Will Amara's career survive?",
+    "Will the research influence policy or be buried?",
+    "Will other sectors organize for UBI?",
+    "How will corporate respond now that suppression failed?",
+    "Can Building 7 maintain community without UBI payments?"
+  ],
+  "world_changes": [
+    "Amara's research is now public, viral, and peer-reviewed",
+    "Harris's censorship threat is recorded and published",
+    "Reed has been arrested by corporate security",
+    "The debate about UBI is now station-wide and public",
+    "Corporate's attempt to suppress quietly has failed",
+    "Building 7 residents are now visible as witnesses",
+    "The experiment has ended (no more payments possible with Reed arrested)",
+    "Academic community is debating the research openly",
+    "Lower sectors are aware someone proved the system wrong"
+  ],
+  "continuity_notes": [
+    "Timeline: Day 420, Month 14 of experiment",
+    "Conference was Interstation Economics Conference",
+    "Research shows 14 months of data",
+    "Key statistics: 67% crime down, 82% health up, 340% education up, 156% community organizing up",
+    "Harris called Amara at 11 PM night after conference",
+    "Amara published morning after the call",
+    "Reed arrested at noon at memorial wall",
+    "Charges: theft of corporate resources, fraud, unauthorized distribution",
+    "Dead-man switch set for 48 hours",
+    "All data backed up on drive given to Amara",
+    "Reed's last documentation entry: Day 420",
+    "Reed is 31 years old at arrest (started at 30)",
+    "Marco died at 25, five years before experiment started"
+  ],
+  "voice_check": {
+    "Reed": "Maintained to end - calm acceptance ('Okay'), no fear, finding meaning in sacrifice, 'For Marco' as final statement",
+    "Amara": "Evolution complete for Book 1 - from cautious academic to committed activist, 'I'm done being complicit', clear moral stance",
+    "Harris": "Established - pleasant tone masking threat, careful language ('consequences', 'difficult decisions'), genuinely believes he's protecting stability, corporate euphemisms"
+  },
+  "themes_culminated": [
+    "Individual sacrifice for collective liberation",
+    "Truth vs power - data as weapon",
+    "Academic complicity vs moral action (Amara's arc)",
+    "Reed finding meaning through proving brother's death unnecessary",
+    "System maintains itself through suppression",
+    "Visibility as protection and as vulnerability",
+    "People thrive with security, not exploitation"
+  ],
+  "emotional_beats": [
+    "Reed watching Amara present - pride in data becoming real",
+    "Harris's threat to Amara - villain revealed",
+    "Amara choosing to publish despite threat - heroism",
+    "Reed and Amara meeting at memorial wall - recognition",
+    "Reed accepting arrest calmly - acceptance of sacrifice",
+    "'For Marco' - Reed's motivation crystallized",
+    "Building 7 witnessing arrest - community solidarity",
+    "Reed walking with head up - dignity in defeat/victory"
+  ],
+  "book_1_arc_completion": {
+    "Reed": "0.0 to 0.60 - from nihilistic dealer to purposeful revolutionary, found meaning through sacrifice, proved system wrong",
+    "Amara": "0.0 to 0.50 - from complicit academic to activist researcher, chose truth over career safety",
+    "Yuki": "0.0 to 0.40 - from anxious multi-job worker to artist and community organizer",
+    "Marcus": "0.0 to 0.35 - from broken body to present father and community elder",
+    "Harris": "0.0 to 0.10 - slight crack in certainty, but mostly still in willful blindness"
+  },
+  "setup_for_book_2": [
+    "Reed in custody - what happens during trial?",
+    "Amara's research public - how does it spread?",
+    "Other sectors demanding UBI - how does corporate respond?",
+    "Building 7 without payments - can they sustain?",
+    "Corporate PR war vs grassroots truth",
+    "Reed becoming symbol vs real person",
+    "How long until they offer Reed the deal?"
+  ]
+}

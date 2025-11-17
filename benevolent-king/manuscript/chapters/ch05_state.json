@@ -1,0 +1,104 @@
+{
+  "chapter": 5,
+  "word_count": 2850,
+  "timeline": "Day 4, afternoon",
+  "location": "Level 8 - Specs's tech shop, then Kade's apartment",
+  "characters_present": ["Nico Chen", "Specs (tech fence)", "Kade Rivera"],
+  "character_states": {
+    "Nico Chen": {
+      "knows": [
+        "The data core contains 50 million credits in 17 accounts",
+        "The money likely came from Covenant Holdings embezzlement",
+        "Park Jin-ho was an accountant for Covenant Holdings",
+        "He has about 48 hours after first access before detection",
+        "Specs can be trusted for tech work and discretion",
+        "Kade has offered to help for a 500k cut",
+        "Accessing the money will start a dangerous clock"
+      ],
+      "emotional_state": "Overwhelmed, anxious, but experiencing hope for first time in years - dangerous combination",
+      "arc_position": 0.1,
+      "location": "Level 8, Kade's apartment",
+      "physical_state": "Anxious, using more Veil than normal due to stress",
+      "current_resources": "Data core with access to 50 million credits, owes Specs 1000 credits immediately",
+      "key_decision": "Has decided to use the money to escape Level 8"
+    },
+    "Kade Rivera": {
+      "knows": [
+        "The full truth about the 50 million credits",
+        "The money is likely Covenant Holdings related",
+        "How to move money covertly (from military logistics background)",
+        "Nico is planning to use the money"
+      ],
+      "emotional_state": "Darkly amused at the absurdity, but energized by the challenge - first real purpose in years",
+      "arc_position": 0.05,
+      "location": "Level 8, his apartment",
+      "deal_made": "500k cut for helping Nico manage the money safely"
+    },
+    "Specs": {
+      "knows": [
+        "Full details of the data core and accounts",
+        "Park Jin-ho's identity and corporate connection",
+        "Exactly how much danger Nico is in"
+      ],
+      "emotional_state": "Professional wariness, genuine concern for Nico but maintains boundaries",
+      "arc_position": 0.0,
+      "location": "Level 8, his tech shop",
+      "deal_made": "10k total for verification and consultation (1k now, 9k later)"
+    }
+  },
+  "revealed_to_reader": [
+    "The data core is worth exactly 50,234,612 credits",
+    "Park Jin-ho was an accountant for Covenant Holdings construction company",
+    "The accounts are quantum-locked and theoretically untraceable",
+    "48-hour detection window after first account access",
+    "Kade has military logistics background and relevant skills",
+    "Specs is a reliable tech fence with high-level skills",
+    "The money is likely from corporate embezzlement",
+    "Covenant Holdings has serious security resources"
+  ],
+  "planted": [
+    {
+      "element": "Park Jin-ho's identity and corporate connection",
+      "payoff_chapter": null,
+      "significance": "Will be revealed later (Book 2, Ch 19) that he was trying to expose embezzlement and was killed for it"
+    },
+    {
+      "element": "Kade's military logistics background",
+      "payoff_chapter": null,
+      "significance": "Explains his skills, will be relevant when organizing Nico's operation in later chapters"
+    },
+    {
+      "element": "48-hour detection window",
+      "payoff_chapter": 6,
+      "significance": "Creates time pressure for Nico's first money move"
+    },
+    {
+      "element": "Specs's warning about not spending conspicuously",
+      "payoff_chapter": 10,
+      "significance": "Nico's attempts to buy his way up tiers will fail partly because he can't explain his sudden wealth"
+    },
+    {
+      "element": "Kade's comment about 'money won't fix you'",
+      "payoff_chapter": null,
+      "significance": "Foreshadows that wealth doesn't solve Nico's addiction or fundamental issues"
+    },
+    {
+      "element": "Covenant Holdings private security and resources",
+      "payoff_chapter": 15,
+      "significance": "They will eventually investigate and threaten Nico"
+    }
+  ],
+  "active_tensions": [
+    "Nico has life-changing money but it's dangerous to use",
+    "48-hour detection window creates time pressure",
+    "Corporate powers will be looking for this money",
+    "Nico's hope vs. Kade's cynicism about whether money can change anything",
+    "The secret must be kept - but two people already know"
+  ],
+  "world_changes": [
+    "Nico now has access to 50 million credits",
+    "Kade and Specs are now complicit in the scheme",
+    "A clock is ticking - the money will be traced eventually"
+  ],
+  "notes": "Second tentpole chapter (INCITING INCIDENT). This is the point of no return - Nico has the money and has decided to use it. Introduces Specs as tech ally and deepens Kade's role. Establishes the stakes: life-changing wealth vs. serious danger. Nico's arc begins: experiencing hope for the first time in years. The 'heist' is actually un-stealing already stolen money. Key line: 'Enough to change everything. Or destroy them both.'"
+}

@@ -1,0 +1,79 @@
+{
+  "chapter": 6,
+  "word_count": 2450,
+  "timeline": "Day 12, approximately one week after Ch 5",
+  "location": "Level 6 Housing Administration, Level 6 concourse, Level 8 Archway Pods",
+  "characters_present": ["Nico Chen", "Housing administrator (unnamed)", "Security guard (minor)"],
+  "character_states": {
+    "Nico Chen": {
+      "knows": [
+        "He has 50 million credits but it doesn't show on his face or record",
+        "Criminal records (2 possession charges in past year) disqualify him from Level 6 housing",
+        "Active drug use is grounds for denial",
+        "Section 47-B requires 6 months sobriety, stable employment, character references",
+        "The system is designed to permanently bar people with drug charges",
+        "Walking in 'straight' was naive - the money isn't enough on its own",
+        "He needs to either fake employment/scrub records OR bribe someone"
+      ],
+      "emotional_state": "Humiliated, angry, desperate, craving Veil intensely, realizing his hope was foolish",
+      "arc_position": 0.12,
+      "location": "Level 8 Archway Pods at chapter end",
+      "physical_state": "Shaking with anger and craving, hasn't used yet but wants to badly",
+      "current_resources": "Still ~50 million credits, planning next move (bribing officials)",
+      "key_realization": "Money alone doesn't matter - the system already decided what he is nine years ago"
+    }
+  },
+  "revealed_to_reader": [
+    "Level 6 is visibly, dramatically nicer than Level 8 (clean smell, real furniture, professional environment)",
+    "Housing applications require background checks showing criminal records",
+    "Section 47-B: Drug charges within 5 years disqualify from Levels 6+",
+    "Requirements for exception: 6 months documented sobriety, stable employment, character references",
+    "Nico has 2 possession charges in the past year",
+    "He's still actively using Veil",
+    "The administrator doesn't believe he has money because rich people don't apply for Level 6",
+    "Level 8 residents are immediately recognizable by appearance and bearing",
+    "Nico's 'inheritance' story is transparent and unconvincing",
+    "The Archway Pods are his current home - sleeping capsules barely big enough to lie down in"
+  ],
+  "planted": [
+    {
+      "element": "Section 47-B housing code permanently barring drug offenders",
+      "payoff_chapter": 8,
+      "significance": "Maya will explain this is by design, not accident - system maintains underclass"
+    },
+    {
+      "element": "Kade's warning about being seen as a desperate mark",
+      "payoff_chapter": 7,
+      "significance": "Nico will get scammed trying to bribe someone"
+    },
+    {
+      "element": "Administrator's line: 'If you had 50 million, you'd apply for Level 3'",
+      "payoff_chapter": null,
+      "significance": "True but reveals another barrier - he doesn't even know how wealth works at that level"
+    },
+    {
+      "element": "Kade suggests shell companies and fake employment",
+      "payoff_chapter": 9,
+      "significance": "This will be the strategy when trying to start a business"
+    },
+    {
+      "element": "Nico researching officials with gambling debts/expensive habits",
+      "payoff_chapter": 7,
+      "significance": "Leads to the bribe attempt and scam"
+    }
+  ],
+  "active_tensions": [
+    "Nico has unprecedented wealth but can't access its benefits due to systemic barriers",
+    "His criminal record permanently disqualifies him regardless of money",
+    "He's still actively using and has no intention of stopping",
+    "The gap between what he has (money) and what he needs (clean record, sobriety, respectability)",
+    "His desperation makes him a target for scams",
+    "Kade warned him but he didn't listen - will he learn?"
+  ],
+  "world_changes": [
+    "Nico's first formal rejection from the tier system",
+    "He's now researching corrupt officials to bribe",
+    "His understanding has shifted: money isn't enough alone"
+  ],
+  "notes": "First bridge chapter in the 'failed escape' arc (Chapters 6-9). Shows the brutal reality of systemic barriers in action. The housing administrator isn't cruel or unusual - she's following standard procedure. The system itself is the antagonist. Nico's class markers (appearance, speech, mannerisms) immediately identify him as not belonging, triggering assumptions and rejections before he even speaks. His attempt to prove he has money backfires - wealthy people don't act desperate or need to prove anything. The revelation of Section 47-B makes explicit what's been implicit: drug charges are designed to permanently trap people in lower tiers. This isn't a bug, it's a feature. Nico's arc barely moves (0.12) because he's still in reactive mode, still believing he can buy his way up if he just finds the right approach. The chapter ends with him doubling down on money-as-solution, not yet ready to accept that escape is impossible. Kade's warning about marks sets up Ch 7. The administrator's pity is almost worse than contempt - she assumes he's lying because the idea of a Level 8 junkie with real wealth is incomprehensible to her worldview."
+}

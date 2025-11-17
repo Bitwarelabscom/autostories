@@ -1,0 +1,136 @@
+{
+  "chapter": 16,
+  "word_count": 2480,
+  "timeline": "Month 11 of experiment",
+  "location": "Sector 1, Executive Level, Board Room",
+  "characters_present": ["Executive Director Jonathan Harris", "Jennifer Wu", "Marcus Venn (CMN anchor)", "Victoria Chen (Station Security)", "Bradley Morrison (Economic Policy)", "mentioned: Dr. Amara Osei"],
+  "character_states": {
+    "Executive Director Jonathan Harris": {
+      "knows": ["Sector 12 data shows crime down, health up", "Funding source increasing payments to 2,800 SC", "Financial forensics close to identifying benefactor", "Source is insider with finance knowledge", "Dr. Osei doing research that might prove UBI works", "They can control her through funding threats", "Escalation plan approved"],
+      "emotional_state": "Experiencing doubt for first time, stomach knotting, questioning when he became this person, but still approving escalation, compartmentalizing",
+      "arc_position": 0.15,
+      "location": "Sector 1 Board Room",
+      "internal_conflict": "Seeing positive data but choosing system over humans"
+    },
+    "Jennifer Wu": {
+      "knows": ["Labor participation down 47%", "Crime down 67%, health up", "Reframes positive outcomes as suspicious", "Burn rate 560,000 SC/month", "Optimization Initiative being countered"],
+      "emotional_state": "Cold competence, true believer in system",
+      "arc_position": 0.05,
+      "location": "Board Room"
+    },
+    "Victoria Chen": {
+      "knows": ["Forensics indicate insider from finance/auditing", "Mid-level person with access", "Close to identifying benefactor within 2 weeks"],
+      "emotional_state": "Focused, professional, hunting",
+      "arc_position": 0.05,
+      "location": "Board Room"
+    }
+  },
+  "revealed_to_reader": [
+    "Board meeting in Sector 1 Executive Level",
+    "Labor participation down 47% (consistent)",
+    "Crime down 67%, emergency healthcare down 52%, mental health crises down 71%",
+    "Life satisfaction up significantly",
+    "Transfers increased to 2,800 SC (corporate knows this)",
+    "Burn rate: 560,000 SC/month, 6.72 million annually",
+    "Corporate close to identifying Reed - within 2 weeks",
+    "Forensics shows: irregular corporate funds, insider with finance knowledge, mid-level",
+    "Dr. Amara Osei identified as threat",
+    "Amara is 32, from Sector 8, climbed on scholarships/loans",
+    "Still paying debt, prosperity score fragile",
+    "Her department 40% funded by Prosperity Collective",
+    "Corporate sits on university board",
+    "Plan: threaten university funding to control Amara's research",
+    "Escalation approved: reduce maintenance, reduce transit, stricter medical care, make life harder",
+    "Strategy: force burn rate up or make UBI insufficient",
+    "Goal: use Sector 12 as cautionary tale to discourage other sectors",
+    "Harris experiencing doubt but approving anyway",
+    "Harris beginning to see corporate language as euphemisms",
+    "Board members are true believers, can't see cruelty",
+    "Decision to 'help them understand value of contribution' = make them suffer"
+  ],
+  "planted": [
+    {
+      "element": "2 weeks until they identify Reed",
+      "payoff_chapter": "Book 2",
+      "significance": "Timeline for how long Reed has before exposure"
+    },
+    {
+      "element": "Plan to pressure university/threaten Amara's funding",
+      "payoff_chapter": 20,
+      "significance": "Harris will make the threat directly"
+    },
+    {
+      "element": "Harris's growing doubt and self-awareness",
+      "payoff_chapter": "Book 3 Ch 14",
+      "significance": "He eventually begins questioning complicity"
+    },
+    {
+      "element": "Escalated service reductions approved",
+      "payoff_chapter": 17,
+      "significance": "The squeeze begins"
+    },
+    {
+      "element": "Strategy to use Sector 12 as cautionary tale",
+      "payoff_chapter": "Book 2",
+      "significance": "Corporate's long game"
+    },
+    {
+      "element": "Morrison suggests 'communications problem'",
+      "payoff_chapter": null,
+      "significance": "Reveals corporate sees this as PR not policy"
+    }
+  ],
+  "continuity_notes": [
+    "Month 11 of experiment",
+    "Transfers at 2,800 SC/month (from ch15)",
+    "Burn rate 560,000 SC/month",
+    "200 units receiving transfers (building 7)",
+    "Crime down 67% (consistent)",
+    "Labor participation down 47% (consistent)",
+    "Sector Optimization Initiative already implemented (from ch15)",
+    "Financial forensics ongoing",
+    "CMN controlled by corporate",
+    "Prosperity Collective is the megacorp running the station"
+  ],
+  "voice_check": {
+    "Harris": "Corporate euphemisms throughout ('pre-prosperous', 'prosperity recalibration', 'traditional prosperity pathways'), friendly tone ('warm concern', 'friendly-grandfather smile'), never says 'poor' or 'punishment', orders cruelty with kind language - all check",
+    "Wu": "Corporate framing automatic ('prosperity require effort'), reframes positive as negative, precise - check",
+    "Morrison": "Sharp-edged, strategic, sees as 'communications problem' - check"
+  },
+  "themes_explored": [
+    "Banality of evil - good people doing terrible things systematically",
+    "Euphemistic language masking violence",
+    "Systems vs humans - choosing abstraction over people",
+    "Manufactured failure to protect ideology",
+    "Power's ability to make people self-censor",
+    "Harris's awakening doubt - too little, too late",
+    "When did I become this? - complicity and self-recognition",
+    "Suffering as pedagogy - 'teaching value of work'",
+    "Using human beings as cautionary tales",
+    "Cosmic indifference vs human responsibility"
+  ],
+  "corporate_strategies_revealed": [
+    "Escalate service reductions to increase burn rate",
+    "Force UBI to either bankrupt or prove insufficient",
+    "Use Sector 12 as cautionary tale for other sectors",
+    "Control academic research through funding threats",
+    "Reframe positive outcomes as suspicious",
+    "Make life harder and call it education",
+    "Find benefactor and stop experiment directly",
+    "Coordinate with CMN for narrative control",
+    "Present punishment as 'helping understand contribution'"
+  ],
+  "harris_internal_journey": [
+    "Notices phrases sound like euphemisms",
+    "Stomach knots with doubt",
+    "Asks if people are healthier because not desperate",
+    "Sees they're reframing positive as problems",
+    "Realizes they're planning to hurt people to prove point",
+    "Thinks 'when did I become this?'",
+    "Sees himself from outside - coordinating punishment",
+    "Chooses system anyway",
+    "Tells himself it's necessary",
+    "Goes to dinner - back to comfortable routines"
+  ],
+  "chapter_function": "Show antagonist perspective, reveal corporate strategies, plant Harris's doubt arc, demonstrate how systems punish success that threatens them, show escalation decision that leads to ch17's squeeze, establish threat to Amara"
+}

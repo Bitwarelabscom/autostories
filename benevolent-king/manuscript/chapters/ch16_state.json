@@ -1,0 +1,20 @@
+{
+  "chapter": 16,
+  "word_count": 2200,
+  "timeline": "Week 8 after Ch 15 (approximately Day 91)",
+  "location": "Lin Zhao's apartment, Level 8",
+  "characters_present": ["Nico Chen", "Lin Zhao"],
+  "character_states": {
+    "Nico Chen": {
+      "knows": ["Lin knows his burn rate (~750k/week) and remaining funds (~44M)", "Has ~10 months left at current rate", "Santos story—previous savior who left nothing when money ran out", "He's building dependency, not independence", "Must choose who to help with limited resources—impossible choices", "Real leadership means making himself unnecessary, not necessary", "He likes being needed/loved—that's the selfish part", "Must teach people to organize/fight, not just feed them", "He doesn't know how to organize a movement"],
+      "emotional_state": "Shaken by Lin's test, confronting his ego/selfishness, overwhelmed by challenge",
+      "arc_position": 0.52,
+      "current_resources": "~44M credits",
+      "key_realization": "He's building a house of cards that will collapse when money runs out—must build something that outlasts him"
+    }
+  },
+  "revealed_to_reader": ["Lin has tracked Nico's finances (burn rate 750k/week, ~44M left, ~10 months)", "Santos story—previous Level 8 savior with 20M, ran out in 2 years, killed himself when people turned on him", "Lin's test: choose 10 of 50 families to help—impossible choices", "Wang family, Petrov family, Chen family profiles", "Nico chooses based on who asks first/pulls heartstrings—not strategic", "Real problem isn't lack of charity—it's systemic design keeping people poor", "Real leadership = building something that outlasts you, making yourself unnecessary", "Nico admits he likes being needed—the selfish motivation", "He passed Lin's test by listening instead of being defensive", "He has 10 months to figure out how to organize people, not just feed them"],
+  "planted": [{"element": "Santos story—savior who left nothing", "payoff_chapter": null, "significance": "Warning of Nico's potential fate"}, {"element": "Must teach organizing/collective power", "payoff_chapter": null, "significance": "Book 3's focus on unions/cooperatives"}, {"element": "10 months left", "payoff_chapter": null, "significance": "Book 2 timeline—money running out"}],
+  "world_changes": ["Nico challenged to shift from charity to organizing", "Lin positioned as radical mentor", "Timeline pressure: 10 months to build lasting change"],
+  "notes": "Critical chapter—Lin challenges Nico's entire model. Santos story serves as cautionary tale. The 'impossible choice' test shows charity's limitations. Key insight: problem isn't lack of resources, it's systemic design. Nico must evolve from savior to organizer. Arc 0.52—past midpoint, facing hard truths about sustainability. Lin's test: he passed by listening (character growth). But admits he likes being needed (ongoing flaw). 10-month timeline creates urgency. Chapter title 'Lin's Test' has double meaning—test of character and test of model. Sets up Book 3's evolution toward collective organizing. Nico leaves with mission: make himself unnecessary. Doesn't know how—that's the work ahead."
+}

@@ -1,0 +1,114 @@
+{
+  "chapter": 3,
+  "word_count": 2650,
+  "timeline": "Days 2-4 after Chapter 1, early morning on day 5",
+  "location": "Level 8 - Various locations, Specs's shop, Kade's apartment",
+  "characters_present": ["Nico Chen", "Specs", "Kade Rivera (briefly)"],
+  "character_states": {
+    "Nico Chen": {
+      "knows": [
+        "The core contains 30-60 million credits in financial access codes",
+        "Accessing accounts will start a 48-hour detection clock",
+        "The money is likely connected to Covenant Holdings",
+        "He owes Specs 10k total (1k now, 9k after accessing money)",
+        "The core uses quantum-locked one-time-use access codes",
+        "He must tell no one and access accounts carefully",
+        "This could be his escape or his death"
+      ],
+      "emotional_state": "Overwhelmed, terrified, hopeful, in shock from the amount",
+      "arc_position": 0.03,
+      "location": "Level 8 streets",
+      "physical_state": "Recovering from 4 days of withdrawal after spending everything on Specs's fee, gaunt and exhausted",
+      "current_resources": "200 credits remaining, data core worth 30-60 million, owes Specs 1k immediately",
+      "has_sacrificed": "Sold entire Veil stash including personal supply, pawned jacket, went through severe withdrawal"
+    },
+    "Specs": {
+      "knows": [
+        "The core contains 30-60 million in financial accounts",
+        "Park Jin-ho was Covenant Holdings accountant",
+        "This is extremely dangerous money",
+        "His encryption crack was complex - took 2 days",
+        "Nico is desperate and likely to take massive risks"
+      ],
+      "emotional_state": "Professionally worried, wants distance from whatever happens next",
+      "arc_position": 0.0,
+      "location": "His tech shop",
+      "fee_agreed": "10k total - 1k now, 9k after Nico accesses money",
+      "warning_given": "Tell no one, don't access all at once, move through intermediaries"
+    },
+    "Kade Rivera": {
+      "knows": [
+        "Nico spent everything on Specs's fee",
+        "The crack is taking days (meaning complex/significant)",
+        "Nico went through severe withdrawal"
+      ],
+      "emotional_state": "Concerned enough to give free Veil to keep Nico alive",
+      "arc_position": 0.03,
+      "location": "His apartment",
+      "action_taken": "Gave Nico free vial and water on day 3"
+    }
+  },
+  "revealed_to_reader": [
+    "Nico hustled for 2 days selling everything to raise 6200 credits",
+    "He pawned his jacket, sold personal Veil supply, worked every corner",
+    "Went through severe withdrawal for 4 days (couldn't afford both food and Veil)",
+    "The core contains approximately 30-60 million credits estimate",
+    "Data is 400 terabytes compressed with advanced algorithms",
+    "Financial access codes for multiple accounts",
+    "48-hour detection window after first access",
+    "Quantum-locked one-time-use codes (theoretically untraceable)",
+    "Covenant Holdings is station's largest construction contractor with deep connections",
+    "Specs charges 10k total for crack work plus verification",
+    "The encryption was military-level, took 2 days to crack",
+    "Kade cares enough about Nico to give him free drugs to survive"
+  ],
+  "planted": [
+    {
+      "element": "48-hour detection window specified",
+      "payoff_chapter": 6,
+      "significance": "Creates urgency for first money access and movement"
+    },
+    {
+      "element": "Specs's advice: 'Don't access all at once, move through intermediaries'",
+      "payoff_chapter": 6,
+      "significance": "The strategy Nico and Kade will use"
+    },
+    {
+      "element": "'Tell no one'",
+      "payoff_chapter": 5,
+      "significance": "Nico immediately tells Kade - showing his need for connection"
+    },
+    {
+      "element": "Covenant Holdings has 'deep connections to station administration, SSS, corporate council'",
+      "payoff_chapter": 15,
+      "significance": "Why they're dangerous and will eventually investigate"
+    },
+    {
+      "element": "Nico's willingness to endure severe withdrawal for this hope",
+      "payoff_chapter": null,
+      "significance": "Shows depth of his desperation and capacity for self-sacrifice when motivated"
+    },
+    {
+      "element": "Specs: 'Whatever happens, I was never involved'",
+      "payoff_chapter": null,
+      "significance": "Everyone covering their tracks, showing this is serious danger"
+    }
+  ],
+  "active_tensions": [
+    "Nico has confirmation of massive wealth but no clear plan",
+    "He's broke (200 credits) and owes Specs 1k immediately",
+    "The money is dangerous - connected to powerful corp",
+    "48-hour clock starts when he accesses first account",
+    "His desperation vs. the need for caution",
+    "Kade's prediction 'whatever it is, it's complex' proved true",
+    "The gap between knowing about money and actually having it"
+  ],
+  "world_changes": [
+    "Nico now has verified knowledge the core is worth 30-60 million",
+    "He's in debt to Specs for 10k total",
+    "He's gone through severe hardship (4-day withdrawal, poverty, pawning possessions)",
+    "Specs is now involved and knows what Nico has",
+    "The encryption has been cracked - core is now accessible"
+  ],
+  "notes": "Bridge chapter showing Nico's desperation and sacrifice to verify the core. He gives up everything - possessions, personal Veil supply, endures severe withdrawal - showing how powerful his hope is. The verification scene reveals staggering amount (30-60 million estimate, exact amount in Ch 5) and establishes danger. Specs's warnings set up the strategy chapters to come. Kade's kindness (free vial) shows their friendship has real care. Arc barely moves (0.03) because Nico is still reacting, not yet acting on the money. The 4 days between chapters creates narrative space and shows passage of time. Ending on 'no idea what to do with it' sets up Ch 4's processing and Ch 5's planning with Kade. This chapter is about paying the cost before getting the prize - thematically important for Book 1's arc."
+}

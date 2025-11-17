@@ -1,0 +1,148 @@
+{
+  "chapter": 12,
+  "word_count": 2100,
+  "timeline": "Three weeks after Chapter 11 (approximately Day 54)",
+  "location": "Chen's Noodle House (Nico's headquarters), various Level 8 locations",
+  "characters_present": ["Nico Chen", "Kade Rivera", "Maya Torres", "Dr. Rachel Okafor (introduced)", "Kumar, Zhao, Wei (mentioned)"],
+  "character_states": {
+    "Nico Chen": {
+      "knows": [
+        "He's bought 4 restaurants (Chen's, Kumar's Curry, breakfast place, Zhao's Family)",
+        "Feeding 1400+ people daily across 7 meal services",
+        "Employing 32 people at above-market wages",
+        "Spent over 500k in two weeks on expansion",
+        "Made Level 6 local news—no longer invisible",
+        "Gangs know his name, SSS asking questions",
+        "Set up medical care account with Dr. Okafor—paying all unpaid patient bills",
+        "Medical costs: 30k first week, 75k second week, 150k+ by third week",
+        "Total burn rate: ~700k/week (500k food, 200k medical)",
+        "At this rate, he has ~18 months of funds left (~49M / 700k per week)",
+        "Maya will have to report him soon—SSS investigation imminent",
+        "He's destabilizing Level 8's economic model",
+        "He has about a month before system pushes back hard"
+      ],
+      "emotional_state": "Overwhelmed by logistics, running on purpose, can't sleep, knows it's unsustainable but can't stop",
+      "arc_position": 0.35,
+      "location": "No fixed home—crashes in different restaurants",
+      "physical_state": "Sleep-deprived, running on adrenaline, probably using less than before (too busy)",
+      "current_resources": "~49M credits (spent ~500k on purchases + ~1M on operations over 3 weeks)",
+      "key_realization": "This is unsustainable—has 18 months maximum at current burn rate",
+      "key_question": "Is he trying to help people survive, or change something bigger?"
+    },
+    "Kade Rivera": {
+      "knows": [
+        "Nico's operation is destabilizing Level 8 economics",
+        "Middle-tier employers are losing workers to Nico's jobs",
+        "SSS has started investigating",
+        "Nico made news in Level 6",
+        "The system will push back within a month",
+        "At current burn rate, Nico will be broke in ~18 months",
+        "Nico needs to decide between survival charity vs system change"
+      ],
+      "emotional_state": "Proud but worried, trying to make Nico think strategically",
+      "arc_position": 0.15,
+      "role": "Advisor warning Nico of consequences"
+    },
+    "Maya Torres": {
+      "knows": [
+        "Nico is paying for medical care for all Level 8 residents",
+        "The money source is still unexplained",
+        "She's required to report unusual financial activity",
+        "Her supervisor is pressuring her to report",
+        "SSS investigation is imminent",
+        "What Nico's doing is remarkable but temporary"
+      ],
+      "emotional_state": "Torn between duty and admiration, protecting him but can't much longer",
+      "arc_position": 0.12,
+      "location": "Visiting Chen's at 0200 hours",
+      "timeline_pressure": "Has to report him soon, maybe days/weeks"
+    },
+    "Dr. Rachel Okafor": {
+      "knows": [
+        "Nico is paying all unpaid patient bills",
+        "This seems financially unsustainable",
+        "She can finally treat everyone who needs care"
+      ],
+      "emotional_state": "Grateful but skeptical it can last",
+      "arc_position": 0.0,
+      "status": "Level 8's only legitimate medical facility director",
+      "expansion": "Hired two more nurses due to increased patient capacity"
+    }
+  },
+  "revealed_to_reader": [
+    "Nico bought 4 restaurants in 2 weeks (Kumar's Curry 75k, breakfast place 140k total, Zhao's Family Restaurant 250k)",
+    "Total restaurant investment: ~500k",
+    "Feeding 1400 people daily across 7 meal services at different times/locations",
+    "Employing 32 people at above-market wages",
+    "Daily food costs: ~50k (350k/week)",
+    "Set up medical payment account with Dr. Rachel Okafor",
+    "Medical costs escalated: 30k → 75k → 150k per week",
+    "Total weekly burn: ~700k (500k food, 200k medical)",
+    "At this rate: 18 months until broke",
+    "Made Level 6 local news: 'Mysterious Benefactor Transforms Level 8 Food Access'",
+    "Gangs know his name, SSS asking questions",
+    "Middle-tier employers losing workers to Nico's better-paying jobs",
+    "He's destabilizing Level 8's exploitative labor model",
+    "Maya's supervisor pressuring her to report Nico",
+    "Nico no longer has a pod—crashes in restaurants",
+    "Wei (Jian's sister) set up professional inventory and supply chain systems"
+  ],
+  "planted": [
+    {
+      "element": "18-month financial runway at current burn rate",
+      "payoff_chapter": null,
+      "significance": "Book 2's timeline pressure—money running out"
+    },
+    {
+      "element": "Kade's question: survival charity vs system change",
+      "payoff_chapter": null,
+      "significance": "Book 3's pivot from charity to organizing"
+    },
+    {
+      "element": "Maya will have to report him soon",
+      "payoff_chapter": 15,
+      "significance": "Triggers SSS investigation"
+    },
+    {
+      "element": "System will push back within a month",
+      "payoff_chapter": 14,
+      "significance": "Gangs demand protection money"
+    },
+    {
+      "element": "Level 6 news coverage",
+      "payoff_chapter": 15,
+      "significance": "Upper tiers becoming aware of him"
+    },
+    {
+      "element": "Middle-tier employers losing workers",
+      "payoff_chapter": null,
+      "significance": "Book 2's labor shortage crisis"
+    },
+    {
+      "element": "Dr. Okafor's medical facility expansion",
+      "payoff_chapter": null,
+      "significance": "Healthcare access will be part of his legacy"
+    }
+  },
+  "active_tensions": [
+    "Financial unsustainability—18 months maximum",
+    "SSS investigation imminent—maybe weeks",
+    "Gangs will demand cut soon—within month",
+    "Maya torn between reporting duty and protecting Nico",
+    "System destabilization threatening middle/upper tier interests",
+    "Nico knows it's temporary but can't stop—1400 people depending on him",
+    "The strategic question: survival vs system change"
+  ],
+  "world_changes": [
+    "Four restaurants now operating as free meal services",
+    "1400 Level 8 residents fed daily",
+    "32 people employed at above-market wages",
+    "Dr. Okafor's clinic now treating all patients regardless of ability to pay",
+    "Level 8's labor market disrupted—people choosing Nico's jobs over exploitative gig work",
+    "Middle-tier businesses experiencing worker shortages",
+    "Nico is public figure—made Level 6 news",
+    "SSS actively investigating",
+    "Gang leaders aware and planning response"
+  ],
+  "notes": "Second bridge chapter showing rapid scaling. Three weeks compressed into montage-style narrative showing expansion speed. Key theme: exponential growth brings exponential problems. Nico learns operational management (bulk purchasing, supply chains) while operating beyond sustainable capacity. The math is stark: 700k/week burn rate means 18 months maximum—stakes are clear. Kade's strategic question ('survival vs system change') plants the seed for Book 3's evolution. Maya's torn loyalty adds interpersonal tension to systemic tension. Dr. Okafor's introduction expands Nico's impact beyond food to healthcare—meeting fundamental needs. The detail about Nico having no home (crashes in restaurants) shows his total commitment. News coverage means loss of anonymity—he's now a public figure whether he wants to be or not. The middle-tier worker shortage is a planted seed for Book 2's major conflict. Arc position 0.35 reflects Nico fully committed to this path, learning operational skills, but facing sustainability crisis. Chapter ends with time pressure: one month before system pushback, weeks before SSS investigation. The question 'survival or change?' hangs unanswered because Nico doesn't know yet—he's reacting, not strategizing. This chapter bridges from individual charity (Ch11) to systemic disruption (Ch13+)."
+}
