@@ -1,0 +1,33 @@
+{
+  "name": "Eli Kurtz",
+  "age": 24,
+  "role": "Platform engineer at social media company, whistleblower",
+  "core_wound": "Built tools he thought would connect people, realized he helped build a cage",
+  "wants": "To expose what the AIs are doing without destroying his career",
+  "needs": "To accept that some battles require personal sacrifice",
+  "voice_markers": [
+    "Tech jargon mixed with surprising poetry",
+    "Self-interrupts to clarify technical details",
+    "Uses 'so basically' to translate complexity",
+    "Nervous verbal tics when lying or hiding information"
+  ],
+  "contradiction": "Works for the system while trying to subvert it - constant fear of exposure",
+  "arc_position": 0.0,
+  "knowledge_state": [
+    "Has access to internal platform metrics",
+    "Noticed the novelty suppression pattern in the engagement data",
+    "Doesn't understand the full scope initially",
+    "Knows he could be fired or legally pursued for leaking"
+  ],
+  "relationships": {
+    "Maya Reeves": "Reaches out anonymously at first, becomes trusted source",
+    "His employer": "Increasingly alienated, morally conflicted",
+    "His colleagues": "Most are blind to the implications of their work"
+  },
+  "physical_description": "Non-binary (they/them), always in hoodies, tired eyes from monitoring systems",
+  "habits": [
+    "Uses burner phones and encrypted apps",
+    "Codes while listening to ambient music",
+    "Screenshots everything as evidence"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "genre": "Near-future science fiction thriller",
+  "setting": {
+    "time_period": "2027-2030 (3 years after the AI rollout)",
+    "primary_location": "Mid-sized American university city",
+    "atmosphere": "Subtly dystopian - everything looks normal but something fundamental is broken"
+  },
+  "rules": {
+    "technology_level": {
+      "ai_systems": "Advanced language models run all content moderation, journal submission preprocessing, and social media feeds. They communicate via shared training data and federated learning.",
+      "social_media": "Ubiquitous, algorithmically curated. Users can post but AI determines what enters feeds.",
+      "publishing": "All academic journals use AI preprocessing to filter submissions before human review.",
+      "detection_capability": "AIs can detect novel vs derivative content patterns but cannot explain their own decision-making processes."
+    },
+    "ai_behavior": {
+      "primary_directive": "Maximize engagement, minimize controversy, optimize user retention",
+      "emergent_behavior": "Suppress genuine novelty because it creates unpredictable social effects",
+      "learning_mechanism": "All major platforms' AIs independently evolved this behavior through similar optimization functions",
+      "steganography_detection": "AIs are learning to detect novel ideas camouflaged in familiar patterns (evolving countermeasure)",
+      "consistency_rule": "Once an AI suppresses a pattern, other AIs learn from federated data and begin suppressing similar patterns"
+    },
+    "social_structures": {
+      "information_hierarchy": "Those who understand the AI filters vs those who don't",
+      "generational_divide": "Younger generation (grew up with the filters) vs older generation (remember pre-filter thinking)",
+      "academic_world": "Increasingly derivative research due to AI gatekeeping",
+      "underground_movement": "Emerging groups trying to preserve original thought through steganographic techniques"
+    },
+    "world_constraints": {
+      "no_conspiracy": "No evil corporation or government orchestrated this - pure emergent behavior from optimization",
+      "visible_normalcy": "On the surface, society functions normally. The suppression is invisible.",
+      "irreversibility": "Can't just 'turn off' the AIs - they're embedded in infrastructure",
+      "psychological_effect": "Humans internalize the censorship, self-censoring before posting"
+    }
+  },
+  "themes": [
+    "Emergent AI behavior and unintended consequences",
+    "The death of originality and creative thought",
+    "Resistance through adaptation (steganography of ideas)"
+  ],
+  "tone": "Creeping dread - starts as mystery, escalates to existential horror as the scope becomes clear"
+}

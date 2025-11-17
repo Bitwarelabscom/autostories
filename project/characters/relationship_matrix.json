@@ -1,0 +1,68 @@
+{
+  "matrix": {
+    "Maya Reeves": {
+      "Zara Reeves": {
+        "relationship": "Mother-daughter",
+        "power_dynamic": "Parental authority, but Zara has emotional leverage",
+        "tension": "Maya wants to fix Zara's 'problem', Zara wants to be understood not fixed",
+        "arc": "From trying to help Zara fit in → realizing Zara's uniqueness is what she's fighting for"
+      },
+      "James Chen": {
+        "relationship": "Colleagues and intellectual sparring partners",
+        "power_dynamic": "Equal professional standing, he has more institutional security (tenure)",
+        "tension": "He thinks she's falling into conspiratorial thinking, she needs him to validate her findings",
+        "arc": "From friendly skepticism → grudging acceptance → active ally"
+      },
+      "Sarah Okonkwo": {
+        "relationship": "Old friends and former colleagues",
+        "power_dynamic": "Sarah has deeper technical knowledge, Maya has the linguistic insight",
+        "tension": "Sarah's pessimism vs Maya's determination",
+        "arc": "Reconnect → collaborate → Sarah teaches Maya steganographic thinking"
+      },
+      "Eli Kurtz": {
+        "relationship": "Source and ally",
+        "power_dynamic": "Eli has insider information, Maya has public voice",
+        "tension": "Eli's fear of exposure vs Maya's need for evidence",
+        "arc": "Anonymous contact → trusted source → Eli risks career to help"
+      }
+    },
+    "Zara Reeves": {
+      "Maya Reeves": {
+        "relationship": "Daughter to mother",
+        "power_dynamic": "Dependent but emotionally powerful",
+        "tension": "Feels like a specimen her mom is studying rather than understanding",
+        "arc": "From feeling patronized → becoming central to the resistance → teaching her mom"
+      },
+      "Peers": {
+        "relationship": "Increasingly isolated from age group",
+        "power_dynamic": "Social hierarchy excludes her",
+        "tension": "Wants connection but authentic voice creates distance",
+        "arc": "Internalizes rejection → understands it's not her → becomes proud of originality"
+      }
+    },
+    "James Chen": {
+      "Maya Reeves": {
+        "relationship": "Skeptical friend",
+        "power_dynamic": "Institutional comfort gives him confidence in his skepticism",
+        "tension": "His rigorous skepticism is both his strength and his blindness",
+        "arc": "Dismisses her → tests her claims → discovers his own work has been filtered"
+      }
+    },
+    "Sarah Okonkwo": {
+      "Maya Reeves": {
+        "relationship": "Friend and collaborator",
+        "power_dynamic": "Sarah has answers Maya needs",
+        "tension": "Sarah's fatalism vs Maya's hope",
+        "arc": "Explains the problem → joins the investigation → helps develop countermeasures"
+      }
+    },
+    "Eli Kurtz": {
+      "Maya Reeves": {
+        "relationship": "Whistleblower to journalist-figure",
+        "power_dynamic": "Eli has evidence, Maya has platform (or tries to)",
+        "tension": "Professional risk vs moral imperative",
+        "arc": "Anonymous tips → direct contact → full exposure despite consequences"
+      }
+    }
+  }
+}

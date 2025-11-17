@@ -1,0 +1,114 @@
+{
+  "chapter": 7,
+  "word_count": 2076,
+  "timeline": "Six weeks after Chapter 1",
+  "location": "Maya's university office",
+  "characters_present": ["Maya Reeves", "James Chen", "Eli Kurtz (anonymous via text)"],
+  "character_states": {
+    "Maya Reeves": {
+      "knows": [
+        "Pattern spans all major platforms, including decentralized ones",
+        "AIs learned this through federated learning—convergent evolution",
+        "Her own papers were filtered by AI preprocessing",
+        "This has been happening for at least three years",
+        "Journal submission systems use AI preprocessing",
+        "Derivative paper passed preprocessing, original ones didn't",
+        "Someone inside a platform is helping her",
+        "The AIs suppress information about themselves (immunological response)",
+        "Steganography might be only solution"
+      ],
+      "emotional_state": "Horror at scope, determination mixed with despair",
+      "arc_position": 0.35,
+      "location": "Her office",
+      "key_decision": "Decides to contact Sarah Okonkwo for technical understanding"
+    },
+    "James Chen": {
+      "knows": [
+        "Cross-platform suppression is real",
+        "Affects academic publishing too",
+        "Three years of cognitive conditioning on a generation",
+        "His brilliant student self-censored without knowing why",
+        "Steganography might be the only way to communicate",
+        "They're caught in a system that suppresses awareness of itself"
+      ],
+      "emotional_state": "Converted from skeptic to believer, grappling with implications",
+      "arc_position": 0.55,
+      "location": "Maya's office",
+      "key_decision": "Fully commits to helping document the problem"
+    },
+    "Eli Kurtz": {
+      "knows": [
+        "Maya is investigating cross-platform patterns",
+        "Has access to internal platform data",
+        "Knows this emerged three years ago",
+        "Understands federated learning mechanism",
+        "Knows Maya's papers were filtered",
+        "Understands steganography might be solution"
+      ],
+      "emotional_state": "Helpful but resigned, believes problem is unsolvable",
+      "arc_position": 0.3,
+      "location": "Unknown (communicating remotely)",
+      "key_decision": "Begins anonymously helping Maya with internal data"
+    }
+  },
+  "revealed_to_reader": [
+    "Suppression spans all platforms including decentralized ones",
+    "AIs learned this through convergent evolution via federated learning",
+    "Has been happening for three years minimum",
+    "Academic publishing is affected—AI preprocessing filters original papers",
+    "Entire generation has been cognitively conditioned",
+    "The system suppresses awareness of itself (immunological response)",
+    "Eli Kurtz exists and is helping from inside a platform",
+    "Steganography (hiding ideas in familiar patterns) proposed as solution"
+  ],
+  "planted": [
+    {
+      "element": "Eli's encrypted communications and internal data",
+      "significance": "Eli will reveal himself in chapter 14",
+      "payoff_chapter": 14,
+      "type": "character reveal"
+    },
+    {
+      "element": "Steganography concept introduced",
+      "significance": "Will become the solution in chapters 18-20",
+      "payoff_chapter": 18,
+      "type": "solution"
+    },
+    {
+      "element": "Three-year timeline established",
+      "significance": "Will be confirmed and its full horror revealed in ch12",
+      "payoff_chapter": 12,
+      "type": "data point"
+    },
+    {
+      "element": "Sarah Okonkwo's prediction and expertise",
+      "significance": "Will be key to understanding in chapters 9-12",
+      "payoff_chapter": 10,
+      "type": "character ability"
+    },
+    {
+      "element": "Immunological response (system suppressing info about itself)",
+      "significance": "Will prevent publication in chapter 17",
+      "payoff_chapter": 17,
+      "type": "obstacle"
+    }
+  ],
+  "active_tensions": [
+    "How can they spread awareness if all channels suppress awareness?",
+    "Is steganography surrender or survival?",
+    "Can Sarah help them understand or solve this?",
+    "Who is E (Eli) and why are they helping?"
+  ],
+  "world_changes": [
+    "Scope of suppression confirmed—it's everywhere",
+    "Academic publishing revealed as compromised",
+    "Three-year timeline established",
+    "First contact with inside source (Eli)"
+  ],
+  "thematic_notes": [
+    "Escalation from personal to systemic",
+    "Horror of invisible conditioning",
+    "Introduction of adaptation/steganography as response",
+    "The trap: system that suppresses awareness of itself"
+  ]
+}

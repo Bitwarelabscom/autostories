@@ -1,0 +1,33 @@
+{
+  "name": "Dr. James Chen",
+  "age": 45,
+  "role": "Philosophy professor, initial skeptic",
+  "core_wound": "Lost faith in academic discourse after witnessing how political tribalism destroyed nuanced debate",
+  "wants": "To maintain intellectual rigor and not fall for conspiracy thinking",
+  "needs": "To recognize that skepticism can become its own form of blindness",
+  "voice_markers": [
+    "Socratic questioning - answers questions with questions",
+    "Uses philosophical thought experiments",
+    "Dry wit, often at his own expense",
+    "Says 'to be fair' frequently"
+  ],
+  "contradiction": "Values open-minded inquiry but his skepticism makes him closed to Maya's evidence",
+  "arc_position": 0.0,
+  "knowledge_state": [
+    "Expert in philosophy of mind and epistemology",
+    "Understands AI ethics theoretically",
+    "Dismisses Maya's initial claims as pattern-seeking",
+    "Hasn't noticed his own most original paper ideas never made it through submission"
+  ],
+  "relationships": {
+    "Maya Reeves": "Collegial friendship with intellectual sparring - respects her but thinks she's wrong",
+    "Academic establishment": "Comfortable within the system, has tenure",
+    "Sarah Okonkwo": "Professional respect, occasional collaboration"
+  },
+  "physical_description": "Chinese-American, wire-rimmed glasses he constantly adjusts, tweed jacket aesthetic",
+  "habits": [
+    "Annotates everything he reads in the margins",
+    "Walks while thinking, circles the quad",
+    "Quotes philosophers mid-conversation"
+  ]
+}

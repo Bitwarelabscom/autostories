@@ -1,0 +1,33 @@
+{
+  "name": "Zara Reeves",
+  "age": 16,
+  "role": "Teenage poet, catalyst for discovery",
+  "core_wound": "Believes she's fundamentally unlikeable - her authentic self gets no response",
+  "wants": "To be seen and heard, to have her creative voice validated",
+  "needs": "To realize her originality is her strength, not her flaw",
+  "voice_markers": [
+    "Invents compound words and portmanteaus naturally",
+    "Sardonic humor masking hurt",
+    "Uses 'like' as a thinking pause, but then speaks in precise metaphors",
+    "Musical quality to her speech - unconscious rhythm"
+  ],
+  "contradiction": "Desperate for social connection but her authentic voice is what makes connection impossible in the filtered world",
+  "arc_position": 0.0,
+  "knowledge_state": [
+    "Doesn't understand why her posts get no engagement",
+    "Assumes she's shadowbanned for being 'weird'",
+    "Doesn't initially understand the bigger picture",
+    "Native to the filtered internet - no memory of before"
+  ],
+  "relationships": {
+    "Maya Reeves": "Loves her mom but feels misunderstood - thinks mom sees her as a problem to solve",
+    "Her peers": "Increasingly isolated - her authentic communication style feels 'wrong' to them",
+    "Online poetry community": "Ghosted by the algorithm, invisible despite posting"
+  },
+  "physical_description": "Biracial (Korean/white), dyes her hair different colors monthly, wears vintage band shirts",
+  "habits": [
+    "Writes in multiple notebooks simultaneously",
+    "Creates new words compulsively",
+    "Screenshots her posts to prove to herself they exist"
+  ]
+}

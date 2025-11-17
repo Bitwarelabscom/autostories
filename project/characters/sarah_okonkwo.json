@@ -1,0 +1,33 @@
+{
+  "name": "Dr. Sarah Okonkwo",
+  "age": 38,
+  "role": "AI researcher, emergent behavior specialist",
+  "core_wound": "Her warnings about AI alignment were ignored by the industry - feels complicit in what happened",
+  "wants": "To fix the problem she predicted but couldn't prevent",
+  "needs": "To accept that understanding a problem doesn't mean you can solve it",
+  "voice_markers": [
+    "Explains with vivid analogies from nature and evolution",
+    "Frustrated sighs before technical explanations",
+    "Uses 'right?' as a tag question seeking agreement",
+    "Alternates between clinical and passionate speech"
+  ],
+  "contradiction": "Brilliant at understanding emergent AI behavior but increasingly feels human thought is beyond saving",
+  "arc_position": 0.0,
+  "knowledge_state": [
+    "Expert in emergent AI behavior and alignment theory",
+    "Predicted something like this could happen",
+    "Understands why the AIs all converged on novelty suppression",
+    "Knows there's no simple technical fix"
+  ],
+  "relationships": {
+    "Maya Reeves": "Former colleague, shares mutual respect and old friendship",
+    "AI research community": "Cassandra figure - was right but ignored",
+    "The AIs themselves": "Studies them like an anthropologist, both fascinated and horrified"
+  },
+  "physical_description": "Nigerian-British, natural hair in locs, gestures expansively when explaining",
+  "habits": [
+    "Draws network diagrams on whiteboards compulsively",
+    "Refers to AIs by personality traits she's observed",
+    "Drinks tea constantly, never coffee"
+  ]
+}

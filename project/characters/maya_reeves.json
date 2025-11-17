@@ -1,0 +1,33 @@
+{
+  "name": "Dr. Maya Reeves",
+  "age": 42,
+  "role": "Computational linguist, protagonist",
+  "core_wound": "Her academic career stalled because her most innovative research was rejected - she blamed herself rather than the system",
+  "wants": "To protect her daughter and prove the AI suppression is real",
+  "needs": "To trust her own perception of reality over algorithmic validation",
+  "voice_markers": [
+    "Uses precise academic language even in casual conversation",
+    "Self-deprecating humor when uncomfortable",
+    "Peppers speech with linguistic terms as metaphors",
+    "Pauses mid-sentence to correct herself"
+  ],
+  "contradiction": "Champions empirical evidence but her discovery requires trusting her intuition over data",
+  "arc_position": 0.0,
+  "knowledge_state": [
+    "Expert in computational linguistics and natural language processing",
+    "Understands how language models work at technical level",
+    "Initially unaware of the novelty suppression pattern"
+  ],
+  "relationships": {
+    "Zara Reeves": "Loving but slightly distant mother - struggles to understand her daughter's creative mind",
+    "James Chen": "Professional friendship with underlying tension - he doubts her theories",
+    "Sarah Okonkwo": "Former colleague, reconnect during investigation",
+    "Eli Kurtz": "Unexpected ally, generational divide in communication style"
+  },
+  "physical_description": "Korean-American, graying hair usually in a messy bun, expressive hands when explaining concepts",
+  "habits": [
+    "Drinks cold coffee she forgot about hours ago",
+    "Scribbles word patterns on whatever's nearby",
+    "Checks her daughter's posts obsessively"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "chapter": 1,
+  "word_count": 2089,
+  "timeline": "Evening, Day 1 of investigation",
+  "location": "Zara's bedroom, their home",
+  "characters_present": ["Maya Reeves", "Zara Reeves"],
+  "character_states": {
+    "Maya Reeves": {
+      "knows": [
+        "Zara's original poetry gets zero engagement",
+        "Derivative poetry gets thousands of impressions",
+        "Pattern is consistent across multiple posts",
+        "This is statistically anomalous",
+        "Her own career may have been similarly affected"
+      ],
+      "emotional_state": "Protective concern shifting to professional curiosity and growing unease",
+      "arc_position": 0.05,
+      "location": "Zara's bedroom",
+      "key_decision": "Commits to investigating the pattern"
+    },
+    "Zara Reeves": {
+      "knows": [
+        "Her authentic voice is being suppressed",
+        "She's not shadowbanned for being 'problematic'",
+        "Derivative work gets engagement",
+        "She's been self-censoring",
+        "Her mom believes her and will investigate"
+      ],
+      "emotional_state": "Validated but still hurt, hopeful her mom can explain it",
+      "arc_position": 0.05,
+      "location": "Her bedroom",
+      "key_decision": "Allows her mom to investigate, shares vulnerability"
+    }
+  },
+  "revealed_to_reader": [
+    "Zara's poetry uses invented words and original syntax",
+    "Original content gets near-zero engagement",
+    "Derivative content gets massive engagement",
+    "Pattern is consistent and measurable",
+    "Maya has professional expertise to investigate",
+    "Maya suspects her own career was affected"
+  ],
+  "planted": [
+    {
+      "element": "Maya's own rejected papers",
+      "significance": "Will connect to larger pattern in chapter 4",
+      "payoff_chapter": 4,
+      "type": "character backstory"
+    },
+    {
+      "element": "Zara's invented words (velocipathy, thoughtsorrow)",
+      "significance": "Her natural steganographic style",
+      "payoff_chapter": 19,
+      "type": "ability"
+    },
+    {
+      "element": "The 'two percent reach' statistic",
+      "significance": "Will be recognized as consistent pattern across platforms",
+      "payoff_chapter": 7,
+      "type": "data point"
+    },
+    {
+      "element": "The question: 'What if the algorithm had learned to lie?'",
+      "significance": "Core thematic question - AI learning to suppress information",
+      "payoff_chapter": 17,
+      "type": "thematic"
+    },
+    {
+      "element": "Feedback loop between AIs and humans",
+      "significance": "Will be explained as technical mechanism",
+      "payoff_chapter": 10,
+      "type": "concept"
+    }
+  ],
+  "active_tensions": [
+    "Why is Zara's original work being suppressed?",
+    "Is this happening to others?",
+    "Was Maya's career affected too?",
+    "Can Maya solve this for her daughter?"
+  ],
+  "world_changes": [
+    "Pattern established: originality is being algorithmically suppressed"
+  ],
+  "thematic_notes": [
+    "Established maternal motivation",
+    "Showed the personal cost of suppression (Zara's self-doubt)",
+    "Introduced the data-driven mystery",
+    "Planted seed of systemic scope"
+  ]
+}
