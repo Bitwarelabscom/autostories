@@ -1,0 +1,67 @@
+{
+  "trilogy": "Terraform Protocol",
+  "genre": "Planetary sci-fi with cosmic horror elements",
+  "setting": {
+    "time_period": "2240-2260",
+    "primary_location": "Mars - multiple colony sites and the ancient alien structure beneath Olympus Mons",
+    "atmosphere": "Red desert landscape transforming to alien green-blue as terraforming progresses, sense of creeping wrongness as the planet 'responds'",
+    "secondary_locations": [
+      "Olympus Station - main corporate colony",
+      "The Beneath - alien megastructure buried 2km under Olympus Mons",
+      "Valles Marineris Settlements - independent Marsborn communes",
+      "Earth Refugee Fleet - 50,000 people in orbit unable to land",
+      "Jezero Archaeological Site - where first alien artifacts discovered"
+    ]
+  },
+  "rules": {
+    "terraforming_mechanics": {
+      "nanite_conversion": "Self-replicating nanites convert CO2 to oxygen, but create psychoactive compounds affecting 12% of humans",
+      "seven_year_threshold": "After 7 years, terraforming process becomes irreversible - atmosphere will continue changing even if nanites deactivated",
+      "current_status": "Year 6 of terraforming in Book 1",
+      "side_effects": "Some colonists experience 'Mars Dreams' - visions of ancient alien civilization"
+    },
+    "alien_structure": {
+      "the_gardener": "Ancient AI that has been managing Mars' atmosphere for 2 million years",
+      "response_mechanism": "Structure responds to human neural patterns as 'immune response' to perceived threat",
+      "purpose": "Maintaining Mars in specific atmospheric state for reasons unknown",
+      "defensive_capability": "Can trigger seismic events, atmospheric storms, targeted 'corrections' to terraforming"
+    },
+    "technology_level": {
+      "fusion_drives": "Standard for orbital and inter-colony transport",
+      "genetic_adaptation": "Humans can be modified for low-gravity and thin atmosphere tolerance",
+      "no_ftl": "No faster-than-light travel or communication - Earth is 20-minute light delay",
+      "terraforming_tech": "Nanite-based atmospheric conversion, water extraction from ice",
+      "archaeological_tech": "Beginning to interface with alien systems"
+    },
+    "social_structures": {
+      "corporate_colony_states": "Five Earth corporations control major colonies, answerable to Earth governments",
+      "marsborn_independence_movement": "Second-generation Mars colonists seeking autonomy",
+      "earth_refugee_status": "Desperate population fleeing ecological collapse, no legal right to land",
+      "scientific_community": "Caught between corporate interests and pursuit of knowledge",
+      "the_adapted": "Humans genetically modified to survive Mars-as-it-is without terraforming"
+    },
+    "political_tensions": {
+      "earth_vs_mars": "Parent civilization trying to control child civilization",
+      "corporate_vs_independent": "Profit motive vs. colonist autonomy",
+      "terraforming_vs_adaptation": "Remake Mars or remake ourselves",
+      "refugee_crisis": "50,000 people in orbit, colonies refusing entry"
+    }
+  },
+  "themes": [
+    "Hubris of terraforming vs. adapting ourselves - are we remaking worlds or destroying them?",
+    "Parent civilization (Earth) vs. child civilization (Mars) - when does colony become independent species?",
+    "Understanding the alien vs. making it human - do we preserve alien ecology or human needs?"
+  ],
+  "tone": "Sense of creeping dread beneath colonial optimism, beauty of Mars landscape mixed with wrongness of changes, intimate character moments against vast planetary scale, growing horror as humans realize they're the invasive species",
+  "earth_context": {
+    "ecological_collapse": "Runaway climate change, mass refugee movements, Earth governments losing control",
+    "mars_as_solution": "Mars presented as 'New Earth' - second chance for humanity",
+    "communication_delay": "20-minute light delay makes Earth's input increasingly irrelevant",
+    "earth_perspective": "Views Mars colonies as property and investment, not independent societies"
+  },
+  "trilogy_arc": {
+    "book_1": "Discovery of alien structure, corporate suppression, first colony destroyed by 'immune response'",
+    "book_2": "Mars colonies fracture, revelation that aliens were Mars' original terraformers, their AI still protects the project",
+    "book_3": "The Gardener judges humanity, final choice between genetic adaptation or continuing terraforming (triggering planetary sterilization), compromise solution creates two versions of humanity"
+  }
+}

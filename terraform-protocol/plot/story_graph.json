@@ -1,0 +1,142 @@
+{
+  "trilogy": "Terraform Protocol",
+  "book_1": {
+    "title": "Red Soil Rising",
+    "chapter_count": 20,
+    "tentpoles": [
+      {
+        "chapter": 1,
+        "type": "hook",
+        "description": "Kessa discovers alien megastructure beneath Olympus Mons during excavation, first evidence of ancient Mars civilization"
+      },
+      {
+        "chapter": 7,
+        "type": "complication",
+        "description": "Corporate interests suppress Kessa's findings, accelerate terraforming, structure begins showing signs of activity"
+      },
+      {
+        "chapter": 12,
+        "type": "midpoint_reversal",
+        "description": "Structure responds to terraforming with 'immune response' - seismic events, atmospheric corrections, Kessa realizes it's still active"
+      },
+      {
+        "chapter": 17,
+        "type": "climax",
+        "description": "First colony destroyed by structure's defensive response, hundreds dead, Kessa's warnings validated too late"
+      },
+      {
+        "chapter": 20,
+        "type": "resolution",
+        "description": "Mars colonies divide: stop terraforming vs. continue at any cost, Earth refugee fleet demands landing rights"
+      }
+    ],
+    "causal_chains": [
+      {
+        "cause": "Kessa discovers alien structure (ch1)",
+        "effect": "Corporate suppression to protect terraforming investment (ch7)",
+        "chapters": [1, 7]
+      },
+      {
+        "cause": "Terraforming accelerates despite warnings (ch7)",
+        "effect": "Structure activates immune response (ch12)",
+        "chapters": [7, 12]
+      },
+      {
+        "cause": "Structure's defensive response (ch12)",
+        "effect": "First colony destroyed (ch17)",
+        "chapters": [12, 17]
+      },
+      {
+        "cause": "Colony destruction proves structure dangerous (ch17)",
+        "effect": "Mars factions fracture over terraforming continuation (ch20)",
+        "chapters": [17, 20]
+      }
+    ],
+    "planted_elements": [
+      {
+        "element": "Sage's genetic adaptation to Mars atmosphere",
+        "planted_chapter": 4,
+        "payoff_chapter": "Book 3, ch12",
+        "significance": "Proves humans can adapt to Mars-as-it-is"
+      },
+      {
+        "element": "The Gardener AI's attempt to communicate",
+        "planted_chapter": 8,
+        "payoff_chapter": "Book 2, ch15",
+        "significance": "Structure isn't attacking, it's trying to talk"
+      },
+      {
+        "element": "Dmitri's daughter in refugee fleet",
+        "planted_chapter": 11,
+        "payoff_chapter": "Book 2, ch18",
+        "significance": "Personal stake in landing refugees changes his position"
+      },
+      {
+        "element": "Ancient alien extinction event markers",
+        "planted_chapter": 13,
+        "payoff_chapter": "Book 2, ch10",
+        "significance": "Aliens died when they completed terraforming"
+      }
+    ]
+  },
+  "book_2": {
+    "title": "The Architects' Warning",
+    "tentpoles": [
+      {
+        "chapter": 1,
+        "type": "hook",
+        "description": "Mars civil conflict - Marsborn independence movement vs. Earth corporate control vs. refugee fleet crisis"
+      },
+      {
+        "chapter": 7,
+        "type": "complication",
+        "description": "Admiral Zhang's fleet begins forced landings, triggering more structure responses"
+      },
+      {
+        "chapter": 12,
+        "type": "midpoint_reversal",
+        "description": "Kessa deciphers alien AI - they weren't visitors, they were original terraformers who became extinct when they succeeded"
+      },
+      {
+        "chapter": 17,
+        "type": "climax",
+        "description": "Kessa communicates with The Gardener, learns continuing terraforming will trigger planetary sterilization"
+      },
+      {
+        "chapter": 20,
+        "type": "resolution",
+        "description": "Choice presented: genetic adaptation to Mars-as-it-is or continue terraforming (death), factions form"
+      }
+    ]
+  },
+  "book_3": {
+    "title": "Two Worlds Burning",
+    "tentpoles": [
+      {
+        "chapter": 1,
+        "type": "hook",
+        "description": "The Gardener judges humanity - can they coexist with living world or must they remake it?"
+      },
+      {
+        "chapter": 7,
+        "type": "complication",
+        "description": "Terraforming reaches 7-year threshold, becomes irreversible, planetary defense countdown begins"
+      },
+      {
+        "chapter": 12,
+        "type": "midpoint_reversal",
+        "description": "Kessa offers to merge consciousness with The Gardener to become translator between species"
+      },
+      {
+        "chapter": 17,
+        "type": "climax",
+        "description": "Final negotiation - compromise solution: one continent terraformed for refugees, rest preserved for Marsborn adaptation"
+      },
+      {
+        "chapter": 20,
+        "type": "resolution",
+        "description": "Kessa merges with AI, two versions of humanity emerge (Earthborn/Marsborn), bittersweet coexistence achieved"
+      }
+    ]
+  }
+}

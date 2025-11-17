@@ -1,0 +1,87 @@
+{
+  "trilogy": "The Ansible's Children",
+  "genre": "Space opera with intelligence/espionage elements",
+  "setting": {
+    "time_period": "2840-2880",
+    "primary_location": "47 human colony systems spread across 18-40 light-years from Earth",
+    "atmosphere": "Isolation despite connection - colonies can talk instantly but never visit, cultural divergence creating alien human subspecies, paranoia over information control",
+    "key_locations": [
+      "New Singapore - major ansible hub colony",
+      "Kepler-442 System - Lira's home colony",
+      "The Relay - massive ansible station in interstellar space",
+      "Earth (Sol System) - the origin, now silent",
+      "Tau Ceti Yards - where relativistic trade ships are built"
+    ]
+  },
+  "rules": {
+    "ansible_technology": {
+      "mechanism": "Quantum entanglement communication - instantaneous across any distance",
+      "energy_requirement": "Massive power requirements limit message frequency and length",
+      "operator_requirement": "Requires trained human operators to encode/decode quantum states",
+      "monopoly": "Ansible guild controls all ansible stations, only they can send/receive messages",
+      "vulnerability": "Any ansible that broadcasts can be traced by sufficiently advanced civilizations"
+    },
+    "physical_travel": {
+      "maximum_speed": "0.3c (30% speed of light) via fusion torch ships",
+      "travel_times": "20-60 years between most colonies at 0.3c",
+      "time_dilation": "Significant but not extreme at 0.3c - 20 years objective = ~18 years subjective",
+      "economic_impact": "Physical goods rarely traded, blueprints and data transmitted instead",
+      "relativistic_clans": "Communities of traders who spend most of their lives in transit"
+    },
+    "information_control": {
+      "ansible_guild_monopoly": "Only guild operators can send messages, creating information bottleneck",
+      "verification_problem": "No way to verify message authenticity except light-speed physical confirmation",
+      "light_delay_confirmation": "Physical evidence takes decades to arrive, by then ansible 'truth' is established",
+      "message_modification": "Operators can delay, alter, or fabricate messages without detection",
+      "historical_fabrication": "Present-time history can be written and rewritten in real-time"
+    },
+    "cultural_drift": {
+      "divergence_rate": "Approximately 0.8% cultural change per decade from Earth baseline",
+      "by_2880": "Colonies have diverged 40+ years from each other, nearly mutually incomprehensible worldviews",
+      "common_elements": "Earth Memory organization works to maintain shared cultural touchstones",
+      "language_drift": "Dialects emerging, some colonies barely comprehensible to others",
+      "speciation_timeline": "Current models predict separate human species in 10,000 years without travel"
+    },
+    "technology_level": {
+      "ansible_communication": "Instantaneous quantum entanglement messaging",
+      "fusion_drives": "0.3c maximum velocity",
+      "genetic_longevity": "200-year lifespans with treatments",
+      "colony_infrastructure": "Self-sufficient biospheres, terraforming",
+      "no_ftl_travel": "Absolutely impossible - physics barrier",
+      "no_strong_ai": "Narrow AI common, but no general intelligence"
+    },
+    "social_structures": {
+      "colonial_charters": "Each colony has unique government structure based on founding corporation/nation",
+      "ansible_guild": "Techno-religious organization controlling all FTL communication",
+      "relativistic_trade_clans": "Nomadic ship-borne communities, culturally distinct",
+      "earth_memory": "Organization dedicated to preserving common human cultural baseline",
+      "contact_factions": "Post-reveal groups wanting alien alliance",
+      "memory_factions": "Post-reveal groups wanting to preserve humanity independent from aliens"
+    },
+    "timeline_relativity": {
+      "present_time_problem": "Each colony's 'present' is different based on light-delay from Earth",
+      "ansible_creates_consensus": "Ansible allows colonies to synchronize on shared 'now'",
+      "when_earth_dies": "Different colonies learn at different times based on ansible message timing"
+    }
+  },
+  "themes": [
+    "Truth as commodity controlled by gatekeepers - information monopoly as ultimate power",
+    "Cultural drift and the loss of common humanity - how long can we remain 'human' together?",
+    "Information vs. physical presence - the difference between knowing and experiencing"
+  ],
+  "tone": "Paranoid espionage thriller meets philosophical space opera, intimate character moments across impossible distances, growing horror of isolation masquerading as connection, beauty and tragedy of human diversification",
+  "the_great_secret": {
+    "earth_silence": "Earth's ansible went silent 40 years before trilogy begins",
+    "guild_fabrication": "Ansible guild has been fabricating Earth's messages to prevent civilization collapse",
+    "true_reason": "Earth made contact with aliens who use FTL travel, attempted to share ansible tech",
+    "alien_quarantine": "Earth was forcibly isolated by aliens to prevent ansible spread",
+    "earth_sacrifice": "Earth detonated their ansible to prevent Harvesters from tracing signal to colonies",
+    "harvester_threat": "Von Neumann probes that destroy any civilization using ansible technology",
+    "current_danger": "Colonial ansible network has been broadcasting for 40 years, Harvesters are 3 years away"
+  },
+  "trilogy_arc": {
+    "book_1": "Lira discovers ansible message discrepancies, uncovers guild manipulation, reveals Earth has been silent for 40 years",
+    "book_2": "Colonies fracture over truth vs. fabrication, alien contact revelation, Earth's sacrifice discovered",
+    "book_3": "Harvester arrival, choice between ansible unity or isolated survival, Lira broadcasts truth then destroys ansible network"
+  }
+}

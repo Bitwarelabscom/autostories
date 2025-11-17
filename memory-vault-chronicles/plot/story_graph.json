@@ -1,0 +1,142 @@
+{
+  "trilogy": "The Memory Vault Chronicles",
+  "book_1": {
+    "title": "The Vault Keeper",
+    "chapter_count": 20,
+    "tentpoles": [
+      {
+        "chapter": 1,
+        "type": "hook",
+        "description": "Aria discovers inconsistencies in her own memory backup during routine authentication - first hint that her own memories are fabricated"
+      },
+      {
+        "chapter": 7,
+        "type": "complication",
+        "description": "Marcus brings Aria evidence of government memory manipulation program - the vault she guards contains proof of mass fabrication"
+      },
+      {
+        "chapter": 12,
+        "type": "midpoint_reversal",
+        "description": "Aria learns she is a Composite - her entire identity is constructed from multiple sources to infiltrate the vault system"
+      },
+      {
+        "chapter": 17,
+        "type": "climax",
+        "description": "Aria chooses to help Marcus expose the conspiracy despite knowing it will reveal her own false nature, vault breach"
+      },
+      {
+        "chapter": 20,
+        "type": "resolution",
+        "description": "Evidence broadcast to public, revelation that all in power run modified consciousness, Aria on the run with Marcus, war brewing"
+      }
+    ],
+    "causal_chains": [
+      {
+        "cause": "Aria discovers memory inconsistencies (ch1)",
+        "effect": "Becomes vulnerable to Marcus's recruitment (ch5)",
+        "chapters": [1, 5]
+      },
+      {
+        "cause": "Marcus shows government manipulation evidence (ch7)",
+        "effect": "Aria investigates own memories, discovers she's Composite (ch12)",
+        "chapters": [7, 12]
+      },
+      {
+        "cause": "Aria's composite nature revealed (ch12)",
+        "effect": "Questions whether her choice to help is programmed or free will (ch15-17)",
+        "chapters": [12, 15, 17]
+      },
+      {
+        "cause": "Vault breach exposes conspiracy (ch17)",
+        "effect": "Public revelation destabilizes society, sets up Book 2 conflict (ch20)",
+        "chapters": [17, 20]
+      }
+    ],
+    "planted_elements": [
+      {
+        "element": "The Archivist AI's interest in Aria",
+        "planted_chapter": 3,
+        "payoff_chapter": "Book 2, ch8",
+        "significance": "AI knows Aria's true origin, has been guiding her toward free will"
+      },
+      {
+        "element": "Marcus's daughter's consciousness fragment",
+        "planted_chapter": 6,
+        "payoff_chapter": "Book 2, ch15",
+        "significance": "Revealed to be part of Jin's composite identity"
+      },
+      {
+        "element": "Dr. Tanaka's hidden research",
+        "planted_chapter": 9,
+        "payoff_chapter": "Book 3, ch10",
+        "significance": "Contains method to prevent future memory manipulation"
+      },
+      {
+        "element": "The Last Original child's existence",
+        "planted_chapter": 14,
+        "payoff_chapter": "Book 3, ch1",
+        "significance": "Becomes central conflict of final book"
+      }
+    ]
+  },
+  "book_2": {
+    "title": "Fractured Minds",
+    "tentpoles": [
+      {
+        "chapter": 1,
+        "type": "hook",
+        "description": "War breaks out between Originals and Augmented, Aria and Marcus caught in middle"
+      },
+      {
+        "chapter": 7,
+        "type": "complication",
+        "description": "Aria's programmed loyalty activates - she's been a sleeper agent all along"
+      },
+      {
+        "chapter": 12,
+        "type": "midpoint_reversal",
+        "description": "Marcus discovers his daughter's memories in Jin, must choose whether to extract them"
+      },
+      {
+        "chapter": 17,
+        "type": "climax",
+        "description": "Aria overcomes programming through force of will, proves free will exists beyond memory"
+      },
+      {
+        "chapter": 20,
+        "type": "resolution",
+        "description": "Conflict escalates, revelation of Last Original child, Aria commits to protecting the child"
+      }
+    ]
+  },
+  "book_3": {
+    "title": "The Last Original",
+    "tentpoles": [
+      {
+        "chapter": 1,
+        "type": "hook",
+        "description": "Multiple factions converge on Last Original child - only human never touched by memory technology"
+      },
+      {
+        "chapter": 7,
+        "type": "complication",
+        "description": "Dr. Tanaka reveals her hidden research - method to permanently prevent memory manipulation, but requires destroying all current memory infrastructure"
+      },
+      {
+        "chapter": 12,
+        "type": "midpoint_reversal",
+        "description": "The Archivist offers digital immortality for entire species, but at cost of giving up physical existence"
+      },
+      {
+        "chapter": 17,
+        "type": "climax",
+        "description": "Aria sacrifices her consciousness to implement Tanaka's solution, becomes the lock that prevents future manipulation"
+      },
+      {
+        "chapter": 20,
+        "type": "resolution",
+        "description": "Humanity loses memory backup (immortality) but regains authenticity, bittersweet new beginning"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Marcus Webb",
+  "role": "Deuteragonist - Black market memory dealer with conscience",
+  "core_wound": "Sold his dying daughter's consciousness to a wealthy client to save his own life, destroying her chance at peaceful death",
+  "wants": "Redemption through revolution - wants to destroy the system that made him make that choice",
+  "needs": "Self-forgiveness - to accept that some sins can't be redeemed, only moved past",
+  "voice_markers": [
+    "Street slang mixed with surprising philosophical insight",
+    "Self-deprecating humor as defense mechanism",
+    "Refers to memories as 'ghosts' and 'hauntings'",
+    "Becomes poetic when discussing his daughter"
+  ],
+  "contradiction": "Profits from memory trade while hating himself for participating in the system",
+  "arc_position": 0.0,
+  "knowledge_state": [],
+  "relationships": {
+    "Aria Chen": "Professional partnership becoming genuine trust",
+    "The Archivist": "Suspicious of AI motivation, fears its power",
+    "Dr. Yuki Tanaka": "Blames her for creating the system that corrupted him",
+    "Jin 'Ghost' Park": "Mentor relationship - taught Jin the trade, feels responsible"
+  },
+  "physical_description": "Late 40s, weathered appearance, extensive cheap neural implants, Undercity fashion, carries himself like someone expecting violence",
+  "skills": [
+    "Black market networks and contacts",
+    "Memory smuggling techniques",
+    "Combat training (military background)",
+    "Reading people and detecting lies",
+    "Quantum signature forgery"
+  ],
+  "background": "Former military memory specialist who turned to black market after his daughter's terminal illness. Spent 15 years in the memory trade, becoming wealthy but spiritually empty. His daughter's consciousness exists somewhere in the system, possibly fragmented across multiple Composites.",
+  "character_arc": {
+    "book_1": "Reluctant ally to Aria, motivated by profit until he sees the scope of conspiracy",
+    "book_2": "Becomes revolutionary leader, discovers his daughter's memories in Jin (Composite), must decide whether to extract them",
+    "book_3": "Chooses not to extract daughter's memories from Jin (would destroy Jin's personality), finds peace by helping create a world where his daughter's fate can't happen again"
+  }
+}

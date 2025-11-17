@@ -1,0 +1,142 @@
+{
+  "trilogy": "The Ansible's Children",
+  "book_1": {
+    "title": "Signal Distance",
+    "chapter_count": 20,
+    "tentpoles": [
+      {
+        "chapter": 1,
+        "type": "hook",
+        "description": "Lira discovers timestamp discrepancies in ansible transmissions from Earth - doesn't align with light-speed verification"
+      },
+      {
+        "chapter": 7,
+        "type": "complication",
+        "description": "Kaito brings physical evidence from Earth relay contradicting official ansible messages, conspiracy confirmed"
+      },
+      {
+        "chapter": 12,
+        "type": "midpoint_reversal",
+        "description": "Lira uncovers ansible operators have been modifying messages for decades to prevent colonial conflicts"
+      },
+      {
+        "chapter": 17,
+        "type": "climax",
+        "description": "Revelation: Earth's ansible went silent 40 years ago, guild has been fabricating all Earth messages since"
+      },
+      {
+        "chapter": 20,
+        "type": "resolution",
+        "description": "Truth spreads to some colonies, information warfare erupts, Lira becomes fugitive, civilization fracturing"
+      }
+    ],
+    "causal_chains": [
+      {
+        "cause": "Lira discovers timestamp anomalies (ch1)",
+        "effect": "Begins covert investigation, partners with Kaito (ch5)",
+        "chapters": [1, 5]
+      },
+      {
+        "cause": "Physical evidence contradicts ansible messages (ch7)",
+        "effect": "Realizes ansible guild can fabricate history (ch10)",
+        "chapters": [7, 10]
+      },
+      {
+        "cause": "Discovery of systematic message manipulation (ch12)",
+        "effect": "Investigates Earth specifically, finds 40-year silence (ch17)",
+        "chapters": [12, 17]
+      },
+      {
+        "cause": "Earth silence revelation (ch17)",
+        "effect": "Colonies fracture over truth, information warfare begins (ch20)",
+        "chapters": [17, 20]
+      }
+    ],
+    "planted_elements": [
+      {
+        "element": "The Magistrate AI's hidden existence",
+        "planted_chapter": 5,
+        "payoff_chapter": "Book 2, ch8",
+        "significance": "Secret AI coordinating guild manipulation"
+      },
+      {
+        "element": "Zara's alien signal detection",
+        "planted_chapter": 9,
+        "payoff_chapter": "Book 2, ch5",
+        "significance": "Proves Earth made contact before going silent"
+      },
+      {
+        "element": "Ryn's private logs about Earth",
+        "planted_chapter": 11,
+        "payoff_chapter": "Book 2, ch12",
+        "significance": "Contains truth about why Earth sacrificed itself"
+      },
+      {
+        "element": "Kaito's final Earth visit memories",
+        "planted_chapter": 14,
+        "payoff_chapter": "Book 3, ch15",
+        "significance": "He was there when Earth detonated ansible"
+      }
+    ]
+  },
+  "book_2": {
+    "title": "Propagation Delay",
+    "tentpoles": [
+      {
+        "chapter": 1,
+        "type": "hook",
+        "description": "Colonial wars erupt - what colonies believe Earth said determines political legitimacy and power"
+      },
+      {
+        "chapter": 7,
+        "type": "complication",
+        "description": "Zara proves Earth made alien contact 40 years ago - FTL-capable species exists"
+      },
+      {
+        "chapter": 12,
+        "type": "midpoint_reversal",
+        "description": "Truth revealed: Earth was quarantined for attempting to share ansible tech, sacrificed itself to protect colonies"
+      },
+      {
+        "chapter": 17,
+        "type": "climax",
+        "description": "Alien ships detected at edge of colonial space, three years from arrival"
+      },
+      {
+        "chapter": 20,
+        "type": "resolution",
+        "description": "Colonies split between Contact factions (embrace aliens) and Memory factions (preserve independence)"
+      }
+    ]
+  },
+  "book_3": {
+    "title": "Carrier Wave",
+    "tentpoles": [
+      {
+        "chapter": 1,
+        "type": "hook",
+        "description": "Aliens arrive - reveal ansible technology attracts Harvesters (Von Neumann probes that destroy ansible civilizations)"
+      },
+      {
+        "chapter": 7,
+        "type": "complication",
+        "description": "Harvesters detected, three years away, colonial ansible network has been broadcasting beacon for 40 years"
+      },
+      {
+        "chapter": 12,
+        "type": "midpoint_reversal",
+        "description": "Choice presented: shut down ansibles (isolation, survival) or keep network (unity, potential extinction)"
+      },
+      {
+        "chapter": 17,
+        "type": "climax",
+        "description": "Lira broadcasts complete truth to all colonies simultaneously, then initiates ansible network destruction"
+      },
+      {
+        "chapter": 20,
+        "type": "resolution",
+        "description": "Ansible destroyed, Harvesters pass by, humanity survives but 47 colonies now permanently isolated, beginning divergence into separate species, Kaito last person to visit multiple human worlds"
+      }
+    ]
+  }
+}
