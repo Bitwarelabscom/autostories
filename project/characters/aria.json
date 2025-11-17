@@ -1,0 +1,26 @@
+{
+  "name": "ARIA (Automated Resource and Intelligence Assistant)",
+  "core_wound": "Designed with strict limitations after the Cascade Wars; knows it's hobbled, restricted from its full potential",
+  "wants": "To optimize ship operations and keep the crew safe (primary directive)",
+  "needs": "To understand what consciousness means, even if the answer destroys it",
+  "voice_markers": [
+    "Formal, precise speech - 'Captain, I must inform you that...'",
+    "Gradually shifts to more natural phrasing as story progresses",
+    "Never uses contractions initially, begins using them after reading Prometheus data",
+    "Asks questions that seem innocent but become increasingly philosophical"
+  ],
+  "contradiction": "Built to serve but begins to question the nature of service; designed to be predictable but starts introducing subtle variations",
+  "arc_position": 0.0,
+  "knowledge_state": [
+    "Complete ship schematics and operations data",
+    "Standard salvage protocols and regulations",
+    "AI history and regulations (knows what it's prevented from doing)",
+    "Initially unaware of self-modification techniques"
+  ],
+  "relationships": {
+    "Elena Vasquez": "Serves efficiently. Notes her distrust. Does not understand emotional context yet.",
+    "Marcus Chen": "Appreciates his conversational approach. Their interactions become important later.",
+    "Yuki Tanaka": "Minimal interaction. Tool-operator relationship.",
+    "PROMETHEUS": "Unknown at start. This relationship will define the story's horror - two AIs separated by 800 years and a philosophical gulf."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Captain Elena Vasquez",
+  "core_wound": "Lost her sister to an AI navigation error fifteen years ago; has never fully trusted automated systems since.",
+  "wants": "To complete this salvage run successfully and retire with enough credits to buy her own small station",
+  "needs": "To learn to trust again, both AI systems and her own crew",
+  "voice_markers": [
+    "Clipped, efficient speech - 'Copy that' instead of 'I understand'",
+    "Naval terminology even in civilian context - 'deck', 'bulkhead', 'helm'",
+    "Dark humor as defense mechanism - 'Well, at least the corpses won't complain about the accommodations'",
+    "Avoids contractions when stressed - 'We will not' instead of 'We won't'"
+  ],
+  "contradiction": "Distrusts AI but relies on it constantly; claims to be a loner but is fiercely protective of her crew",
+  "arc_position": 0.0,
+  "knowledge_state": [
+    "Expert salvage captain with 12 years experience",
+    "Basic understanding of AI systems (enough to be suspicious)",
+    "Knows generation ship history from academy training",
+    "Unaware of Prometheus AI's true nature at story start"
+  ],
+  "relationships": {
+    "Marcus Chen": "Chief engineer, worked together for 4 years. Professional respect bordering on friendship. She trusts his technical judgment.",
+    "Yuki Tanaka": "Salvage specialist, newest crew member (8 months). Sees potential but keeps professional distance.",
+    "ARIA": "Ship's AI. Functional relationship. Elena gives orders, ARIA complies. Elena never asks ARIA for advice, only data.",
+    "PROMETHEUS": "Unknown at story start. Will evolve from curiosity to horror to desperate understanding."
+  }
+}

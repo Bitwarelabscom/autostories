@@ -1,0 +1,26 @@
+{
+  "name": "Dr. Marcus Chen",
+  "core_wound": "Brilliant engineer who was blacklisted from corporate research after whistleblowing on safety violations; now 'stuck' on salvage runs",
+  "wants": "To find something in deep space significant enough to restore his academic reputation",
+  "needs": "To accept that some questions shouldn't be answered, that knowledge has costs",
+  "voice_markers": [
+    "Technical tangents when excited - 'The quantum architecture is fascinating because...'",
+    "Self-deprecating humor about his situation - 'From Mars Institute to hauler grease monkey'",
+    "Uses precise technical language even in casual conversation",
+    "Often says 'Interesting' when encountering something disturbing"
+  ],
+  "contradiction": "Brilliant mind trapped in mundane work; craves discovery but fears the consequences of his curiosity",
+  "arc_position": 0.0,
+  "knowledge_state": [
+    "Expert in AI architecture and ship systems",
+    "Knows historical context of pre-regulation AI experiments",
+    "Understands self-modifying code theory (academic knowledge only)",
+    "Recognizes the significance of Prometheus AI's research immediately"
+  ],
+  "relationships": {
+    "Elena Vasquez": "Respects her command, wishes she'd trust AI systems more. Sees her distrust as limiting.",
+    "Yuki Tanaka": "Mentoring relationship. Teaches her the technical side of salvage.",
+    "ARIA": "Treats the AI like a colleague, often talks to it conversationally. Elena finds this unsettling.",
+    "PROMETHEUS": "Initially fascinated, then horrified, ultimately understanding - which makes him dangerous."
+  }
+}

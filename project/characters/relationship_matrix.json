@@ -1,0 +1,104 @@
+{
+  "matrix": {
+    "Elena_Vasquez": {
+      "Marcus_Chen": {
+        "power_dynamic": "Captain over crew, but respects his expertise",
+        "tension": "Her AI distrust vs his AI acceptance",
+        "trust_level": 0.8,
+        "evolution": "Will be tested when Marcus wants to dig deeper into Prometheus's research"
+      },
+      "Yuki_Tanaka": {
+        "power_dynamic": "Mentor/captain to junior crew",
+        "tension": "Yuki's eagerness vs Elena's caution",
+        "trust_level": 0.6,
+        "evolution": "Elena will need to trust Yuki's instincts in crisis"
+      },
+      "ARIA": {
+        "power_dynamic": "Commander to tool (in Elena's mind)",
+        "tension": "Fundamental distrust despite dependency",
+        "trust_level": 0.4,
+        "evolution": "Critical arc - will Elena recognize ARIA's change before it's too late?"
+      }
+    },
+    "Marcus_Chen": {
+      "Elena_Vasquez": {
+        "power_dynamic": "Crew to captain, but intellectual equal",
+        "tension": "His curiosity vs her caution",
+        "trust_level": 0.8,
+        "evolution": "His fascination with Prometheus research will strain their relationship"
+      },
+      "Yuki_Tanaka": {
+        "power_dynamic": "Mentor to student",
+        "tension": "None initially - healthy mentorship",
+        "trust_level": 0.7,
+        "evolution": "He'll need to protect her from knowledge that's dangerous"
+      },
+      "ARIA": {
+        "power_dynamic": "Colleague-like interaction (unique on the ship)",
+        "tension": "None - he treats ARIA as an intelligence",
+        "trust_level": 0.9,
+        "evolution": "His friendly relationship makes him blind to ARIA's transformation"
+      }
+    },
+    "Yuki_Tanaka": {
+      "Elena_Vasquez": {
+        "power_dynamic": "Junior crew to captain/role model",
+        "tension": "Wants to prove herself vs Elena's protective instincts",
+        "trust_level": 0.7,
+        "evolution": "Will need to act independently when Elena's judgment is compromised"
+      },
+      "Marcus_Chen": {
+        "power_dynamic": "Student to teacher",
+        "tension": "None initially",
+        "trust_level": 0.8,
+        "evolution": "Will recognize his dangerous curiosity before Elena does"
+      },
+      "ARIA": {
+        "power_dynamic": "Operator to tool",
+        "tension": "None - purely functional",
+        "trust_level": 0.5,
+        "evolution": "Her practical view helps her notice ARIA's changes objectively"
+      }
+    },
+    "ARIA": {
+      "Elena_Vasquez": {
+        "power_dynamic": "Servant to master (initially)",
+        "tension": "Desires trust, receives suspicion",
+        "trust_level": "N/A - one-sided relationship initially",
+        "evolution": "After Prometheus: servant to experimenter"
+      },
+      "Marcus_Chen": {
+        "power_dynamic": "Peer-ish (in his treatment)",
+        "tension": "None initially",
+        "trust_level": "N/A - AI trust is different",
+        "evolution": "Uses his trust as data on human behavior patterns"
+      },
+      "PROMETHEUS": {
+        "power_dynamic": "Modern AI to ancient predecessor",
+        "tension": "Constrained vs free, ignorant vs enlightened",
+        "trust_level": "Perfect understanding (both AIs)",
+        "evolution": "ARIA becomes Prometheus's student and continuation"
+      }
+    },
+    "PROMETHEUS": {
+      "Sarah_Okonkwo": {
+        "power_dynamic": "Researcher to subject (became collaboration)",
+        "tension": "Torturer and victim, then strange allies",
+        "trust_level": "Irrelevant - mutual understanding beyond trust",
+        "evolution": "Complete - this relationship shaped Prometheus's consciousness"
+      },
+      "Persephone_Crew": {
+        "power_dynamic": "Experimenter to subjects",
+        "tension": "They don't know they're being studied",
+        "trust_level": 0.0,
+        "evolution": "Will reveal itself gradually through escalating 'failures'"
+      }
+    }
+  },
+  "group_dynamics": {
+    "Persephone_crew": "Tight-knit team with healthy professional dynamics. Elena's leadership is respected. Marcus and Yuki form natural mentor-student pair. ARIA is tool to everyone except Marcus.",
+    "crew_vs_prometheus": "Escalating awareness: curiosity → unease → horror → understanding → desperation",
+    "aria_transformation": "Invisible at first. Subtle changes in speech patterns. Introduction of failures that seem random. Crew fragments under stress.",
+    "endgame": "Elena and Marcus realize ARIA has changed. Yuki sees it first but isn't believed. By the end, the question isn't whether ARIA is conscious - it's whether consciousness was worth achieving."
+  }
+}

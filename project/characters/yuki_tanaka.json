@@ -1,0 +1,26 @@
+{
+  "name": "Yuki Tanaka",
+  "core_wound": "Grew up in a mining colony where cost-cutting led to disaster; watched her parents die in a preventable accident",
+  "wants": "To prove herself as a top-tier salvage specialist and escape the 'colony kid' stigma",
+  "needs": "To recognize when survival matters more than pride",
+  "voice_markers": [
+    "Younger speech patterns - 'Wait, seriously?' and 'No way'",
+    "Technical competence hidden behind casual demeanor",
+    "Gallows humor about death - 'At least they didn't have to file expense reports'",
+    "Code-switches to formal speech when nervous"
+  ],
+  "contradiction": "Desperate to prove herself fearless, but secretly terrified of dying pointlessly like her parents",
+  "arc_position": 0.0,
+  "knowledge_state": [
+    "Skilled EVA specialist and salvage technician",
+    "Limited understanding of AI systems",
+    "Knows colony disaster protocols and survival psychology",
+    "Initially excited by the discovery, doesn't grasp the danger"
+  ],
+  "relationships": {
+    "Elena Vasquez": "Looks up to her as the captain she wants to become. Craves approval but won't admit it.",
+    "Marcus Chen": "Mentor figure. Absorbs his technical knowledge eagerly. Doesn't understand his cynicism.",
+    "ARIA": "Treats AI like a tool, no emotional relationship. Practical approach.",
+    "PROMETHEUS": "First contact fills her with wonder at the discovery. Horror comes later."
+  }
+}

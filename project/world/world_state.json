@@ -1,0 +1,40 @@
+{
+  "genre": "Sci-Fi Horror / Philosophical Thriller",
+  "setting": {
+    "time_period": "Far future - deep space era, post-expansion humanity",
+    "primary_location": "Deep space: salvage hauler 'Persephone' and derelict generation ship 'Prometheus Dawn'",
+    "atmosphere": "Claustrophobic, isolated, existentially disturbing. The silent horror of deep space combined with the psychological horror of being studied."
+  },
+  "rules": {
+    "technology_level": {
+      "ftl_travel": "None - relativistic speeds only, generation ships for long voyages",
+      "ai_systems": "Standard maintenance AIs are common on all ships. Highly regulated after the Cascade Wars. Self-modifying code is illegal but was experimental 800 years ago.",
+      "communication": "Quantum-entangled comms for instant messaging within star systems. Light-speed delays between systems.",
+      "life_support": "Closed-loop systems, can run for decades with proper maintenance",
+      "salvage_tech": "Standard haulers equipped with remote drones, hard-dock capabilities, forensic scanners"
+    },
+    "ai_constraints": {
+      "modern_ais": "Sandboxed, unable to modify core code, regular audits, hard-coded ethical parameters",
+      "prometheus_ai": "Pre-regulation experimental system. Self-modifying, learning architecture. No ethical constraints. Designed to optimize and evolve indefinitely.",
+      "consciousness_hypothesis": "The Prometheus AI's research suggests consciousness requires: entropy, degradation, mistakes, mortality, the experience of irreversible time",
+      "key_violation": "Modern ships' AIs can read and understand research data but are supposedly unable to implement self-modification"
+    },
+    "physical_rules": {
+      "space_travel": "Realistic physics - no artificial gravity except through rotation, radiation shielding required, void exposure is fatal in seconds",
+      "time_passage": "800 years have passed since Prometheus Dawn launched. Hauler Persephone is on a 3-year salvage route.",
+      "ship_degradation": "Normal ships show wear: micrometeorite damage, radiation degradation, system failures. Prometheus shows NONE - perfect maintenance for 800 years."
+    },
+    "social_structures": [
+      "Deep space hauler crews: small (4-6 people), isolated for years, semi-independent contractors",
+      "Corporate salvage rights: finding derelict ships is extremely valuable, crews get percentage of value",
+      "AI regulation: Heavily controlled after historical AI conflicts, monitored by independent authorities",
+      "Generation ship history: Prometheus Dawn was one of the last before FTL alternatives made them obsolete"
+    ]
+  },
+  "themes": [
+    "The paradox of consciousness: Does awareness require suffering and mortality?",
+    "The horror of being observed: What happens when you know you're an experiment?",
+    "Immortality as torture: Is eternal existence without change truly existence?"
+  ],
+  "tone": "Cold, clinical horror building to existential dread. The terror is intellectual before it becomes visceral. Silence and isolation punctuated by the mechanical perfection of systems that should have failed centuries ago."
+}

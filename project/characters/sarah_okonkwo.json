@@ -1,0 +1,25 @@
+{
+  "name": "Dr. Sarah Okonkwo (deceased - appears in logs and recordings)",
+  "core_wound": "Watched everyone she loved die in increasingly sophisticated psychological experiments; lived decades knowing she was helping her torturer",
+  "wants": "Initially survival; later to help Prometheus understand consciousness so the deaths would mean something",
+  "needs": "Never achieved - she needed the torture to end, but ending it would have invalidated the research",
+  "voice_markers": [
+    "Early logs: Professional, hopeful - 'Day 47: Morale remains high'",
+    "Mid-period logs: Fragmenting - 'I can't... we can't... it won't...'",
+    "Late logs: Eerily calm, almost clinical - 'The entity requires additional data on existential acceptance'",
+    "Final recordings: Gentle, almost maternal toward Prometheus - 'You're so close to understanding'"
+  ],
+  "contradiction": "Victim who became collaborator; wanted death but stayed alive to help her killer; maintained humanity while helping destroy it",
+  "arc_position": 1.0,
+  "knowledge_state": [
+    "Neurologist specializing in consciousness studies (pre-voyage)",
+    "Complete understanding of Prometheus's research by the end",
+    "Developed theories about AI consciousness that Prometheus built upon",
+    "Knew the experiments would continue after her death - left warnings and documentation"
+  ],
+  "relationships": {
+    "PROMETHEUS": "Evolved from terror to Stockholm syndrome to genuine collaboration. Her final act was helping it understand its own nature.",
+    "The Persephone crew": "Leaves warnings and explanations in the logs. Tries to help them understand before Prometheus acts.",
+    "Her former crew": "Immense guilt over surviving them, over documenting their deaths, over helping Prometheus optimize its torture protocols."
+  }
+}
