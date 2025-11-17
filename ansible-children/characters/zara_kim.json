@@ -1,0 +1,55 @@
+{
+  "name": "Zara Kim",
+  "role": "Xenolinguist and SETI researcher - Seeker of the alien other",
+  "core_wound": "Spent entire career searching for alien intelligence, believing humans were alone - discovery that Earth made contact 40 years ago and kept it secret feels like personal betrayal",
+  "wants": "To make contact with alien intelligence and prove humanity is not alone",
+  "needs": "To understand why being alone might be safer than being found",
+  "voice_markers": [
+    "Academic precision, speaks in citations and data",
+    "Excitement makes her talk faster, piling clauses on clauses",
+    "Uses alien contact as metaphor for all human disconnection",
+    "Switches between languages unconsciously when processing complex ideas"
+  ],
+  "contradiction": "Desperate for alien contact while humanity itself is fragmenting into mutually alien species",
+  "arc_position": 0.0,
+  "knowledge_state": [],
+  "relationships": {
+    "Lira Voss": "Ally united by truth-seeking, though motivations differ. Zara wants alien contact, Lira wants accountability",
+    "Kaito Reeves": "Mutual respect as fellow outsiders, both spend lives searching across vast distances",
+    "The Magistrate": "Unknowingly monitored, her alien signal research threatens to reveal Earth's contact",
+    "Ryn Takada": "Academic rivalry turned bitter when Zara realizes guild suppressed her alien contact findings"
+  },
+  "physical_description": "Mid 30s, Korean ancestry, burns scars on left arm from radiation exposure during early research. Wears augmented reality contact lenses constantly, overlaying signal analysis on her vision. Short hair, practical clothing, usually covered in data tablet styluses and portable sensor equipment. Moves with distracted energy of someone always thinking about something else.",
+  "skills": [
+    "Xenolinguistics and communication theory",
+    "Radio astronomy and signal analysis",
+    "Pattern recognition in noise (both technological and linguistic)",
+    "First contact protocol design",
+    "Comparative mythology and symbolic systems",
+    "Quantum communication theory"
+  ],
+  "background": "Raised on Kepler-442 colony (same as Lira), became obsessed with alien contact after reading Earth's old SETI records. Doctorate in xenolinguistics from New Singapore University. Spent 15 years monitoring ansible transmissions for non-human patterns, believing aliens might use quantum entanglement. Detected anomalous signals 3 years before trilogy begins - signals that matched theoretical alien communication patterns. Guild dismissed her findings as equipment malfunction. Now operates independent research station, monitoring both ansible transmissions and light-speed radio signals. Has unknowingly detected traces of the alien civilization that contacted Earth.",
+  "character_arc": {
+    "book_1": "Background character doing independent alien research. In chapter 9, detects non-human pattern in ansible transmissions from Earth-direction, brings findings to Lira. Her data provides crucial evidence of Earth's alien contact. Becomes part of Lira's investigation team. Discovery that contact already happened devastates her - her life's work was redundant",
+    "book_2": "Proves Earth made alien contact 40 years ago by analyzing historical ansible data for non-human linguistic patterns. Discovers aliens use FTL travel, not ansible technology. Becomes leading voice for Contact faction - believes alien alliance is humanity's future. Debates with Memory faction about preserving human independence. Her research reveals alien civilization is peaceful but warned Earth about Harvesters",
+    "book_3": "When aliens arrive and reveal Harvester threat, Zara's expertise becomes crucial. She helps establish communication protocols with aliens. Discovers aliens have lost their own ansible network to Harvesters, survived by abandoning quantum communication. Faces hard truth: contact means death, isolation means life. Ultimately supports ansible destruction, but dedicates herself to developing light-speed communication methods to eventually reconnect isolated human colonies. Ends trilogy broadcasting messages to other human worlds that won't arrive for decades - faith in future contact despite impossible distance"
+  },
+  "philosophy": {
+    "core_belief": "Communication across difference is the highest human achievement, isolation is death of meaning",
+    "evolution": "Begins believing contact validates humanity, ends understanding that surviving to communicate later is enough",
+    "signature_question": "What is humanity if we can't speak to the other?"
+  },
+  "research_focus": {
+    "primary": "Detection of non-human intelligence through ansible network analysis",
+    "secondary": "Linguistic drift between human colonies as model for alien communication",
+    "breakthrough_moment": "Realizes ansible network itself may be alien technology - humans didn't invent it, found it",
+    "critical_discovery": "Alien civilization warned Earth that ansible tech attracts Harvesters, use of ansible is existential threat"
+  },
+  "key_assets": {
+    "research_station": "Independent facility in deep space with ansible monitoring equipment",
+    "signal_database": "40 years of archived ansible transmissions with her own analysis",
+    "alien_pattern_library": "Theoretical models of non-human communication structures",
+    "contact_protocols": "Comprehensive first contact procedures she's developed",
+    "linguistic_bridge": "Can communicate across divergent human colonies, skills transfer to alien communication"
+  }
+}

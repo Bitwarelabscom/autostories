@@ -1,0 +1,190 @@
+{
+  "trilogy": "The Ansible's Children",
+  "tentpole_structure": {
+    "description": "Load-bearing plot moments that support entire narrative structure",
+    "spacing_principle": "Tentpoles spaced to maintain momentum - ~6 chapters between major revelations",
+    "function": "Each tentpole irreversibly changes story's direction, makes return to previous status quo impossible"
+  },
+  "book_1_tentpoles": {
+    "book_title": "Signal Distance",
+    "chapter_count": 20,
+    "tentpoles": [
+      {
+        "chapter": 1,
+        "type": "hook",
+        "title": "Timestamp Discrepancies",
+        "function": "Introduce protagonist, establish world, plant central mystery",
+        "core_event": "Lira discovers ansible messages from Earth don't align with light-speed verification data",
+        "reveals_to_reader": [
+          "Ansible technology and its operation",
+          "Lira's precision and investigative nature",
+          "The isolation-despite-connection paradox of human colonies",
+          "Something is wrong with Earth's messages"
+        ],
+        "plants_for_later": [
+          "Specific timestamp examples Lira will reference throughout investigation",
+          "Her brother's death in colonial war (motivation)",
+          "Guild's hierarchical structure and information control",
+          "Light-delay verification as key evidence method"
+        ],
+        "emotional_beat": "Lira's quiet horror as her trusted system shows cracks",
+        "world_establishes": "Ansible technology, colonial isolation, relativistic travel, guild power",
+        "tone": "Paranoid thriller - something's wrong but can't prove it yet",
+        "word_count_target": "2000-3000",
+        "chapter_end": "Lira decides to investigate covertly, knowing this could destroy her career"
+      },
+      {
+        "chapter": 7,
+        "type": "complication",
+        "title": "Physical Evidence Arrives",
+        "function": "Confirm suspicions with unalterable proof, form partnership, escalate stakes",
+        "core_event": "Kaito arrives with physical data from Earth relay station that directly contradicts ansible messages sent on same dates",
+        "reveals_to_reader": [
+          "Ansible messages can be falsified",
+          "Physical evidence takes decades to arrive (relativistic delay)",
+          "Kaito's background and witness status",
+          "Conspiracy is real and systematic, not just errors"
+        ],
+        "plants_for_later": [
+          "Kaito's ship logs from Earth orbit",
+          "Physical data core he's been carrying",
+          "His relationship with relativistic trader clans",
+          "Mention of Earth's 'final days' without details"
+        ],
+        "emotional_beat": "Lira's validation turns to fear - if messages are false, everything is",
+        "world_establishes": "Relativistic trade, time dilation effects, physical vs informational truth",
+        "tone": "Paranoia confirmed, investigation becomes dangerous",
+        "word_count_target": "2000-3000",
+        "chapter_end": "Lira and Kaito form partnership to uncover full scope of deception"
+      },
+      {
+        "chapter": 12,
+        "type": "midpoint_reversal",
+        "title": "The Scale of Manipulation",
+        "function": "Reveal conspiracy isn't error but systematic policy, transform understanding",
+        "core_event": "Lira accesses guild's hidden archives, discovers ansible operators have been modifying messages for decades to prevent colonial conflicts",
+        "reveals_to_reader": [
+          "Message modification is deliberate guild policy, not rogue operator",
+          "Guild sees itself as peacekeepers, not deceivers",
+          "Scale: thousands of modified messages over 40+ years",
+          "Historical events everyone believes may be fabrications"
+        ],
+        "plants_for_later": [
+          "Specific pattern: all Earth messages go through single checkpoint",
+          "References to 'the silence protocol' without explanation",
+          "Mention of Earth going 'unstable' 40 years ago",
+          "Ryn's name on most of the modification orders"
+        ],
+        "emotional_beat": "Lira's world inverts - not exposing crime but threatening 'necessary evil'",
+        "world_establishes": "Guild's role as hidden government, information as power, fabricated history",
+        "tone": "Philosophical horror - what if the lie is holding civilization together?",
+        "word_count_target": "2000-3000",
+        "chapter_end": "Lira realizes Ryn, her mentor, is at the center of the conspiracy"
+      },
+      {
+        "chapter": 17,
+        "type": "climax",
+        "title": "Earth's Silence",
+        "function": "Deliver major revelation that recontextualizes entire investigation",
+        "core_event": "Lira confronts Ryn, forces access to deepest archives: Earth's ansible went silent 40 years ago, guild has been fabricating ALL Earth messages since",
+        "reveals_to_reader": [
+          "Earth has been silent for 40 years - no one knows what happened",
+          "Every 'Earth message' for 40 years has been fabricated by guild",
+          "Human civilization based on fiction of Earth's guidance",
+          "Ryn and guild chose deception over civilization collapse"
+        ],
+        "plants_for_later": [
+          "WHY Earth went silent (Book 2 revelation)",
+          "Earth's final authentic message (Book 2)",
+          "Alien contact as cause (Book 2)",
+          "Harvester threat (Book 3)"
+        ],
+        "emotional_beat": "Lira's betrayal and Ryn's tragic justification - both believe they're right",
+        "world_establishes": "Fragility of human unity, power of consensus reality",
+        "tone": "Tragic confrontation - no villains, only impossible choices",
+        "word_count_target": "2000-3000",
+        "chapter_end": "Lira chooses truth over stability, begins broadcasting revelation"
+      },
+      {
+        "chapter": 20,
+        "type": "resolution",
+        "title": "Fracture",
+        "function": "Show consequences of truth, set up Book 2, establish new status quo",
+        "core_event": "Truth spreads to multiple colonies, civilization fragments as different colonies accept or reject revelation, information warfare erupts, Lira becomes fugitive and reluctant revolutionary",
+        "reveals_to_reader": [
+          "Truth doesn't unite, it fractures - colonies react differently",
+          "Some colonies believe Lira, some believe guild, some believe neither",
+          "Information warfare: competing narratives, no trusted source",
+          "Lira's personal cost: exile, fugitive status, burden of responsibility"
+        ],
+        "plants_for_later": [
+          "Colonial wars starting (Book 2 focus)",
+          "Contact vs Memory factions forming",
+          "Guild's deeper secrets still hidden",
+          "Zara's alien signal detection gaining importance"
+        ],
+        "emotional_beat": "Lira's hollow victory - truth told but civilization fragmenting because of it",
+        "world_establishes": "Post-revelation chaos, death of shared reality",
+        "tone": "Pyrrhic victory - right action, terrible consequences",
+        "word_count_target": "2000-3000",
+        "chapter_end": "Lira in hiding, watching civilization fracture, questioning if truth was worth the cost. But deeper truth about WHY Earth went silent still unknown."
+      }
+    ]
+  },
+  "tentpole_relationships": {
+    "causal_chains": [
+      {
+        "from": "Ch1: Timestamp discrepancies",
+        "to": "Ch7: Physical evidence confirms",
+        "connection": "Suspicion requires validation - Kaito provides unalterable proof"
+      },
+      {
+        "from": "Ch7: Ansible messages can be falsified",
+        "to": "Ch12: Systematic modification discovered",
+        "connection": "Individual falsification leads to institutional policy revelation"
+      },
+      {
+        "from": "Ch12: Decades of message modification",
+        "to": "Ch17: Earth's complete silence",
+        "connection": "Pattern of modification conceals ultimate secret - Earth is gone"
+      },
+      {
+        "from": "Ch17: Earth silent 40 years",
+        "to": "Ch20: Civilization fractures",
+        "connection": "Loss of shared origin story destroys consensus reality"
+      }
+    ],
+    "revelation_escalation": [
+      "Ch1: Something's wrong with messages (suspicion)",
+      "Ch7: Messages can be faked (confirmation)",
+      "Ch12: Faking is systematic policy (scope)",
+      "Ch17: Earth is gone, everything is fiction (existential)",
+      "Ch20: Truth destroys what lies built (consequences)"
+    ],
+    "emotional_progression": [
+      "Ch1: Unease → Suspicion",
+      "Ch7: Suspicion → Fear",
+      "Ch12: Fear → Dread",
+      "Ch17: Dread → Betrayal",
+      "Ch20: Betrayal → Burden"
+    ]
+  },
+  "writing_guidelines": {
+    "pacing": "Each tentpole must feel inevitable yet surprising - readers sense something coming but not exactly what",
+    "revelation_technique": "Show evidence before interpretation - let readers piece together with Lira",
+    "emotional_authenticity": "Lira's reactions must feel real - shock, denial, bargaining, acceptance",
+    "avoid": [
+      "Info-dumping - reveal through investigation",
+      "Convenient discoveries - make Lira work for each revelation",
+      "Clear villains - everyone believes they're doing right thing",
+      "Easy answers - truth is complicated"
+    ],
+    "emphasize": [
+      "Technical precision of ansible operations",
+      "Light-delay verification mathematics",
+      "Cultural isolation despite instant communication",
+      "Information as power and weapon",
+      "Paranoid thriller atmosphere"
+    ]
+  }
+}

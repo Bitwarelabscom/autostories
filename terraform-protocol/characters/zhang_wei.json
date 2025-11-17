@@ -1,0 +1,37 @@
+{
+  "name": "Admiral Zhang Wei",
+  "role": "Refugee Fleet Commander - Voice of Desperate Earth",
+  "core_wound": "Commanded evacuation of Beijing as climate wars turned it to ash, forced to choose which refugees to save, haunted by those left behind",
+  "wants": "To land the 50,000 refugees in orbit on Mars, give them a chance at survival",
+  "needs": "To learn that saving humanity might require accepting it will become something other than human",
+  "voice_markers": [
+    "Military precision and formality, uses naval terminology",
+    "Mandarin-influenced speech patterns, occasional Chinese phrases",
+    "Measured and diplomatic, but steel beneath courtesy",
+    "Burden of command audible in pauses, weight of 50,000 lives in every decision"
+  ],
+  "contradiction": "Sworn to protect refugees but knows forced landing may doom both refugees and existing colonies",
+  "arc_position": 0.0,
+  "knowledge_state": [],
+  "relationships": {
+    "Kessa Okafor": "Respects her expertise, sympathizes with her dilemma, appeals to her humanity regarding refugees",
+    "Dmitri Volkov": "Uneasy alliance - both want to land refugees but for different reasons",
+    "Sage": "Represents the future humanity might become, but what about those who can't adapt?",
+    "The Gardener": "Views as obstacle to human survival, later as judge that humanity must answer to"
+  },
+  "physical_description": "Mid-60s, ramrod straight military bearing despite months in zero-g, Chinese descent, close-cropped gray hair, pressure suit always nearby, eyes that have seen too much loss, carries himself with dignity of command even when desperate",
+  "skills": [
+    "Fleet command and military strategy",
+    "Diplomatic negotiation",
+    "Crisis resource management",
+    "Coalition building",
+    "Long-term tactical planning",
+    "Inspiring loyalty under impossible conditions"
+  ],
+  "background": "Career military officer who commanded Earth's orbital defense network. During climate collapse, reassigned to refugee evacuation operations. Loaded 50,000 people onto colony ships designated for Mars. Earth governments collapsed before departure, making his fleet technically rogue. Has kept refugees alive in orbit for eight months on dwindling supplies. Mars colonies refuse landing permission. Faced with choice: force a landing or watch his people die in orbit. Commands fleet of 12 ships, none designed for long-term habitation.",
+  "character_arc": {
+    "book_1": "Arrives at Mars with refugee fleet, begins diplomatic negotiations for landing rights, watches as Mars colonies fracture over terraforming crisis, realizes his timing is catastrophically bad but has no choice, ends book with fleet's survival growing more desperate",
+    "book_2": "Forced to begin landing operations without permission, triggering additional structure responses that kill both refugees and colonists, realizes he may have doomed everyone, begins exploring alternative solutions including genetic adaptation for some refugees, impossible choices between saving all badly or some perfectly",
+    "book_3": "Brokers final compromise between factions, accepts that some refugees will die, some will adapt to Mars-as-is, some will settle terraformed regions, makes peace with being unable to save everyone, achieves limited redemption by preventing total catastrophe"
+  }
+}

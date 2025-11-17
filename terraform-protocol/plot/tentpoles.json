@@ -1,0 +1,148 @@
+{
+  "tentpoles_detailed": {
+    "description": "Detailed breakdown of tentpole chapters across the trilogy with structural requirements and emotional beats",
+    "book_1": {
+      "title": "Red Soil Rising",
+      "chapter_1": {
+        "type": "Hook",
+        "chapter": 1,
+        "title": "The Beneath",
+        "structural_requirements": [
+          "Establish Mars setting with rich sensory detail",
+          "Introduce Kessa's character, expertise, and personal stakes",
+          "Discovery of alien megastructure beneath Olympus Mons",
+          "Sense of wonder mixed with wrongness",
+          "Plant foreshadowing elements"
+        ],
+        "emotional_beats": [
+          "Kessa's scientific excitement at discovery",
+          "Awe at scale and alienness of structure",
+          "Unease at implications",
+          "Isolation and dedication to work"
+        ],
+        "world_elements_to_establish": [
+          "Year 6 of terraforming approaching critical year 7",
+          "Mars landscape in transition - red dust and new atmosphere",
+          "Corporate colony structure and scientific hierarchy",
+          "Excavation technology and archaeological methods"
+        ],
+        "target_word_count": "2000-3000",
+        "pov_character": "Kessa Okafor"
+      },
+      "chapter_7": {
+        "type": "Complication",
+        "chapter": 7,
+        "title": "Buried Evidence",
+        "structural_requirements": [
+          "Introduce Dmitri Volkov as antagonist",
+          "Corporate suppression of findings begins",
+          "Terraforming accelerates despite warnings",
+          "First signs of structure activity (minor seismic events)",
+          "Establish central conflict between knowledge and profit"
+        ],
+        "emotional_beats": [
+          "Kessa's frustration at being silenced",
+          "Dmitri's calculated pragmatism and hidden desperation",
+          "Growing tension between scientific community and corporate interests",
+          "First hints of danger being real, not theoretical"
+        ],
+        "world_elements_to_establish": [
+          "Corporate decision-making processes",
+          "Dmitri's daughter in refugee fleet (personal stakes)",
+          "Timeline pressure of seven-year threshold",
+          "Political divisions in colony"
+        ],
+        "target_word_count": "2000-3000",
+        "pov_character": "Alternating Kessa and Dmitri"
+      },
+      "chapter_12": {
+        "type": "Midpoint Reversal",
+        "chapter": 12,
+        "title": "Immune Response",
+        "structural_requirements": [
+          "Structure responds to terraforming with defensive measures",
+          "Shift from discovery story to survival horror",
+          "Kessa realizes structure is still active and protecting Mars",
+          "Seismic events, atmospheric corrections escalate",
+          "Point of no return - can't just stop excavation now"
+        ],
+        "emotional_beats": [
+          "Terror as academic interest becomes existential threat",
+          "Kessa's horror at inadvertently triggering response",
+          "Dawning understanding that structure sees humans as disease",
+          "Desperate attempts to communicate intentions"
+        ],
+        "world_elements_to_establish": [
+          "The Gardener's response patterns",
+          "Scope of structure's capabilities",
+          "Vulnerability of colonies to atmospheric changes",
+          "First casualties (equipment, not people yet)"
+        ],
+        "target_word_count": "2000-3000",
+        "pov_character": "Kessa Okafor"
+      },
+      "chapter_17": {
+        "type": "Climax",
+        "chapter": 17,
+        "title": "Olympus Falling",
+        "structural_requirements": [
+          "First colony destroyed by structure's immune response",
+          "Hundreds dead, including named characters",
+          "Kessa's warnings validated too late",
+          "Catastrophic consequences made visceral and personal",
+          "Survivors must process guilt and grief"
+        ],
+        "emotional_beats": [
+          "Horror and chaos of colony destruction",
+          "Kessa's guilt at not stopping it despite warnings",
+          "Dmitri's breakdown as his solutions fail",
+          "Moral weight of decisions that led here",
+          "Shift from prevention to damage control"
+        ],
+        "world_elements_to_establish": [
+          "Scale of The Gardener's defensive capability",
+          "Fragility of human colonies on hostile world",
+          "Irreversible nature of some choices",
+          "Refugee fleet still in orbit watching disaster"
+        ],
+        "target_word_count": "2000-3000",
+        "pov_character": "Multiple POVs during chaos"
+      },
+      "chapter_20": {
+        "type": "Resolution",
+        "chapter": 20,
+        "title": "Fracture Lines",
+        "structural_requirements": [
+          "Mars colonies divide into factions",
+          "Some want to halt terraforming, others accelerate",
+          "Earth refugee fleet demands landing rights",
+          "Political and social consequences of disaster",
+          "Setup for Book 2 conflicts"
+        ],
+        "emotional_beats": [
+          "Grief and exhaustion after trauma",
+          "Impossible choices with no good options",
+          "Kessa's determination to understand The Gardener",
+          "Sage emerges as voice of Mars-first position",
+          "Zhang Wei's desperation as refugee supplies dwindle"
+        ],
+        "world_elements_to_establish": [
+          "Three-way split: continue terraforming, stop terraforming, adapt to Mars",
+          "Timeline: year 7 threshold approaching in months",
+          "Mars independence movement gaining support",
+          "Earth's declining ability to influence Mars"
+        ],
+        "target_word_count": "2000-3000",
+        "pov_character": "Multiple POVs showing faction perspectives"
+      }
+    },
+    "generation_notes": {
+      "pacing": "Each tentpole must advance plot significantly while deepening character arcs",
+      "atmosphere": "Maintain creeping dread beneath colonial optimism throughout",
+      "sensory_detail": "Rich descriptions of Mars landscape, dust, thin atmosphere, alien architecture",
+      "scientific_accuracy": "Hard sci-fi realism except for The Gardener as one speculative element",
+      "foreshadowing": "Plant elements in each chapter that pay off later in trilogy",
+      "character_consistency": "Check voice markers and knowledge states before writing"
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "chapter": 7,
+  "title": "Buried Evidence",
+  "word_count": 2734,
+  "timeline": "Day 2,289 of terraforming project (Year 6, Month 3), approximately 6 weeks after Chapter 1, 10 months until Year 7 threshold",
+  "location": "Olympus Station conference room, then excavation site beneath Olympus Mons",
+  "pov_character": "Kessa Okafor",
+  "characters_present": ["Kessa Okafor", "Dmitri Volkov", "Dr. Chen", "Mikhail", "Yuki", "Rajesh"],
+  "characters_mentioned": ["Dmitri's daughter (in refugee fleet)"],
+  "character_states": {
+    "Kessa_Okafor": {
+      "knows": [
+        "All previous knowledge from Ch1",
+        "Structure extends beneath entire Tharsis region (hundreds of kilometers)",
+        "Structure reaches down to Mars' mantle (geothermal power source)",
+        "Seismic responses are accelerating (from 6 hours to 45 minutes)",
+        "Structure is creating its own atmospheric bubble in chambers",
+        "Crystalline networks show new activation/growth",
+        "Dmitri will suppress findings through bureaucratic delay",
+        "Corporate has financial incentive to keep terraforming on schedule",
+        "Has 2 weeks to prove threat before site is sealed",
+        "Nanite deployment being increased by 15%"
+      ],
+      "emotional_state": "Frustrated by suppression, increasingly worried about escalation, feeling powerless against corporate agenda",
+      "arc_position": 0.15,
+      "location": "Excavation site beneath Olympus Mons",
+      "relationships_affected": {
+        "Dmitri_Volkov": "Direct antagonism established, professional conflict, understands his corporate suppression tactics",
+        "Rajesh": "Strain as Rajesh prioritizes job security over science"
+      }
+    },
+    "Dmitri_Volkov": {
+      "knows": [
+        "Kessa has found extensive alien structure",
+        "Seismic activity correlates with excavation and terraforming",
+        "Structure extends far beyond initial discovery",
+        "Magnitude 3.5 seismic events are concerning",
+        "Earth governments/refugee centers have financial arrangements regarding terraforming timeline",
+        "10 months until Year 7 threshold when daughter can land"
+      ],
+      "emotional_state": "Determined to maintain timeline, conflicted but committed, will not let scientific concerns delay daughter's salvation",
+      "arc_position": 0.1,
+      "location": "Olympus Station",
+      "relationships_affected": {
+        "Kessa_Okafor": "Views as idealistic obstacle but gives her 2-week deadline showing he's not entirely dismissive"
+      }
+    }
+  },
+  "revealed_to_reader": [
+    "Dmitri Volkov's character properly introduced - corporate director with hidden desperation",
+    "Dmitri has daughter in refugee fleet - personal motivation for timeline",
+    "Corporate suppression actively underway - findings routed through review",
+    "Structure extends hundreds of kilometers beneath Tharsis region",
+    "Structure taps Mars' mantle for power",
+    "Response times accelerating from hours to minutes",
+    "Terraforming being actively accelerated (15% increase)",
+    "10 months until Year 7 threshold",
+    "The Gardener is escalating response protocols"
+  ],
+  "planted": [
+    {
+      "element": "Dmitri's daughter in refugee fleet",
+      "payoff_chapter": 11,
+      "significance": "Personal stakes that override rational caution"
+    },
+    {
+      "element": "Structure reaches to Mars' mantle",
+      "payoff_chapter": 12,
+      "significance": "Can trigger volcanic/seismic events across the planet"
+    },
+    {
+      "element": "Accelerating response times (6 hrs → 45 min)",
+      "payoff_chapter": 12,
+      "significance": "The Gardener is adapting, learning to respond faster"
+    },
+    {
+      "element": "Two-week deadline for Kessa",
+      "payoff_chapter": 9,
+      "significance": "Artificial time pressure forcing rushed decisions"
+    },
+    {
+      "element": "15% increase in nanite deployment",
+      "payoff_chapter": 10,
+      "significance": "Acceleration that will trigger larger responses"
+    },
+    {
+      "element": "Structure maintaining its own atmosphere in chambers",
+      "payoff_chapter": "Book 2",
+      "significance": "Proof of active atmospheric management system"
+    },
+    {
+      "element": "New crystalline growth/activation",
+      "payoff_chapter": 12,
+      "significance": "Structure expanding its active networks"
+    },
+    {
+      "element": "Rajesh's financial dependency on job",
+      "payoff_chapter": 14,
+      "significance": "Shows how corporate power silences dissent"
+    }
+  ],
+  "active_tensions": [
+    "Kessa vs. Dmitri - truth vs. timeline",
+    "Scientific evidence vs. corporate suppression",
+    "Two-week deadline pressure",
+    "Accelerating terraforming vs. escalating structure responses",
+    "Refugee crisis driving Dmitri's decisions",
+    "The Gardener's response protocols escalating"
+  ],
+  "world_changes": [
+    "Corporate suppression of findings officially begins",
+    "Terraforming accelerated by 15%",
+    "The Gardener shifts from monitoring to active escalation",
+    "Excavation site shows physical damage from responses",
+    "Structure's active networks expanding"
+  ],
+  "atmosphere_notes": "Tension escalating, corporate power vs. scientific truth, creeping dread as responses accelerate, Dmitri's humanity shown through daughter motivation but doesn't excuse suppression",
+  "continuity_notes": {
+    "timeline": "6 weeks after Ch1, Day 2,289, 10 months until Year 7 threshold",
+    "seismic_progression": "Ch1: magnitude 2.5, Ch7: magnitude 3.5, response time decreasing",
+    "atmospheric_changes": "Nanite deployment increased 15%, sky visibly greenish-blue",
+    "character_voices": "Dmitri: corporate speak, Russian-accented, references efficiency; Kessa: academic precision, technical terms, passionate then silent",
+    "structure_scale": "Now known to extend hundreds of km beneath Tharsis, reaches to mantle",
+    "technology_consistency": "Ground-penetrating radar, seismic sensors, helmet comms, portable scanners"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Jin 'Ghost' Park",
+  "role": "Wild card - Composite personality who knows they're constructed but embraces it",
+  "core_wound": "Created from fragments of multiple dead people, including Marcus's daughter - exists as living memorial to others' tragedies",
+  "wants": "To prove composites are real people deserving of rights and recognition",
+  "needs": "To forge an identity independent of source memories - to be Jin, not an echo of others",
+  "voice_markers": [
+    "Shifts speech patterns mid-conversation (unconscious switching between source personalities)",
+    "Uses 'we' and 'I' interchangeably when uncertain",
+    "Dark humor about their own existence",
+    "Sometimes finishes others' sentences (pattern recognition from multiple memory sets)",
+    "Musical, rhythmic quality to speech"
+  ],
+  "contradiction": "Fights for composite rights while struggling with whether they're a real person or just algorithm pretending",
+  "arc_position": 0.0,
+  "knowledge_state": [
+    "Fully aware of composite status from creation",
+    "Knows they contain fragments of at least 7 source personalities",
+    "Aware Marcus's daughter is one of their source memories",
+    "Understands composite degradation is slower than believed",
+    "Has met The Archivist in digital space"
+  ],
+  "relationships": {
+    "Aria Chen": "Kinship and rivalry - both are constructed but Aria didn't know, Jin did",
+    "Marcus Webb": "Complex father-figure relationship - contains his daughter's memories but isn't her",
+    "The Archivist": "Suspicious alliance - the AI sees Jin as experiment, Jin sees it as potential ally for composite rights",
+    "Dr. Yuki Tanaka": "Hope personified - if Yuki can see Jin as real, anyone can",
+    "The Composite Underground": "Leader and symbol of composite resistance movement"
+  },
+  "physical_description": "Early 20s appearance, Korean features with occasional micro-expressions that seem 'off' (different source personalities bleeding through), asymmetrical body modifications, Undercity fashion mixed with corporate stolen goods, moves with eerie grace",
+  "skills": [
+    "Multiple skillsets from source memories (combat, hacking, social engineering, musical ability, medical knowledge)",
+    "Natural ability to code-switch and infiltrate different social groups",
+    "Enhanced pattern recognition from multiple cognitive styles",
+    "Unique perspective on memory authentication",
+    "Underground network connections across composite community"
+  ],
+  "background": "Created 4 years ago in illegal black market operation as experiment in composite stability. Source memories include: Marcus Webb's daughter Maya (emotional core, musical ability), a corporate hacker (technical skills), a Undercity enforcer (combat training), a therapist (emotional intelligence), among others.\n\nWoke up knowing exactly what they were - memories came with metadata showing sources. Instead of identity crisis, Jin experienced liberation. No authentic past meant freedom to choose their own future. Became symbol for growing composite rights movement in Undercity.\n\nMarcus discovered Jin 2 years ago while hunting for his daughter's consciousness. Has protected Jin ever since while struggling with temptation to extract Maya's memories, which would destroy Jin's personality. Jin knows this and loves Marcus anyway, which makes it more complicated.\n\nJin can sometimes access skills they shouldn't have, suggesting source memories are more intact than standard composite theory predicts.",
+  "character_arc": {
+    "book_1": "Helps Aria and Marcus from underground, represents what Aria fears becoming",
+    "book_2": "Leads composite uprising, forces Marcus to choose between resurrecting daughter or protecting Jin, becomes proof that composites are people",
+    "book_3": "Reveals composites may actually be MORE stable than originals given time, offers alternative to Dr. Tanaka's solution, chooses to preserve composite existence at cost of some source memories"
+  },
+  "source_memories_breakdown": {
+    "maya_webb": "40% - emotional core, musical ability, sense of humor, relationship with Marcus",
+    "corporate_hacker": "20% - technical skills, paranoia, corporate knowledge",
+    "undercity_enforcer": "15% - combat training, threat assessment, physical conditioning",
+    "therapist": "10% - emotional intelligence, reading people, counseling skills",
+    "unknown_sources": "15% - fragmented skills and knowledge from at least 3 other sources"
+  },
+  "secret": "Jin is developing a novel form of consciousness that's neither original nor simple composite - the source memories are integrating into something genuinely new. Jin experiences thoughts and feelings that can't be traced to any source memory. The Archivist knows this and is both fascinated and threatened, because it suggests consciousness can be created, not just transferred or copied.",
+  "speech_example": "Look, we - I - damn it, see, that right there. I know I'm made from pieces of other people. Maya's laugh, some dead hacker's paranoia, combat reflexes from someone who probably deserved to die. But when I choose to help you? That's not them. That's not programming. That's me deciding, and if I can decide, then I'm real enough. You want authenticity? Here it is: I'm authentic about being fake, and that makes me more honest than anyone pretending their memories haven't been edited."
+}

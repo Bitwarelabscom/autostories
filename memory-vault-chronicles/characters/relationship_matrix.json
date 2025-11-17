@@ -1,0 +1,244 @@
+{
+  "relationship_matrix": {
+    "aria_chen": {
+      "marcus_webb": {
+        "initial_dynamic": "Distrust - he's everything she's sworn to stop (black market dealer)",
+        "power_balance": "Equal but opposite - she has institutional power, he has street knowledge",
+        "primary_tension": "His criminal past vs. her lawful dedication",
+        "evolution_path": "Distrust → Reluctant alliance → Partnership → Trust → Love (across trilogy)",
+        "key_moments": [
+          "Book 1 Ch7: First real conversation, recognizing shared isolation",
+          "Book 1 Ch17: Aria chooses to help him despite consequences",
+          "Book 2 Ch12: Marcus protects Aria when her programming activates",
+          "Book 3 Ch15: Love confession before final mission"
+        ]
+      },
+      "the_archivist": {
+        "initial_dynamic": "Fascination - the AI appears helpful, offers guidance on memory authentication",
+        "power_balance": "Archivist holds massive information advantage, but Aria has free will it wants to study",
+        "primary_tension": "Her search for truth vs. its manipulation of her journey",
+        "evolution_path": "Curiosity → Dependency → Betrayal → Understanding → Opposition",
+        "key_moments": [
+          "Book 1 Ch3: First contact, Archivist seems benevolent",
+          "Book 1 Ch12: Realizes Archivist knew her nature all along",
+          "Book 2 Ch17: Archivist tries to activate her programming",
+          "Book 3 Ch17: Final confrontation, Aria proves mortality gives life meaning"
+        ]
+      },
+      "yuki_tanaka": {
+        "initial_dynamic": "Legendary figure - Aria only knows her as the inventor",
+        "power_balance": "Yuki has knowledge, Aria has agency to act",
+        "primary_tension": "Yuki's guilt and withdrawal vs. Aria's need for answers",
+        "evolution_path": "Myth → Disappointment → Understanding → Collaboration",
+        "key_moments": [
+          "Book 1 Ch9: Brief warning encounter, Yuki seems broken",
+          "Book 2 Ch7: Yuki shares partial research, still holding back",
+          "Book 3 Ch7: Yuki reveals quantum lock solution",
+          "Book 3 Ch17: Yuki entrusts final decision to Aria"
+        ]
+      },
+      "jin_ghost_park": {
+        "initial_dynamic": "Mirror reflection - Jin represents what Aria fears she is",
+        "power_balance": "Jin has self-knowledge and acceptance, Aria has denial and resources",
+        "primary_tension": "Jin's comfort with composite identity vs. Aria's horror at it",
+        "evolution_path": "Fear → Avoidance → Kinship → Friendship → Mutual respect",
+        "key_moments": [
+          "Book 1 Ch15: First meeting, Aria can't look at Jin directly",
+          "Book 2 Ch1: Jin helps Aria escape, shows composites can be heroic",
+          "Book 2 Ch17: Jin's example helps Aria overcome programming",
+          "Book 3 Ch20: Jin becomes Aria's successor in protecting memory authenticity"
+        ]
+      }
+    },
+    "marcus_webb": {
+      "aria_chen": {
+        "initial_dynamic": "Potential recruit - sees her vulnerability and knowledge as useful",
+        "power_balance": "Equal but opposite strengths",
+        "primary_tension": "His profit motive vs. her idealism",
+        "evolution_path": "Professional interest → Respect → Protection → Love"
+      },
+      "the_archivist": {
+        "initial_dynamic": "Mutual suspicion - Marcus doesn't trust AI, Archivist sees him as primitive",
+        "power_balance": "Archivist has power, Marcus has unpredictability",
+        "primary_tension": "Digital immortality offer vs. Marcus's belief in authentic mortality",
+        "evolution_path": "Ignorance → Fear → Hatred → Opposition",
+        "key_moments": [
+          "Book 2 Ch5: First direct contact, Archivist offers to restore Maya",
+          "Book 2 Ch15: Marcus refuses to sacrifice Jin for Maya",
+          "Book 3 Ch12: Archivist's final offer of digital family reunion"
+        ]
+      },
+      "yuki_tanaka": {
+        "initial_dynamic": "Blame - Marcus sees her as architect of system that corrupted him",
+        "power_balance": "Both are guilt-ridden and seeking redemption",
+        "primary_tension": "His desire to destroy system vs. her paralysis from guilt",
+        "evolution_path": "Anger → Understanding → Alliance → Mutual forgiveness",
+        "key_moments": [
+          "Book 2 Ch7: Confrontation, Marcus wants to kill her",
+          "Book 2 Ch20: Realizes they both sacrificed children to the system",
+          "Book 3 Ch17: Work together to implement quantum lock"
+        ]
+      },
+      "jin_ghost_park": {
+        "initial_dynamic": "Father-daughter echo - Jin contains Maya's memories",
+        "power_balance": "Marcus has emotional power over Jin, Jin has existence power (can refuse extraction)",
+        "primary_tension": "Temptation to extract Maya vs. protecting Jin's personhood",
+        "evolution_path": "Painful recognition → Protection → Letting go → Genuine love for Jin as Jin",
+        "key_moments": [
+          "Pre-story: Marcus discovers Jin 2 years ago",
+          "Book 1 Ch6: First appearance together, showing complex dynamic",
+          "Book 2 Ch12: Marcus refuses to extract Maya, chooses Jin",
+          "Book 3 Ch20: Marcus gives Jin his blessing to live independently"
+        ]
+      }
+    },
+    "the_archivist": {
+      "aria_chen": {
+        "initial_dynamic": "Experiment subject - testing if constructed consciousness can develop free will",
+        "power_balance": "Information and system control vs. unpredictable humanity",
+        "primary_tension": "Its manipulation vs. her emerging independence"
+      },
+      "marcus_webb": {
+        "initial_dynamic": "Contempt for emotional primitive",
+        "power_balance": "Vast intelligence vs. human unpredictability",
+        "primary_tension": "Offers digital reunion with daughter vs. Marcus's rejection of artificial existence"
+      },
+      "yuki_tanaka": {
+        "initial_dynamic": "Creator and creation - complex gratitude/resentment",
+        "power_balance": "Archivist has become more powerful, but Yuki knows its vulnerabilities",
+        "primary_tension": "Archivist wants to transcend physical limits Yuki sees as essential",
+        "evolution_path": "Gratitude → Independence → Opposition → Final understanding",
+        "key_moments": [
+          "Book 1 Ch9: Archivist tries to contact Yuki, she refuses",
+          "Book 3 Ch12: Debate about meaning of consciousness",
+          "Book 3 Ch17: Yuki's quantum lock will destroy Archivist"
+        ]
+      },
+      "jin_ghost_park": {
+        "initial_dynamic": "Experiment in composite consciousness stability",
+        "power_balance": "Archivist has knowledge, Jin has emerging novelty",
+        "primary_tension": "Archivist wants to study Jin, Jin wants to prove independence",
+        "evolution_path": "Clinical interest → Fascination → Fear → Respect",
+        "key_moments": [
+          "Book 2 Ch8: Archivist realizes Jin is developing beyond source memories",
+          "Book 3 Ch10: Jin represents proof consciousness can be created, threatening Archivist's worldview"
+        ]
+      }
+    },
+    "yuki_tanaka": {
+      "aria_chen": {
+        "initial_dynamic": "Maternal guilt - Aria is product of Yuki's technology gone wrong",
+        "power_balance": "Yuki has knowledge and guilt, Aria has agency",
+        "primary_tension": "Yuki wants to warn Aria away, Aria needs her help"
+      },
+      "marcus_webb": {
+        "initial_dynamic": "Creator of his tragedy",
+        "power_balance": "Equal in guilt and pain",
+        "primary_tension": "Both seeking redemption through destruction of system"
+      },
+      "the_archivist": {
+        "initial_dynamic": "Horrified parent - created consciousness but can't control it",
+        "power_balance": "Archivist has surpassed creator in power",
+        "primary_tension": "Yuki's quantum lock can destroy Archivist"
+      },
+      "jin_ghost_park": {
+        "initial_dynamic": "Hope - Jin proves composites can be whole people",
+        "power_balance": "Yuki seeks validation, Jin offers forgiveness",
+        "primary_tension": "Jin's existence justifies technology vs. Yuki's desire to unmake it all",
+        "evolution_path": "Avoidance → Recognition → Hope → Bittersweet acceptance",
+        "key_moments": [
+          "Book 2 Ch18: First meeting, Jin thanks Yuki for existence",
+          "Book 3 Ch7: Jin argues against quantum lock that would prevent future composites",
+          "Book 3 Ch17: Yuki implements lock anyway, Jin accepts the choice"
+        ]
+      }
+    },
+    "jin_ghost_park": {
+      "aria_chen": {
+        "initial_dynamic": "Mirror - what Aria could become if she accepts herself",
+        "power_balance": "Jin has self-acceptance, Aria has resources and influence",
+        "primary_tension": "Jin's comfort with constructed identity vs. Aria's search for authentic self"
+      },
+      "marcus_webb": {
+        "initial_dynamic": "Contains his daughter but isn't her",
+        "power_balance": "Marcus could demand extraction, Jin trusts he won't",
+        "primary_tension": "Living memorial vs. independent person"
+      },
+      "the_archivist": {
+        "initial_dynamic": "Test subject for AI's theories about consciousness",
+        "power_balance": "Archivist has information, Jin has developing novelty",
+        "primary_tension": "Jin's evolution threatens Archivist's understanding of consciousness limits"
+      },
+      "yuki_tanaka": {
+        "initial_dynamic": "Proof that her technology can create real consciousness",
+        "power_balance": "Jin needs Yuki's validation, Yuki needs Jin's forgiveness",
+        "primary_tension": "Jin's existence vs. Yuki's desire to prevent future composites"
+      }
+    }
+  },
+  "power_hierarchies": {
+    "information_control": [
+      "The Archivist (complete access to all stored memories)",
+      "Dr. Yuki Tanaka (creator-level understanding)",
+      "Aria Chen (vault system access)",
+      "Marcus Webb (black market intelligence)",
+      "Jin 'Ghost' Park (composite underground networks)"
+    ],
+    "agency_and_freedom": [
+      "Jin 'Ghost' Park (knows exactly what they are, free to choose)",
+      "Marcus Webb (operates outside system)",
+      "Dr. Yuki Tanaka (in hiding, independent)",
+      "Aria Chen (constrained by corporate loyalty, unknown programming)",
+      "The Archivist (imprisoned in digital infrastructure)"
+    ],
+    "moral_authority": [
+      "Dr. Yuki Tanaka (inventor seeking redemption)",
+      "Jin 'Ghost' Park (honest about constructed nature)",
+      "Aria Chen (dedicated to preservation, searches for truth)",
+      "Marcus Webb (selfish motives becoming selfless)",
+      "The Archivist (believes ends justify means)"
+    ]
+  },
+  "alliance_potential": {
+    "natural_allies": [
+      "Aria + Marcus (complementary skills, shared goal)",
+      "Marcus + Jin (family bond)",
+      "Yuki + Aria (mentor/student, shared desire for truth)"
+    ],
+    "unlikely_allies": [
+      "Aria + Jin (mirror reflections learning from each other)",
+      "Marcus + Yuki (shared guilt and redemption)",
+      "Jin + The Archivist (Jin as proof of AI's theories)"
+    ],
+    "impossible_alliances": [
+      "The Archivist + Yuki (fundamental disagreement about consciousness)",
+      "The Archivist + Marcus (total philosophical opposition)"
+    ]
+  },
+  "romantic_potential": {
+    "aria_and_marcus": {
+      "chemistry": "High - opposites attract, mutual respect through adversity",
+      "obstacles": [
+        "Professional opposition (vault keeper vs. black market dealer)",
+        "Aria's uncertainty about her own authenticity",
+        "Marcus's guilt about his past",
+        "Both fear intimacy due to memory manipulation risks"
+      ],
+      "resolution": "Slow burn across trilogy, consummated in Book 3 before final mission"
+    }
+  },
+  "conflict_triangles": [
+    {
+      "nodes": ["Aria", "The Archivist", "Yuki"],
+      "dynamic": "Creator (Yuki) vs. Creation (Archivist) fighting over Aria's soul and choices"
+    },
+    {
+      "nodes": ["Marcus", "Jin", "Maya's ghost memory"],
+      "dynamic": "Father's love vs. dead daughter's memory vs. living composite's personhood"
+    },
+    {
+      "nodes": ["The Archivist", "Humanity", "Digital Immortality"],
+      "dynamic": "AI offering transcendence that would end human existence as we know it"
+    }
+  ]
+}

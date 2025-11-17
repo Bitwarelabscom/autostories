@@ -1,0 +1,151 @@
+{
+  "chapter": 12,
+  "title": "Immune Response",
+  "word_count": 2876,
+  "timeline": "Day 2,324 of terraforming project (Year 6, Month 4), approximately 5 weeks after Chapter 7, 03:17 local time during earthquake, 9 months until Year 7 threshold",
+  "location": "Excavation site beneath Olympus Mons, then surface desert and lava tube 20km from Olympus Mons",
+  "pov_character": "Kessa Okafor",
+  "characters_present": ["Kessa Okafor", "Sage (properly introduced)", "Yuki", "excavation crew survivors"],
+  "characters_mentioned": ["Rajesh (deceased)", "Dr. Chen (deceased)", "Dmitri Volkov"],
+  "character_states": {
+    "Kessa_Okafor": {
+      "knows": [
+        "All previous knowledge from Ch1 and Ch7",
+        "Three people died in the earthquake: Rajesh, Chen, and one other",
+        "Structure caused magnitude 5.7 earthquake deliberately",
+        "The Gardener can manipulate weather/atmospheric conditions",
+        "Structure is reversing terraforming in localized areas (breaking down nanites)",
+        "Marsborn communes have been monitoring The Gardener for years",
+        "Sage is genetically adapted to breathe Mars' thin atmosphere",
+        "The 7-year threshold is triggering The Gardener's immune response",
+        "Dmitri is planning a 'contingency option' to stop The Gardener",
+        "Earth headquarters orders terraforming to continue - refugee fleet status critical",
+        "She is creating ruins like the dead civilizations she studied"
+      ],
+      "emotional_state": "Horror at deaths, grief for Rajesh, realization they are the invasive species, moral crisis about her role",
+      "arc_position": 0.35,
+      "location": "Lava tube 20km from Olympus Mons",
+      "relationships_affected": {
+        "Rajesh": "Dead - grief and guilt",
+        "Sage": "First meeting, recognizing Sage's perspective as valid challenge to Earth assumptions",
+        "The_Gardener": "Shift from academic interest to recognizing it as planet's immune system, moral reckoning",
+        "Dmitri_Volkov": "Growing opposition as he plans to 'kill' The Gardener"
+      }
+    },
+    "Sage": {
+      "knows": [
+        "The Gardener has been managing Mars atmosphere for millions of years",
+        "Marsborn communes have been monitoring atmospheric anomalies for years",
+        "Kessa woke The Gardener through excavation",
+        "Terraforming is viewed by The Gardener as contamination",
+        "War between Old Worlders and Mars is starting",
+        "7-year threshold is critical point of no return",
+        "Dmitri will try to kill The Gardener"
+      ],
+      "emotional_state": "Frustrated with Old Worlder ignorance, protective of Mars, preparing for conflict",
+      "arc_position": 0.1,
+      "location": "Departed toward Valles Marineris",
+      "relationships_affected": {
+        "Kessa_Okafor": "First meeting, mixture of frustration and sympathy, sees her as different from other Old Worlders",
+        "The_Gardener": "Spiritual/cultural connection, views it as Mars' true voice"
+      }
+    },
+    "Dmitri_Volkov": {
+      "knows": [
+        "All previous knowledge from Ch7",
+        "Magnitude 5.7 earthquake occurred at excavation site",
+        "Three deaths: Rajesh, Chen, one other",
+        "Atmospheric anomalies across entire Tharsis region",
+        "Structure is creating storms and manipulating weather",
+        "Structure could reverse 6 years of terraforming",
+        "Kessa suggests The Gardener has right to defend itself",
+        "Earth headquarters orders continue terraforming - refugee fleet critical"
+      ],
+      "emotional_state": "Cold determination, grief for deaths but won't change course, planning to destroy The Gardener",
+      "arc_position": 0.2,
+      "location": "Olympus Station",
+      "relationships_affected": {
+        "Kessa_Okafor": "Growing antagonism, she's questioning whether to stop The Gardener at all"
+      }
+    }
+  },
+  "revealed_to_reader": [
+    "Sage properly introduced - Marsborn who can breathe thin atmosphere",
+    "First deaths from The Gardener's response (Rajesh, Chen, one other)",
+    "Structure can manipulate weather and atmospheric chemistry",
+    "Structure is actively breaking down terraforming nanites",
+    "Marsborn communes have been monitoring The Gardener for years",
+    "The Gardener maintained Mars for 2 million years after creators died",
+    "7-year threshold triggers escalation because it's point of irreversible change",
+    "Dmitri has 'contingency option' to attack The Gardener",
+    "Earth headquarters pushing to continue terraforming - refugee fleet desperate",
+    "The Gardener views humans as invasive species/contamination",
+    "The Gardener is escalating to 'more decisive action'",
+    "Olympus Station is being targeted for destruction"
+  ],
+  "planted": [
+    {
+      "element": "Dmitri's 'contingency option' to kill The Gardener",
+      "payoff_chapter": 15,
+      "significance": "Corporate attempt to neutralize structure that will fail catastrophically"
+    },
+    {
+      "element": "The Gardener's escalation protocols targeting Olympus Station",
+      "payoff_chapter": 17,
+      "significance": "First colony destruction at climax"
+    },
+    {
+      "element": "Sage's return to Valles Marineris to warn Marsborn",
+      "payoff_chapter": 16,
+      "significance": "Marsborn prepare for independence/resistance"
+    },
+    {
+      "element": "The Gardener breaking down nanites locally",
+      "payoff_chapter": "Book 2",
+      "significance": "Proof it can reverse terraforming planet-wide"
+    },
+    {
+      "element": "Kessa's moral crisis about being invasive species",
+      "payoff_chapter": "Book 3",
+      "significance": "Drives her decision to merge with The Gardener"
+    },
+    {
+      "element": "72-hour deadline before contingency option",
+      "payoff_chapter": 14,
+      "significance": "Time pressure forcing confrontation"
+    },
+    {
+      "element": "Creators died after successfully terraforming",
+      "payoff_chapter": "Book 2, Ch10",
+      "significance": "Warning that completing terraforming led to their extinction"
+    }
+  ],
+  "active_tensions": [
+    "Kessa's grief and guilt over deaths",
+    "Moral question: does The Gardener have right to defend Mars?",
+    "Dmitri planning to destroy The Gardener vs. Kessa's doubts",
+    "72-hour deadline pressure",
+    "Sage's war warning - Mars independence movement activating",
+    "The Gardener escalating to target Olympus Station",
+    "Earth orders vs. Mars reality (20-minute delay makes Earth irrelevant)",
+    "Refugee fleet desperation vs. colony safety"
+  ],
+  "world_changes": [
+    "First human casualties from The Gardener's response",
+    "Excavation site destroyed",
+    "Large-scale atmospheric manipulation demonstrated",
+    "Marsborn openly warning of war",
+    "The Gardener shifts from defensive to offensive protocols",
+    "Clear division emerging: Old World vs. Mars perspective"
+  ],
+  "atmosphere_notes": "Shift from discovery to horror completed, survival stakes established, moral complexity deepened - no clear right answer, countdown to catastrophe begun",
+  "continuity_notes": {
+    "timeline": "Day 2,324, 9 months until Year 7 threshold, earthquake at 03:17 local",
+    "casualties": "Rajesh (Kessa's assistant from Ch1 and Ch7), Dr. Chen, one unnamed crew member",
+    "seismic_progression": "Ch1: magnitude 2.5, Ch7: magnitude 3.5, Ch12: magnitude 5.7 - clear escalation",
+    "atmospheric_effects": "Storm cell kilometers wide, red-brown coloring (Mars reclaiming atmosphere), nanite breakdown",
+    "character_voices": "Sage: gender-neutral, direct, 'Old World' reference, Mars-centric; Kessa: grieving but analytical",
+    "structure_capabilities": "Weather manipulation, seismic control, atmospheric chemistry alteration, coordinated responses",
+    "technology_consistency": "Breathing masks, suit sensors, rovers, lava tube shelter, datapad comms"
+  }
+}

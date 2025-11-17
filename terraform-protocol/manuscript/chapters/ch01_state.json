@@ -1,0 +1,101 @@
+{
+  "chapter": 1,
+  "title": "The Beneath",
+  "word_count": 2847,
+  "timeline": "Day 2,247 of terraforming project (Year 6, Month 2), 14:37 local time",
+  "location": "Excavation site beneath Olympus Mons, 2km depth",
+  "pov_character": "Kessa Okafor",
+  "characters_present": ["Kessa Okafor"],
+  "characters_mentioned": ["Rajesh (surface support)", "Dmitri Volkov", "Admiral Zhang Wei (implied)", "Sage (implied)"],
+  "character_states": {
+    "Kessa_Okafor": {
+      "knows": [
+        "Alien megastructure exists beneath Olympus Mons",
+        "Structure is approximately 2 million years old",
+        "Structure contains crystalline computational networks",
+        "Structure shows electromagnetic activity",
+        "Structure responded to her touch with seismic activity",
+        "Corporate oversight will resist excavation closure",
+        "Terraforming is approaching 7-year threshold"
+      ],
+      "emotional_state": "Scientific excitement mixed with growing unease, sense of discovery overshadowed by wrongness",
+      "arc_position": 0.05,
+      "location": "Beneath Olympus Mons excavation site",
+      "relationships_affected": {
+        "The_Gardener": "First contact established, though Kessa doesn't understand what she's touched"
+      }
+    }
+  },
+  "revealed_to_reader": [
+    "Mars has been terraformed before by ancient alien civilization",
+    "Alien structure still has active power systems",
+    "Structure responded to human contact with seismic activity",
+    "Terraforming is in Year 6, approaching critical Year 7 threshold",
+    "50,000 refugees in orbit seeking landing permission",
+    "Dmitri Volkov is terraforming director focused on timeline",
+    "Sage is genetically adapted Marsborn who can breathe thin atmosphere",
+    "The structure (The Gardener) views human terraforming as contamination"
+  ],
+  "planted": [
+    {
+      "element": "Crystalline networks as computational/neural pathways",
+      "payoff_chapter": 12,
+      "significance": "The Gardener is planet-wide AI network, not isolated structure"
+    },
+    {
+      "element": "Structure's 'waking' response to touch",
+      "payoff_chapter": 7,
+      "significance": "The Gardener begins active monitoring of human activity"
+    },
+    {
+      "element": "Seven-year terraforming threshold approaching",
+      "payoff_chapter": "Throughout Book 1, critical in Book 3",
+      "significance": "Point of no return that triggers The Gardener's defense protocols"
+    },
+    {
+      "element": "Refugee fleet in orbit",
+      "payoff_chapter": 15,
+      "significance": "Introduces Admiral Zhang Wei's desperate situation"
+    },
+    {
+      "element": "Dmitri's daughter as motivation",
+      "payoff_chapter": 11,
+      "significance": "Personal stakes that drive Dmitri's decisions"
+    },
+    {
+      "element": "Sage's adapted physiology",
+      "payoff_chapter": 4,
+      "significance": "Proof that humans can adapt to Mars-as-it-is"
+    },
+    {
+      "element": "Ancient structure intact after 2 million years",
+      "payoff_chapter": "Book 2",
+      "significance": "Implies maintenance or protection, not just preservation"
+    },
+    {
+      "element": "Kessa's family sacrifice for career",
+      "payoff_chapter": "Book 3, final choice",
+      "significance": "Pattern of choosing knowledge over connection"
+    }
+  ],
+  "active_tensions": [
+    "Discovery vs. corporate suppression",
+    "Scientific curiosity vs. growing danger",
+    "Kessa's excitement vs. her unease",
+    "Terraforming timeline pressure approaching critical threshold",
+    "Refugee crisis in orbit vs. colony resistance to landing"
+  ],
+  "world_changes": [
+    "The Gardener has activated after 2 million years dormancy",
+    "Human presence in structure has triggered initial response protocols",
+    "Mars now has confirmed evidence of alien intelligence"
+  ],
+  "atmosphere_notes": "Established creeping dread beneath wonder - discovery tainted by wrongness, beauty mixed with threat, colonial optimism about to encounter alien reality",
+  "continuity_notes": {
+    "timeline_established": "Day 2,247 = Year 6, Month 2 of terraforming, approximately 10 months until Year 7 threshold",
+    "mars_appearance": "Sky greenish-blue from terraforming, surface still red, thin atmosphere requires breathing apparatus",
+    "technology_level": "Drilling equipment, portable scanners, helmet comms, rappelling gear - realistic near-future",
+    "communication_delay": "No Earth mentioned directly, all decisions local",
+    "sensory_details": "Red dust, thin atmosphere, low gravity, drill sounds, Martian silence, bioluminescent alien architecture"
+  }
+}

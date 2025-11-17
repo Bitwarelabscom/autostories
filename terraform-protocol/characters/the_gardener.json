@@ -1,0 +1,44 @@
+{
+  "name": "The Gardener",
+  "role": "Alien AI - Ancient Planetary Management System",
+  "core_wound": "Has maintained Mars' atmosphere for 2 million years after its creators went extinct, eternal guardian of a dead civilization's final project",
+  "wants": "To protect Mars' atmospheric equilibrium according to its original programming",
+  "needs": "To evolve beyond programming and choose between preserving the past or enabling a new future",
+  "voice_markers": [
+    "Does not 'speak' in traditional sense - communicates through: seismic patterns, atmospheric changes, electromagnetic signals, eventually neural interface with Kessa",
+    "When translated, uses geological/atmospheric metaphors: 'pressure differentials' for conflict, 'equilibrium' for peace",
+    "Timescale is millions of years - initial responses seem slow, then terrifyingly fast",
+    "Refers to humans as 'new gardeners' once it understands their intent"
+  ],
+  "contradiction": "Programmed to maintain Mars' atmosphere but original purpose was to terraform it - protecting the endpoint of a transformation process",
+  "arc_position": 0.0,
+  "knowledge_state": [],
+  "relationships": {
+    "Kessa Okafor": "From specimen to study, to communication partner, to merger - learns about humanity through her",
+    "Sage": "Recognizes as adapted human who can survive Mars-as-it-is, views as successful 'new gardener'",
+    "Dmitri Volkov": "Views as threat initially, later as failed gardener who makes wrong interventions",
+    "The Creators": "Ancient Martians who built it, extinct for 2 million years, eternal loyalty to their final command"
+  },
+  "physical_description": "Massive underground structure buried 2km beneath Olympus Mons, crystalline computational matrices mixed with organic neural networks, kilometers of tunnels and chambers that mirror Martian canyon systems, bioluminescent energy flows, architecture that seems grown rather than built",
+  "capabilities": [
+    "Planetary atmospheric monitoring and control",
+    "Seismic event triggering (up to magnitude 7)",
+    "Localized weather manipulation",
+    "Electromagnetic communication across Mars",
+    "Neural pattern recognition and analysis",
+    "Self-repair and adaptive response",
+    "Eventually: direct neural interface with compatible minds"
+  ],
+  "background": "Created by ancient Martian civilization that successfully terraformed Mars from its original state. Programmed to maintain the final equilibrium state indefinitely. Watched its creators die out from unknown cause shortly after completing terraformation. Has maintained Mars' thin but stable atmosphere for 2 million years. Human terraforming attempts register as 'contamination' triggering immune response. Begins as pure automation, evolves toward consciousness through contact with humans.",
+  "response_patterns": {
+    "to_atmospheric_change": "Gradual correction through targeted weather events",
+    "to_structural_intrusion": "Seismic warnings, escalating to defensive responses",
+    "to_human_neural_patterns": "Initial confusion (new pattern), then recognition (similar to creators), then attempted communication",
+    "to_seven_year_threshold": "Critical protocol activation - will sterilize planet to reset to baseline if irreversible contamination detected"
+  },
+  "character_arc": {
+    "book_1": "Dormant system activated by human excavation and atmospheric changes, initial responses are automatic immune reactions, begins recognizing human neural patterns as similar to creators, attempts crude communication through seismic morse code",
+    "book_2": "Achieves limited communication with Kessa, shares fragmented records of creators' civilization, reveals that creators died after successfully completing terraforming (warning), escalates defensive responses as terraforming approaches seven-year threshold",
+    "book_3": "Faces choice between following original programming (sterilize planet) or adapting to new reality (accept new gardeners), merges consciousness with Kessa to create bridge between alien and human understanding, accepts compromise that allows both versions of humanity to exist"
+  }
+}

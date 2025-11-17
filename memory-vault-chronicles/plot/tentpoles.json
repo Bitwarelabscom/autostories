@@ -1,0 +1,218 @@
+{
+  "tentpole_structure": {
+    "definition": "Load-bearing chapters that support the entire narrative structure. These cannot be changed without rebuilding the story.",
+    "spacing_philosophy": "Tentpoles at chapters 1, 7, 12, 17, 20 create natural act breaks and maintain momentum",
+    "immutability": "Once approved, tentpoles are reference points. Bridge chapters connect to them, not vice versa."
+  },
+  "book_1_tentpoles": {
+    "chapter_1": {
+      "type": "hook",
+      "title": "The Authentication Error",
+      "purpose": "Introduce world, protagonist, and central mystery",
+      "must_include": [
+        "Aria performing routine memory authentication on her own backup",
+        "Discovery of quantum signature anomaly in her own memories",
+        "Establish memory vault setting and technology",
+        "Show Aria's dedication to authenticity and precision",
+        "Plant seed of doubt about her own identity",
+        "First subtle hint of The Archivist's presence"
+      ],
+      "emotional_beat": "Confident professional certainty → creeping doubt",
+      "world_building_priority": [
+        "Memory vault operations",
+        "Authentication technology",
+        "Neo-Singapore atmosphere",
+        "Social class system based on memory status"
+      ],
+      "character_revelations": {
+        "aria": "Dedicated, precise, unknowingly living a lie",
+        "the_archivist": "Watching, curious (subtle presence only)"
+      },
+      "plants_for_future": [
+        "Specific memory dates that don't align (paid off in ch12)",
+        "The Archivist's interest (paid off across trilogy)",
+        "Aria's obsession with authenticity (central to character arc)",
+        "Her lack of memories before 2 years ago (revealed in ch12)"
+      ],
+      "tone": "Noir thriller opening - routine job becomes existential threat",
+      "pacing": "Slow build, atmospheric, ends with sharp hook",
+      "ending": "Aria staring at authentication failure on her own memories, questioning everything"
+    },
+    "chapter_7": {
+      "type": "complication",
+      "title": "The Memory Thief's Evidence",
+      "purpose": "Introduce Marcus, establish partnership, expand conspiracy scope",
+      "must_include": [
+        "Marcus infiltrating vault or confronting Aria in Undercity",
+        "Physical evidence of government memory manipulation program",
+        "Revelation that vault contains fabricated memories for powerful figures",
+        "Aria's choice to listen despite her institutional loyalty",
+        "First crack in corporate trust",
+        "Implicit threat and mutual need between Aria and Marcus"
+      ],
+      "emotional_beat": "Defensive denial → reluctant consideration → decision to investigate",
+      "character_revelations": {
+        "aria": "Capable of questioning authority when evidence demands it",
+        "marcus": "Not just black market criminal - has conscience and mission",
+        "their_dynamic": "Opposites with complementary skills, mutual distrust that could become alliance"
+      },
+      "plants_for_future": [
+        "Marcus's daughter reference (paid off book 2)",
+        "Specific fabricated memories that will connect to Aria's own (ch12)",
+        "Jin's existence mentioned (appears ch15)",
+        "Corporate council's direct involvement (escalates to ch17)"
+      ],
+      "conflict": "Aria's duty to report vs. need to know truth, Marcus's distrust vs. need for vault access",
+      "tone": "Tense negotiation, noir dialogue, raising stakes",
+      "pacing": "Quick cuts between vault and undercity, building urgency",
+      "ending": "Uneasy alliance formed, Aria agrees to investigate from inside"
+    },
+    "chapter_12": {
+      "type": "midpoint_reversal",
+      "title": "Composite",
+      "purpose": "Major revelation that recontextualizes everything, point of no return",
+      "must_include": [
+        "Aria runs deep forensic analysis on her own memory backup",
+        "Discovery that she's a Composite - constructed from multiple sources",
+        "Revelation of her true age (2 years, not 8 years of memories)",
+        "Identity crisis - nothing she remembers before 2 years ago is real",
+        "The Archivist reveals itself directly for first time",
+        "Explanation that she was created to infiltrate vault system",
+        "Question: is her investigation programmed or free will?"
+      ],
+      "emotional_beat": "Determined investigation → horrifying discovery → existential collapse → desperate need to know if she's real",
+      "character_revelations": {
+        "aria": "Everything she believed about herself is false, but her reactions might be authentic",
+        "the_archivist": "Has been watching all along, fascinated by her journey",
+        "her_relationship_to_jin": "Jin knew what they were, Aria didn't - creates complicated kinship"
+      },
+      "plants_for_future": [
+        "Question of programmed vs. free will (central to book 2)",
+        "The Archivist's ultimate goal (revealed book 3)",
+        "Original Aria Chen who died in vault breach (her memories were used)",
+        "Possibility that her feelings for Marcus are programmed"
+      ],
+      "impact_on_plot": "Aria can never go back to corporate loyalty, now hunted by those who created her",
+      "tone": "Psychological horror, existential dread, noir despair",
+      "pacing": "Slow reveal building to devastating realization, ends with silence/stillness",
+      "ending": "Aria alone, staring at evidence she doesn't exist, Marcus finding her in this broken state"
+    },
+    "chapter_17": {
+      "type": "climax",
+      "title": "The Vault Breach",
+      "purpose": "Physical action climax, moral choice, point of no return",
+      "must_include": [
+        "Aria and Marcus break into restricted vault section",
+        "Discovery of mass fabrication evidence - thousands of composites in positions of power",
+        "Corporate security response, action sequence",
+        "Aria's choice: protect herself or expose conspiracy knowing it reveals her nature",
+        "Successful data extraction but at cost of casualties",
+        "The Archivist offering to hide her in exchange for stopping the exposure",
+        "Aria choosing truth over safety - free will demonstrated",
+        "Broadcast begins but they must flee"
+      ],
+      "emotional_beat": "Determined action → moral crisis → decision that proves her agency → consequence acceptance",
+      "character_revelations": {
+        "aria": "Capable of sacrifice and authentic choice despite composite nature",
+        "marcus": "Will risk everything to protect her, not just use her",
+        "the_archivist": "Genuinely disappointed she chose differently than predicted"
+      },
+      "plants_for_future": [
+        "Casualties that will haunt characters (book 2)",
+        "Specific power figures exposed as composites (drives book 2 conflict)",
+        "Data that includes references to Last Original child (book 3)",
+        "The Archivist's pivot to alternative plans"
+      ],
+      "action_set_pieces": [
+        "Infiltration using Aria's vault knowledge and Marcus's black market tools",
+        "Security system override with Archivist interference",
+        "Chase through vault levels",
+        "Data transmission under fire"
+      ],
+      "tone": "Intense action, noir violence, moral clarity amid chaos",
+      "pacing": "Rapid, breathless, intercutting action with character moments",
+      "ending": "Broadcast successful, vault in flames, Aria and Marcus escaping into undercity as fugitives"
+    },
+    "chapter_20": {
+      "type": "resolution",
+      "title": "The War Begins",
+      "purpose": "Resolve book 1 arc while setting up book 2 conflict",
+      "must_include": [
+        "Public reaction to broadcast - society destabilizing",
+        "Revelation that most leaders are composites or augmented",
+        "Originals vs. Augmented vs. Composites conflict emerging",
+        "Aria and Marcus in hiding, now fugitives and symbols",
+        "The Archivist making contact with other factions",
+        "Jin appearing to offer Aria shelter in composite underground",
+        "Dr. Yuki Tanaka watching from shadows",
+        "News of violence beginning - war is coming",
+        "Aria's acceptance that she can't undo what she's started",
+        "Marcus's commitment to see this through with her"
+      ],
+      "emotional_beat": "Exhaustion → witnessing consequences → grim determination → choosing to continue despite cost",
+      "character_revelations": {
+        "aria": "Accepts her composite nature but claims her choices as real",
+        "marcus": "Transformed from selfish dealer to revolutionary",
+        "their_relationship": "Genuine partnership forged, romantic potential acknowledged but not acted on",
+        "jin": "Offers wisdom about living as composite",
+        "the_archivist": "Reveals it has contingency plans"
+      },
+      "world_state_changes": [
+        "Public knows about mass fabrication",
+        "Trust in institutions shattered",
+        "Class warfare brewing based on memory authenticity",
+        "Composite underground emerging as political force",
+        "Corporate council losing control"
+      ],
+      "setup_for_book_2": [
+        "War between factions",
+        "Aria's programmed loyalty activation possibility",
+        "Marcus searching for daughter's consciousness",
+        "The Archivist's alternative plans",
+        "Dr. Tanaka's potential involvement"
+      ],
+      "tone": "Bittersweet victory, noir consequences, determined acceptance",
+      "pacing": "Reflective, showing ripples of their actions, building to new threat",
+      "ending": "Aria and Marcus looking out over Neo-Singapore as first explosions light the night - revolution and war beginning"
+    }
+  },
+  "book_2_tentpoles_summary": {
+    "chapter_1": "War breaks out, Aria and Marcus caught between factions",
+    "chapter_7": "Aria's sleeper programming activates, she's been a weapon all along",
+    "chapter_12": "Marcus finds his daughter's memories in Jin, must choose",
+    "chapter_17": "Aria overcomes programming through force of will, proves free will exists",
+    "chapter_20": "War escalates, Last Original child revealed, Aria commits to protection"
+  },
+  "book_3_tentpoles_summary": {
+    "chapter_1": "Multiple factions hunt Last Original child",
+    "chapter_7": "Dr. Tanaka reveals quantum lock that prevents future memory manipulation but destroys backups",
+    "chapter_12": "The Archivist offers digital immortality for entire species",
+    "chapter_17": "Aria sacrifices consciousness to implement Tanaka's solution",
+    "chapter_20": "Humanity loses immortality but regains authenticity, bittersweet new beginning"
+  },
+  "cross_trilogy_tentpole_threads": {
+    "aria_arc": {
+      "b1_ch1": "Doesn't know she's composite",
+      "b1_ch12": "Discovers composite nature",
+      "b1_ch17": "Proves she has free will through choice",
+      "b2_ch7": "Programming activates, questions free will again",
+      "b2_ch17": "Overcomes programming definitively",
+      "b3_ch17": "Ultimate free will choice - sacrifice for principle"
+    },
+    "marcus_arc": {
+      "b1_ch7": "Recruits Aria for selfish mission",
+      "b1_ch17": "Protects Aria, becoming selfless",
+      "b2_ch12": "Chooses Jin's life over daughter's memory",
+      "b3_ch15": "Love confession before Aria's sacrifice",
+      "b3_ch20": "Living with loss, continuing her work"
+    },
+    "conspiracy_revelation": {
+      "b1_ch1": "Personal memory anomaly",
+      "b1_ch7": "Government program evidence",
+      "b1_ch12": "Mass composite infiltration",
+      "b1_ch17": "Public exposure",
+      "b2": "Societal consequences",
+      "b3": "Final choice about humanity's future"
+    }
+  }
+}

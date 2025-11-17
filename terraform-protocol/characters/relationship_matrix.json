@@ -1,0 +1,145 @@
+{
+  "relationship_matrix": {
+    "description": "Power dynamics, tensions, and emotional connections between main characters in Terraform Protocol trilogy",
+    "format": "Each relationship shows: power_dynamic (who has leverage), tension_type, emotional_foundation, and arc_trajectory",
+    "relationships": [
+      {
+        "characters": ["Kessa Okafor", "Dmitri Volkov"],
+        "power_dynamic": "Dmitri has institutional power, Kessa has knowledge power",
+        "tension_type": "Ideological - preservation vs. exploitation",
+        "emotional_foundation": "Professional antagonism with grudging mutual respect",
+        "starting_state": "Dmitri views Kessa as naive academic, Kessa sees him as corporate destroyer",
+        "arc_trajectory": "Both realize they're victims of larger forces, develop complicated understanding but never full alliance",
+        "key_moments": [
+          "Ch7: Dmitri suppresses Kessa's findings",
+          "Book 2, Ch11: Dmitri asks for Kessa's help to save his daughter",
+          "Book 3, Ch16: Both make sacrifices to enable compromise"
+        ]
+      },
+      {
+        "characters": ["Kessa Okafor", "Sage"],
+        "power_dynamic": "Shifts from Kessa's institutional power to Sage's contextual expertise",
+        "tension_type": "Generational and philosophical - Earth-born vs. Mars-born identity",
+        "emotional_foundation": "Mentor-student evolving to equals, genuine affection and mutual learning",
+        "starting_state": "Kessa as established expert, Sage as local guide/assistant",
+        "arc_trajectory": "Reverse mentorship as Sage teaches Kessa what Mars truly means, become partners",
+        "key_moments": [
+          "Ch4: Sage demonstrates atmospheric adaptation to Kessa",
+          "Book 1, Ch18: Sage saves Kessa during colony destruction",
+          "Book 3, Ch12: Sage advocates for Kessa to merge with The Gardener"
+        ]
+      },
+      {
+        "characters": ["Kessa Okafor", "The Gardener"],
+        "power_dynamic": "Massively imbalanced - The Gardener can destroy all colonies, Kessa has only communication",
+        "tension_type": "Existential - human survival vs. alien programming",
+        "emotional_foundation": "Academic curiosity becomes understanding becomes merger",
+        "starting_state": "Kessa studies The Gardener as artifact, it perceives her as contamination",
+        "arc_trajectory": "From specimen/observer to communication partners to merged consciousness",
+        "key_moments": [
+          "Ch1: Kessa discovers The Gardener's structure",
+          "Book 2, Ch17: First true communication established",
+          "Book 3, Ch12: Kessa offers to merge consciousness"
+        ]
+      },
+      {
+        "characters": ["Kessa Okafor", "Admiral Zhang Wei"],
+        "power_dynamic": "Zhang has military power, Kessa has moral authority",
+        "tension_type": "Ethical dilemma - refugee survival vs. colony safety",
+        "emotional_foundation": "Mutual respect complicated by impossible choices",
+        "starting_state": "Sympathetic but opposing interests",
+        "arc_trajectory": "Alliance forms as both seek solution that saves maximum lives",
+        "key_moments": [
+          "Book 1, Ch15: First meeting, Zhang appeals to Kessa's humanity",
+          "Book 2, Ch19: Kessa provides archaeological data to help find safe landing sites",
+          "Book 3, Ch17: Both negotiate final compromise"
+        ]
+      },
+      {
+        "characters": ["Dmitri Volkov", "Sage"],
+        "power_dynamic": "Dmitri has corporate authority, Sage has popular support",
+        "tension_type": "Colonial - Earth empire vs. Mars independence",
+        "emotional_foundation": "Mutual distrust verging on hatred, complicated by Sage being proof Dmitri's methods aren't needed",
+        "starting_state": "Dmitri dismisses Sage as genetic experiment, Sage sees him as colonial oppressor",
+        "arc_trajectory": "Never become allies, but gain tragic understanding as both lose what they fought for",
+        "key_moments": [
+          "Ch9: Dmitri tries to buy Sage's silence about structure",
+          "Book 2, Ch8: Sage leads sabotage of Dmitri's terraforming operation",
+          "Book 3, Ch18: Both accept compromise neither wanted"
+        ]
+      },
+      {
+        "characters": ["Dmitri Volkov", "Admiral Zhang Wei"],
+        "power_dynamic": "Uneasy equals - corporate vs. military authority",
+        "tension_type": "Strategic alliance with conflicting motivations",
+        "emotional_foundation": "Shared desperation to save specific people (Dmitri's daughter, Zhang's refugees)",
+        "starting_state": "Natural allies who both need refugees to land",
+        "arc_trajectory": "Alliance strains as methods conflict, ultimately work together for compromise",
+        "key_moments": [
+          "Book 1, Ch16: Form alliance to push for refugee landing",
+          "Book 2, Ch7: Zhang begins forced landings Dmitri didn't authorize",
+          "Book 3, Ch14: Zhang helps Dmitri get daughter to adapted colony"
+        ]
+      },
+      {
+        "characters": ["Sage", "The Gardener"],
+        "power_dynamic": "The Gardener has absolute power, but recognizes Sage as 'successful gardener'",
+        "tension_type": "Spiritual/philosophical - Sage sees The Gardener as Mars' soul",
+        "emotional_foundation": "Reverential on Sage's side, recognition on The Gardener's",
+        "starting_state": "The Gardener doesn't distinguish Sage from other humans initially",
+        "arc_trajectory": "The Gardener recognizes Sage as adapted human who can survive Mars-as-it-is, validates Sage's existence",
+        "key_moments": [
+          "Book 1, Ch19: Sage survives in area with active structure response",
+          "Book 2, Ch13: Sage helps establish communication protocols",
+          "Book 3, Ch10: The Gardener designates adapted zones for Sage's people"
+        ]
+      },
+      {
+        "characters": ["Sage", "Admiral Zhang Wei"],
+        "power_dynamic": "Complex - Zhang has fleet weapons, Sage has home territory advantage",
+        "tension_type": "Moral - both fighting for survival of their people, zero-sum game",
+        "emotional_foundation": "Tragic opposition - neither wants to be enemies but circumstances force it",
+        "starting_state": "Sage sees refugees as threat, Zhang sees Sage as obstacle",
+        "arc_trajectory": "From enemies to reluctant acknowledgment to cooperation in adapted refugee program",
+        "key_moments": [
+          "Book 2, Ch4: Sage leads resistance against refugee landings",
+          "Book 2, Ch15: Zhang saves Sage during structure attack, shifts dynamic",
+          "Book 3, Ch9: Sage accepts some refugees can adapt, Zhang provides volunteers"
+        ]
+      },
+      {
+        "characters": ["Admiral Zhang Wei", "The Gardener"],
+        "power_dynamic": "The Gardener can destroy fleet, Zhang can damage surface colonies",
+        "tension_type": "Existential standoff",
+        "emotional_foundation": "Zhang views The Gardener as obstacle, The Gardener sees fleet as contamination source",
+        "starting_state": "No direct relationship, mutual threat",
+        "arc_trajectory": "Zhang comes to accept The Gardener's judgment has validity, seeks negotiated peace",
+        "key_moments": [
+          "Book 2, Ch7: Fleet landings trigger major structure responses",
+          "Book 2, Ch20: Zhang acknowledges The Gardener has legitimate claim",
+          "Book 3, Ch17: Zhang agrees to compromise that accepts The Gardener's authority"
+        ]
+      }
+    ],
+    "power_triangles": [
+      {
+        "name": "Knowledge Triangle",
+        "characters": ["Kessa", "Dmitri", "Sage"],
+        "dynamic": "Each has different knowledge type - academic, corporate, lived experience",
+        "outcome": "Must combine all three knowledge types to find solution"
+      },
+      {
+        "name": "Authority Triangle",
+        "characters": ["Dmitri", "Zhang", "The Gardener"],
+        "dynamic": "Corporate power vs. military power vs. absolute planetary power",
+        "outcome": "All three authority types prove insufficient alone"
+      },
+      {
+        "name": "Future Triangle",
+        "characters": ["Sage", "The Gardener", "Refugees"],
+        "dynamic": "Three possible futures for Mars - adapted humans, alien ecosystem, terraformed world",
+        "outcome": "Compromise creates multiple futures simultaneously"
+      }
+    ]
+  }
+}

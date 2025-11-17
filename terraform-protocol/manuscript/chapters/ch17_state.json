@@ -1,0 +1,165 @@
+{
+  "chapter": 17,
+  "title": "Olympus Falling",
+  "word_count": 3012,
+  "timeline": "Day 2,359 of terraforming project (Year 6, Month 5), approximately 5 weeks after Chapter 12, 8 months until Year 7 threshold, event duration: 37 minutes warning to destruction, +3 days aftermath",
+  "location": "Olympus Station (destroyed), surface depot near Olympus Mons, wreckage site",
+  "pov_character": "Multiple POVs - Kessa Okafor primary, Dmitri Volkov, Admiral Zhang Wei (brief)",
+  "characters_present": ["Kessa Okafor", "Sage", "Dr. Martinez", "Yuki", "Pavel (Dmitri's second)", "Dmitri Volkov (deceased)", "Admiral Zhang Wei (in orbit)"],
+  "characters_mentioned": ["Dmitri's daughter in refugee fleet", "Dr. Williams (deceased)", "Chen's replacement"],
+  "character_states": {
+    "Kessa_Okafor": {
+      "knows": [
+        "All previous knowledge",
+        "The Gardener can coordinate seismic activity across continent-scale regions",
+        "Dmitri's contingency option (explosives in central chamber) failed",
+        "Olympus Station destroyed: 1,100 dead, 1,043 survivors evacuated",
+        "Dmitri Volkov died in the operations center",
+        "The Gardener targeted Old Worlder colony specifically, not Marsborn",
+        "Attack was defensive response to contingency option",
+        "Her excavation was the catalyst even if not the cause",
+        "Mars colonies will fracture into multiple factions",
+        "Admiral Zhang will begin forced landings within a month",
+        "Six months until The Gardener attempts planetary-scale sterilization"
+      ],
+      "emotional_state": "Traumatized, guilty, grieving, questioning her role, lost between worlds",
+      "arc_position": 0.55,
+      "location": "Surface depot near destroyed Olympus Station, being evacuated to Valles Marineris",
+      "relationships_affected": {
+        "Dmitri_Volkov": "Dead - complex grief, he was antagonist but also victim of larger forces",
+        "Sage": "Growing partnership, accepting Marsborn perspective as valid",
+        "The_Gardener": "Recognizes its right to self-defense but horrified by human cost",
+        "Herself": "Crisis of responsibility for the disaster"
+      }
+    },
+    "Dmitri_Volkov": {
+      "knows": [
+        "His engineering solutions failed",
+        "Station will be destroyed",
+        "Can only save 1,000 of 2,300 people",
+        "His contingency option triggered this response",
+        "Daughter is 3 weeks out in refugee fleet",
+        "He was wrong about everything"
+      ],
+      "emotional_state": "Breakdown of certainty, acceptance of failure, sacrificial determination to save who he can",
+      "arc_position": 1.0,
+      "location": "Operations center, Olympus Station (deceased)",
+      "relationships_affected": {
+        "Daughter": "Final thoughts of her, died trying to create her safe world",
+        "His_people": "Stayed to save as many as possible in final act of leadership"
+      },
+      "status": "DECEASED"
+    },
+    "Sage": {
+      "knows": [
+        "All previous knowledge",
+        "The Gardener targeted only Old Worlder colony, not Marsborn",
+        "Attack was precise and deliberate",
+        "Mars colonies will fracture into factions",
+        "Admiral Zhang preparing forced landings",
+        "Kessa is processing guilt and can be brought to Mars-side perspective"
+      ],
+      "emotional_state": "Validated but not triumphant, sad at death toll but saw it as inevitable, protective of Kessa",
+      "arc_position": 0.3,
+      "location": "Rescue crew at Olympus Station wreckage",
+      "relationships_affected": {
+        "Kessa_Okafor": "Growing closer, mentoring her through trauma, offering Marsborn perspective"
+      }
+    },
+    "Admiral_Zhang_Wei": {
+      "knows": [
+        "Olympus Station destroyed with 1,100 casualties",
+        "Mars colonies in chaos",
+        "No one in position to enforce landing restrictions",
+        "Refugee fleet has supplies for 8 more weeks",
+        "This is his window to force landings"
+      ],
+      "emotional_state": "Desperate calculation, sees opportunity in chaos, grim determination",
+      "arc_position": 0.3,
+      "location": "Command ship in orbit",
+      "relationships_affected": {
+        "Refugees": "Must save them even if it means exploiting disaster"
+      }
+    }
+  },
+  "revealed_to_reader": [
+    "Dmitri's contingency option was explosives in central chamber - failed",
+    "The Gardener can coordinate magnitude 8.5+ earthquakes",
+    "Olympus Station destroyed: 1,100 dead, 1,043 evacuated",
+    "Dmitri Volkov died staying at his post to enable evacuations",
+    "Dmitri's daughter is 3 weeks out in refugee fleet",
+    "The Gardener's attack was precisely targeted at Old Worlder colony",
+    "Marsborn not affected - The Gardener distinguishes between human types",
+    "Admiral Zhang planning forced landings within a month",
+    "Refugee fleet has 8 weeks of supplies left",
+    "The Gardener assessing current protocols as insufficient",
+    "Six-month countdown to planetary-scale sterilization attempt",
+    "Mars colonies will fracture into factions over response"
+  ],
+  "planted": [
+    {
+      "element": "Admiral Zhang's forced landings within a month",
+      "payoff_chapter": 19,
+      "significance": "Triggers additional crises and colony fracturing"
+    },
+    {
+      "element": "Colony factions forming (stop terraforming, accelerate, adapt, survive at any cost)",
+      "payoff_chapter": 20,
+      "significance": "Sets up political fractures in resolution chapter"
+    },
+    {
+      "element": "Six-month countdown to planetary sterilization",
+      "payoff_chapter": "Book 2, critical throughout",
+      "significance": "Ticking clock for Book 2"
+    },
+    {
+      "element": "The Gardener distinguishing between Old Worlders and Marsborn",
+      "payoff_chapter": "Book 2",
+      "significance": "Proves it can recognize adapted humans as non-threat"
+    },
+    {
+      "element": "Dmitri's daughter photo surviving",
+      "payoff_chapter": "Book 2, Ch11",
+      "significance": "Humanizes the loss, symbol of failed promises"
+    },
+    {
+      "element": "Refugee fleet supplies: 8 weeks left",
+      "payoff_chapter": 19,
+      "significance": "Desperate timeline forcing Zhang's hand"
+    },
+    {
+      "element": "Kessa's guilt about waking The Gardener",
+      "payoff_chapter": "Book 3",
+      "significance": "Drives her sacrifice/merger decision"
+    }
+  ],
+  "active_tensions": [
+    "Kessa's survivor guilt and moral crisis",
+    "Admiral Zhang's desperation to land refugees",
+    "Colony factions forming with opposing goals",
+    "The Gardener preparing planetary-scale response",
+    "Six-month countdown to potential human extinction on Mars",
+    "Sage trying to recruit Kessa to Mars-side",
+    "Remaining colonies deciding how to respond"
+  ],
+  "world_changes": [
+    "Olympus Station destroyed - largest colony catastrophe in Mars history",
+    "1,100 human casualties",
+    "Dmitri Volkov dead - corporate leadership vacuum",
+    "Mars colonial government in chaos",
+    "Landing restrictions effectively unenforceable",
+    "The Gardener demonstrated it can destroy major population centers at will",
+    "Clear evidence The Gardener distinguishes between human types",
+    "Timeline accelerated toward confrontation"
+  ],
+  "atmosphere_notes": "Catastrophic horror achieved, moral weight of deaths, no clear heroes or villains, systemic failure, grief and guilt, shift to aftermath and consequences, tone of irreversible change",
+  "continuity_notes": {
+    "timeline": "Day 2,359, 8 months to Year 7 threshold, Dmitri's daughter 3 weeks out, Zhang's supplies: 8 weeks",
+    "casualties": "1,100 dead including Dmitri Volkov, Dr. Williams, others; 1,043 evacuated; Kessa's group (15 survivors) at surface depot",
+    "seismic_progression": "Ch1: 2.5, Ch7: 3.5, Ch12: 5.7, Ch17: 8.5+ - clear escalation to catastrophic",
+    "character_arcs": "Dmitri completed arc in death (recognition of failure, sacrificial end); Kessa mid-arc crisis; Sage validated",
+    "technology": "Transport ships (hold ~1,000), surface depots, pressure bulkheads, emergency protocols",
+    "the_gardener_capabilities": "Continent-scale coordinated seismic control, precise targeting, magnitude 8.5+ earthquakes",
+    "atmospheric_conditions": "Station's atmosphere failing, explosive decompression, Mars' thin air reclaiming space"
+  }
+}
