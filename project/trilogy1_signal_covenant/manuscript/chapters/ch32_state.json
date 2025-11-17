@@ -1,0 +1,96 @@
+{
+  "chapter": 32,
+  "title": "The Second Test",
+  "word_count": 2511,
+  "characters_present": ["Marcus Reid", "Sofia Navarro", "Yuki Tanaka", "Dr. Rashid", "Professor Okafor", "James Kessler (by phone)"],
+  "character_knowledge": {
+    "ALL_TEAM_MEMBERS": [
+      "Assembled are testing ethics AND intelligence",
+      "How consensus is achieved matters as much as whether it's achieved",
+      "All actions have been observed: government control, corporate monopolization, betrayals",
+      "Coercion, manipulation, suppression disqualify from passing test",
+      "Intelligence is common, wisdom is rare",
+      "Current consensus at 48%, 4 months remaining"
+    ],
+    "Marcus_Reid": [
+      "Realizes team has been part of the problem - manipulation and strategic leaks",
+      "Commits to full transparency going forward",
+      "Published statement acknowledging failures and committing to ethical process",
+      "Understands 15% who disagree have legitimate concerns to address"
+    ],
+    "Sofia_Navarro": [
+      "Pushes for transparency and honesty over strategy",
+      "Believes genuine ethical consensus might build faster than manipulated consensus"
+    ],
+    "Yuki_Tanaka": [
+      "Recognizes 85% must be genuine support, not forced agreement",
+      "Proposes grassroots transparent alternative to institutional control"
+    ],
+    "James_Kessler": [
+      "Learned about ethics test",
+      "Struggles with letting go of information control",
+      "Challenged to have faith in humanity's wisdom - must think about it"
+    ]
+  },
+  "world_state": {
+    "time": "~8 months after Chapter 20, 4 months before deadline",
+    "voyager_status": "Continuing approach, 4 months remaining",
+    "consensus_level": "48% global consensus - progress but still far from 85%",
+    "ethical_revelation": "Methods matter as much as results - being observed constantly"
+  },
+  "second_test_criteria": {
+    "intelligence_test": "Already passed - solved mathematical proofs",
+    "ethics_test": {
+      "requirements": [
+        "Honest, transparent consensus-building",
+        "Genuine democratic participation",
+        "No coercion or manipulation",
+        "No suppression of dissenting voices",
+        "Address disagreements rather than override them"
+      ],
+      "failures_observed": [
+        "Governmental information control",
+        "Corporate monopolization attempts",
+        "Betrayals of trust",
+        "Strategic manipulation",
+        "Divisions unresolved"
+      ]
+    }
+  },
+  "published_statement": {
+    "content": "Acknowledges team's ethical failures, commits to complete transparency, proposes honest engagement with all perspectives including dissenters, accepts possibility of honest failure over manipulated success"
+  },
+  "planted_elements": [
+    {
+      "element": "Kessler's faith in humanity crisis",
+      "description": "Must choose between control and trust in people's wisdom",
+      "foreshadowing": "Will resolve in Chapter 47 when he defies orders"
+    },
+    {
+      "element": "Ethical consensus-building",
+      "description": "Must address concerns of 15% who disagree, not override them",
+      "foreshadowing": "Core of grassroots solution in Chapter 40"
+    },
+    {
+      "element": "Transparency over strategy",
+      "description": "Team commits to honesty even if it costs them credibility",
+      "foreshadowing": "Theme throughout remaining chapters"
+    }
+  ],
+  "character_arcs": {
+    "Marcus_Reid": "Embraces full leadership through vulnerability - admits failures, commits to ethics",
+    "Team": "Shifts from strategic manipulation to honest engagement",
+    "James_Kessler": "Faces crisis between control and trust - must choose"
+  },
+  "themes": {
+    "wisdom_vs_intelligence": "Intelligence is common, wisdom is rare - central message",
+    "means_vs_ends": "How you achieve consensus matters as much as achieving it",
+    "honest_failure_vs_dishonest_success": "Better to fail honestly than win through manipulation"
+  },
+  "next_chapter_hooks": [
+    "Team pursuing fully transparent ethical consensus",
+    "48% to 85% in 4 months - extremely difficult",
+    "Kessler must decide: control or trust",
+    "Fracture approaching in Chapter 37"
+  ]
+}

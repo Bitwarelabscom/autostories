@@ -1,0 +1,84 @@
+{
+  "chapter": 20,
+  "title": "Point of No Return",
+  "word_count": 2600,
+  "book": 1,
+  "character_states": {
+    "Adrian_Keller": {
+      "arc_position": 0.33,
+      "change_stage": "Stage 2, choosing to accelerate to Stage 3",
+      "emotional_state": "Determined, accepting transformation, terrified and exhilarated",
+      "knowledge": [
+        "The Change is irreversible - synaptic restructuring is permanent",
+        "Progression is inevitable, can only be slowed",
+        "Cure would require lobotomy-level destruction of brain function",
+        "Stage 3 will come in 6-8 weeks naturally, faster with signal exposure",
+        "Stage 3 allows seeing reality's underlying code",
+        "Has been shielded from signal to slow progression",
+        "Can choose to hear signal and accelerate transformation"
+      ],
+      "transformation_markers": [
+        "Makes conscious choice to embrace Change",
+        "Requests exposure to unfiltered signal",
+        "Accepts he can't remain in between",
+        "Chooses understanding over resistance"
+      ]
+    },
+    "Sera_Volkov": {
+      "arc_position": 0.65,
+      "change_stage": "Stage 3 - can manipulate visible geometry",
+      "emotional_state": "Calm certainty, advocating for embracing transformation",
+      "demonstration": "Shows Adrian what Stage 3 can do - bend space, see reality's code"
+    },
+    "Dr_Marie_Okonkwo": {
+      "arc_position": 0.2,
+      "emotional_state": "Grief and resignation, has to accept patient's choice",
+      "knowledge": [
+        "Change is irreversible and progressive",
+        "Cure would destroy brain function",
+        "All Changed advance through stages inevitably",
+        "Shielding only delays, doesn't prevent"
+      ],
+      "action": "Agrees to disable EM shielding, let Adrian hear signal"
+    },
+    "Colonel_Reeves": {
+      "arc_position": 0.15,
+      "emotional_state": "Opposed to voluntary exposure, sees it as dangerous",
+      "concern": "Changed choosing to accelerate transformation"
+    }
+  },
+  "planted_elements": [
+    {
+      "element": "Stage 3 can see and manipulate reality's code",
+      "planted_for": "Chapter 32 - Adrian's breakthrough perception"
+    },
+    {
+      "element": "Choice between resisting and embracing",
+      "planted_for": "Chapter 60 - final choice about doors"
+    },
+    {
+      "element": "Stage 4 still unknown - transcendence or annihilation",
+      "planted_for": "Throughout trilogy"
+    }
+  ],
+  "themes_touched": [
+    "Choice vs. inevitability - can choose how to face what can't be avoided",
+    "Terror of transcendence - seeing truth worth any cost",
+    "Meaning in meaningless universe - finding purpose in transformation"
+  ],
+  "atmosphere": "Pivotal decision, acceptance of transformation, burning bridges",
+  "key_images": [
+    "Sera bending space above her palm",
+    "Impossible geometries flowing into each other",
+    "Dr. Okonkwo's shaking hands typing",
+    "Adrian between two states, tired of limbo",
+    "The point of no return as choice, not place"
+  ],
+  "foreshadowing": [
+    "Stage 3 coming soon for Adrian",
+    "Stage 4 remains mysterious",
+    "Sera's path vs. Okonkwo's path",
+    "Tonight everything changes",
+    "Reeves's increasing concern about voluntary transformation"
+  ]
+}

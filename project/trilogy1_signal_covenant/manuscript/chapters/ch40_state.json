@@ -1,0 +1,104 @@
+{
+  "chapter": 40,
+  "title": "The Grassroots Solution",
+  "word_count": 2914,
+  "characters_present": ["Marcus Reid", "Sofia Navarro", "Yuki Tanaka", "Dr. Rashid", "James Kessler (by phone)", "Evelyn Thorne (by phone)"],
+  "character_knowledge": {
+    "ALL_TEAM_MEMBERS": [
+      "Launched peer-to-peer distributed referendum system",
+      "No governmental control, blockchain verified, publicly auditable",
+      "42 million participants in first 48 hours",
+      "64% yes votes, 36% no votes (self-selected early adopters)",
+      "System attacked by sophisticated DDoS",
+      "Attack mitigated by volunteer security community",
+      "2 months until Voyager arrival deadline"
+    ],
+    "Marcus_Reid": [
+      "Confronted Kessler who chose to allow system to run (watching but not suppressing)",
+      "Rejected Thorne's offer of security help with strings attached",
+      "Learned Thorne was testing them, then protected from worse attacks",
+      "Committed to defending system ethically despite vulnerabilities"
+    ],
+    "Sofia_Navarro": [
+      "Key architect of grassroots solution",
+      "Mobilized volunteer security community to fight attack",
+      "Chose ethical defense over compromised efficiency"
+    ],
+    "Yuki_Tanaka": [
+      "Built distributed blockchain verification system",
+      "Led technical defense against DDoS attack",
+      "Network stabilized at 85% capacity after attack"
+    ],
+    "James_Kessler": [
+      "Chose to allow system to run despite having authority to shut it down",
+      "Watching for manipulation or fraud",
+      "Will shut down if he sees exploitation"
+    ],
+    "Evelyn_Thorne": [
+      "Launched DDoS attack as 'test' of system resilience",
+      "Offered security help in exchange for control and priority access",
+      "After rejection, revealed she'd intercepted worse attacks from governments and corporations",
+      "Ambiguous motivations - testing or protecting?"
+    ]
+  },
+  "world_state": {
+    "time": "60 days before Voyager arrival deadline",
+    "voyager_status": "2 months from Earth arrival",
+    "referendum_status": {
+      "participants": "42 million and growing",
+      "yes_votes": "64%",
+      "no_votes": "36%",
+      "network_capacity": "85% after attack mitigation",
+      "coverage": "Strongest in tech-connected regions, expanding to offline communities"
+    },
+    "political_landscape": "Governments divided - some embrace grassroots system, others denounce as illegitimate",
+    "threats": "Intelligence agencies and corporations attempting to manipulate referendum"
+  },
+  "grassroots_system_specs": {
+    "architecture": "Distributed peer-to-peer network, no central control",
+    "verification": "Blockchain cryptographic validation",
+    "transparency": "Publicly auditable ledger",
+    "accessibility": "Online interface plus offline paper ballots with local validators",
+    "security": "Distributed = no single point of failure",
+    "governance": "Open-source code, volunteer security community"
+  },
+  "planted_elements": [
+    {
+      "element": "Kessler's choice to trust",
+      "description": "Allows system to run despite authority to suppress it",
+      "foreshadowing": "Character arc moving from control to trust, will complete in Chapter 47"
+    },
+    {
+      "element": "Thorne's ambiguous protection",
+      "description": "Tests system but also protects from worse attacks",
+      "foreshadowing": "Setting up redemption arc in Chapter 52"
+    },
+    {
+      "element": "Offline participation mechanisms",
+      "description": "Paper ballots for populations without internet",
+      "foreshadowing": "Critical for reaching 85% truly global consensus"
+    }
+  },
+  "character_arcs": {
+    "Marcus_Reid": "Chooses ethics over expediency when offered Thorne's help",
+    "Sofia_Navarro": "Realizes her brother's vision - grassroots solution that trusts the people",
+    "James_Kessler": "Takes first step toward trust by allowing system to run",
+    "Evelyn_Thorne": "Complex turn - attacks to test, but also protects; possible redemption beginning"
+  },
+  "relationships": {
+    "Marcus_Kessler": "Kessler makes leap of faith to trust Marcus despite doubts",
+    "Marcus_Thorne": "Complicated - she tests but also protects them",
+    "Team_community": "Volunteer security community rallies to defend system"
+  },
+  "themes": {
+    "trust_over_control": "Kessler allows vs suppresses; team chooses volunteer community over Thorne",
+    "ethical_means": "Reject Thorne's help to maintain independence and ethics",
+    "grassroots_power": "Volunteer community successfully defends against sophisticated attack"
+  },
+  "next_chapter_hooks": [
+    "System is live but vulnerable to further attacks",
+    "42 million participants, need many more for 85% global consensus",
+    "2 months to grow participation and defend system",
+    "Thorne's true intentions remain unclear"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "chapter": 10,
+  "title": "Voyager's Nature",
+  "word_count": 2700,
+  "book": 1,
+  "character_states": {
+    "Adrian_Keller": {
+      "arc_position": 0.17,
+      "change_stage": "Stage 1 progressing to Stage 2",
+      "emotional_state": "Awed and terrified by collective vision, understanding scope of threat",
+      "knowledge": [
+        "Voyager passed through 'thin place' where dimensions intersect",
+        "Probe is now partially extradimensional",
+        "It's being pulled back to Earth",
+        "Bringing dimensional instability with it",
+        "18 months until Voyager reaches Earth",
+        "The Change prepares consciousness for existence in thin places",
+        "Changed can pool perception into collective vision",
+        "Reality will break down when Voyager arrives",
+        "Humans must change or be confined to shrinking stable zones"
+      ],
+      "transformation_markers": [
+        "Can participate in collective gestalt vision",
+        "Can perceive across dimensions during pooled vision",
+        "Ache from being separate after collective experience"
+      ]
+    },
+    "Sera_Volkov": {
+      "arc_position": 0.6,
+      "change_stage": "Stage 3",
+      "emotional_state": "Perfectly calm, intellectually engaged",
+      "role": "Leader of collective vision, interpreter of truth"
+    },
+    "Dr_Marie_Okonkwo": {
+      "arc_position": 0.1,
+      "emotional_state": "Clinical composure cracking, fear emerging",
+      "knowledge": [
+        "Witnessed Changed performing synchronized collective vision",
+        "Heard prophecy of reality breakdown in 18 months",
+        "Beginning to question if this is disease or evolution"
+      ]
+    },
+    "Colonel_Reeves": {
+      "arc_position": 0.12,
+      "emotional_state": "Viewing Changed as potential threat to humanity",
+      "role": "Escalating threat assessment, reporting up chain"
+    }
+  },
+  "planted_elements": [
+    {
+      "element": "18-month countdown to Voyager's arrival",
+      "planted_for": "Creates urgency throughout trilogy"
+    },
+    {
+      "element": "Thin place following Voyager",
+      "planted_for": "Chapter 47 - reality fractures"
+    },
+    {
+      "element": "Collective gestalt perception",
+      "planted_for": "Chapter 21 - network effect fully manifests"
+    },
+    {
+      "element": "Two choices - change or confined to shrinking stable zones",
+      "planted_for": "Chapter 56 - the two doors"
+    },
+    {
+      "element": "Voyager's Golden Record",
+      "planted_for": "Chapter 60 - plays as Changed depart"
+    }
+  ],
+  "themes_touched": [
+    "Truth vs. comfort - seeing reality's true nature",
+    "Terror of transcendence - being prepared for something incomprehensible",
+    "Inevitability - can't prevent what's coming",
+    "Collective vs. individual - beauty and loss of gestalt consciousness"
+  ],
+  "atmosphere": "Cosmic horror revelation, terrible clarity, scale horror",
+  "key_images": [
+    "Seventeen Changed in perfect pentadecagon",
+    "Reality becoming transparent, seeing through Earth",
+    "Voyager as door with thin place spreading like ink",
+    "Infinite dimensions stacked on dimensions",
+    "Sera's empty smile after seeing eternity"
+  ],
+  "foreshadowing": [
+    "Reality breakdown in 18 months",
+    "Gestalt consciousness becoming more important",
+    "Government viewing Changed as threat",
+    "Changed population growing exponentially",
+    "Two paths - change or live in shrinking zones"
+  ]
+}

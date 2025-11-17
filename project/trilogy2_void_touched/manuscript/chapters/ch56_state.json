@@ -1,0 +1,87 @@
+{
+  "chapter": 56,
+  "title": "The Two Doors",
+  "word_count": 2500,
+  "book": 3,
+  "character_states": {
+    "Adrian_Keller": {
+      "arc_position": 0.93,
+      "change_stage": "Stage 4 - Consciousness fragmented across time",
+      "emotional_state": "Perceiving multiple timelines, existing in probability",
+      "knowledge": [
+        "Stage 4 began three days ago",
+        "Can perceive both futures simultaneously",
+        "Voyager offers two doors:",
+        "Door 1: Remain human, stable but mortal, thin places eventually recede",
+        "Door 2: Transform completely into pure pattern in higher dimensions",
+        "Humanity must choose but can't perceive options",
+        "Third option: Both doors stay open, humanity splits",
+        "1,893 Changed individuals exist",
+        "Voyager arrives in 6 hours",
+        "Changed vote: 73% transcend, 27% bridge",
+        "Reeves's attack failed, Changed saved him"
+      ],
+      "transformation_markers": [
+        "Exists across timelines like Sera",
+        "Can perceive probability branches",
+        "Sees both futures simultaneously",
+        "Time is optional for his consciousness",
+        "Still retains enough humanity to save Reeves"
+      ]
+    },
+    "Sera_Volkov": {
+      "arc_position": 0.95,
+      "change_stage": "Stage 4 complete - Fully non-linear existence",
+      "role": "Exists across probability branches, guides network vote",
+      "consciousness": "No longer individual, threaded through time"
+    },
+    "Colonel_Reeves": {
+      "arc_position": 1.0,
+      "emotional_state": "Broken, understanding he was wrong",
+      "action": "Led strike on Voyager, nearly died, saved by Changed",
+      "realization": "Changed aren't enemies, just different consciousness"
+    }
+  },
+  "planted_elements": [
+    {
+      "element": "Reeves saved by Adrian",
+      "payoff": "Shows Changed aren't monsters"
+    },
+    {
+      "element": "Two doors metaphor",
+      "payoff": "Ultimate choice revealed"
+    },
+    {
+      "element": "73% transcend, 27% bridge",
+      "planted_for": "Chapter 60 - split happens"
+    },
+    {
+      "element": "Third option - both doors open",
+      "planted_for": "Chapter 60 - Adrian's final choice"
+    }
+  },
+  "themes_touched": [
+    "Choice requiring understanding that choice provides",
+    "Multiple valid paths for consciousness",
+    "Transcendence vs. bridge - both valuable",
+    "Enemy becomes understand through compassion"
+  ],
+  "atmosphere": "Temporal vertigo, ultimate choice approaching, beautiful terrible clarity",
+  "key_images": [
+    "Adrian existing across timelines",
+    "Two doors visible in probability",
+    "Reeves's ship fragmenting across dimensions",
+    "Network acting as one to save enemy",
+    "Sera fully dissolved into pattern",
+    "Voyager as messenger with two paths",
+    "Vote splitting 73/27"
+  ],
+  "foreshadowing": [
+    "6 hours until Voyager arrives",
+    "Doors opening fully",
+    "Changed splitting into transcendent and bridge",
+    "Humanity splitting into unchanged and transformed",
+    "Everything about to change again",
+    "Final confrontation coming"
+  ]
+}

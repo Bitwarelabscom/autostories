@@ -1,0 +1,70 @@
+{
+  "chapter": 5,
+  "title": "Institutional Dismissal",
+  "word_count": 2847,
+  "characters_present": ["Marcus Reid", "Sofia Navarro", "Director Chen", "Michael Vargas (NAU Space Intelligence)"],
+  "character_knowledge": {
+    "Marcus_Reid": [
+      "Observatory and government have dismissed his findings",
+      "Chen knows about his dissertation failure",
+      "Sofia has independently verified his analysis",
+      "Plans to contact MIT cryptographer about signal modulation",
+      "Commits to independent investigation despite warnings"
+    ],
+    "Sofia_Navarro": [
+      "Independently verified Marcus's findings",
+      "Chen warned her about career consequences of supporting Marcus",
+      "Believes they have 18 months until Voyager arrival",
+      "Committed to investigating independently"
+    ],
+    "Director_Chen": [
+      "Dismissed findings as likely equipment error",
+      "Knows about Marcus's failed dissertation",
+      "Concerned about observatory's credibility and funding",
+      "Asked Sofia to monitor Marcus"
+    ],
+    "Michael_Vargas": [
+      "NAU Space Intelligence liaison",
+      "Has Marcus's data for government analysis",
+      "Ordered information security - told Marcus to keep quiet",
+      "Wants government control over any potential discovery"
+    ]
+  },
+  "world_state": {
+    "time": "3-4 days after Chapter 1 discovery",
+    "voyager_status": "Continuing deceleration, ~18 months from arrival",
+    "public_awareness": "None",
+    "institutional_awareness": "Observatory director and NAU Space Intelligence aware but dismissive"
+  },
+  "planted_elements": [
+    {
+      "element": "Sofia's brother who believed in her",
+      "description": "Worked double shifts so she could afford textbooks, died believing she'd do something important",
+      "foreshadowing": "Will inspire grassroots approach in Chapter 40"
+    },
+    {
+      "element": "Marcus's dissertation failure details",
+      "description": "Software bug created artificial correlations in CMB data, couldn't be replicated",
+      "foreshadowing": "Parallels humanity's test - making mistakes but deserving second chance"
+    },
+    {
+      "element": "Government wants to control information",
+      "description": "Vargas orders Marcus to silence, claims national security jurisdiction",
+      "foreshadowing": "Will escalate to raid in Chapter 15"
+    }
+  ],
+  "character_arcs": {
+    "Marcus_Reid": "Moves from fear of dismissal to commitment despite dismissal - growing leadership",
+    "Sofia_Navarro": "First person to believe Marcus - establishes her as lone fighter becoming team builder"
+  },
+  "relationships": {
+    "Marcus_Sofia": "Partnership solidified - she's independently verified his work and committed to joint investigation",
+    "Marcus_Chen": "Professional relationship fractured - she doesn't trust his judgment",
+    "Marcus_Vargas": "Antagonistic - government surveillance/control begins"
+  },
+  "next_chapter_hooks": [
+    "Marcus will contact MIT cryptographer (foreshadowing Yuki)",
+    "Independent investigation begins",
+    "Government is watching"
+  ]
+}

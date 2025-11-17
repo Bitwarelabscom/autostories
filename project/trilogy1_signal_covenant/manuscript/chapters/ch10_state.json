@@ -1,0 +1,73 @@
+{
+  "chapter": 10,
+  "title": "The Mathematical Test",
+  "word_count": 2865,
+  "characters_present": ["Marcus Reid", "Sofia Navarro", "Yuki Tanaka"],
+  "character_knowledge": {
+    "Marcus_Reid": [
+      "Signal contains embedded mathematical proofs",
+      "Aliens have proved the Riemann Hypothesis using novel methods",
+      "Multiple unsolved mathematical problems are being solved in the signal",
+      "This is a test of human intelligence",
+      "Aliens have studied human mathematics from Golden Record",
+      "Yuki Tanaka is ally, not rival - they must collaborate"
+    ],
+    "Sofia_Navarro": [
+      "Signal is deliberate mathematical communication",
+      "Aliens are far more advanced than humanity",
+      "18 months is deliberate warning period",
+      "Team is committed to publishing despite government opposition"
+    ],
+    "Yuki_Tanaka": [
+      "Confirmed signal contains valid mathematical proofs",
+      "Mathematics is beyond current human capability",
+      "Aliens are testing humanity's intelligence and collaboration",
+      "Plans to recruit mathematicians at MIT for verification",
+      "Former student of Evelyn Thorne, now estranged"
+    ]
+  },
+  "world_state": {
+    "time": "~3 weeks after Chapter 5",
+    "voyager_status": "Continuing deceleration, transmitting mathematical proofs",
+    "public_awareness": "None - still contained",
+    "institutional_awareness": "Observatory director and NAU Intelligence aware but dismissive; mathematical community about to be brought in"
+  },
+  "planted_elements": [
+    {
+      "element": "Yuki's imposter syndrome",
+      "description": "Shaking hands when making discoveries, uncertainty about deserving her reputation",
+      "foreshadowing": "Will payoff in Chapter 56 when she completes proof that saves humanity"
+    },
+    {
+      "element": "Test requires collaboration",
+      "description": "Marcus realizes test is about working together, not solving alone",
+      "foreshadowing": "Central to trilogy's unity vs division theme"
+    },
+    {
+      "element": "Yuki's relationship with Thorne",
+      "description": "Former advisor who 'went full corporate', they don't talk anymore",
+      "foreshadowing": "Will complicate Thorne's arc and redemption"
+    }
+  ],
+  "character_arcs": {
+    "Marcus_Reid": "Accepts need for collaboration - moving from isolation to teamwork",
+    "Yuki_Tanaka": "Introduced as rival, becomes essential ally - arc from competition to collaboration begins",
+    "Sofia_Navarro": "Continues pushing for transparency and action"
+  },
+  "relationships": {
+    "Marcus_Yuki": "Professional rivalry transforms to collaborative partnership",
+    "Yuki_Thorne": "Estranged mentor-student relationship revealed",
+    "Team_unity": "Marcus, Sofia, and Yuki form core team"
+  },
+  "mathematical_content": {
+    "riemann_hypothesis": "Proved using multidimensional number theory - aliens demonstrate superior mathematics",
+    "additional_theorems": "Three more unsolved mathematical problems solved",
+    "test_nature": "Aliens testing both intelligence AND ability to collaborate"
+  },
+  "next_chapter_hooks": [
+    "Yuki returns to MIT to recruit mathematicians",
+    "Marcus must tell Director Chen about the proof",
+    "More mathematical tests likely to come",
+    "Government will escalate when they learn of planned publication"
+  ]
+}

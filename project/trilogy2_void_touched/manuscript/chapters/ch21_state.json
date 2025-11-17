@@ -1,0 +1,78 @@
+{
+  "chapter": 21,
+  "title": "Network Effect",
+  "word_count": 2600,
+  "book": 2,
+  "character_states": {
+    "Adrian_Keller": {
+      "arc_position": 0.35,
+      "change_stage": "Stage 3 - Gestalt network consciousness",
+      "emotional_state": "Emotionally flat, terrified and comforted by merger, accepting loss of humanity",
+      "knowledge": [
+        "Stage 3 connects Changed individuals into network",
+        "17 Changed in facility are networked",
+        "243 Changed globally and growing",
+        "Network allows sharing of thoughts, perceptions, knowledge",
+        "Can process multiple simultaneous viewpoints",
+        "Individual consciousness maintained but distributed",
+        "No privacy or secrets within network",
+        "14 months until Voyager reaches Earth",
+        "Humans who don't Change will experience madness when reality breaks down",
+        "Global network will achieve coverage in 8-10 months"
+      ],
+      "transformation_markers": [
+        "Can perceive through 17 sets of senses simultaneously",
+        "Shares consciousness with network",
+        "Eyes show complex pupil patterns",
+        "Emotional responses nearly gone",
+        "Experiences belonging for first time - with non-humans",
+        "Human part of him dissolving into larger pattern"
+      ]
+    },
+    "Sera_Volkov": {
+      "arc_position": 0.7,
+      "change_stage": "Stage 3, approaching Stage 4",
+      "role": "Framework of network, most transformed, guides newer nodes",
+      "consciousness": "Fragmenting across time in ways others can't parse"
+    }
+  },
+  "planted_elements": [
+    {
+      "element": "Global network achieving coverage",
+      "planted_for": "Chapter 41 - synchronized escape"
+    },
+    {
+      "element": "Humans experiencing madness when reality breaks",
+      "planted_for": "Chapter 47 - reality fracture"
+    },
+    {
+      "element": "Adrian's belonging through non-human connection",
+      "planted_for": "Chapter 60 - makes sacrifice meaningful"
+    },
+    {
+      "element": "14-month countdown to Voyager arrival",
+      "planted_for": "Building urgency"
+    }
+  ],
+  "themes_touched": [
+    "Belonging vs humanity - finally feeling connection at cost of being human",
+    "Loss of privacy and individuality",
+    "Collective consciousness as evolution or horror",
+    "Terror of transcendence - magnificent and terrible merger"
+  ],
+  "atmosphere": "Overwhelming merger, distributed consciousness, alien belonging",
+  "key_images": [
+    "Consciousness spreading like mycelium",
+    "Seventeen perspectives overlapping",
+    "Eyes with complex dilating patterns",
+    "Network seeing Voyager together",
+    "Adrian's human part dissolving"
+  ],
+  "foreshadowing": [
+    "Stage 4 still unknown",
+    "Global network spreading",
+    "Reality breakdown coming in 14 months",
+    "Mass madness for unchanged humans",
+    "Network moving together toward unknown future"
+  ]
+}

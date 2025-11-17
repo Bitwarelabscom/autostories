@@ -1,0 +1,96 @@
+{
+  "chapter": 41,
+  "title": "Six Weeks",
+  "word_count": 2845,
+  "characters_present": ["Marcus Reid", "Sofia Navarro", "Yuki Tanaka", "Dr. Rashid", "Professor Okafor", "James Kessler (by phone)", "Various referendum participants"],
+  "character_knowledge": {
+    "ALL_TEAM_MEMBERS": [
+      "Voyager visually confirmed by telescope - now visible to public",
+      "45 days (six weeks) until arrival",
+      "400 million referendum participants",
+      "60% yes votes, 40% no votes (declining from 64%)",
+      "New factions emerged: Voyager Vigil (religious), Earth First (resisters), violent splinter groups",
+      "Military commands in 4 nations considering destroying Voyager",
+      "Team is on target lists for militant groups"
+    ],
+    "Marcus_Reid": [
+      "Learned military option is being discussed",
+      "Understands mathematical trajectory shows failure at current rate",
+      "Believes they still have a chance despite odds",
+      "Rejects Kessler's suggestion to negotiate threshold or cheat"
+    ],
+    "James_Kessler": [
+      "Tracking 17 militant groups making threats",
+      "Trying to prevent military strikes against Voyager",
+      "Suggests considering 'near-miss' - accept 80% as close enough",
+      "Still struggling with faith in humanity"
+    ],
+    "Yuki_Tanaka": [
+      "Acknowledges they're probably going to fail mathematically",
+      "But committed to trying anyway"
+    ]
+  },
+  "world_state": {
+    "time": "45 days (6 weeks) before Voyager arrival",
+    "voyager_status": "Visually confirmed, 0.8 AU from Earth, velocity 15.2 km/s",
+    "referendum_status": {
+      "participants": "400 million (massive surge after visual confirmation)",
+      "yes_votes": "60% (declining from 64%)",
+      "no_votes": "40% (growing)",
+      "trajectory": "Likely to reach ~1 billion participants but plateau around 55-60% yes"
+    },
+    "new_factions": {
+      "voyager_vigil": "Religious movement, some yes some no, some abstaining for spiritual reasons",
+      "earth_first": "50k+ protesters against contact, splinter groups advocating violence",
+      "militant_threats": "17 groups tracked, targeting referendum infrastructure and advocates"
+    },
+    "military_threat": "4 nations considering destroying Voyager to 'neutralize threat'"
+  },
+  "no_vote_analysis": {
+    "fear_of_losing_independence": "28%",
+    "religious_objections": "19%",
+    "distrust_process": "16%",
+    "believe_hoax": "14%",
+    "philosophical_opposition": "12%",
+    "other_uncertain": "11%"
+  },
+  "emerging_problems": {
+    "small_nations_voice": "Pacific Island Coalition - 42 nations, 11M people, barely register in numbers",
+    "large_nations_split": "China 55% yes, India similar, NAU 62% declining",
+    "religious_non_participation": "Some see referendum as spiritually compromising, won't vote",
+    "mathematical_ceiling": "Even if all undecided vote yes, may not reach 85%"
+  },
+  "planted_elements": [
+    {
+      "element": "Military weapon option",
+      "description": "4 nations considering destroying Voyager",
+      "foreshadowing": "Will become Chapter 47's crisis"
+    },
+    {
+      "element": "Kessler's faith crisis deepening",
+      "description": "Marcus asks him to have faith in humanity's potential",
+      "foreshadowing": "Will resolve in Chapter 47 choice"
+    },
+    {
+      "element": "Need to address concerns not override them",
+      "description": "Must engage with no-voters' legitimate objections",
+      "foreshadowing": "Ethical approach even when facing failure"
+    }
+  },
+  "character_arcs": {
+    "Marcus_Reid": "Maintains hope despite brutal mathematics, refuses to cheat even facing failure",
+    "Yuki_Tanaka": "Accepts probable failure but commits to trying anyway",
+    "James_Kessler": "Desperately seeking certainty, considering compromises"
+  },
+  "themes": {
+    "honest_failure_vs_dishonest_success": "Kessler suggests 'close enough', Marcus refuses",
+    "democratic_inclusion": "Must include dissenting voices even if it prevents success",
+    "faith_in_potential": "Believing in growth despite imperfect present"
+  },
+  "next_chapter_hooks": [
+    "6 weeks countdown to deadline",
+    "60% to 85% seems mathematically impossible",
+    "Military option looming",
+    "Militant threats against team and infrastructure"
+  ]
+}

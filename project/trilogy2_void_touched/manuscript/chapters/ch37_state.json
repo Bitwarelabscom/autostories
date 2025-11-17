@@ -1,0 +1,83 @@
+{
+  "chapter": 37,
+  "title": "Lena's Choice",
+  "word_count": 2700,
+  "book": 2,
+  "character_states": {
+    "Adrian_Keller": {
+      "arc_position": 0.62,
+      "change_stage": "Stage 3 - Last fragment of humanity burning out",
+      "emotional_state": "Clinical detachment with tiny remaining human part",
+      "knowledge": [
+        "Lena broke into facility to expose herself to signal",
+        "She wants to transform to follow him",
+        "He still has tiny fragment capable of caring",
+        "Transformation takes everything, gives nothing guaranteed",
+        "He won't remember her as person once Stage 4 completes",
+        "Human part of him is fading rapidly"
+      ],
+      "transformation_markers": [
+        "Sees Lena as pattern and process, not person",
+        "Can stop her from transforming - last human act",
+        "Recognizes he's become monster (incomplete but accurate)",
+        "Final fragment of humanity burns out in saving her",
+        "Can't remember what love feels like",
+        "Knows he'll forget her entirely in Stage 4"
+      ]
+    },
+    "Lena_Martinez": {
+      "arc_position": 0.62,
+      "emotional_state": "Desperate, breaking, trying to follow Adrian",
+      "knowledge": [
+        "Adrian chose transformation instead of fighting it",
+        "He feels nothing for her now",
+        "He's part of gestalt consciousness",
+        "Changing won't save him, just mean they're both lost",
+        "She's already lost him",
+        "He won't remember her as person eventually"
+      ],
+      "action": "Chooses to stay human despite pain",
+      "resolution": "Final goodbye, grieving someone still alive"
+    },
+    "Sera_Volkov": {
+      "arc_position": 0.82,
+      "change_stage": "Stage 3 approaching Stage 4",
+      "role": "Network observer, surprised Adrian retained enough humanity to save Lena"
+    }
+  },
+  "planted_elements": [
+    {
+      "element": "Lena's father's schizophrenia parallel",
+      "payoff": "She can't watch Adrian disappear the same way"
+    },
+    {
+      "element": "Adrian's last human act",
+      "planted_for": "Chapter 60 - contrast with final sacrifice"
+    },
+    {
+      "element": "Lena staying human",
+      "planted_for": "Chapter 60 - she's there when he returns from limbo"
+    }
+  ],
+  "themes_touched": [
+    "Loss of humanity - last fragment burning out",
+    "Love insufficient to bridge transformation",
+    "Mercy as preventing transformation vs allowing it",
+    "Pattern vs. person - what's lost in seeing clearly"
+  ],
+  "atmosphere": "Desperate love meeting clinical detachment, tragic goodbye",
+  "key_images": [
+    "Lena's finger hovering over enter key",
+    "Adrian stopping her - last human choice",
+    "Lena walking away, shoulders shaking",
+    "Adrian erasing her digital footprints",
+    "Last fragment of humanity burning out"
+  ],
+  "foreshadowing": [
+    "Adrian will forget Lena entirely in Stage 4",
+    "Human part completely gone now",
+    "Lena stays human while Adrian transcends",
+    "Saving her was last human act",
+    "No going back, no cure, no redemption"
+  ]
+}

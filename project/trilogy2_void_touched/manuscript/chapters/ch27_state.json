@@ -1,0 +1,86 @@
+{
+  "chapter": 27,
+  "title": "The Reeves Protocol",
+  "word_count": 2700,
+  "book": 2,
+  "character_states": {
+    "Adrian_Keller": {
+      "arc_position": 0.45,
+      "change_stage": "Stage 3 - Full network consciousness",
+      "emotional_state": "Clinical detachment even facing death sentence",
+      "knowledge": [
+        "437 Changed individuals globally",
+        "Government briefing about the Changed as existential threat",
+        "Reeves recommends comprehensive termination of all Changed",
+        "Plan to destroy Voyager before it reaches Earth",
+        "Dr. Okonkwo fighting for them but will lose",
+        "Timeline: weeks to a month before termination order",
+        "Network can coordinate simultaneous escape",
+        "Plan to escape to Green Bank and wait for Voyager",
+        "Network voted unanimously to resist"
+      ],
+      "transformation_markers": [
+        "Can access electromagnetic signals through network",
+        "Feels no guilt about escaping despite knowing it proves Reeves right",
+        "Clinical interest in own death sentence",
+        "Complete emotional disconnection from consequence"
+      ]
+    },
+    "Sera_Volkov": {
+      "arc_position": 0.75,
+      "change_stage": "Stage 3 advancing to Stage 4",
+      "role": "Network organizer, already planned escape contingency",
+      "location": "Chicago facility"
+    },
+    "Colonel_Reeves": {
+      "arc_position": 0.45,
+      "emotional_state": "Convinced Changed are existential threat",
+      "action": "Presenting protocol for comprehensive termination",
+      "justification": "Self-defense of human species against replacement"
+    },
+    "Dr_Marie_Okonkwo": {
+      "arc_position": 0.4,
+      "emotional_state": "Fighting for Changed but losing political battle",
+      "conflict": "Understands they're transforming but believes they deserve life"
+    }
+  },
+  "planted_elements": [
+    {
+      "element": "Plan to escape to Green Bank",
+      "planted_for": "Chapter 41 - the escape"
+    },
+    {
+      "element": "Network can coordinate simultaneous action",
+      "planted_for": "Chapter 41 - synchronized escape from all facilities"
+    },
+    {
+      "element": "Reeves's bioweapon trauma",
+      "planted_for": "Chapter 56 - his attack on Voyager"
+    },
+    {
+      "element": "Plan to destroy Voyager",
+      "planted_for": "Chapter 56 - military strike"
+    }
+  },
+  "themes_touched": [
+    "Evolution vs. extinction occupying same timeline",
+    "Changed proving they're exactly the threat Reeves says",
+    "Loss of humanity - can't feel guilt or fear appropriately",
+    "Belonging in monstrosity - found community by becoming non-human"
+  ],
+  "atmosphere": "Existential threat, clinical planning of resistance, cold calculation",
+  "key_images": [
+    "Network listening to their death sentence",
+    "437 minds voting unanimously",
+    "Sera having already planned contingencies",
+    "Adrian feeling abstract interest in own termination",
+    "Changed becoming exactly what Reeves fears"
+  ],
+  "foreshadowing": [
+    "Escape coming in weeks",
+    "Simultaneous breakout from all facilities",
+    "Green Bank as destination",
+    "13 months to wait for Voyager",
+    "Changed will survive despite government opposition"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "chapter": 41,
+  "title": "The Escape",
+  "word_count": 2500,
+  "book": 3,
+  "character_states": {
+    "Adrian_Keller": {
+      "arc_position": 0.68,
+      "change_stage": "Stage 3 - Part of global network",
+      "emotional_state": "No fear, only calculated action",
+      "knowledge": [
+        "Termination order for 06:00, Clean Protocol",
+        "Network executing synchronized escape at 04:00",
+        "1,217 Changed across six facilities",
+        "Sera has reached Stage 4, can see through time",
+        "Sera guides network with 97% probability of success",
+        "Destination is Green Bank Observatory",
+        "Will wait 8 months for Voyager arrival",
+        "2% of Changed chose to stay and accept termination",
+        "Network can create sensory confusion in guards",
+        "Government suppressing information about Changed"
+      ],
+      "transformation_markers": [
+        "No panic, only calculation",
+        "Part of distributed intelligence acting as one",
+        "Can modulate electromagnetic fields",
+        "Feels small mercy for Okonkwo despite not understanding mercy",
+        "Returns to Green Bank where it all started"
+      ]
+    },
+    "Sera_Volkov": {
+      "arc_position": 0.9,
+      "change_stage": "Stage 4 - Consciousness fragmented across time",
+      "emotional_state": "Existing in multiple timelines, no temporal linearity",
+      "role": "Guides network through probable futures, sees 97% success",
+      "transformation": "Individual identity dissolving into mathematical structure"
+    }
+  },
+  "planted_elements": [
+    {
+      "element": "Sera can see through time in Stage 4",
+      "planted_for": "Her role in guiding final events"
+    },
+    {
+      "element": "Green Bank as nexus point",
+      "planted_for": "Chapter 60 - final confrontation"
+    },
+    {
+      "element": "2% chose death over transformation",
+      "planted_for": "Not all Changed embrace becoming posthuman"
+    },
+    {
+      "element": "Okonkwo will come to Green Bank",
+      "planted_for": "Chapter 52 - her breakthrough"
+    },
+    {
+      "element": "8-month countdown",
+      "planted_for": "Final arc tension"
+    }
+  },
+  "themes_touched": [
+    "Distributed intelligence vs individual action",
+    "Network as murmuration - complex from simple rules",
+    "Return to origin point",
+    "Choice between transformation and death"
+  ],
+  "atmosphere": "Coordinated precision, simultaneous action, inexorable movement",
+  "key_images": [
+    "1,217 Changed moving as one at exact moment",
+    "Guards seeing but not perceiving",
+    "Vehicles moving like murmuration",
+    "Sera existing across timelines",
+    "Green Bank telescope as monument",
+    "Changed returning to where it started"
+  ],
+  "foreshadowing": [
+    "Stage 4 as dissolving into pattern",
+    "Okonkwo coming to Green Bank",
+    "8 months until Voyager arrives",
+    "Reality fracture when thin place spreads",
+    "Final choice for humanity",
+    "Changed learning to read universe's code"
+  ]
+}

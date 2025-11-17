@@ -1,0 +1,85 @@
+{
+  "chapter": 20,
+  "title": "The Choice Revealed",
+  "word_count": 2794,
+  "characters_present": ["Marcus Reid", "Yuki Tanaka", "Sofia Navarro", "Dr. Rashid", "Dr. Kim", "Professor Okafor"],
+  "character_knowledge": {
+    "ALL_TEAM_MEMBERS": [
+      "Aliens call themselves 'The Assembled' - 17 spacefaring civilizations",
+      "Have monitored Earth for 473 years (since Renaissance)",
+      "Retrieved Voyager 78 years ago",
+      "Presenting binary choice to humanity",
+      "OPTION 1: Achieve 85% global democratic consensus for contact = partnership, technology, knowledge",
+      "OPTION 2: Cannot achieve consensus or reject = permanent isolation, no further contact",
+      "12 months deadline until Voyager arrives (October 17 next year)",
+      "85% threshold based on survival analysis - civilizations that can't unite at this stage destroy themselves",
+      "Technology offered includes: lifespan extension (3x), FTL communication, clean energy, medical advances"
+    ],
+    "Marcus_Reid": [
+      "Sees the impossibility of achieving 85% consensus",
+      "Recognizes world is more divided since going public",
+      "Committed to trying despite doubts"
+    ],
+    "Sofia_Navarro": [
+      "Believes they must bypass governments and go to people directly",
+      "Invokes brother's wisdom about believing you can finish the journey"
+    ],
+    "Yuki_Tanaka": [
+      "Decoded the choice message",
+      "Proposes grassroots movement building",
+      "Wants to involve social movements, NGOs, educators, artists"
+    ]
+  },
+  "world_state": {
+    "time": "~6 months after Chapter 15 (October, ~12 months before Voyager arrival)",
+    "voyager_status": "Continuing approach, 12 months from arrival",
+    "public_awareness": "About to learn of the binary choice",
+    "institutional_awareness": "Governments already fighting for control before knowing about choice",
+    "deadline": "October 17, one year from message receipt"
+  },
+  "the_choice": {
+    "option_1": {
+      "requirement": "85% global democratic consensus to accept contact",
+      "reward": "Partnership with Assembled, technology transfer, knowledge sharing, medical advances, clean energy, FTL communication, extended lifespan"
+    },
+    "option_2": {
+      "trigger": "Failure to achieve 85% consensus or active rejection",
+      "consequence": "Permanent isolation, no further contact, must solve problems alone",
+      "implication": "Increased likelihood of self-destruction without help"
+    },
+    "rationale": "Species that cannot unite before advanced technology invariably destroy themselves"
+  },
+  "planted_elements": [
+    {
+      "element": "85% consensus requirement",
+      "description": "Specific, measurable, seemingly impossible goal",
+      "foreshadowing": "Will drive all of Book 2's political maneuvering and conflict"
+    },
+    {
+      "element": "Grassroots approach",
+      "description": "Yuki suggests bypassing governments, going to people directly",
+      "foreshadowing": "Will become Sofia's referendum solution in Chapter 40"
+    },
+    {
+      "element": "12 months deadline",
+      "description": "Clock is ticking toward Voyager's arrival",
+      "foreshadowing": "Creates urgency for all remaining action"
+    }
+  ],
+  "character_arcs": {
+    "Marcus_Reid": "From doubt to commitment - accepts leadership role despite seeing impossibility",
+    "Sofia_Navarro": "Continues pushing for people-centered approach over institutional control",
+    "Team_dynamic": "Expanded team working together across nations and disciplines"
+  },
+  "themes": {
+    "unity_vs_division": "Central conflict explicitly stated - can humanity unite?",
+    "knowledge_as_power": "Technology offered as reward for proven wisdom",
+    "loneliness_of_intelligence": "Humanity learns it's not alone, but must prove worthy of partnership"
+  },
+  "next_chapter_hooks": [
+    "Choice will be published globally",
+    "UN emergency session already called",
+    "Governments fighting for control",
+    "Book 2 begins with global summit"
+  ]
+}

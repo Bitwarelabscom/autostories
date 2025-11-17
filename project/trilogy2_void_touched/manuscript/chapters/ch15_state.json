@@ -1,0 +1,79 @@
+{
+  "chapter": 15,
+  "title": "The Cost Revealed",
+  "word_count": 2800,
+  "book": 1,
+  "character_states": {
+    "Adrian_Keller": {
+      "arc_position": 0.25,
+      "change_stage": "Stage 2 - Synesthesia and emotional flattening",
+      "emotional_state": "Feeling nothing, terrified by own indifference",
+      "knowledge": [
+        "Stage 2 includes full synesthetic cross-activation",
+        "Can see sound, taste color, feel emotions as physical presence",
+        "Emotional responses are gone",
+        "The part of him that was human is dying",
+        "He's relieved by the loss of emotional complexity"
+      ],
+      "transformation_markers": [
+        "Complete sensory cross-wiring",
+        "Inability to feel love for Lena",
+        "Clinical detachment from own emotional death",
+        "Relief at simplification"
+      ]
+    },
+    "Lena_Martinez": {
+      "arc_position": 0.25,
+      "emotional_state": "Devastated, watching Adrian disappear like her father did",
+      "knowledge": [
+        "Adrian has lost emotional capacity",
+        "He looks at her like data, not a person",
+        "Her worst fear realized - losing someone to mental transformation",
+        "More people may change"
+      ],
+      "relationship_change": "Breaking point - Adrian feels nothing for her"
+    },
+    "Dr_Marie_Okonkwo": {
+      "arc_position": 0.15,
+      "emotional_state": "Documenting progression, feeling guilty",
+      "knowledge": [
+        "Stage 2 includes complete sensory cross-activation",
+        "Emotional flattening is part of the progression",
+        "Interpersonal relationships destroyed by the Change"
+      ]
+    }
+  },
+  "planted_elements": [
+    {
+      "element": "Lena's father's schizophrenia parallel",
+      "planted_for": "Chapter 37 - her attempt to follow Adrian into Change"
+    },
+    {
+      "element": "Adrian's relief at emotional simplification",
+      "planted_for": "Chapter 60 - makes final sacrifice more meaningful"
+    },
+    {
+      "element": "Small human part getting smaller",
+      "planted_for": "Tracking throughout - will he lose it completely?"
+    }
+  ],
+  "themes_touched": [
+    "Loss of humanity - emotional death worse than physical",
+    "Terror of transcendence - enhanced perception costs human connection",
+    "Cost of truth - seeing clearly means feeling nothing"
+  ],
+  "atmosphere": "Intimate horror, clinical detachment masking tragedy",
+  "key_images": [
+    "Darkness with texture, silence with color",
+    "Heartbeat as visible red-orange waves",
+    "Lena's tears tasting like salt and sorrow",
+    "Empty space where love should be",
+    "Adrian's relief at losing humanity"
+  ],
+  "foreshadowing": [
+    "Human part of Adrian drowning, getting smaller",
+    "Lena's hope others will fight harder",
+    "More people will change as signal continues",
+    "Cost isn't pain but inability to feel pain"
+  ]
+}

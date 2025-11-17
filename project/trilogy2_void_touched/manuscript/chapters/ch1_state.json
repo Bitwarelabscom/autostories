@@ -1,0 +1,60 @@
+{
+  "chapter": 1,
+  "title": "The First Dream",
+  "word_count": 2400,
+  "book": 1,
+  "character_states": {
+    "Adrian_Keller": {
+      "arc_position": 0.0,
+      "change_stage": "Stage 0 transitioning to Stage 1",
+      "emotional_state": "Isolated but functioning, experiencing first geometric dreams",
+      "knowledge": [
+        "Discovered Voyager 2 broadcasting again with strange signals",
+        "Experienced geometric dreams",
+        "Sleepwalked and drew impossible mathematics on walls",
+        "Patterns from dreams match Voyager signal"
+      ],
+      "transformation_markers": [
+        "Enhanced pattern recognition beginning",
+        "Unconscious mathematical understanding",
+        "Feeling of 'belonging' to the patterns"
+      ]
+    }
+  },
+  "planted_elements": [
+    {
+      "element": "Social anxiety and preference for patterns over people",
+      "planted_for": "Chapter 60 - his comfort with non-human connection enables final sacrifice"
+    },
+    {
+      "element": "Geometric patterns in dreams",
+      "planted_for": "Chapter 32 - patterns are the language of reality itself"
+    },
+    {
+      "element": "Lena's departure six months ago",
+      "planted_for": "Chapters 15, 37, 60 - relationship arc"
+    },
+    {
+      "element": "Noise-canceling headphones as shield",
+      "planted_for": "Symbol of isolation vs connection throughout trilogy"
+    }
+  ],
+  "themes_touched": [
+    "Isolation vs. belonging",
+    "Terror of transcendence - beautiful but wrong patterns",
+    "Meaning in meaningless universe - finding truth in mathematics"
+  ],
+  "atmosphere": "Liminal, lonely, growing unease mixed with fascination",
+  "key_images": [
+    "Seven monitors in semicircle",
+    "Geometric patterns covering bedroom walls",
+    "Voyager signal as living poetry",
+    "Drawing while asleep with perfect precision"
+  ],
+  "foreshadowing": [
+    "Patterns that feel warm to touch",
+    "Feeling of belonging to something non-human",
+    "Mathematics describing consciousness transformations",
+    "His choice to continue listening despite fear"
+  ]
+}

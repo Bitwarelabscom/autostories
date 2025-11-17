@@ -1,0 +1,95 @@
+{
+  "chapter": 21,
+  "title": "The Summit",
+  "word_count": 2912,
+  "characters_present": ["Marcus Reid", "Sofia Navarro", "Yuki Tanaka", "James Kessler", "Evelyn Thorne", "UN Secretary-General", "Various ambassadors"],
+  "character_knowledge": {
+    "Marcus_Reid": [
+      "UN summit reveals immediate power struggle over referendum control",
+      "Thorne proposes public-private partnership with corporate infrastructure",
+      "Kessler and Thorne forming alliance for coordinated control",
+      "Both Thorne and Kessler recruited him separately",
+      "Secretary-General proposed compromise: multiple regional processes"
+    ],
+    "Sofia_Navarro": [
+      "Recognizes Thorne-Kessler alliance as threat to democratic legitimacy",
+      "Advocates for truly grassroots processes",
+      "Warns Marcus against accepting control-based solutions"
+    ],
+    "Yuki_Tanaka": [
+      "Confronts former mentor Thorne publicly",
+      "Proposes open-source referendum platforms and civil society leadership",
+      "Tension with Thorne over idealism vs pragmatism"
+    ],
+    "James_Kessler": [
+      "Apologizes for observatory raid",
+      "Argues coordination is necessary to prevent chaos",
+      "Forms public alliance with Thorne despite ideological differences",
+      "Still haunted by Mumbai incident"
+    ],
+    "Evelyn_Thorne": [
+      "Proposes Prometheus Industries run referendum infrastructure",
+      "Requests priority (not exclusive) technology access as compensation",
+      "Reveals genuine scientific motivation beneath corporate exterior",
+      "Estranged relationship with former student Yuki"
+    ]
+  },
+  "world_state": {
+    "time": "Days after Chapter 20 choice revealed, ~11 months before deadline",
+    "voyager_status": "Continuing approach, 11 months remaining",
+    "public_awareness": "Full - watching UN summit broadcast",
+    "political_landscape": "Major power blocs already positioning for advantage, competing visions of referendum process",
+    "proposed_solution": "Multiple regional referendums with international coalition oversight"
+  },
+  "power_dynamics": {
+    "thorne_kessler_alliance": "Corporate-government partnership for controlled referendum",
+    "sofia_yuki_opposition": "Grassroots, transparent, civil-society-led approach",
+    "marcus_position": "Caught in middle, sees merit and flaws in both approaches",
+    "national_blocs": {
+      "NAU_EU": "Favor coordinated oversight with corporate partnership",
+      "Asian_Coalition_African_Union": "Push for regional autonomy with verification",
+      "Small_nations": "Demand equal voice regardless of population"
+    }
+  },
+  "planted_elements": [
+    {
+      "element": "Thorne's abandoned scientific idealism",
+      "description": "Admits she used to care about knowledge for its own sake before becoming corporate",
+      "foreshadowing": "Will drive her redemption arc in Chapter 52"
+    },
+    {
+      "element": "Kessler's Mumbai trauma",
+      "description": "Repeatedly references 3,000 deaths from uncontrolled information",
+      "foreshadowing": "Explains his control obsession, sets up Chapter 47 choice"
+    },
+    {
+      "element": "Multiple referendum processes",
+      "description": "Distributed approach proposed as compromise",
+      "foreshadowing": "Will complicate coordination and create vulnerabilities"
+    }
+  ],
+  "character_arcs": {
+    "Marcus_Reid": "Increasingly uncomfortable with political maneuvering, sees complexity of achieving consensus",
+    "Evelyn_Thorne": "Fully introduced as complex antagonist with genuine motivations",
+    "James_Kessler": "Evolving from pure antagonist to reluctant pragmatist",
+    "Yuki_Tanaka": "Confronts past with Thorne, commits to idealistic approach"
+  },
+  "relationships": {
+    "Thorne_Kessler": "Uneasy alliance formed - both want control, different motives",
+    "Thorne_Yuki": "Mentor-student relationship revealed as antagonistic - ideological split",
+    "Marcus_Sofia": "Sofia pushes Marcus to resist recruitment by power structures",
+    "Marcus_Kessler": "Complicated - Marcus sees Kessler's genuine fear and pragmatism",
+    "Marcus_Thorne": "Thorne reveals vulnerable scientific passion beneath corporate mask"
+  },
+  "themes": {
+    "unity_vs_division": "Humanity immediately divides over how to achieve unity",
+    "knowledge_as_power": "Technology access weaponized as political leverage",
+    "control_vs_trust": "Central tension: managed coordination vs grassroots democracy"
+  },
+  "next_chapter_hooks": [
+    "Regional referendum processes being established",
+    "Thorne-Kessler alliance will attempt to consolidate control",
+    "Sofia and Yuki will build grassroots alternative",
+    "Corporate conspiracy brewing (Chapter 27)"
+  ]
+}

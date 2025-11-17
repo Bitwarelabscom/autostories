@@ -1,0 +1,96 @@
+{
+  "chapter": 15,
+  "title": "Agent Reyes Closes In",
+  "book": 1,
+  "word_count": 2657,
+  "date_written": "2025-11-17",
+  "temporal_setting": "November 15, 2029 - 6:42 AM",
+  "location": "SETI Institute, then Recursionist safe house in San Jose",
+  "pov_character": "Elliot Cross",
+  "key_scenes": [
+    "Government raid on SETI with false fire alarm",
+    "Elliot meets Agent Maya Reyes for first time",
+    "First critical decision point - Elliot chooses to flee",
+    "Escape with Recursionists' help",
+    "Safe house reveal and operational center",
+    "Phone call with Cassandra confirming her involvement",
+    "Learning about Reyes' background and Temporal Anomalies Division"
+  ],
+  "characters_present": [
+    "Elliot Cross",
+    "Agent Maya Reyes",
+    "Dr. Marcus Soren",
+    "Sarah",
+    "Cassandra Wright (phone only)",
+    "Dr. Yuki Chen (mentioned)",
+    "Recursionist members"
+  ],
+  "revelations": [
+    "Temporal Anomalies Division is real government agency",
+    "Government has been tracking Elliot since he accessed signal",
+    "First critical decision point executed correctly",
+    "Government wants to weaponize temporal technology",
+    "Reyes' division formed after classified quantum experiment went wrong",
+    "Reyes has personal stake involving temporal mechanics",
+    "Cassandra was always part of Recursionists' plan",
+    "Device construction can begin with full team assembled"
+  ],
+  "planted_elements": [
+    "Reyes' erased partner (payoff Ch37)",
+    "Reyes knowing Elliot would run (she's seen models too)",
+    "Government has own probability analysts and models",
+    "Multiple future intersections between Elliot and Reyes predicted",
+    "Gaps in probability clouds representing freedom within determinism"
+  ],
+  "character_states": {
+    "Elliot_Cross": {
+      "emotional_state": "Adrenaline-fueled, committed, exhausted, seeking freedom in gaps",
+      "knowledge": "Now fugitive, understands government threat, first decision point passed",
+      "physical_state": "Shoulder pain, exhausted from escape",
+      "legal_status": "Fugitive from federal custody",
+      "arc_position": 0.25
+    },
+    "Agent_Maya_Reyes": {
+      "emotional_state": "Professional, calm, unsurprised by Elliot's actions",
+      "knowledge": "Has access to probability models, knows this is more than fugitive case",
+      "arc_position": 0.25
+    },
+    "Cassandra_Wright": {
+      "emotional_state": "Scared but committed, becoming co-fugitive",
+      "knowledge": "Now full partner in timeline mission",
+      "arc_position": 0.25
+    },
+    "Dr_Marcus_Soren": {
+      "emotional_state": "Vindicated, prophetic satisfaction",
+      "arc_position": 0.25
+    }
+  },
+  "themes_explored": [
+    "First major choice within deterministic framework",
+    "Government control vs. individual freedom",
+    "Becoming fugitive in service of larger timeline",
+    "Free will as finding gaps in probability",
+    "Constitutional rights vs. timeline survival"
+  ],
+  "atmosphere": "Dawn raid tension, fugitive chase, underground resistance, noir paranoia escalating",
+  "foreshadowing": [
+    "Multiple future encounters with Reyes",
+    "Some encounters end in violence (alley shooting)",
+    "Reyes has personal motivation beyond duty",
+    "Government weaponization leads to extinction in some timelines",
+    "Timeline has three months until device completion"
+  ],
+  "temporal_mechanics_established": [
+    "Critical decision points are real and observable",
+    "Government has competing probability models and analysts",
+    "Timeline branches based on capture vs. escape",
+    "Correct choices can be mathematically predicted"
+  ],
+  "next_chapter_hooks": [
+    "What happened in Reyes' quantum experiment?",
+    "Will Cassandra adapt to fugitive life?",
+    "How will Reyes track them next?",
+    "Can they build the device before recapture?",
+    "What are the gaps in probability that offer true freedom?"
+  ]
+}

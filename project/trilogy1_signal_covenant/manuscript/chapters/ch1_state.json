@@ -1,0 +1,52 @@
+{
+  "chapter": 1,
+  "title": "The Anomaly",
+  "word_count": 1847,
+  "characters_present": ["Marcus Reid"],
+  "character_knowledge": {
+    "Marcus_Reid": [
+      "Voyager 2 ping interval is decreasing by 2.7 minutes per week",
+      "Doppler analysis shows blue-shift consistent with deceleration",
+      "Deceleration has been occurring for at least 6 months",
+      "Voyager 2 has no fuel to decelerate itself",
+      "Projects Voyager will reach 1.2 AU from Earth in 18 months",
+      "Suspects alien intervention/technology",
+      "Has emailed Sofia Navarro with findings"
+    ],
+    "Sofia_Navarro": [
+      "Has received Marcus's email (contents not yet read)"
+    ]
+  },
+  "world_state": {
+    "time": "Early morning, Day 1 of discovery",
+    "voyager_status": "Decelerating toward Earth, ~18 months from arrival",
+    "public_awareness": "None - only Marcus knows",
+    "institutional_awareness": "None yet"
+  },
+  "planted_elements": [
+    {
+      "element": "Marcus's grad school dissertation failure",
+      "description": "Rejected for apophenia - seeing patterns in cosmic background radiation",
+      "foreshadowing": "Will parallel humanity's near-rejection by aliens; second chances theme"
+    },
+    {
+      "element": "Ping acceleration as heartbeat metaphor",
+      "description": "Signal growing louder like a heartbeat",
+      "foreshadowing": "Will be used in Chapter 60 when signals calm after contact"
+    },
+    {
+      "element": "Golden Record reference",
+      "description": "Voyager's message to the stars",
+      "foreshadowing": "Will return with alien addendum in Chapter 60"
+    }
+  ],
+  "emotional_beats": [
+    "Marcus's terror of being wrong again",
+    "The isolation of discovering something impossible alone",
+    "The moment of decision to trust himself and send the email"
+  ],
+  "next_chapter_hooks": [
+    "Sofia receives and reads Marcus's email",
+    "Will she believe him or dismiss him like the dissertation committee?"
+  ]
+}

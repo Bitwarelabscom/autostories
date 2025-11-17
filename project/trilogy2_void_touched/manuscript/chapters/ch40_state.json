@@ -1,0 +1,88 @@
+{
+  "chapter": 40,
+  "title": "Voyager Visible",
+  "word_count": 2700,
+  "book": 2,
+  "character_states": {
+    "Adrian_Keller": {
+      "arc_position": 0.67,
+      "change_stage": "Stage 3 - Complete perception of higher dimensions",
+      "emotional_state": "Clinical detachment describing species extinction",
+      "knowledge": [
+        "Voyager has entered solar system",
+        "1,217 Changed individuals globally now",
+        "Voyager is doorway existing in multiple dimensions",
+        "Thin place surrounds it like field",
+        "8 months until Voyager reaches Earth",
+        "Humans can't look at Voyager images without brain failure",
+        "Changed can see it clearly - divide is absolute",
+        "Billions will die or be confined to shrinking stable zones",
+        "Destroying Voyager won't stop thin place",
+        "Only Changed can survive reality becoming strange",
+        "Escape will happen soon - days or hours"
+      ],
+      "transformation_markers": [
+        "Can perceive Voyager's true multidimensional form",
+        "Describes human extinction with clinical detachment",
+        "Sees himself as 'pattern recognizing itself'",
+        "No fear, no anticipation, only interest",
+        "Completely disconnected from human concerns"
+      ]
+    },
+    "Dr_Marie_Okonkwo": {
+      "arc_position": 0.55,
+      "emotional_state": "Devastated, realizing her efforts were pointless",
+      "knowledge": [
+        "Voyager visible but humans can't process images",
+        "Changed can see it clearly",
+        "8 months until arrival",
+        "Billions will die",
+        "No cure possible - tried to preserve something that can't survive",
+        "Changed will escape to Green Bank",
+        "Government will implement Reeves Protocol soon"
+      ],
+      "role": "Accepting defeat, asking Changed not to hurt anyone when they escape"
+    }
+  },
+  "planted_elements": [
+    {
+      "element": "Humans can't look at Voyager without brain failure",
+      "planted_for": "Absolute divide between Changed and human"
+    },
+    {
+      "element": "Plan to destroy Voyager won't work",
+      "planted_for": "Chapter 56 - Reeves's failed attack"
+    },
+    {
+      "element": "Escape happening in days/hours",
+      "planted_for": "Chapter 41 - The Escape"
+    },
+    {
+      "element": "8-month countdown",
+      "planted_for": "Building to final confrontation"
+    }
+  ],
+  "themes_touched": [
+    "Rift between Changed and human now absolute",
+    "Unable to perceive truth vs. unable to be human",
+    "Evolution as neither good nor evil, just causality",
+    "Voyager as transformation made manifest"
+  ],
+  "atmosphere": "Terrible revelation, species-level divide, clinical doom",
+  "key_images": [
+    "Voyager as doorway with geometry that hurts to see",
+    "Thin place spreading like wings",
+    "Humans getting nosebleeds looking at images",
+    "Changed seeing beauty in what humans can't process",
+    "Okonkwo crying without noticing",
+    "Adrian describing genocide like weather"
+  ],
+  "foreshadowing": [
+    "Escape in days or hours",
+    "Government will try to destroy Voyager",
+    "Green Bank as destination",
+    "8 months until final confrontation",
+    "Billions will die or be confined",
+    "Changed are harbingers of humanity's obsolescence"
+  ]
+}

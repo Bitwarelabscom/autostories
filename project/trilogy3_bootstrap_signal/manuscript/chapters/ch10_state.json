@@ -1,0 +1,79 @@
+{
+  "chapter": 10,
+  "title": "First Temporal Bleed",
+  "book": 1,
+  "word_count": 2487,
+  "date_written": "2025-11-17",
+  "temporal_setting": "November 8, 2029 - 4:17 PM",
+  "location": "Cassandra's university lab, Berkeley, California",
+  "pov_character": "Elliot Cross",
+  "key_scenes": [
+    "Elliot experiences vivid memory of being shot and killed in alley",
+    "Cassandra explains temporal entanglement and timeline echoes",
+    "Revelation that Elliot is experiencing memories from failed loop iterations",
+    "Discussion of upcoming critical decision point (Nov 15)",
+    "Cassandra commits to helping Elliot navigate temporal fragmentation"
+  ],
+  "characters_present": [
+    "Elliot Cross",
+    "Cassandra Wright"
+  ],
+  "revelations": [
+    "Signal creates quantum entanglement between Elliot's consciousness and causal loop",
+    "Elliot is experiencing real memories from failed timeline iterations",
+    "Hundreds or thousands of failed loops have attempted closure",
+    "Temporal bleeds will increase as critical decision points approach",
+    "Multiple probability states will eventually overlap in Elliot's consciousness",
+    "First critical decision point is November 15 (7 days away)"
+  ],
+  "planted_elements": [
+    "Alley shooting memory (payoff Ch45 - Cassandra saves him by remembering this)",
+    "Cassandra's quantum consciousness theory proves correct",
+    "Chinese characters/Chinatown setting (specific location for future event)",
+    "Stolen/delivered data on drive (object that matters later)",
+    "Temporal entanglement mechanic (builds to full fragmentation by Ch21)"
+  ],
+  "character_states": {
+    "Elliot_Cross": {
+      "emotional_state": "Terrified, disoriented, struggling with reality boundaries",
+      "knowledge": "Now experiencing actual memories from failed timelines, understands temporal entanglement",
+      "physical_state": "Phantom pain from wounds that didn't happen, beginning dissociation",
+      "relationships": "Depends on Cassandra as temporal anchor",
+      "arc_position": 0.17
+    },
+    "Cassandra_Wright": {
+      "emotional_state": "Concerned but fascinated, vindicated by proof of her theories",
+      "knowledge": "Timeline mechanics, quantum consciousness, probability echoes",
+      "arc_position": 0.17
+    }
+  },
+  "themes_explored": [
+    "Identity fragmentation across timelines",
+    "Memory as unreliable when unstuck from linear time",
+    "Need for anchor/witness in stable timeline",
+    "Failed attempts proving choice matters",
+    "Horror of experiencing your own deaths"
+  ],
+  "atmosphere": "Disorienting, visceral, mixing reality and memory, increasing temporal vertigo",
+  "foreshadowing": [
+    "Temporal bleeds will worsen and multiply",
+    "Elliot will experience living in multiple timelines simultaneously",
+    "Nov 15 arrest by Reyes is imminent critical moment",
+    "Other versions of Elliot have tried and failed",
+    "Cassandra as necessary anchor to present timeline",
+    "The alley shooting will happen (or nearly happen) later"
+  ],
+  "temporal_mechanics_established": [
+    "Quantum entanglement allows consciousness to experience across timelines",
+    "Failed loops exist as probability echoes accessible to entangled observer",
+    "Temporal bleeding increases near critical decision points",
+    "Memories from failed timelines are real, not hallucinations",
+    "Observer needs anchor in linear time to maintain stability"
+  ],
+  "next_chapter_hooks": [
+    "Will Elliot survive the Nov 15 arrest attempt?",
+    "How many more temporal bleeds will he experience?",
+    "What other deaths has he experienced in failed timelines?",
+    "Can Cassandra keep him anchored as fragmentation worsens?"
+  ]
+}

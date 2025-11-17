@@ -1,0 +1,94 @@
+{
+  "chapter": 5,
+  "title": "The Changed",
+  "word_count": 2600,
+  "book": 1,
+  "character_states": {
+    "Adrian_Keller": {
+      "arc_position": 0.08,
+      "change_stage": "Stage 1 - Enhanced pattern recognition",
+      "emotional_state": "First real connection with others, disturbing sense of belonging",
+      "knowledge": [
+        "There are at least 43 Changed individuals",
+        "The Change has distinct stages of progression",
+        "Stage 1: Pattern recognition enhancement",
+        "Stage 2: Synesthesia and enhanced perception",
+        "Stage 3: Emotional flattening",
+        "Stage 4: Unknown (transcendence or annihilation)",
+        "Government is quarantining the Changed",
+        "Signal is still broadcasting, creating more Changed"
+      ],
+      "transformation_markers": [
+        "Can see geometric forms in empty space",
+        "Sleep becoming optional",
+        "Feeling belonging for first time in his life"
+      ]
+    },
+    "Sera_Volkov": {
+      "arc_position": 0.6,
+      "change_stage": "Stage 3 - Emotional flattening, gestalt perception",
+      "emotional_state": "Eerily calm, emotionally distant, intellectually curious",
+      "role": "Mentor to Adrian, documenting transformation stages"
+    },
+    "Dr_Marie_Okonkwo": {
+      "arc_position": 0.05,
+      "emotional_state": "Professional concern, sees Changed as patients needing cure",
+      "role": "CDC lead, organizing quarantine operations"
+    }
+  },
+  "new_characters_introduced": [
+    {
+      "name": "Marcus Osei",
+      "role": "British Changed individual, Stage 1-2",
+      "note": "Can make geometric forms visible in air"
+    },
+    {
+      "name": "Patel",
+      "role": "Young Changed with purple hair, Stage 2",
+      "note": "Experiencing severe synesthesia, can't eat"
+    },
+    {
+      "name": "Dr. Chen",
+      "role": "Goldstone researcher, older, traumatized",
+      "note": "Three team members committed suicide after exposure"
+    }
+  ],
+  "planted_elements": [
+    {
+      "element": "Sera's search for meaning in transformation",
+      "planted_for": "Chapter 60 - she finds meaning in complete transcendence"
+    },
+    {
+      "element": "Stage 4 as unknown outcome",
+      "planted_for": "Throughout trilogy - ultimate mystery"
+    },
+    {
+      "element": "Adrian's first true belonging",
+      "planted_for": "Chapter 60 - makes his sacrifice meaningful"
+    },
+    {
+      "element": "Suicide among Changed who can't handle transformation",
+      "planted_for": "Theme of acceptance vs resistance"
+    }
+  ],
+  "themes_touched": [
+    "Belonging vs humanity - connection at cost of human identity",
+    "Terror of transcendence - transformation as evolution or disease",
+    "Inevitability - signal still broadcasting, more will change"
+  ],
+  "atmosphere": "Unsettling recognition, community in wrongness, clinical capture",
+  "key_images": [
+    "Basement covered in unified mathematical proof",
+    "Five people arranged in perfect pentagon",
+    "Geometric forms visible in empty air",
+    "Sera's too-still predator gaze",
+    "Black vans at dawn"
+  ],
+  "foreshadowing": [
+    "Stage 3 emotional death",
+    "Stage 4 unknown outcome",
+    "Government response escalating to seeing Changed as threats",
+    "More Changed being created continuously",
+    "Adrian's relief at becoming non-human"
+  ]
+}

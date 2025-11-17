@@ -1,0 +1,91 @@
+{
+  "chapter": 27,
+  "title": "Corporate Conspiracy",
+  "word_count": 2967,
+  "characters_present": ["Marcus Reid", "Sofia Navarro", "Yuki Tanaka", "Evelyn Thorne"],
+  "character_knowledge": {
+    "Marcus_Reid": [
+      "Thorne has built spacecraft to intercept Voyager",
+      "Mission costs $11 billion, launches in 6 weeks",
+      "Plan is to salvage/monopolize alien technology",
+      "Thorne believes humanity will fail to reach 85% consensus",
+      "Confronted Thorne who refused to back down",
+      "Sent mission specs to Kessler anonymously to stop Thorne"
+    ],
+    "Sofia_Navarro": [
+      "Knows about intercept mission",
+      "Helped strategize response - leak to Kessler instead of public"
+    ],
+    "Yuki_Tanaka": [
+      "Knows about mission",
+      "Proposed leaking to Kessler instead of public",
+      "Identified divergence between Kessler and Thorne's true interests"
+    ],
+    "Evelyn_Thorne": [
+      "Has built $11B spacecraft to intercept Voyager",
+      "Launch scheduled in 6 weeks",
+      "Believes 42% consensus after 6 months proves failure is inevitable",
+      "Justifies mission as 'contingency' if humanity fails test",
+      "Knows Marcus discovered the plan",
+      "Refused to cancel mission despite confrontation"
+    ],
+    "James_Kessler": [
+      "Just received anonymous leak about Thorne's mission specs",
+      "Unaware leak came from Marcus"
+    ]
+  },
+  "world_state": {
+    "time": "~6 months after Chapter 21, ~6 months before deadline",
+    "voyager_status": "Halfway through approach, 6 months remaining",
+    "consensus_level": "42% global consensus achieved",
+    "referendum_progress": "Slower than hoped, enthusiasm waning",
+    "prometheus_mission": "Spacecraft built, crew trained, launch in 6 weeks"
+  },
+  "prometheus_mission_details": {
+    "cost": "$11 billion total ($8B spacecraft, $3B support)",
+    "design": "Fast courier, nuclear propulsion",
+    "crew": "4 Prometheus employees",
+    "timeline": "Launch in 6 weeks, intercept Voyager 3 weeks before Earth arrival",
+    "stated_goal": "Secure alien technology for corporate partnership opportunities",
+    "legal_justification": "Salvage rights for derelict human property in international space",
+    "leak_source": "Chief engineer who resigned over ethical concerns"
+  },
+  "planted_elements": [
+    {
+      "element": "Thorne's lost scientific idealism",
+      "description": "Marcus challenges her to remember why she became a scientist",
+      "foreshadowing": "Will drive her redemption in Chapter 52"
+    },
+    {
+      "element": "Kessler-Thorne alliance fracture",
+      "description": "Their interests actually diverge - government control vs corporate advantage",
+      "foreshadowing": "Will split them as crisis escalates"
+    },
+    {
+      "element": "42% consensus after 6 months",
+      "description": "Less than halfway with half the time gone - trajectory looks bad",
+      "foreshadowing": "Will drive desperation and Chapter 37 fracture"
+    }
+  ],
+  "character_arcs": {
+    "Evelyn_Thorne": "At her lowest point - corporate greed overwhelming scientific passion",
+    "Marcus_Reid": "Learning political strategy despite discomfort - choosing lesser evil",
+    "Team": "Willing to manipulate Kessler to prevent worse outcome"
+  },
+  "relationships": {
+    "Marcus_Thorne": "Antagonistic - Marcus sees her as betraying science for profit",
+    "Thorne_self": "Internal conflict between scientist and CEO",
+    "Kessler_Thorne": "Alliance about to fracture when Kessler learns of betrayal"
+  },
+  "ethical_dilemmas": {
+    "public_leak": "Would stop Thorne but collapse international cooperation",
+    "private_leak": "Manipulative but less destructive - chosen option",
+    "do_nothing": "Allows Thorne to proceed, guarantees test failure"
+  },
+  "next_chapter_hooks": [
+    "Kessler receives and acts on intelligence about Thorne's mission",
+    "Prometheus launch window approaches",
+    "Consensus building stalled at 42%",
+    "Second test revelation coming in Chapter 32"
+  ]
+}

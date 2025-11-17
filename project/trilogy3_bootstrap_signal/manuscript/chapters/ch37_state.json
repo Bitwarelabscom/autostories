@@ -1,0 +1,108 @@
+{
+  "chapter": 37,
+  "title": "Reyes' Trauma Revealed",
+  "book": 2,
+  "word_count": 3538,
+  "date_written": "2025-11-17",
+  "temporal_setting": "August 19, 2030 - 2:33 PM",
+  "location": "Federal facility (location unknown)",
+  "pov_character": "Elliot Cross",
+  "type": "Escalation",
+  "key_scenes": [
+    "Elliot wakes in federal custody after capture",
+    "Reyes interrogates him about device and timeline work",
+    "Elliot identifies Reyes has personal temporal trauma",
+    "Reyes reveals Marcus was erased in 2024 quantum experiment",
+    "Only she remembers Marcus existed (timeline displacement)",
+    "Elliot offers to prove Marcus is real in alternate timeline",
+    "One hour deal to use device under supervision",
+    "Cassandra brought in to monitor readings",
+    "Elliot shows Marcus alive in Branch 73 with daughter Isabel",
+    "Shows Reyes the weaponization timeline (Branch 47)",
+    "Shows original timeline and 300 dead sacrificing themselves",
+    "Reyes understands her success leads to extinction",
+    "Reyes lets them escape and becomes secret ally",
+    "Commits to buying them 4 months until temporal window"
+  ],
+  "characters_present": [
+    "Elliot Cross",
+    "Agent Maya Reyes",
+    "Cassandra Wright",
+    "Marcus Reyes (viewed in Branch 73)",
+    "Isabel Reyes (Marcus's daughter in Branch 73)",
+    "Federal guards"
+  ],
+  "revelations": [
+    "Reyes' partner Marcus was erased/displaced March 14, 2024",
+    "Quantum computing experiment at Lawrence Livermore went wrong",
+    "Timeline adjusted - Marcus removed from causality",
+    "Only Reyes remembers him existing",
+    "Marcus alive in Branch 73 where experiment shut down early",
+    "Marcus has daughter Isabel in that timeline",
+    "Reyes has scar from incident that didn't happen",
+    "Reyes has been trying to prove she's not insane for 6+ years",
+    "Her motivation is protection, not control",
+    "Every timeline where Elliot is captured leads to Branch 47 extinction",
+    "Reyes' success guarantees weaponization and nuclear war",
+    "4 months remain until temporal window to 1977"
+  ],
+  "planted_elements": [
+    "Marcus's displacement creates empathy bridge",
+    "Isabel as symbol of life continuing in other timelines",
+    "Reyes' request to include Marcus in signal (payoff Ch60)",
+    "Scar as physical proof of timeline displacement",
+    "Reyes committing treason to save humanity",
+    "Guards who witnessed everything (future complications?)"
+  ],
+  "character_states": {
+    "Elliot_Cross": {
+      "emotional_state": "Empathetic, strategic, confident in mission",
+      "knowledge": "Can prove timeline mechanics to skeptics",
+      "arc_position": 0.62
+    },
+    "Agent_Maya_Reyes": {
+      "emotional_state": "Transformed from hunter to ally, crying, relieved, resolved",
+      "knowledge": "Marcus is real, weaponization leads to death, loop must close",
+      "motivation": "Shifted from control to enabling survival",
+      "trauma": "Validated after 6+ years of doubt",
+      "arc_position": 0.62,
+      "status": "Secret ally committing treason"
+    },
+    "Cassandra_Wright": {
+      "emotional_state": "Supportive, trusting Elliot's strategy",
+      "arc_position": 0.62
+    }
+  },
+  "themes_explored": [
+    "Validation of trauma as path to understanding",
+    "Proof as kindness",
+    "Enemy becoming ally through shared truth",
+    "Institutional duty vs moral imperative",
+    "Memory as proof of existence",
+    "Breaking rules to save everything"
+  ],
+  "atmosphere": "Tense interrogation becoming emotional revelation, breakthrough moment, tears and truth",
+  "foreshadowing": [
+    "4 months to perfect device and prepare",
+    "Reyes will cover for them but can't protect forever",
+    "Guards witnessed everything (potential leak)",
+    "Marcus's story will be in final signal",
+    "Government still hunting, Reyes must maintain cover",
+    "Final confrontation with government forces likely"
+  ],
+  "temporal_mechanics_established": [
+    "Timeline displacement moves people to alternate branches",
+    "Displaced people continue living in other timelines",
+    "Observer can remember displaced person even when timeline adjusted",
+    "Physical evidence (scars) can persist from displaced timelines",
+    "Device can prove alternate timeline existence",
+    "Timeline branches continue evolving after displacement"
+  ],
+  "next_chapter_hooks": [
+    "Will Reyes successfully cover their escape?",
+    "Can they perfect device in 4 months?",
+    "What happens when they meet Omega?",
+    "Will government discover Reyes' betrayal?",
+    "How will they prepare for consciousness transmission to 1977?"
+  ]
+}

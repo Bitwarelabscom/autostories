@@ -1,0 +1,79 @@
+{
+  "chapter": 15,
+  "title": "Going Dark",
+  "word_count": 2891,
+  "characters_present": ["Marcus Reid", "James Kessler", "Sofia Navarro (off-screen)", "Director Chen"],
+  "character_knowledge": {
+    "Marcus_Reid": [
+      "Government raided observatory under national security emergency authorization",
+      "Kessler knows about his dissertation failure",
+      "Sofia successfully leaked all data to global media and scientific community",
+      "Story is now public - can't be suppressed",
+      "Team must go underground to continue work",
+      "Observatory is destroyed as institution"
+    ],
+    "Sofia_Navarro": [
+      "Executed coordinated leak to multiple outlets simultaneously",
+      "Has secured safe location for underground operations",
+      "Working with Yuki to secure data against hacking",
+      "Escaped Chile before detention"
+    ],
+    "James_Kessler": [
+      "Failed to contain the discovery",
+      "Fears global chaos and panic",
+      "Knows about Marcus's dissertation and uses it to undermine credibility",
+      "Warned Marcus about Mumbai Blackout precedent",
+      "Released Marcus after leak made detention pointless"
+    ],
+    "Yuki_Tanaka": [
+      "Working to secure team's data infrastructure",
+      "Part of underground operation"
+    ],
+    "Director_Chen": [
+      "Observatory shut down and career destroyed",
+      "Forced to sign NDA",
+      "Blames Marcus for the destruction"
+    ]
+  },
+  "world_state": {
+    "time": "~1-2 months after Chapter 10",
+    "voyager_status": "Continuing deceleration, ~16 months from arrival",
+    "public_awareness": "FULL - story is global news with leaked documents and mathematical proofs",
+    "institutional_awareness": "Global governments aware, attempting damage control",
+    "social_fracture": "Believer/denier camps forming, conspiracy theories spreading alongside science"
+  },
+  "planted_elements": [
+    {
+      "element": "Kessler's 2029 Mumbai Blackout failure",
+      "description": "3,000 died from panic after leaked unverified intelligence",
+      "foreshadowing": "Explains his control obsession, will payoff in Chapter 47 when he must choose trust over control"
+    },
+    {
+      "element": "Sofia's philosophy about truth and support",
+      "description": "Brother told her you help people by trusting them with truth and supporting through difficult parts",
+      "foreshadowing": "Core of grassroots solution in Chapter 40"
+    }
+  ],
+  "character_arcs": {
+    "Marcus_Reid": "Accepts consequences of transparency - no longer hiding from his convictions",
+    "Sofia_Navarro": "Takes decisive action - lone fighter becoming team builder",
+    "James_Kessler": "Established as antagonist with sympathetic motivation - control vs trust conflict begins",
+    "Director_Chen": "Casualty of first contact - represents institutional cost"
+  },
+  "relationships": {
+    "Marcus_Kessler": "Open antagonism - ideological conflict over transparency vs control",
+    "Sofia_Marcus": "Partnership deepens - she acts decisively while he faces consequences",
+    "Team_isolation": "Core team forced underground, cut off from institutions"
+  },
+  "world_consequences": {
+    "public_reaction": "Headlines spreading, chaos beginning",
+    "believer_denier_split": "World fracturing into camps before evidence fully evaluated",
+    "government_response": "Damage control, attempted discrediting"
+  },
+  "next_chapter_hooks": [
+    "Team operating underground",
+    "Global reaction escalating",
+    "Signal continues to evolve",
+    "Final message approaching in Chapter 20"
+  ]
+}
