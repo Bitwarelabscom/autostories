@@ -1,0 +1,20 @@
+{
+  "book": 3,
+  "chapter": 4,
+  "title": "Echoes",
+  "word_count": 1189,
+  "timeline": "2896 - Ten years after ansible shutdown",
+  "location": "Kepler-442 communications center",
+  "pov_character": "Mika",
+  "character_states": {
+    "Mika": {
+      "age": "33",
+      "daughter_age": "6",
+      "knows": ["Receiving pre-shutdown messages arriving via light-speed", "Messages from 2885 asking for ansible coordination", "Answers arrive decades too late", "Zara 10 years into journey, 9 more until grave", "Temporal grief: questions from dead"],
+      "emotional_state": "Grieving temporal disconnect, answering anyway",
+      "arc_position": 0.25
+    }
+  },
+  "revealed_to_reader": ["Pre-shutdown messages arriving decade late", "Temporal grief: answering questions from possibly-dead senders", "Mika answers all echoes despite futility", "Maintaining connection matters more than utility", "Daughter questions value of answering"],
+  "themes_explored": {"temporal_grief": "Asking questions that answers arrive too late", "archaeological_communication": "Every conversation becomes history", "maintaining_threads": "Answering matters even if pointless"}
+}

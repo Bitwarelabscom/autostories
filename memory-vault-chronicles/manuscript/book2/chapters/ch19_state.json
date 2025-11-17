@@ -1,0 +1,32 @@
+{
+  "book": 2,
+  "chapter": 19,
+  "title": "Convergence",
+  "word_count": 2304,
+  "timeline": "Day 81-82 (30 hours after ch18, infiltration and broadcast)",
+  "location": "Maintenance tunnels → Neural Research Institute → Kenji's location",
+  "characters_present": ["Aria Chen", "Jin 'Ghost' Park", "Marcus Webb", "Dr. Yuki Tanaka", "Kenji Tanaka", "13 resistance fighters", "Dax", "Kira"],
+  "pov_character": "Aria Chen",
+  "character_states": {
+    "aria_chen": {
+      "arc_position": 0.95,
+      "knows": ["All factions surrounding Institute within 30 hours", "12-hour window before standoff breaks", "Tanaka been protecting Kenji for years", "Kenji is 7 years old, Tanaka's child", "Kenji aware of being symbol", "Three-way battle erupted", "Broadcast made Kenji public", "Kenji chose to declare autonomy", "War shifted to identity question", "Protecting choice over symbols"],
+      "decisions_made": ["Used maintenance tunnels again", "Infiltrated war zone with all 13 fighters", "Convinced Tanaka to trust them", "Recommended public broadcast", "Made Kenji public rather than hidden", "Broadcast protection declaration", "Committed to defending Kenji's autonomy"]
+    },
+    "kenji_tanaka": {
+      "age": 7,
+      "parent": "Yuki Tanaka (Mama Yuki)",
+      "status": "Last Original - never modified, no backup/implant",
+      "knows": ["Is Last Original", "Everyone wants to use as symbol", "Originals want purity proof", "Composites want normalization", "Council wants to copy", "Aria is composite fighting programming", "Jin is seven people integrated", "Marcus is Original fighting with composites"],
+      "decisions_made": ["Trusted resistance fighters", "Chose to go public", "Broadcast declaration of autonomy", "Chose to remain Original for now", "Reserved right to choose modification later"]
+    },
+    "dr_yuki_tanaka": {
+      "knows": ["Protected Kenji for 7 years in hiding", "All factions converging", "Aria changed - still programmed but choosing", "Resistance earned trust", "Kenji chose to be public"],
+      "decisions_made": ["Let resistance extract them", "Allowed public broadcast", "Accepted risk of Kenji being public"]
+    }
+  },
+  "revealed_to_reader": ["Three armies surrounded Institute in 30 hours", "Original forces (white armor), composite cells (mixed), Council units (standard)", "12-hour window before war", "13 fighters infiltrated through maintenance tunnels", "Found Tanaka protecting Kenji", "Kenji is Tanaka's 7-year-old child", "Kenji aware of symbol status, prepared", "Three-way battle erupted at Institute", "Decided to broadcast publicly", "Kenji declared autonomy publicly", "Broadcast went viral - every screen showing Kenji", "Kenji chose to remain Original, reserved right to modify later", "War for humanity's identity begun"],
+  "planted": [{"element": "Kenji public declaration", "payoff": "ch20, Book 3"}, {"element": "War for identity", "payoff": "ch20, Book 3"}, {"element": "Kenji's choice reserved", "payoff": "Book 3"}, {"element": "Protection commitment", "payoff": "ch20, Book 3"}],
+  "active_tensions": ["All factions want Kenji", "Public target now", "War for identity beginning", "How to protect against armies", "Kenji's future choices"],
+  "bridge_to_next_chapter": {"next_chapter_needs": ["Immediate aftermath of broadcast (ch20)", "Faction responses", "Resistance protecting Kenji", "War escalating", "Book 2 resolution and Book 3 setup"]}
+}

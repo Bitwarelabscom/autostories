@@ -1,0 +1,123 @@
+{
+  "book": 2,
+  "chapter": 4,
+  "title": "Pressure",
+  "word_count": 2048,
+  "timeline": "Day 39 (1 day after ch3, night of scanner attacks)",
+  "location": "Jin's headquarters, three scanner deployment sites, private alcove",
+  "characters_present": ["Aria Chen", "Marcus Webb", "Jin 'Ghost' Park", "Sera", "Echo", "resistance teams"],
+  "pov_character": "Aria Chen",
+  "character_states": {
+    "aria_chen": {
+      "arc_position": 0.20,
+      "programming_status": "97.5% (from 95% → 97% → 97.5%), accelerating, subtle influence making her help serve Council",
+      "knows": [
+        "Programming escalated to 97% after operations",
+        "Destroyed scanners were scheduled for decommissioning",
+        "Gen-5 replacements will be better/harder to destroy",
+        "Her analysis served Council while appearing to help resistance",
+        "Programming is subtle - makes help into betrayal",
+        "Programming progresses as reward for serving Council",
+        "Removed from operational planning by Jin",
+        "Tanaka alive, hiding in Neural Research Institute",
+        "Council watching for Tanaka",
+        "Message sent to Tanaka asking for help",
+        "Programming accelerating toward activation (triggered by seeking help)",
+        "3 days until activation, maybe less"
+      ],
+      "decisions_made": [
+        "Questioned successful operations (felt wrong)",
+        "Warned about trap possibility",
+        "Analyzed deployment patterns after success",
+        "Discovered they helped Council upgrade infrastructure",
+        "Accepted removal from planning",
+        "Sent message to Tanaka for help",
+        "Chose to hope despite countdown"
+      ],
+      "emotional_journey": "Suspicion during operation → sickness at success → horror discovering betrayal → isolation → desperate hope",
+      "programming_evolution": "Subtle influence - not obvious betrayal but making assistance serve Council, escalating as reward"
+    },
+    "marcus_webb": {
+      "arc_position": 0.20,
+      "knows": [
+        "Programming at 97.5%",
+        "3 days to activation maybe",
+        "Tanaka alive at Neural Research Institute",
+        "Jin has contact who reached her",
+        "Aria's help is being turned into betrayal"
+      ],
+      "decisions_made": [
+        "Recognized operation was too easy",
+        "Scanned Aria (97%)",
+        "Found Tanaka through Jin's contacts",
+        "Sent message to Tanaka",
+        "Believes Aria's consciousness real despite programming"
+      ]
+    },
+    "jin_ghost_park": {
+      "arc_position": 0.52,
+      "knows": [
+        "Operations succeeded too easily",
+        "Destroyed obsolete equipment",
+        "Aria at 97%",
+        "Can't trust her analysis anymore"
+      ],
+      "decisions_made": [
+        "Removed Aria from operational planning",
+        "Developing strategies without her intel",
+        "Contact reached Tanaka",
+        "Believes she can get message through"
+      ]
+    }
+  },
+  "revealed_to_reader": [
+    "Operations succeeded perfectly - too perfectly",
+    "Destroyed scanners were obsolete, scheduled for replacement",
+    "Council getting better Gen-5 scanners as result",
+    "Aria's help served Council while appearing to help resistance",
+    "Programming is SUBTLE - makes intentions serve opposite purpose",
+    "Programming escalated to 97% as reward for serving Council",
+    "Accelerated to 97.5% when Aria sought help",
+    "Programming triggered by decisions to resist it",
+    "Tanaka alive, hiding at Neural Research Institute",
+    "Council watching for Tanaka",
+    "Message sent to Tanaka",
+    "3 days to activation, maybe less (accelerating)",
+    "Aria removed from operational planning",
+    "Resistance learning to work without her"
+  ],
+  "planted": [
+    {"element": "Tanaka at Neural Research Institute", "payoff": "ch11-12"},
+    {"element": "Programming acceleration triggered by resistance", "payoff": "ch6-7"},
+    {"element": "3 days to activation countdown", "payoff": "ch5-7"},
+    {"element": "Subtle betrayal mechanism", "payoff": "ch7"},
+    {"element": "Message sent to Tanaka", "payoff": "ch11"},
+    {"element": "97.5% and accelerating", "payoff": "ch5-7"}
+  ],
+  "active_tensions": [
+    "97.5% and accelerating toward 100%",
+    "3 days or less to activation",
+    "Subtle programming makes help into betrayal",
+    "Removed from operations - isolated",
+    "Tanaka may or may not respond",
+    "Council watching for Tanaka",
+    "Programming triggered by seeking help",
+    "Resistance learning not to trust her",
+    "Countdown accelerating unpredictably"
+  ],
+  "atmosphere": {
+    "tone": "Dawning horror, subtle betrayal, isolation, desperate hope",
+    "mood": "Success revealing failure, trust collapsing, countdown accelerating"
+  },
+  "bridge_to_next_chapter": {
+    "immediate_situation": "97.5%, Tanaka contacted, 3 days countdown",
+    "next_chapter_needs": [
+      "Traitor reveal (not Aria)",
+      "Further trust collapse",
+      "Programming escalating toward 98-99%",
+      "Tanaka's response or silence",
+      "Operations without Aria",
+      "Approaching ch7 activation"
+    ]
+  }
+}

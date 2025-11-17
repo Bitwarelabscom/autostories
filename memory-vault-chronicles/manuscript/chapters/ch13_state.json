@@ -1,0 +1,20 @@
+{
+  "chapter": 13,
+  "title": "Planning Destruction",
+  "word_count": 1459,
+  "timeline": "Day 11",
+  "location": "Abandoned warehouse Level -5, then Aria's apartment",
+  "character_states": {
+    "aria_chen": {
+      "arc_position": 0.65,
+      "knows": ["Marcus has military-spec extraction equipment", "Original plan was Day 17 night shift", "Tanaka knows their plan", "Timeline accelerated to Day 14", "3 days to prepare instead of 6", "Kauffman asking about her", "Chen Park concerned about her absence"],
+      "decisions_made": ["Committed to vault breach with Marcus", "Decided not to involve/trust Kauffman", "Will message Chen Park with cover story", "Moved timeline to Day 14 after Tanaka's warning"]
+    }
+  },
+  "planted": [
+    {"element": "Day 14 accelerated timeline", "payoff_chapter": "Ch14-16 leading to 17", "significance": "Less prep time, more pressure"},
+    {"element": "Kauffman excluded from plan", "payoff_chapter": 17, "significance": "She'll appear anyway"},
+    {"element": "Quantum-shielded equipment", "payoff_chapter": 17, "significance": "How they smuggle extraction rig"}
+  ],
+  "chapter_function": {"plot": "Vault breach planning, timeline accelerated, partnership solidified", "character": "Aria and Marcus working together, trust building"}
+}

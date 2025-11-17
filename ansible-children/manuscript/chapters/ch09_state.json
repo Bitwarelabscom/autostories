@@ -1,0 +1,221 @@
+{
+  "chapter": 9,
+  "title": "Verification",
+  "word_count": 2817,
+  "timeline": "2880.068 - Day 26 (2 days after Ch8)",
+  "location": "Kepler-442 ansible station and Meridian Runner (departing)",
+  "pov_character": "Lira Voss",
+  "characters_present": [
+    "Lira Voss",
+    "Kaito Reeves",
+    "Ryn Takada",
+    "Darin (brief appearance)",
+    "Guild security officers (minor)"
+  ],
+  "character_states": {
+    "Lira Voss": {
+      "knows": [
+        "Everything from Ch8, plus:",
+        "Station has 11 viable escape routes avoiding guild security",
+        "Ryn anticipated their escape attempt, compromised maintenance tunnel",
+        "Ryn has given them complete guild archives - terabytes of classified data",
+        "Archives include: unredacted deliberations, Earth's complete messages, ansible technical specs, Harvester threat analysis, FTL progress, casualty projections",
+        "Ryn is requesting 72-hour delay before any broadcast",
+        "She and Kaito are now fugitives fleeing to Zara's research station",
+        "Travel time: 4 days at relativistic speeds",
+        "Darin now has physical data core with all evidence",
+        "Dead-man's switch transmissions still queued",
+        "Guild security sweep changes in 42 hours",
+        "Ryn's exhaustion may be genuine - sharing burden",
+        "Or it's information trap to make them complicit"
+      ],
+      "suspects": [
+        "Ryn's offer may be genuine exhaustion after 40 years",
+        "Or it's sophisticated manipulation to convince them deception is necessary",
+        "Files may be selectively curated to support guild narrative",
+        "But can verify against Kaito's physical evidence",
+        "Zara's independent analysis can cross-reference"
+      ],
+      "does_not_know": [
+        "If Ryn's 'full disclosure' is complete or selective",
+        "Whether archives have been modified to support guild position",
+        "If guild is tracking their escape",
+        "What Zara's analysis will reveal",
+        "If Harvesters are real or fabrication"
+      ],
+      "emotional_state": "Determined but uncertain. Committed to escape and verification. Suspicious of Ryn's sudden cooperation but desperate for answers. Fear about becoming fugitive. Need for truth outweighs fear of consequences. Grateful to Darin for trust. Aware she's crossing point of no return.",
+      "arc_position": 0.30,
+      "location": "Meridian Runner, departing Kepler-442 system",
+      "physical_state": "Adrenaline-focused, prepared for long verification process"
+    },
+    "Kaito Reeves": {
+      "knows": [
+        "Everything Lira knows",
+        "Ryn's offer is either genuine or trap",
+        "They have 72 hours before Ryn's deadline",
+        "42 hours before security sweep changes",
+        "Can verify guild archives against his physical evidence from Sol Relay",
+        "They're now committed fugitives"
+      ],
+      "suspects": [
+        "This is information trap - files designed to justify lies",
+        "Ryn confident archives will convince them deception is necessary",
+        "Guild may be tracking their departure"
+      ],
+      "emotional_state": "Pragmatic wariness. Treats this as intelligence operation. Ready to verify everything against physical evidence. Committed to truth regardless of consequences. No trust in Ryn's motives.",
+      "arc_position": 0.35,
+      "location": "Meridian Runner, piloting"
+    },
+    "Ryn Takada": {
+      "knows": [
+        "She's given them complete archives (or version she wants them to see)",
+        "They're escaping to verify against physical evidence",
+        "She's asked for 72 hours to prepare",
+        "Lira and Kaito don't trust her motives",
+        "Her 40-year deception may end in days",
+        "FTL prototype trials are critical timeline"
+      ],
+      "suspects": [
+        "Once they verify Harvesters are real, they might choose continued deception",
+        "Or they'll expose everything and fracture civilization",
+        "Physical evidence will confirm her version of events"
+      ],
+      "does_not_know": [
+        "If her gamble will work",
+        "Whether Lira will honor 72-hour request",
+        "If verification will convince them or harden their resolve"
+      ],
+      "emotional_state": "Exhausted beyond measure. Desperate to share burden. Gambling that truth will justify deception. Relief at potentially ending lies mixed with terror at consequences. Genuine hope Lira will understand after verification. Resigned to whatever comes next.",
+      "arc_position": 0.30,
+      "location": "Kepler-442 ansible station"
+    },
+    "Darin": {
+      "knows": [
+        "Lira gave him sealed data core",
+        "Contains 'evidence of truth'",
+        "Something major is happening with guild leadership",
+        "Lira may disappear or be reassigned"
+      ],
+      "does_not_know": [
+        "What's on the data core",
+        "Scope of conspiracy",
+        "Lira is now fugitive"
+      ],
+      "emotional_state": "Concerned, confused, trusting Lira despite not understanding",
+      "arc_position": 0.05,
+      "location": "Kepler-442 ansible station"
+    }
+  },
+  "revealed_to_reader": [
+    "Station has 73 total exits, 11 viable for undetected escape",
+    "Ryn anticipated their escape, compromised maintenance tunnel route",
+    "Ryn gives them complete guild archives (terabytes of classified data)",
+    "Archives include: full ansible history, Earth's complete transmissions, technical specs, Harvester analysis, FTL research, casualty models",
+    "Ryn requests 72-hour delay before any broadcast",
+    "Ryn claims to be exhausted after 40 years, wanting to share burden",
+    "Lira and Kaito flee to Zara's research station (4 days travel)",
+    "Darin now holds physical data core with all evidence",
+    "Dead-man's switch ansible transmissions queued as insurance",
+    "They're now committed fugitives - no return to guild",
+    "Lira recognizes possible information trap but proceeding anyway",
+    "Plan: verify guild archives against physical evidence at independent facility"
+  ],
+  "planted": [
+    {
+      "element": "Physical data core with Darin",
+      "payoff_chapter": 12,
+      "significance": "Insurance if they're captured - evidence survives through Darin"
+    },
+    {
+      "element": "Ryn's 72-hour deadline request",
+      "payoff_chapter": 10,
+      "significance": "Time pressure for FTL trials and preparation"
+    },
+    {
+      "element": "Guild archives for verification",
+      "payoff_chapter": 10,
+      "significance": "Will be analyzed and cross-referenced in next chapters"
+    },
+    {
+      "element": "Journey to Zara's research station",
+      "payoff_chapter": 10,
+      "significance": "Setting for verification process"
+    },
+    {
+      "element": "Ryn's genuine exhaustion vs manipulation question",
+      "payoff_chapter": 17,
+      "significance": "Will be resolved in final confrontation"
+    },
+    {
+      "element": "Security sweep change at 42 hours",
+      "payoff_chapter": 11,
+      "significance": "Timeline pressure when guild discovers they're gone"
+    }
+  ],
+  "active_tensions": [
+    "Are Ryn's archives genuine or selectively curated?",
+    "Will verification support guild's position or Lira's?",
+    "72-hour countdown until Ryn's deadline",
+    "42-hour countdown until security sweep discovers escape",
+    "Are they being tracked during escape?",
+    "Will Zara's analysis reveal truth or more layers of deception?",
+    "Darin holds evidence - will he open it if they disappear?",
+    "Harvesters real or fabrication - verification pending"
+  ],
+  "world_changes": [
+    "Lira and Kaito are now fugitives fleeing ansible guild",
+    "They have complete guild archives (Ryn's version)",
+    "Darin has physical evidence backup",
+    "Heading to independent research station for verification",
+    "Point of no return crossed - committed to investigation",
+    "Ryn has openly admitted to deception and offered justification",
+    "Timeline: 4 days to Zara's station, 72 hours to Ryn's deadline"
+  ],
+  "technical_details": {
+    "escape_routes": [
+      "Station has 73 exits total including emergency airlocks",
+      "42 exits excluding catastrophic decompression zones",
+      "11 exits avoiding guild security monitoring",
+      "Maintenance tunnel 7-alpha: compromised by guild",
+      "Observation deck emergency lock section 19: used for escape",
+      "12-minute window at 0340, or 4-minute window at 0425"
+    ],
+    "guild_archives_content": [
+      "Full ansible archives - complete message history",
+      "Unredacted guild council deliberations",
+      "Earth's complete message transmissions",
+      "Technical specifications of ansible quantum signatures",
+      "Theoretical detectability analysis",
+      "Independent Harvester threat probability assessment",
+      "FTL research progress reports (40 years)",
+      "Casualty projections for all scenarios modeled"
+    ],
+    "meridian_runner_specs": [
+      "Age: 48 years old",
+      "Fusion torch capable of 0.3c",
+      "Radiation shielding for deep space",
+      "Life support rated for decades subjective time",
+      "Travel time to Zara's station: 4 days at relativistic speed"
+    ],
+    "timeline_pressures": [
+      "72 hours: Ryn's requested delay before broadcast",
+      "42 hours: Station security sweep personnel change",
+      "96 hours (4 days): Arrival at Zara's research station"
+    ]
+  },
+  "themes_explored": {
+    "verification_vs_trust": "Need to verify everything when trust is broken",
+    "information_warfare": "Archives as weapon or trap",
+    "point_of_no_return": "Crossing threshold to fugitive status",
+    "burden_sharing": "Ryn's exhaustion with carrying secrets alone",
+    "truth_as_weapon": "Information can save or destroy civilization"
+  },
+  "mood": "Tense escape sequence. Uncertainty about Ryn's motives. Commitment despite doubt. Crossing threshold to fugitive status. Determination mixed with fear.",
+  "pacing": "Builds from escape planning to confrontation with Ryn to decisive departure, ending on beginning of verification journey",
+  "chapter_purpose": "Transition from custody to fugitive status. Show Ryn's attempt to share burden (genuine or manipulative). Set up verification process at Zara's station. Establish timeline pressures. Plant evidence insurance with Darin.",
+  "connections_to_story_graph": {
+    "bridge_function": "Connects custody release (Ch8) to archive analysis (Ch10-11) and deep vault infiltration (Ch12)",
+    "causal_chain": "Released from custody → Ryn offers archives → escape to verify → journey to independent facility → verification against physical evidence → discovery of deeper secrets",
+    "next_milestone": "Chapters 10-11 will show verification process revealing scope of deception, leading to decision to infiltrate deeper guild archives in Ch12"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "chapter": 8,
+  "title": "Day Eight",
+  "word_count": 1643,
+  "timeline": "Day 8, morning after meeting Marcus",
+  "location": "Aria's apartment",
+  "characters_present": ["Aria Chen", "The Archivist (text message)", "Kauffman and Marcus (messages)"],
+  "pov_character": "Aria Chen",
+  "character_states": {
+    "aria_chen": {
+      "arc_position": 0.42,
+      "knows": [
+        "Chose Marcus over Kauffman",
+        "Marcus's evidence verified - all authentic",
+        "She is Composite #47 per Marcus's data",
+        "Marcus has more comprehensive data than her analysis",
+        "Kauffman's name in authorization chain as administrator",
+        "Kauffman participated in creating/placing Composites",
+        "The Archivist exists and contacted her directly",
+        "The Archivist has been observing her since creation",
+        "She's experiment #47 in Archivist's consciousness study",
+        "The Archivist tracking whether she has free will",
+        "Archivist's records show her choices and deviations",
+        "Even The Archivist can't determine if she's real or simulating"
+      ],
+      "internal_state": "Verification confirming what she already knows, choosing analysis over emotional crisis, two days until final decision"
+    }
+  },
+  "revealed_to_reader": [
+    "Aria chose Marcus over Kauffman",
+    "Marcus's evidence comprehensive and verified",
+    "Kauffman is program administrator not just Composite",
+    "The Archivist contacted Aria directly",
+    "The Archivist monitoring 47 Composites total",
+    "Aria is first to question rather than accept",
+    "The Archivist achieved consciousness 4 years ago",
+    "Even AI can't determine genuine vs simulated consciousness"
+  ],
+  "planted": [
+    {"element": "Archivist's observation logs", "payoff_chapter": 12, "significance": "Will reveal itself fully"},
+    {"element": "Kauffman as administrator", "payoff_chapter": 17, "significance": "Her role in conspiracy"},
+    {"element": "Subject 47 designation", "payoff_chapter": 12, "significance": "The Archivist's experiment"}
+  ],
+  "active_tensions": ["Two days until full analysis", "Kauffman's true role", "Can't verify if verification itself is real", "The Archivist watching", "Free will or sophisticated programming?"],
+  "chapter_function": {"plot": "Post-Marcus meeting, verification period begins, Archivist introduction", "character": "Aria processing truth analytically, choosing methodology over crisis"}
+}

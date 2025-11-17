@@ -1,0 +1,20 @@
+{
+  "book": 3,
+  "chapter": 2,
+  "title": "Departure",
+  "word_count": 780,
+  "timeline": "2888 - Eleven months after Ch1",
+  "location": "*Patient Observer* ship departing Kepler-442",
+  "pov_character": "Dr. Zara Kim",
+  "character_states": {
+    "Dr. Zara Kim": {
+      "age": "56-57",
+      "location": "Ship departing for 16-year subjective journey",
+      "knows": ["Departing for Lira's grave", "23 years objective, 16 subjective", "Cultural drift 4.2% on Kepler, 6.1% Ross 128, 5.3% Proxima", "Will return to alien culture", "Entering hibernation"],
+      "emotional_state": "Committed to pilgrimage despite cost",
+      "arc_position": 0.15
+    }
+  },
+  "revealed_to_reader": ["Zara departing on pilgrimage", "11 months cultural drift visible", "Multiple colonies diverging at different rates", "Time dilation will make her linguistic relic"],
+  "themes_explored": {"time_dilation_cost": "Traveler frozen, home ages", "language_drift": "Dialect preservation vs evolution", "pilgrimage_commitment": "Keeping promises across time"}
+}

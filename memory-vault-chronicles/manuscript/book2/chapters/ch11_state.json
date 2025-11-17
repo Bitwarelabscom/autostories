@@ -1,0 +1,37 @@
+{
+  "book": 2,
+  "chapter": 11,
+  "title": "Extraction",
+  "word_count": 1712,
+  "timeline": "Day 65 night (rescue operation execution)",
+  "location": "Council detention facility → Tanaka's lab (Neural Research Institute)",
+  "characters_present": ["Marcus Webb", "Aria Chen", "Jin 'Ghost' Park (remote)", "Dr. Yuki Tanaka", "Kade", "6 surviving fighters"],
+  "pov_character": "Marcus Webb → Aria Chen",
+  "character_states": {
+    "aria_chen": {
+      "arc_position": 0.42,
+      "status": "Rescued, enhanced programming interrupted mid-load, undergoing surgery",
+      "knows": ["Rescued by Marcus and team", "2 fighters killed in extraction", "Marcus survived", "Enhanced programming interrupted", "Tanaka doing surgery - 30% success rate", "If fails, she wants dissolution", "Marcus risked everything for her"],
+      "decisions_made": ["Warned them it was trap", "Accepted surgery despite 30-70 odds against", "Chose to die rather than be weapon if surgery fails", "Held onto choice during surgery"]
+    },
+    "marcus_webb": {
+      "arc_position": 0.60,
+      "knows": ["Extracted Aria successfully", "2 fighters lost", "Enhanced programming interrupted mid-load", "Tanaka attempting surgery", "30-70 odds against success"],
+      "decisions_made": ["Led extraction team", "Stayed behind to buy time", "Escaped through sublevel maintenance tunnels", "Delivered Aria to Tanaka"]
+    },
+    "jin_ghost_park": {
+      "arc_position": 0.64,
+      "knows": ["Extraction partially successful", "2 fighters lost", "6 survived including Marcus and Aria", "Down to 13 total fighters now", "Tanaka attempting surgery"],
+      "decisions_made": ["Coordinated remote support", "Guided escape through sublevels", "Authorized surgery attempt", "Promised to rescue Marcus if needed - but he escaped"]
+    },
+    "dr_yuki_tanaka": {
+      "arc_position": 0.50,
+      "knows": ["Enhanced programming interrupted mid-load", "Better chance than if completed", "Still only 30% success rate", "Aria chose surgery or death over being weapon"],
+      "decisions_made": ["Attempting surgery despite low odds", "Respecting Aria's choice"]
+    }
+  },
+  "revealed_to_reader": ["Rescue operation executed", "12-minute extraction window", "2 fighters killed (Kade and one other)", "6 survived including Marcus", "Aria rescued successfully", "Enhanced programming interrupted mid-load", "Marcus escaped through maintenance sublevels", "Tanaka attempting surgery - 30% success vs 70% personality destruction", "Aria chose surgery or dissolution over being weapon", "Surgery in progress"],
+  "planted": [{"element": "30-70 odds against surgery success", "payoff": "ch12-13"}, {"element": "Enhanced programming interrupted", "payoff": "ch12-13"}, {"element": "Aria's choice: save or dissolve", "payoff": "ch13"}, {"element": "13 fighters remaining", "payoff": "ch13-20"}],
+  "active_tensions": ["Surgery in progress with low odds", "Enhanced programming partially loaded", "Marcus survived but 2 fighters dead", "13 fighters left total", "Will Aria survive surgery?"],
+  "bridge_to_next_chapter": {"next_chapter_needs": ["Surgery completes (ch12)", "Result of deactivation attempt", "Whether Aria's personality survived", "Marcus's choice about Maya extraction happens (ch12)"]}
+}

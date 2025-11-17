@@ -1,0 +1,27 @@
+{
+  "book": 2,
+  "chapter": 13,
+  "title": "Waking",
+  "word_count": 1946,
+  "timeline": "Day 66 (surgery completed, Aria waking)",
+  "location": "Tanaka's lab, Neural Research Institute",
+  "characters_present": ["Aria Chen", "Marcus Webb", "Jin 'Ghost' Park", "Dr. Yuki Tanaka"],
+  "pov_character": "Aria Chen",
+  "character_states": {
+    "aria_chen": {
+      "arc_position": 0.48,
+      "programming_status": "Enhanced programming mostly removed, some fragments too deep to extract, no forced activation, whispers present but distant",
+      "knows": ["Woke after 16-hour surgery", "Enhanced programming mostly removed", "Some fragments remain permanently", "Can hear programming whispers but fainter", "Marcus refused Maya extraction (new knowledge)", "2 fighters died in rescue", "13 fighters left", "Can't trust her own choices fully", "Will question every decision forever", "Marcus loves her despite cost", "Survived 30-70 odds"],
+      "decisions_made": ["Chose not to obey programming whispers", "Questioned if choices are hers", "Accepted permanent doubt as life", "Wants to help despite being compromised", "Told Marcus she loves him (uncertain if programmed)", "Chose to keep fighting"]
+    },
+    "marcus_webb": {
+      "arc_position": 0.65,
+      "knows": ["Aria survived surgery against odds", "She's still partially programmed", "Watched her surgery for entire 16 hours", "Hasn't slept", "She's alive and choosing"],
+      "decisions_made": ["Refused to leave during surgery", "Chose her personhood over certainty", "Referenced Maya choice to her", "Expressed love despite risk"]
+    }
+  },
+  "revealed_to_reader": ["Aria woke after 16-hour surgery", "Enhanced programming mostly removed", "Permanent fragments remain", "Programming whispers fainter but present", "Will question choices forever", "13 fighters left (2 died in rescue)", "Aria learned Marcus refused Maya extraction", "Marcus watched entire surgery", "Aria declared love (uncertain if programmed)", "Both choosing despite uncertainty"],
+  "planted": [{"element": "Permanent programming fragments", "payoff": "ch14-17"}, {"element": "Verification protocols for Aria's suggestions", "payoff": "ch14-16"}, {"element": "Questioning every choice", "payoff": "ch14-17"}],
+  "active_tensions": ["Permanent programming fragments", "Can't trust own choices", "Will Council come for her?", "How to contribute without betraying", "13 fighters left"],
+  "bridge_to_next_chapter": {"next_chapter_needs": ["Testing if programming truly controlled (ch14)", "Aria attempting to contribute (ch14-15)", "Rebuilding trust with resistance (ch15)", "Planning operations with verification (ch16)"]}
+}

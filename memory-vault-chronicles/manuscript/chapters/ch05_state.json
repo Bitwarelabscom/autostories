@@ -1,0 +1,39 @@
+{
+  "chapter": 5,
+  "title": "Authentication Failure",
+  "word_count": 1612,
+  "timeline": "Days 3-5, verification period",
+  "location": "Aria's apartment, Level 53",
+  "characters_present": ["Aria Chen", "Marcus Webb (via text message)"],
+  "pov_character": "Aria Chen",
+  "character_states": {
+    "aria_chen": {
+      "arc_position": 0.28,
+      "knows": [
+        "All previous info",
+        "Both data sources verify as authentic",
+        "Two-year backup now loads (was corrupted, now isn't)",
+        "Detailed integration analysis: 68% Original, 15% tactical, 12% authentication, 5% loyalty",
+        "Flagged 6 months ago for showing independent analysis beyond programming",
+        "Someone monitoring her for potential malfunction",
+        "Marcus Webb has had malware in her network for 14 months",
+        "Marcus monitored her investigation from the start",
+        "Marcus wants to work together to expose conspiracy",
+        "Marcus admits he's criminal and she's designed to stop people like him"
+      ],
+      "decisions_made": [
+        "Spent 3 days verifying both data sources",
+        "Ran forensic analysis on own consciousness",
+        "Communicated with Marcus via encrypted messages",
+        "Committed to meeting him tomorrow midnight despite knowing risks"
+      ],
+      "internal_state": "Existential crisis managed through analytical approach, accepting she can't verify own reality but choosing to act anyway"
+    }
+  },
+  "planted": [
+    {"element": "Marcus's 14-month surveillance", "payoff_chapter": 7, "significance": "How he knows her so well"},
+    {"element": "Loyalty conditioning failed 6 months ago", "payoff_chapter": "Book 2", "significance": "Programming will try to activate"}
+  ],
+  "active_tensions": ["Tomorrow's meeting", "Compromised network", "Can't verify own authenticity", "Marcus watching her for over a year"],
+  "chapter_function": {"plot": "Verification period complete, first contact with Marcus, commitment to meeting", "character": "Aria accepting uncertainty, analytical approach to existential crisis"}
+}

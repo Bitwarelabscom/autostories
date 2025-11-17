@@ -1,0 +1,182 @@
+{
+  "chapter": 6,
+  "title": "Countdown",
+  "word_count": 2389,
+  "timeline": "Day 2,270 to Day 2,287 (spans 17 days), ends 2 days before Chapter 7's Day 2,289",
+  "location": "Kessa's lab at Olympus Station, the Beneath excavation site",
+  "pov_character": "Kessa Okafor",
+  "characters_present": ["Kessa Okafor", "Rajesh", "Dr. Chen", "Sage (via encrypted comm)"],
+  "characters_mentioned": ["Dmitri Volkov"],
+  "character_states": {
+    "Kessa_Okafor": {
+      "knows": [
+        "All from previous chapters",
+        "Seismic intervals decreased from 12 hrs to 8 hrs to 6 hrs",
+        "Magnitudes escalating to 4.2 (strongest yet)",
+        "Every nanite deployment triggers response within 6-18 hours",
+        "Sage's prediction revised: 3 months until catastrophic response (not 5)",
+        "Corporate increasing deployment by 15% (largest since Year 5)",
+        "The Gardener's light pulses show neural activity patterns (thinking)",
+        "Communication might be possible through understanding creators",
+        "Independent settlements preparing for catastrophe",
+        "Olympus Station unprepared for major quakes",
+        "Magnitude 4.2 caused first casualties (3 hospitalized)",
+        "Volkov will revoke her access within days",
+        "She's installed unauthorized monitoring equipment feeding Sage's network",
+        "Corporate officially stated seismic activity within acceptable parameters"
+      ],
+      "emotional_state": "Obsessed with evidence, resigned to corporate dismissal, preparing for confrontation, committed to saving who she can",
+      "arc_position": 0.145,
+      "location": "Olympus Station, preparing for access revocation",
+      "relationships_affected": {
+        "Sage": "Active coordination, encrypted communications, sharing data",
+        "Dmitri_Volkov": "Expects imminent confrontation and termination",
+        "Rajesh": "Partnership in preparing for corporate independence",
+        "Dr_Chen": "Working together despite Chen's fears"
+      }
+    },
+    "Rajesh": {
+      "knows": [
+        "All from previous chapters",
+        "Kessa installing unauthorized monitoring equipment",
+        "Direct data feed to Sage's network (espionage)",
+        "The Gardener showing neural activity patterns",
+        "15% nanite deployment increase ordered",
+        "Magnitude 4.2 tremor with first casualties",
+        "Corporate dismissal of all warnings",
+        "Kessa preparing for termination and working outside corporate"
+      ],
+      "emotional_state": "Loyal to Kessa, worried about consequences, preparing to work outside corporate authority",
+      "arc_position": 0.08,
+      "location": "Olympus Station, packing essentials"
+    },
+    "Dr_Chen": {
+      "knows": [
+        "All from previous chapters",
+        "Helping install unauthorized monitoring equipment",
+        "This is espionage against corporate",
+        "The Gardener showing neural activity (processing information)",
+        "Risk of termination if discovered"
+      ],
+      "emotional_state": "Frightened but committed, recognizing danger is real",
+      "arc_position": 0.07,
+      "location": "Olympus Station"
+    },
+    "Sage": {
+      "knows": [
+        "All from previous chapters",
+        "Kessa installed monitoring network feeding their systems",
+        "Corporate increasing deployment 15%",
+        "Prediction revised: 3 months until catastrophic response",
+        "Independent settlements preparing for inevitability",
+        "Olympus Station unprepared",
+        "Kessa hasn't fully committed to independence movement yet"
+      ],
+      "emotional_state": "Practical, preparing for catastrophe, offering Kessa choice between filing reports or helping prepare",
+      "arc_position": 0.10,
+      "location": "Valles Marineris"
+    },
+    "Dmitri_Volkov": {
+      "knows": [
+        "All from previous chapters",
+        "Authorized 15% nanite deployment increase",
+        "Magnitude 4.2 tremor caused damage and injuries",
+        "Kessa continues sending warning reports",
+        "Official corporate position: seismic activity within acceptable parameters",
+        "Three people hospitalized from tremor damage"
+      ],
+      "emotional_state": "Committed to timeline, viewing seismic activity as manageable, approaching breaking point with Kessa",
+      "arc_position": 0.12,
+      "location": "Olympus Station corporate sector"
+    }
+  },
+  "revealed_to_reader": [
+    "Seismic intervals decreased to 6 hours (from 8 hrs, was 12 hrs)",
+    "Magnitude escalated to 4.2 (strongest yet)",
+    "Every nanite deployment triggers response within 6-18 hours (proven correlation)",
+    "The Gardener's light pulses show neural activity (thinking, processing)",
+    "Kessa installed unauthorized monitoring equipment feeding Sage's network",
+    "Corporate ordered 15% nanite deployment increase (largest since Year 5)",
+    "Sage's prediction revised: 3 months to catastrophic response (not 5 months)",
+    "Independent settlements preparing for catastrophe (stockpiling, reinforcing, evacuating high-seismic zones)",
+    "Olympus Station unprepared, corporate thinks it's manageable",
+    "Magnitude 4.2 caused first casualties: 3 hospitalized, structural damage, pressure seal cracks",
+    "Kessa and Rajesh preparing for termination and working outside corporate",
+    "Corporate official position: activity within acceptable parameters, no timeline changes",
+    "Kessa researching communication possibilities with the Gardener",
+    "The Gardener's creators died out shortly after successful terraforming"
+  ],
+  "planted": [
+    {
+      "element": "Unauthorized monitoring network to Sage",
+      "payoff_chapter": 9,
+      "significance": "Will provide critical data when corporate cuts Kessa's access"
+    },
+    {
+      "element": "Neural activity patterns in the Gardener",
+      "payoff_chapter": 8,
+      "significance": "Evidence of intelligence, not automation"
+    },
+    {
+      "element": "First casualties from magnitude 4.2",
+      "payoff_chapter": 12,
+      "significance": "Escalation to deaths"
+    },
+    {
+      "element": "Kessa preparing for termination",
+      "payoff_chapter": 7,
+      "significance": "Volkov will confront her"
+    },
+    {
+      "element": "3-month prediction to catastrophe",
+      "payoff_chapter": 12,
+      "significance": "Ch12 occurs about 5 weeks after Ch7, on track for escalation"
+    },
+    {
+      "element": "Independent settlements preparing",
+      "payoff_chapter": 16,
+      "significance": "Marsborn will be ready when Olympus falls"
+    },
+    {
+      "element": "Communication research with the Gardener",
+      "payoff_chapter": "Book 2",
+      "significance": "Kessa's project to understand and communicate"
+    },
+    {
+      "element": "6-hour seismic intervals",
+      "payoff_chapter": 7,
+      "significance": "Next chapter opens with this established pattern"
+    }
+  },
+  "active_tensions": [
+    "Seismic intervals down to 6 hours",
+    "Magnitude reached 4.2 with first casualties",
+    "Kessa's espionage activities",
+    "Imminent confrontation with Volkov (2 days away)",
+    "3-month countdown to catastrophe",
+    "Corporate acceleration vs. Gardener escalation",
+    "Independent settlements preparing vs. Olympus unprepared",
+    "Kessa's choice between corporate and independence"
+  ],
+  "world_changes": [
+    "First human casualties from seismic events (3 hospitalized)",
+    "Structural damage to Olympus Station (cracks, collapsed corridors)",
+    "Unauthorized surveillance network established",
+    "Independent settlements actively preparing for catastrophe",
+    "Corporate official position: seismic activity acceptable",
+    "Timeline to catastrophe revised to 3 months",
+    "Seismic pattern: 6-hour intervals, magnitude 4.2"
+  ],
+  "atmosphere_notes": "Countdown urgency, obsessive documentation, resignation to corporate dismissal, preparing for inevitable catastrophe, mathematics of collision course, first blood drawn",
+  "continuity_notes": {
+    "timeline": "Day 2,270 to Day 2,287, spans 17 days, ends 2 days before Ch7",
+    "seismic_progression": "Intervals: 12 hrs → 8 hrs → 6 hrs; Magnitudes: Ch5: 3.9 → Ch6: 4.2",
+    "casualties": "First injuries: 3 hospitalized from falling equipment and structural damage",
+    "nanite_deployment": "15% increase ordered (largest since Year 5)",
+    "time_to_catastrophe": "3 months (revised from 5 months)",
+    "unauthorized_network": "7+ sensor nodes in the Beneath feeding encrypted relay to Sage",
+    "neural_patterns": "Light pulses show irregular fluctuations resembling thought processes",
+    "character_preparation": "Kessa and Rajesh packing essentials, research backed up to 3 systems",
+    "corporate_position": "Official finding: seismic activity within acceptable parameters"
+  }
+}

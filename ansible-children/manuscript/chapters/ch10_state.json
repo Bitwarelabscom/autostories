@@ -1,0 +1,79 @@
+{
+  "chapter": 10,
+  "title": "Cross-Reference",
+  "word_count": 3242,
+  "timeline": "2880.072 - Day 30 (4 days after Ch9, at Zara's research station)",
+  "location": "Zara Kim's independent research station, outer Kepler-442 system",
+  "pov_character": "Lira Voss",
+  "characters_present": ["Lira Voss", "Kaito Reeves", "Zara Kim"],
+  "character_states": {
+    "Lira Voss": {
+      "knows": [
+        "Guild archives verified 97% accurate against physical evidence",
+        "Harvester threat is REAL - not guild fabrication",
+        "Earth's warning was genuine",
+        "FTL development won't complete in time to save everyone",
+        "Estimated 31 billion will die even with FTL evacuation (only 8-12 billion saved)",
+        "Current human population: 43 billion",
+        "Two choices: connected/unified (31B dead) or isolated/fragmented (all survive)",
+        "ANOS (Ansible Network Optimization System) exists but details redacted beyond Guild Master access",
+        "The Magistrate - referenced entity beyond guild council oversight",
+        "Zara's evidence suggests Magistrate may be AI, not human",
+        "Decision patterns too complex for human committee coordination",
+        "Need deeper archive access to understand who/what controls ansible network",
+        "Guild hasn't reported them missing - mutual containment",
+        "Ryn's 72-hour deadline passed 14 hours ago"
+      ],
+      "suspects": [
+        "The Magistrate is AI managing the deception",
+        "Guild doesn't have full control - Magistrate makes actual decisions",
+        "There may be third option beyond connection vs isolation",
+        "Ryn's silence about their escape is strategic protection"
+      ],
+      "emotional_state": "Devastated by verification. Guild was right about threat. Moral certainty shattered. Understanding the impossible choice: 31B dead with connection or permanent fragmentation with survival. Desperate for third option. Determined to access deeper truth before deciding. Wrestling with justification of deception.",
+      "arc_position": 0.40,
+      "location": "Zara's research station",
+      "physical_state": "Mentally exhausted from verification process"
+    }
+  },
+  "revealed_to_reader": [
+    "Guild archives verified authentic - 97% correlation with physical evidence",
+    "Harvester threat confirmed REAL",
+    "FTL completion estimate: 18-25 years (won't save everyone)",
+    "Population: 43B total, only 8-12B evacuable, 31B will die",
+    "Real choice: connection (massive casualties) vs isolation (all survive but fragmented)",
+    "ANOS exists but details classified beyond Guild Master",
+    "The Magistrate - entity referenced beyond guild oversight",
+    "Zara's analysis suggests Magistrate is AI, not human",
+    "Decision patterns too complex for human coordination",
+    "Guild hasn't reported L&K missing - mutual containment",
+    "Need deeper archive access to find truth about control",
+    "Plan: infiltrate restricted vaults at Kepler-442"
+  ],
+  "planted": [
+    {"element": "The Magistrate as AI possibility", "payoff_chapter": "Book 2", "significance": "True nature revealed"},
+    {"element": "ANOS classified beyond Guild Master", "payoff_chapter": 12, "significance": "Will attempt to access in deep vaults"},
+    {"element": "31 billion casualties from evacuation plan", "payoff_chapter": "Book 3", "significance": "Drives choice to destroy ansible"},
+    {"element": "Connection vs isolation as core dilemma", "payoff_chapter": "Book 3, ch12", "significance": "Ultimate choice for humanity"}
+  ],
+  "active_tensions": [
+    "Verified truth makes deception seem justified",
+    "31 billion will die even with FTL evacuation",
+    "Need deeper access to find if third option exists",
+    "Is Magistrate AI or human?",
+    "Guild's silence about escape",
+    "Planning infiltration back to Kepler-442"
+  ],
+  "world_changes": [
+    "Complete verification: Harvester threat is real",
+    "Understanding of impossible choice established",
+    "Discovery of Magistrate entity beyond guild control",
+    "Decision to infiltrate deeper archives",
+    "Ryn's deadline passed without action"
+  ],
+  "chapter_purpose": "Verify guild claims against physical evidence. Reveal Harvester threat is real. Show impossible choice between connection and isolation. Introduce Magistrate mystery. Set up deeper infiltration.",
+  "connections_to_story_graph": {
+    "bridge_function": "Connects escape (Ch9) to deeper infiltration (Ch11-12)",
+    "causal_chain": "Verification confirms threat → reveals impossible choice → discovers Magistrate mystery → decides to access deeper archives"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "book": 3,
+  "chapter": 2,
+  "title": "The World Reacts",
+  "word_count": 2021,
+  "timeline": "Day 2 (12-24 hours after Ch1 broadcast)",
+  "location": "Safe House 22-Delta → Safe House 31-Gamma (after attack)",
+  "characters_present": ["Aria Chen", "Marcus Webb", "Jin 'Ghost' Park", "Dr. Yuki Tanaka", "Kenji Tanaka", "12 resistance fighters (after losses)"],
+  "pov_character": "Aria Chen",
+  "character_states": {
+    "aria_chen": {
+      "arc_position": 0.08,
+      "knows": ["Broadcast viral in 17 minutes", "Society split into Authenticists/Immortalists/Undecided", "Polls: 63% against, 22% for, 15% undecided", "Second attack by Original extremists (47 fighters)", "Lost 2 more fighters (14 → 12)", "Originals trying to kill Kenji to eliminate choice", "Global response - colonies, ships, everywhere", "Independent experts verifying Tanaka's math", "No middle path possible - quantum mechanics binary"],
+      "decisions_made": ["Defended choice framing not implementation demand", "Survived second attack", "Decided to schedule public forum in 30 days", "All factions invited to debate publicly", "Strategy: moral clarity through public consciousness"]
+    }
+  },
+  "revealed_to_reader": ["Three factions formed: Authenticists (implementation now), Immortalists (species suicide), Undecided (majority)", "Polls unchanged: 63% against, 22% for, 15% undecided", "Second attack - Originals (47 fighters) trying to kill Kenji", "Lost 2 fighters: 14 → 12", "Global conversation - colonies/ships responding", "Experts verifying quantum lock math", "No partial implementation possible", "Public forum scheduled: 30 days, all factions, full broadcast"],
+  "planted": [{"element": "Public forum in 30 days", "payoff_chapter": "5-6", "significance": "Major confrontation point"}],
+  "fighter_count": "Ch1: 14 → Ch2: 12 (lost 2 in Original extremist attack)",
+  "continuity": "Day 2, 12-24 hours post-broadcast, second attack survived, forum scheduled"
+}

@@ -1,0 +1,43 @@
+{
+  "chapter": 6,
+  "title": "The Day Before",
+  "word_count": 1923,
+  "timeline": "Day 6, Saturday, leading to evening decision",
+  "location": "The Vault Level 93, then Aria's apartment, then industrial sector between two meeting locations",
+  "characters_present": ["Aria Chen", "Chen Park (brief)", "Marcus and Kauffman (via messages)"],
+  "pov_character": "Aria Chen",
+  "character_states": {
+    "aria_chen": {
+      "arc_position": 0.33,
+      "knows": [
+        "All previous info",
+        "8 vault employees show Composite markers including Kauffman",
+        "Kauffman's backups show integration markers - she's Composite for 12 years",
+        "Someone mirrored her search in real-time using Kauffman's credentials",
+        "Kauffman sent warning: original meeting compromised, use Beta-7 coordinates at 2300",
+        "Marcus sent warning: don't trust Kauffman, she's part of conspiracy, use original midnight coordinates",
+        "Both claim the other is lying",
+        "Has two sets of coordinates, must choose"
+      ],
+      "decisions_made": [
+        "Returned to vault despite knowing risk",
+        "Ran analysis on all vault personnel",
+        "Discovered Kauffman is Composite",
+        "Wrote insurance message to Chen Park (sends tomorrow noon if she disappears)",
+        "Packed essentials and evidence",
+        "Walked to industrial sector between both meeting locations",
+        "Must choose: Kauffman (2300) or Marcus (midnight) or neither"
+      ],
+      "possessions": ["Both data chips", "Personnel analysis", "Neural disruptor", "Encrypted evidence copies"],
+      "internal_state": "Final decision point, accepting she can't verify truth, must choose based on incomplete information"
+    }
+  },
+  "planted": [
+    {"element": "Insurance message to Chen Park", "payoff_chapter": "If Aria disappears/dies", "significance": "Truth gets out regardless"},
+    {"element": "Kauffman revealed as 12-year Composite", "payoff_chapter": 17, "significance": "Her true nature confirmed"},
+    {"element": "Personnel analysis showing 8 Composites in vault", "payoff_chapter": "Evidence for Marcus/exposure"},
+    {"element": "Choice between two coordinates", "payoff_chapter": 7, "significance": "Which path did she choose?"}
+  ],
+  "active_tensions": ["Must choose Kauffman or Marcus or neither", "Both could be traps", "Kauffman is Composite herself", "Chen Park's genuine concern vs paranoia", "15 minutes to decide"],
+  "chapter_function": {"plot": "Final preparation, personnel analysis, choice point setup for ch07", "character": "Aria at maximum uncertainty, choosing to act despite impossibility of verification", "theme": "Choosing without certainty, walking into darkness", "reader_engagement": "Which meeting will she choose? Cliffhanger into ch07"}
+}

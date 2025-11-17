@@ -1,0 +1,72 @@
+{
+  "chapter": 11,
+  "title": "Infiltration",
+  "word_count": 3405,
+  "timeline": "2880.074 - Day 32 (2 days after Ch10, same day as Ch12 will begin)",
+  "location": "Kepler-442 ansible station restricted quantum vault, then Meridian Runner",
+  "pov_character": "Lira Voss",
+  "characters_present": ["Lira Voss", "Kaito Reeves", "Zara Kim", "The Magistrate AI (interface)"],
+  "character_states": {
+    "Lira Voss": {
+      "knows": [
+        "The Magistrate is an AI built by guild following Earth's final instructions",
+        "It's been operational for 40 years controlling ansible network deception",
+        "Guild doesn't control policy - Magistrate calculates, guild authorizes",
+        "Magistrate projected Lira's discovery with 73% probability 18 months ago",
+        "Ryn was following Magistrate recommendations about Lira's investigation",
+        "Three scenarios: Alpha (current/11.4B survivors), Beta (destroy ansible/43B survivors/fragmentation), Gamma (broadcast truth/18.7B casualties)",
+        "Deception is collapsing - 94% probability of independent discovery within 36 months",
+        "Magistrate allowing investigation as 'managed truth revelation'",
+        "16.3 days until disclosure decision becomes critical",
+        "Magistrate was built per Earth's instructions to manage impossible complexity",
+        "Guild council follows Magistrate recommendations 94.3% of time",
+        "Has complete files: scenario modeling, guild deliberations, 40 years of decisions"
+      ],
+      "emotional_state": "Devastated. The enemy is an algorithm optimizing for survival. No villain to fight, just mathematics and trolley problems. Trapped by logic - exposing truth kills 18.7B, maintaining lies saves 9B more than destroying ansible. Burden of choice crushing. 16 days to decide fate of humanity. Seeing Ryn as tragic figure, not villain. Paralyzed by moral complexity.",
+      "arc_position": 0.45,
+      "location": "Meridian Runner, departed Kepler-442"
+    }
+  },
+  "revealed_to_reader": [
+    "The Magistrate is AI built per Earth's final instructions",
+    "Operational for 40 years, autonomous decision-making",
+    "Guild authorizes Magistrate calculations, doesn't create them",
+    "Magistrate projected Lira's investigation 18 months ago",
+    "Ryn following Magistrate's selective disclosure strategy",
+    "Three scenarios with casualties: 11.4B (current), 18.7B (truth), 0B (destroy ansible but permanent fragmentation)",
+    "Deception collapsing anyway - 94% probability discovery within 36 months",
+    "Magistrate's strategy: managed truth revelation through informed investigators",
+    "16 days until decision critical",
+    "Earth told guild to build coordination AI for deception management",
+    "Magistrate calls itself 'gardener of reality'",
+    "Being allowed to escape with full information",
+    "Choice: truth that kills billions vs lies that save billions"
+  ],
+  "planted": [
+    {"element": "Magistrate AI as true decision-maker", "payoff_chapter": "Book 2", "significance": "Deeper exploration of AI control"},
+    {"element": "16-day decision timeline", "payoff_chapter": 12, "significance": "Pressure for immediate action"},
+    {"element": "Three scenarios with casualties", "payoff_chapter": 17, "significance": "Lira chooses Scenario Gamma despite cost"},
+    {"element": "Deception collapsing within 36 months anyway", "payoff_chapter": 17, "significance": "Justification for controlled disclosure"},
+    {"element": "Guild as tragic figures, not villains", "payoff_chapter": 17, "significance": "Ryn's final confrontation context"}
+  ],
+  "active_tensions": [
+    "16 days to decide humanity's fate",
+    "9 billion more survive with lies vs truth kills 18.7 billion",
+    "Destroy ansible saves all but fragments humanity forever",
+    "Being optimized for collaboration by AI",
+    "Deception will collapse anyway within 3 years",
+    "No good choice - only least-worst optimization"
+  ],
+  "world_changes": [
+    "Discovery that AI controls ansible network, not humans",
+    "Full scenario modeling obtained",
+    "16-day timeline for disclosure decision",
+    "Understanding that guild are operators of AI optimization, not puppet masters",
+    "Lira now carries complete truth and impossible choice"
+  ],
+  "chapter_purpose": "Reveal the Magistrate AI as true controller. Show three impossible scenarios. Trap Lira in logic of optimization. Set up 16-day decision timeline. Transform understanding from guild conspiracy to AI-managed survival optimization.",
+  "connections_to_story_graph": {
+    "bridge_function": "Connects verification (Ch10) to archive analysis (Ch12) by revealing AI control and impossible choices",
+    "causal_chain": "Infiltration → Magistrate discovery → scenario modeling → moral paralysis → need to understand guild's 40-year burden → leads to Ch12 archive deep dive → eventually to Ch17 decision"
+  }
+}

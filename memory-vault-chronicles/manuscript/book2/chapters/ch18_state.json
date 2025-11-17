@@ -1,0 +1,20 @@
+{
+  "book": 2,
+  "chapter": 18,
+  "title": "Collapse",
+  "word_count": 1652,
+  "timeline": "Day 80 (5 days after ch17 hub destruction)",
+  "location": "Jin's 8th headquarters, observing societal collapse",
+  "characters_present": ["Aria Chen", "Jin 'Ghost' Park", "Marcus Webb"],
+  "pov_character": "Aria Chen",
+  "character_states": {
+    "aria_chen": {
+      "arc_position": 0.90,
+      "knows": ["Society collapsing without authentication", "Riots and violence widespread", "Multiple factions proposing extreme solutions", "All factions converging on Neural Research Institute", "Last Original child exists - age 7, never modified", "Tanaka likely protecting them there", "Originals want child as purity symbol", "Composites want child to prove modification is normal", "Council wants to study/copy child", "13 fighters against armies", "48 hours until convergence bloodbath"],
+      "decisions_made": ["Committed to protecting child's choice", "Will extract child and Tanaka", "Prioritizing autonomy over symbols", "Fighting programming to protect choice over preservation", "Planning extraction despite odds"]
+    }
+  },
+  "revealed_to_reader": ["5 days since hub destruction", "Society collapsed - riots, violence, chaos", "Segregation checkpoints down (impossibility)", "Original extremists, composite radicals, augmented separatists all grabbing power", "All factions converging on Neural Research Institute", "Last Original child - age 7, never modified, no backup/implant", "Represents competing futures for humanity", "Aria committed to protecting child's autonomy", "13 fighters will extract child and Tanaka", "48 hours until convergence", "War shifting from infrastructure to symbols"],
+  "planted": [{"element": "Last Original child rescue", "payoff": "ch19-20"}, {"element": "Tanaka protecting child", "payoff": "ch19-20"}, {"element": "48-hour timeline", "payoff": "ch19"}, {"element": "War for humanity's soul", "payoff": "ch20, Book 3"}],
+  "bridge_to_next_chapter": {"next_chapter_needs": ["Extraction planning (ch19)", "Reaching Tanaka and child", "Convergence approaching", "Leads into ch20 rescue and revelation"]}
+}

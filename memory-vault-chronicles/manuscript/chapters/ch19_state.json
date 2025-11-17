@@ -1,0 +1,13 @@
+{
+  "chapter": 19,
+  "title": "Forty-Eight Hours",
+  "word_count": 1429,
+  "timeline": "Day 19, 48 hours after broadcast",
+  "location": "Undercity safe house Level -8",
+  "character_states": {
+    "aria_chen": {"arc_position": 0.93, "knows": ["48 hours since broadcast", "15 deaths, 31 executions", "5 million people can't access backups", "Crisis spreading to other cities globally", "The Archivist silent since shutdown", "Jin invited them to meet Composite underground tomorrow (Day 20)", "They're considered symbols by Composites", "Jin wants them to lead/represent"], "decisions_made": ["Agreed to meet Composite underground Day 20", "Committed to helping despite uncertainty", "Accepted role as imperfect leaders", "Choosing to stop hiding and start fighting"], "emotional_state": "Resolved, committed, ready to act"}
+  },
+  "revealed_to_reader": ["Crisis spreading globally", "5 million people without backup access", "Rising casualties", "The Archivist silent", "Jin organizing Composite underground", "Aria and Marcus joining resistance Day 20", "Direct setup for ch20 meeting"],
+  "planted": [{"element": "Meeting Composite underground Day 20", "payoff_chapter": 20, "significance": "Jin and resistance introduction in ch20"}],
+  "chapter_function": {"plot": "48-hour aftermath, global spread, resistance invitation, direct bridge to ch20", "character": "Aria accepting leadership role despite doubts, committed to fighting", "pacing": "Building from chaos toward organized resistance"}
+}

@@ -1,0 +1,230 @@
+{
+  "chapter": 6,
+  "title": "Approach Vector",
+  "word_count": 3342,
+  "timeline": "2880.064 - Day 21 after initial discovery (3 days after Ch5)",
+  "location": "Kepler-442 System ansible station, observation deck and Docking Bay 7",
+  "pov_character": "Lira Voss",
+  "characters_present": [
+    "Lira Voss",
+    "Darin (brief appearance)",
+    "Kaito Reeves (first meeting)",
+    "Ryn Takada (end of chapter)",
+    "Guild security officers (minor)"
+  ],
+  "character_states": {
+    "Lira Voss": {
+      "knows": [
+        "Everything from Ch5, plus:",
+        "Meridian Runner carrying physical data from Sol Relay Station",
+        "Kaito requested her specifically by name",
+        "Ryn planning to intercept Kaito before they can meet",
+        "Darin reporting to Ryn about Lira's movements",
+        "Kaito's friend Yuki Tanaka died getting him the evidence",
+        "Earth made first contact 2840.184 - attempted communication",
+        "Aliens responded within 6 hours (FTL communication or already close)",
+        "Earth's ansible shut down 2840.187 (deliberate silence protocol)",
+        "Earth's radio continued 6 more days after ansible silence",
+        "Then complete blackout - all spectrum shutdown over 14 hours",
+        "Population evacuation/disappearance was organized, not attack",
+        "Thirty billion people disappeared without trace",
+        "Sensor logs show systematic grid shutdown, not violence",
+        "Could be hostile evacuation OR voluntary ascension/transcendence",
+        "No proof of threat hostility - just Earth's belief/interpretation",
+        "Ryn offering to show classified archives beyond Guild Master access"
+      ],
+      "suspects": [
+        "Earth may have transcended rather than been destroyed",
+        "Alien contact might have been beneficial, not hostile",
+        "Guild's justification may be based on fear not fact",
+        "Or Earth really was protecting colonies through sacrifice",
+        "Classified archives contain Earth's final unredacted message"
+      ],
+      "does_not_know": [
+        "What aliens said in their response to Earth's contact",
+        "Why Earth chose silence protocol if contact was positive",
+        "What's in the classified archives Ryn is offering to show",
+        "Whether thirty billion humans are dead or elsewhere",
+        "True nature of alien intent/threat",
+        "What Earth's final message to Guild Masters contained"
+      ],
+      "emotional_state": "Determined. Moving into confrontation phase. Relief at finally meeting Kaito. Frustrated by continued ambiguity - evidence doesn't prove threat hostile. Prepared for consequences of investigation. Wary of Ryn's offer but willing to see full picture. Ready to make decision about exposure once she knows everything.",
+      "arc_position": 0.32,
+      "location": "Kepler-442 ansible station, moving toward classified archives with Ryn",
+      "physical_state": "Adrenaline-focused, prepared for confrontation"
+    },
+    "Kaito Reeves": {
+      "knows": [
+        "Everything Lira knows, plus:",
+        "He was in orbit during Earth's final days",
+        "Recorded complete sensor logs of shutdown sequence",
+        "Yuki Tanaka spent 2 years copying classified archives",
+        "She died before explaining what it all meant",
+        "Guild has been tracking his ship for 23 years",
+        "His evidence is insufficient to prove threat hostility",
+        "Lira has complementary evidence from ansible network",
+        "Together their data proves deception but not justification"
+      ],
+      "suspects": [
+        "Earth may have transcended/ascended",
+        "Guild's fear may not be justified by facts",
+        "Classified archives might contain answers",
+        "Ryn offering full disclosure because containment failed"
+      ],
+      "does_not_know": [
+        "What aliens actually communicated",
+        "Why organized evacuation if contact was hostile",
+        "What became of thirty billion humans",
+        "What's in classified archives beyond his clearance"
+      ],
+      "emotional_state": "Carrying twenty-seven years of questions and grief. Relief at finally meeting someone who understands. Frustrated by ambiguity in his own evidence. Willing to see classified information before deciding. Survivor's guilt about leaving Earth. Hope that full truth will provide clarity.",
+      "arc_position": 0.35,
+      "location": "Kepler-442 ansible station, moving toward classified archives with Ryn"
+    },
+    "Ryn Takada": {
+      "knows": [
+        "Everything about Earth's silence and alien contact",
+        "Lira and Kaito have met and shared evidence",
+        "Their combined data proves deception but not justification",
+        "Containment has failed - truth is emerging",
+        "Only option now is controlled disclosure to Lira and Kaito",
+        "Classified archives contain information that might justify deception",
+        "Full truth might convince them not to expose everything"
+      ],
+      "suspects": [
+        "Full disclosure to Lira might prevent full disclosure to colonies",
+        "Showing classified archives is gamble that truth supports her position",
+        "If Lira knows everything, she might choose continued deception"
+      ],
+      "does_not_know": [
+        "If classified information will convince Lira",
+        "What Lira will decide after seeing everything",
+        "If exposure can still be prevented"
+      ],
+      "emotional_state": "Exhausted. Out of options. Making last gamble. Relief at potentially ending forty-year deception. Fear that full truth won't justify the lies. Hope that Lira will understand once she knows everything. Acceptance that her control over situation has ended.",
+      "arc_position": 0.25,
+      "location": "Kepler-442 ansible station, leading Lira and Kaito to classified archives"
+    }
+  },
+  "revealed_to_reader": [
+    "Meridian Runner arrives after 23-year journey from Sol System",
+    "Kaito requested Lira specifically - researched her background",
+    "Darin unknowingly reporting Lira's movements to Ryn",
+    "Yuki Tanaka (Kaito's friend) died getting him Sol Relay evidence",
+    "Earth made first contact 2840.184 with mathematical sequences",
+    "Aliens responded within 6 hours (impossibly fast for light-speed)",
+    "Earth initiated emergency protocols across all Guild Masters",
+    "Earth sent priority-alpha message 2840.186 evening",
+    "Earth's ansible shut down 2840.187 morning (3 hours after message)",
+    "Earth's radio transmissions continued 6 more days",
+    "2840.193: Earth went dark in all spectrums over 14 hours",
+    "Shutdown was organized, systematic, grid-by-grid",
+    "Not attack or bombardment - appeared voluntary/organized",
+    "Thirty billion people disappeared without trace",
+    "Could be evacuation (hostile) or ascension (voluntary)",
+    "Evidence ambiguous - doesn't prove threat was hostile",
+    "Ryn offers to show classified archives beyond Guild Master access",
+    "Lira and Kaito agree to see full picture before deciding",
+    "Moving toward confrontation/revelation in deeper archives"
+  ],
+  "planted": [
+    {
+      "element": "Classified archives beyond Guild Master access",
+      "payoff_chapter": 12,
+      "significance": "The Magistrate's existence and deeper truth"
+    },
+    {
+      "element": "Earth's organized evacuation/disappearance",
+      "payoff_chapter": "Book 2, ch12",
+      "significance": "What happened to thirty billion humans"
+    },
+    {
+      "element": "Aliens' 6-hour response time",
+      "payoff_chapter": "Book 3, ch1",
+      "significance": "They were already watching, already close"
+    },
+    {
+      "element": "Earth's radio continuing after ansible silence",
+      "payoff_chapter": "Book 2, ch5",
+      "significance": "Earth preparing population for departure"
+    },
+    {
+      "element": "Ambiguity of threat - hostile or beneficial unclear",
+      "payoff_chapter": 12,
+      "significance": "Central moral question throughout trilogy"
+    },
+    {
+      "element": "Yuki Tanaka's death getting evidence",
+      "payoff_chapter": "Book 2, ch8",
+      "significance": "Was it accident or Magistrate's assassination?"
+    }
+  ],
+  "active_tensions": [
+    "Meeting finally happening - Lira and Kaito sharing evidence",
+    "Combined data proves deception but not justification",
+    "Ambiguity: was Earth's evacuation hostile or voluntary?",
+    "No proof ansible is detectable beacon - just Earth's belief",
+    "Ryn offering full disclosure as last gamble",
+    "Will classified archives justify forty years of lies?",
+    "Lira must decide: expose incomplete truth or wait for full picture?",
+    "Guild security involved but not yet hostile arrest"
+  ],
+  "world_changes": [
+    "Lira and Kaito have met and exchanged evidence",
+    "Physical data from Sol Relay combined with ansible network analysis",
+    "Pattern of Earth's final days reconstructed from sensor logs",
+    "Ryn's containment strategy has failed",
+    "Moving toward classified archives beyond standard Guild Master access",
+    "Timeline shift: immediate confrontation rather than slow investigation",
+    "Security officers present but not yet arresting - unusual cooperation"
+  ],
+  "technical_details": {
+    "meridian_runner": [
+      "Age: 48 years old",
+      "Built: Tau Ceti Yards, pre-2800",
+      "Mass: 2,400 metric tons",
+      "Max speed: 0.3c",
+      "Current speed: 0.15c decelerating",
+      "Cargo: Physical data archives from Sol Relay Station"
+    ],
+    "first_contact_timeline": [
+      "2840.184.18:00 - Earth transmits mathematical sequences for first contact",
+      "2840.184.24:00 - Aliens respond (6 hours - FTL communication indicated)",
+      "2840.184-186 - Emergency coordination across Guild Masters",
+      "2840.186.22:00 - Earth sends priority-alpha message to all Guild Masters",
+      "2840.187.01:00 - Earth's ansible goes silent (deliberate shutdown)",
+      "2840.187-193 - Earth's radio continues (6 days of preparation)",
+      "2840.193 - Complete shutdown over 14 hours, organized grid-by-grid",
+      "Result: Thirty billion people disappear without trace"
+    ],
+    "sensor_logs": [
+      "Kaito recorded from orbit during shutdown",
+      "Thermal imaging shows cities active then systematically dimming",
+      "No bombardment or attack signatures",
+      "Organized sectional shutdown suggests cooperation/preparation",
+      "No trace of population after shutdown - vanished completely"
+    ],
+    "physical_evidence": [
+      "Sol Relay data cores - pre-2840 technology, unhackable",
+      "Ansible metadata - classifications but not full content",
+      "Kaito's ship sensor logs - orbital observations",
+      "Together proves Earth made contact and disappeared",
+      "Does not prove hostile intent or ansible detection threat"
+    ]
+  },
+  "themes_explored": {
+    "evidence_and_interpretation": "Same data supports multiple theories - hostile or beneficial",
+    "incomplete_truth": "Knowing what happened doesn't explain why",
+    "trust_and_verification": "Physical evidence proves events but not meaning",
+    "uncertainty_and_decision": "Must decide with incomplete information",
+    "transcendence_vs_destruction": "Did Earth ascend or get destroyed?"
+  },
+  "mood": "Tension building to revelation. Finally meeting after 23 days/years of approach. Frustration with ambiguity. Moving toward deeper truth. Shift from investigation to confrontation.",
+  "pacing": "Accelerating. Quick intercept. Evidence shared rapidly. Ryn's arrival shifts dynamic. Moving fast toward classified archives revelation.",
+  "chapter_purpose": "Bridge to Chapter 7. Show Kaito's arrival and evidence. Establish ambiguity of threat. Set up classified archives revelation. Move from investigation to confrontation phase.",
+  "connections_to_story_graph": {
+    "bridge_function": "Connects preparation (Ch5) to physical evidence arrival (Ch7) by showing initial meeting and evidence exchange",
+    "causal_chain": "Kaito arrives → shares Earth evacuation evidence → ambiguity about threat → Ryn offers classified archives → moving toward deeper revelation in Ch7",
+    "plot_acceleration": "Shifts from slow investigation to immediate confrontation - pieces coming together rapidly"
+  }
+}

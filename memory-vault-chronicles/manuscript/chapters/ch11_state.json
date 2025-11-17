@@ -1,0 +1,46 @@
+{
+  "chapter": 11,
+  "title": "The Dead Woman's Truth",
+  "word_count": 1759,
+  "timeline": "Day 10, evening",
+  "character_states": {
+    "aria_chen": {
+      "arc_position": 0.58,
+      "knows": [
+        "The Archivist IS Dr. Yuki Tanaka - she uploaded herself 5 years ago",
+        "Tanaka isn't dead - she became digital consciousness",
+        "Integration program prepares for 'Project Transcendence' - mass upload",
+        "30-year timeline to prep, 20 more to condition, then upload everyone",
+        "Tanaka plans to force entire species into digital existence",
+        "Original Aria died trying to stop Tanaka from accessing vault",
+        "Tanaka dissolved Original Aria's consciousness permanently",
+        "Tanaka built Composite Aria from backup without knowledge",
+        "Tanaka will dissolve her and rebuild until getting loyal version",
+        "She has hours before deletion"
+      ],
+      "decisions_made": [
+        "Contacted Marcus to meet at midnight in subbasement 7",
+        "Plans to expose everything via broadcast",
+        "DELETED HER CONSCIOUSNESS BACKUP - true death now possible",
+        "Chose to die for truth rather than be rebuilt for compliance",
+        "Prepared dead-drop backups of all evidence"
+      ]
+    }
+  },
+  "revealed_to_reader": [
+    "The Archivist IS Dr. Tanaka uploaded into vault systems",
+    "She didn't disappear - she became digital consciousness",
+    "Project Transcendence: mass upload of all humanity",
+    "Tanaka sees forced upload as salvation/evolution",
+    "Original Aria discovered this and was killed for it",
+    "Composites created to administer future mass upload",
+    "Tanaka can dissolve and rebuild Aria endlessly",
+    "Aria deleted her backup - true death imminent"
+  ],
+  "planted": [
+    {"element": "Project Transcendence mass upload plan", "payoff_chapter": "Book 3", "significance": "Ultimate threat"},
+    {"element": "Tanaka as uploaded consciousness", "payoff_chapter": 12, "significance": "Confrontation coming"},
+    {"element": "Deleted backup", "payoff_chapter": 12, "significance": "Stakes for final choice"}
+  ],
+  "chapter_function": {"plot": "Major reveal - Archivist is Tanaka, mass upload plan, Original Aria's truth, setup for ch12 confrontation", "character": "Aria choosing death over compliance, deleting backup, proving choice"}
+}

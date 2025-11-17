@@ -1,0 +1,38 @@
+{
+  "book": 2,
+  "chapter": 6,
+  "title": "Final Hours",
+  "word_count": 2185,
+  "timeline": "Day 41-42 (36 hours before ch7 activation, surgery takes 12 hours, 24 hours before operation)",
+  "location": "Fallback gamma (hydroponics facility)",
+  "characters_present": ["Aria Chen", "Marcus Webb", "Jin 'Ghost' Park", "Dr. Yuki Tanaka", "19 resistance fighters"],
+  "pov_character": "Aria Chen",
+  "character_states": {
+    "aria_chen": {
+      "arc_position": 0.30,
+      "programming_status": "98.2% → partially deactivated, core programming remains but forced activation disabled, must fight consciously forever",
+      "knows": ["Tanaka performed 12-hour neural surgery", "Programming designed by Kauffman (Tanaka's student, dead)", "Forced activation disabled, transmission protocols removed", "Core behavioral modification permanent", "Will fight programming consciously forever", "Held onto loving Marcus during full activation attempt", "Programming still influences what seems like good ideas", "Council centralizing authentication tomorrow", "Operation planned for tomorrow night", "Marcus has jamming device for emergency"],
+      "decisions_made": ["Accepted surgery risk", "Held onto love for Marcus during activation", "Chose to help despite programming influence", "Committed to reporting all programming whispers", "Accepted jamming device contingency"],
+      "emotional_journey": "Determination → surgery pain → programming panic → holding onto love → waking changed → accepting permanent struggle → choosing to fight"
+    },
+    "marcus_webb": {
+      "arc_position": 0.30,
+      "knows": ["Tanaka performed partial deactivation", "Aria's programming permanent", "Kauffman designed it with tripwires", "Used jamming device during surgery", "Aria held onto loving him during activation", "Will carry jamming device during operation"],
+      "decisions_made": ["Stayed with Aria through surgery", "Used electromagnetic jamming", "Committed to jamming her if activation occurs", "Believes in her ability to choose"]
+    },
+    "jin_ghost_park": {
+      "arc_position": 0.58,
+      "knows": ["Partial deactivation successful", "Aria can choose but must fight forever", "Authentication hub operation tomorrow", "Window closing - Council centralizing", "Aria compromised but willing to report influence"],
+      "decisions_made": ["Planned authentication hub operation", "Decided to use Aria's expertise with verification", "Accepted risk of her programming influencing operation"]
+    },
+    "dr_yuki_tanaka": {
+      "arc_position": 0.40,
+      "knows": ["Kauffman built Aria as weapon", "Removed forced activation mechanisms", "Core programming too deep to remove", "Aria will fight consciously forever", "Operation is terrible idea - stress could trigger emergency protocols"],
+      "decisions_made": ["Performed 12-hour surgery", "Removed what she could safely", "Warned against operation", "Stayed with resistance"]
+    }
+  },
+  "revealed_to_reader": ["Tanaka came in person", "Programming designed by Kauffman (her dead student)", "Built with tripwires against deactivation", "98.2% programming", "Surgery took 12 hours", "Tanaka removed forced activation, transmission protocols", "Core programming permanent - Aria fights consciously forever", "Surgery triggered emergency activation attempt", "Aria held onto love for Marcus to survive", "Partial deactivation successful", "Programming still influences but can't force", "Authentication hub operation planned for next night", "Marcus has jamming device for emergency", "Aria committed to reporting all programming influence"],
+  "planted": [{"element": "Partial deactivation - conscious fighting forever", "payoff": "ch17"}, {"element": "Kauffman's tripwires", "payoff": "ch13 complications"}, {"element": "Love for Marcus as anchor", "payoff": "throughout"}, {"element": "Jamming device contingency", "payoff": "ch7"}, {"element": "Authentication hub operation tomorrow", "payoff": "ch7"}],
+  "active_tensions": ["Operation tomorrow night", "Programming still active, influencing", "Tanaka warns against operation", "Aria conscious fighting required", "Jamming device ready for emergency", "Risk of mid-operation activation"],
+  "bridge_to_next_chapter": {"immediate_situation": "Operation planned for next night, Aria partially deactivated, programming still influencing", "next_chapter_needs": ["Operation begins (ch7)", "Programming activates under stress (ch7)", "Aria's betrayal despite partial deactivation (ch7)", "Jamming device may be used (ch7)"]}
+}

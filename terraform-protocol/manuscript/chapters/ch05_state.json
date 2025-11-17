@@ -1,0 +1,157 @@
+{
+  "chapter": 5,
+  "title": "Committee Decisions",
+  "word_count": 2003,
+  "timeline": "Day 2,261 of terraforming project (Year 6, Month 2), 1 day after Chapter 4, 14 days after Chapter 1, 08:00 station time",
+  "location": "Olympus Station executive conference room, then hallways and Kessa's lab",
+  "pov_character": "Kessa Okafor",
+  "characters_present": ["Kessa Okafor", "Dmitri Volkov", "Dr. Yuki Tanaka", "Marcus Reeves (Earth, via video)", "Dr. Chen", "Rajesh (hallway)"],
+  "character_states": {
+    "Kessa_Okafor": {
+      "knows": [
+        "All from previous chapters",
+        "Geological survey officially dismissed her findings as natural phenomena",
+        "Corporate consensus: continue timeline, no delays",
+        "Her evidence reinterpreted as: natural lava tubes, tectonic adjustment, preserved atmosphere pockets",
+        "Volkov views Marsborn as separatist radicals with political agenda",
+        "Corporate interprets her Valles visit as coordination with separatists",
+        "Earth corporate (Reeves) dismisses evidence as speculation",
+        "Chen tried to support her but was cut off",
+        "Magnitude 3.8 and 3.9 tremors after meeting (intervals decreasing to 12 hours)",
+        "Corporate will not stop terraforming based on current evidence",
+        "She's crossed a line by messaging Sage about alternatives"
+      ],
+      "emotional_state": "Frustrated, angry, feeling dismissed, determined to find alternatives outside corporate authority",
+      "arc_position": 0.14,
+      "location": "Kessa's lab at Olympus Station",
+      "relationships_affected": {
+        "Dmitri_Volkov": "Direct antagonism established, he views her as passionate but misguided",
+        "Dr_Chen": "Disappointed - Chen stayed silent when it mattered",
+        "Sage": "Reached out for coordination, crossing line from corporate to independence",
+        "Corporate_authority": "No longer trusts them to make right choice"
+      }
+    },
+    "Dmitri_Volkov": {
+      "knows": [
+        "All from previous chapters",
+        "Geological survey supports his position",
+        "Earth corporate supports continuing timeline",
+        "Kessa visited Marsborn independence movement",
+        "Kessa refuses to accept committee findings",
+        "Magnitude 3.8 and 3.9 tremors continuing",
+        "Has 10 months to Year 7 threshold"
+      ],
+      "emotional_state": "Satisfied with committee outcome, sympathetic to Kessa but unmoved, focused on timeline",
+      "arc_position": 0.10,
+      "location": "Olympus Station corporate sector",
+      "relationships_affected": {
+        "Kessa_Okafor": "Views as brilliant but overreaching, expects her compliance now"
+      }
+    },
+    "Dr_Yuki_Tanaka": {
+      "knows": [
+        "Official geological survey findings",
+        "Corporate wants timeline maintained",
+        "Kessa's evidence can be reinterpreted as natural phenomena",
+        "Her testimony supports corporate position"
+      ],
+      "emotional_state": "Following orders, protecting position, avoiding Kessa's eyes",
+      "arc_position": 0.05,
+      "location": "Olympus Station"
+    },
+    "Marcus_Reeves": {
+      "knows": [
+        "Kessa's evidence package reviewed",
+        "50,000 refugees depend on terraforming timeline",
+        "Geological survey supports continuing operations",
+        "Marsborn are political separatists",
+        "No extraordinary proof of functioning alien systems"
+      ],
+      "emotional_state": "Dismissive of concerns, focused on refugee crisis and timeline",
+      "arc_position": 0.05,
+      "location": "Earth (20-minute communication delay)"
+    },
+    "Sage": {
+      "knows": [
+        "All from Ch4",
+        "Kessa met with corporate",
+        "Corporate not stopping terraforming",
+        "Kessa wants to discuss alternatives",
+        "Kessa has crossed line from corporate to coordination with independence"
+      ],
+      "emotional_state": "Unsurprised by corporate response, cautiously hopeful about Kessa's choice",
+      "arc_position": 0.09,
+      "location": "Valles Marineris"
+    }
+  },
+  "revealed_to_reader": [
+    "Executive review committee completed",
+    "Geological survey (Dr. Yuki Tanaka) reinterpreted all evidence as natural phenomena",
+    "Official findings: lava tubes, tectonic adjustment, sealed atmosphere pockets, confirmation bias",
+    "Corporate consensus: continue timeline, no delays, maintain current operations",
+    "Earth corporate (Marcus Reeves) needs refugees landed, dismisses speculation",
+    "Volkov views Marsborn as separatist radicals with political agenda",
+    "Chen tried to support Kessa but was cut off by committee",
+    "Magnitude 3.8 and 3.9 tremors after meeting (12-hour interval)",
+    "Kessa has given up on corporate authority making right choice",
+    "Kessa messages Sage to coordinate alternatives (crosses line to independence movement)",
+    "Corporate comfortable in their dismissals despite escalating evidence"
+  ],
+  "planted": [
+    {
+      "element": "Corporate reinterpretation of evidence as natural phenomena",
+      "payoff_chapter": 7,
+      "significance": "Will maintain this position until undeniable escalation"
+    },
+    {
+      "element": "Kessa coordinating with Sage/independence movement",
+      "payoff_chapter": 12,
+      "significance": "After deaths, Sage will help Kessa understand Marsborn perspective"
+    },
+    {
+      "element": "12-hour interval between tremors (acceleration)",
+      "payoff_chapter": 6,
+      "significance": "Next tremor will come even faster"
+    },
+    {
+      "element": "Chen's attempted support being cut off",
+      "payoff_chapter": 12,
+      "significance": "Chen will die in earthquake, Kessa will feel guilt"
+    },
+    {
+      "element": "Earth corporate (Reeves) demanding refugee landing",
+      "payoff_chapter": 11,
+      "significance": "Sets up Admiral Zhang's desperation"
+    },
+    {
+      "element": "Magnitude climbing to 3.9",
+      "payoff_chapter": 6,
+      "significance": "Escalation toward Ch7's magnitude 3.5 confrontation"
+    }
+  ],
+  "active_tensions": [
+    "Kessa vs. corporate authority (complete breakdown)",
+    "Evidence dismissed as natural phenomena vs. escalating reality",
+    "Seismic intervals decreasing to 12 hours",
+    "Magnitude climbing (3.8, 3.9)",
+    "Kessa's coordination with independence movement",
+    "Corporate confidence vs. approaching catastrophe",
+    "Refugee crisis driving Earth's position"
+  ],
+  "world_changes": [
+    "Corporate officially dismissed Kessa's warnings",
+    "Terraforming timeline maintained - no operational changes",
+    "Kessa allied with independence movement",
+    "Seismic escalation accelerating (12-hour intervals)",
+    "Clear division: corporate vs. scientific vs. Marsborn perspectives"
+  ],
+  "atmosphere_notes": "Frustration and helplessness, bureaucratic dismissal of evidence, corporate comfort vs. scientific dread, crossing lines of authority, preparing for inevitable catastrophe",
+  "continuity_notes": {
+    "timeline": "Day 2,261, 14 days after discovery, meeting at 08:00 station time",
+    "seismic_progression": "Ch1: 2.5, Ch2: 3.1, Ch3: 3.5, Ch4: 3.7, Ch5: 3.8 then 3.9 (12-hour interval)",
+    "committee_members": "Volkov (director), Yuki Tanaka (geological), Marcus Reeves (Earth corporate), Chen (present but silenced), Kessa",
+    "corporate_position": "All evidence reinterpreted as natural: lava tubes, tectonic adjustment, sealed pockets, confirmation bias",
+    "character_voices": "Volkov: professional courtesy masking dismissal; Yuki: by-the-book geological; Reeves: Earth corporate pragmatism; Kessa: desperate urgency",
+    "earth_communication": "20-minute light delay from Earth"
+  }
+}

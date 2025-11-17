@@ -1,0 +1,13 @@
+{
+  "chapter": 14,
+  "title": "Close Call",
+  "word_count": 1176,
+  "timeline": "Day 13, four days before breach",
+  "location": "Vault - Kauffman's office, then Aria's apartment",
+  "character_states": {
+    "aria_chen": {"arc_position": 0.68, "knows": ["Kauffman detected her reconnaissance", "Kauffman claims she won't interfere", "Kauffman confirmed she's Composite (12 years)", "Kauffman investigating conspiracy for 6 months", "Kauffman gave updated security codes for Day 17", "Kauffman warns she might be controlled Day 17", "Kauffman won't be there to help or hinder"], "decisions_made": ["Accepted Kauffman's security chip despite risk", "Alerted Marcus about Kauffman knowing", "Chose to proceed with Day 17 plan"]},
+    "kauffman": {"arc_position": 0.50, "knows": ["Aria planning something for Day 17", "She's Composite herself", "Integration conspiracy is real", "Tanaka might control her"], "decisions_made": ["Gave Aria updated security codes", "Admitted to hindering conspiracy where possible", "Chose to remove herself as variable Day 17", "Warning Aria not to trust her if she appears"]}
+  },
+  "revealed_to_reader": ["Kauffman knows about plan", "Kauffman admits being Composite", "Kauffman claims to have hindered conspiracy", "Kauffman giving real security updates", "Kauffman ambiguous trustworthiness continues"],
+  "chapter_function": {"plot": "Close call with Kauffman, security update, warning about Day 17", "character": "Kauffman's complexity shown, choosing to help but warning about control"}
+}
