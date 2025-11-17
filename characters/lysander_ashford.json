@@ -1,0 +1,40 @@
+{
+  "name": "Lysander Ashford",
+  "generation": 1,
+  "age_at_start": 85,
+  "family": "Ashford Dynasty - controls the Celestia System (capital)",
+  "title": "Lord Paramount of Celestia",
+  "core_wound": "Lost his first wife and true love Elara to a medical condition 40 years ago; has been emotionally frozen since, ruling through cold calculation rather than passion",
+  "wants": "To maintain Ashford supremacy and ensure his legitimate son inherits an unchallenged position",
+  "needs": "To learn to love again and let go of control before his rigidity destroys his family",
+  "voice_markers": [
+    "Speaks in measured, formal tones - every word calculated",
+    "Uses archaic honorifics and old-world phrases",
+    "Never raises voice but uses long pauses for intimidation",
+    "Refers to himself in third person when making proclamations",
+    "Frequently invokes 'the Ashford legacy' and 'duty to bloodline'"
+  ],
+  "contradiction": "Obsessed with family legacy but emotionally distant from his actual family members; protects the idea of family while neglecting the people",
+  "arc_position": 0.0,
+  "physical_description": "Tall and severe, with silver hair and piercing blue eyes. Longevity treatments keep him physically fit but his movements are precise and controlled. Always wears dark formal attire with the Ashford crest.",
+  "relationships": {
+    "Cassandra_Ashford": "Current wife (married 30 years ago for political alliance); respects her mind but no romantic love; doesn't know she resents being a political pawn",
+    "Marcus_Ashford": "Legitimate son and heir (age 28); groomed for succession but Lysander's exacting standards have created distance and secret resentment",
+    "Victoria_Ashford": "Legitimate daughter (age 24); largely ignored in favor of son; secretly the most capable of his children",
+    "Elara_memory": "Deceased first wife; still visits her memorial daily; the only person he ever truly loved",
+    "Dmitri_Volkov": "Rival family head; mutual animosity spanning 50 years; both too proud to make peace",
+    "Sienna_Cross": "His secret daughter by a mistress, age 35; he financially supports her but has never acknowledged her; she works at The Obsidian mining station"
+  },
+  "secrets": [
+    "Has an illegitimate daughter (Sienna Cross) from an affair 36 years ago",
+    "Knows his son Marcus secretly opposes many of his policies",
+    "Suffering from early-stage neurological decline (side effect of longevity treatments) but hiding it",
+    "Made a secret deal with Transit Authority decades ago that compromised Ashford independence"
+  ],
+  "knowledge_state": [
+    "Controls vast intelligence network across all seven systems",
+    "Knows about most major family secrets through spies",
+    "Aware of growing working-class unrest but dismisses it as minor issue",
+    "Does not know his wife Cassandra has been meeting secretly with reformist factions"
+  ]
+}

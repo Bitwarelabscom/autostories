@@ -1,0 +1,80 @@
+{
+  "genre": "Space Opera / Family Saga / Soap Opera",
+  "setting": {
+    "time_period": "2980-3080 (100 years across 10 books)",
+    "primary_location": "The Hegemony - a network of 7 star systems connected by Jump Gates",
+    "atmosphere": "Opulent yet decaying; political intrigue meets family drama across the stars",
+    "key_locations": [
+      "Celestia Prime - Capital station orbiting a blue supergiant; home of the ruling Council",
+      "New Versailles - Luxury orbital palace of the Ashford dynasty",
+      "The Obsidian - Mining station in the Kuiper Belt; working class hub",
+      "Meridian Colony - Agricultural planet; breadbasket of the Hegemony",
+      "The Nexus - Massive Jump Gate hub station controlling all inter-system travel",
+      "Cygnus Shipyards - Massive construction facility; military and commercial",
+      "Elysium - Resort moon; playground of the ultra-wealthy"
+    ]
+  },
+  "rules": {
+    "faster_than_light_travel": {
+      "method": "Jump Gates only - massive structures connecting star systems",
+      "limitations": "Only 7 systems connected; gates controlled by the Transit Authority (de facto most powerful entity)",
+      "jump_time": "Instantaneous through gate, but weeks of travel to reach gates from planets",
+      "restriction": "Gate access can be denied, effectively isolating entire systems"
+    },
+    "life_extension": {
+      "longevity_treatments": "Available only to the wealthy; can extend life to 150-200 years",
+      "cost": "Requires rare element 'Chronium' mined from asteroids",
+      "side_effects": "Cognitive rigidity increases; old grudges literally last lifetimes",
+      "inequality": "Creates generational divide - the old refuse to die, the young can't rise"
+    },
+    "genetic_engineering": {
+      "legal_status": "Legal for disease prevention; illegal for enhancement",
+      "black_market": "Thriving underground enhancement trade creates 'perfect children' with unknown heritage",
+      "identification": "Gene-scanning can reveal parentage, creating scandal opportunities",
+      "designer_children": "Some elite families secretly use it, creating succession controversies"
+    },
+    "artificial_intelligence": {
+      "status": "Banned after the AI Wars of 2847",
+      "exception": "Limited VI (Virtual Intelligence) allowed for ship navigation and life support",
+      "punishment": "Creating true AI is capital offense",
+      "underground": "Rumors of hidden AI in the outer systems fuel paranoia"
+    },
+    "social_structures": [
+      "The Seven Families - dynasties controlling each star system (like medieval kingdoms)",
+      "Transit Authority - controls Jump Gates; neutral but holds ultimate power",
+      "The Council - representatives from each family; endless political maneuvering",
+      "Corporate Houses - merchant families; nouveau riche challenging old aristocracy",
+      "The Working Caste - miners, farmers, station workers; growing unrest",
+      "The Unbound - spacers who reject family allegiance; pirates, smugglers, free traders"
+    ],
+    "marriage_and_inheritance": {
+      "marriage": "Political tools; arranged marriages between families to secure alliances",
+      "legitimacy": "Only legitimate heirs can inherit titles and system control",
+      "scandal": "Illegitimate children create endless drama and succession crises",
+      "divorce": "Forbidden - marriages are lifetime contracts enforced by the Council",
+      "annulment": "Possible but requires Council vote; politically devastating"
+    },
+    "economy": {
+      "currency": "Stellar Credits (centrally controlled)",
+      "key_resources": "Chronium (life extension), Helium-3 (fusion power), Rare earths (technology)",
+      "monopolies": "Each family controls resources in their system",
+      "trade": "Dependent on Jump Gates; Transit Authority takes 30% tax on all trade"
+    }
+  },
+  "themes": [
+    "Legacy vs Progress - the old refuse to die, blocking the young from power",
+    "Love vs Duty - personal desires constantly clash with family obligations",
+    "Truth and Secrets - hidden parentage, secret deals, buried scandals across generations",
+    "Power and Corruption - absolute power across star systems corrupts absolutely",
+    "Unity vs Division - the Hegemony fractures and reunites repeatedly over 100 years"
+  ],
+  "tone": "Epic yet intimate - grand space opera scale with focus on personal relationships, betrayals, and family drama. Lush descriptions of orbital palaces and space stations. Emotional intensity of soap opera with consequences that span decades and generations.",
+  "narrative_structure": "Each book covers ~10 years. Early books focus on individual characters; later books follow their children and grandchildren. Generational saga where sins of parents echo through time.",
+  "core_conflicts": {
+    "political": "The Seven Families vie for control of the Council and Transit Authority",
+    "social": "Growing class warfare between aristocracy and working caste",
+    "economic": "Resource scarcity creates desperate measures and moral compromises",
+    "personal": "Love triangles, secret parentage, betrayals, revenge plots spanning decades",
+    "technological": "Temptation to use banned AI and illegal genetic engineering for advantage"
+  }
+}

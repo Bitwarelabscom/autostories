@@ -1,0 +1,42 @@
+{
+  "name": "Dmitri Volkov",
+  "generation": 1,
+  "age_at_start": 127,
+  "family": "Volkov Dynasty - controls the Obsidian System (industrial/mining)",
+  "title": "Sovereign of the Obsidian Reaches",
+  "core_wound": "His younger brother was killed 50 years ago in a suspicious accident involving Ashford interests; has never forgiven or forgotten; consumed by need for justice/vengeance",
+  "wants": "To see the Ashford family brought low and his brother's death acknowledged",
+  "needs": "To let go of vengeance and find peace; to realize revenge won't bring his brother back",
+  "voice_markers": [
+    "Rough, working-class accent despite his noble position (intentional - pride in industrial roots)",
+    "Uses mining and industrial metaphors constantly",
+    "Gruff and direct - hates flowery language",
+    "Frequently curses in old Russian (Volkov family tradition)",
+    "Calls people 'товарищ' (comrade) regardless of rank"
+  ],
+  "contradiction": "Presents as rough working-class hero but has become as aristocratic and removed from common people as those he despises; fights corruption while being corrupted by power",
+  "arc_position": 0.0,
+  "physical_description": "Massive and intimidating despite his advanced age. Extensive longevity treatments show in the metallic sheen to his skin. Bald with a white beard. Missing two fingers on left hand from mining accident in youth (refused regeneration as reminder of his roots). Wears industrial-style formal wear.",
+  "relationships": {
+    "Lysander_Ashford": "Bitter enemy for 50 years; mutual hatred but also grudging respect; trapped in cycle of retaliation",
+    "Nikolai_Volkov": "Grandson and heir (age 25); loves him but pushes him too hard to hate the Ashfords; doesn't realize he's pushing him away",
+    "Cassandra_Ashford": "Secret negotiation partner; impressed by her intelligence; doesn't know she's manipulating him for peace",
+    "Irina_Volkov": "Deceased wife (died 20 years ago); still mourns her; she was the one who could temper his rage",
+    "Pavel_Volkov": "Deceased younger brother; his death 50 years ago set Dmitri on path of vengeance",
+    "Zara_Volkov": "Granddaughter (age 22); firebrand who wants to radicalize the workers; he fears she'll start a war"
+  },
+  "secrets": [
+    "Has been in secret contact with Cassandra Ashford to negotiate peace",
+    "His brother's death might have been an accident after all - he has evidence he's been suppressing",
+    "Suffering from heart condition that longevity treatments can't fix; has maybe 10 years left",
+    "Secretly proud of Zara's revolutionary spirit though he publicly condemns it",
+    "Has illegally enhanced his grandson Nikolai with genetic modifications to make him a 'perfect heir'"
+  ],
+  "knowledge_state": [
+    "Deep understanding of industrial systems and mining operations",
+    "Knows many secrets about resource distribution and illegal trade",
+    "Aware of growing revolutionary sentiment among workers (his own family encouraged it)",
+    "Does not know that Nikolai resents the pressure to hate the Ashfords",
+    "Does not know Zara is planning actual armed revolt"
+  ]
+}

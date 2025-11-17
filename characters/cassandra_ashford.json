@@ -1,0 +1,41 @@
+{
+  "name": "Cassandra Ashford (née Meridian)",
+  "generation": 1,
+  "age_at_start": 52,
+  "family": "Born to Meridian family; married into Ashford",
+  "title": "Lady Paramount of Celestia",
+  "core_wound": "Forced into loveless political marriage at 22; gave up the man she loved (a common-born ship captain) to fulfill family duty; has lived with regret for 30 years",
+  "wants": "To break free from the suffocating aristocratic system and create a more equitable society",
+  "needs": "To find the courage to be authentic and stop living for others' expectations",
+  "voice_markers": [
+    "Speaks with refined eloquence but occasionally lets slip colloquialisms from her youth",
+    "Uses poetic metaphors and references to nature (from agricultural homeworld)",
+    "Laughs rarely but genuinely when she does",
+    "Tends to ask pointed questions rather than make statements",
+    "Says 'how curious' when she's actually angry"
+  ],
+  "contradiction": "Publicly plays the perfect aristocratic wife while secretly funding reformist movements; despises the system while benefiting from its privileges",
+  "arc_position": 0.0,
+  "physical_description": "Elegant and poised with auburn hair and green eyes. Longevity treatments maintain her beauty. Favors flowing gowns in deep greens and golds. Has a warm smile she rarely shows in public.",
+  "relationships": {
+    "Lysander_Ashford": "Husband; respects his intelligence but resents being treated as a political asset rather than a person; has long since stopped trying to connect emotionally",
+    "Marcus_Ashford": "Son; loves him but worried his father's grooming has made him rigid; tries to encourage his independent thinking",
+    "Victoria_Ashford": "Daughter; her favorite; sees herself in Victoria and wants better for her than a political marriage",
+    "Thane_Rourke": "Her lost love from 30 years ago; she gave him up to marry Lysander; doesn't know he's still alive and working as a cargo captain",
+    "Elena_Navarro": "Friend and secret ally in the reformist movement; one of the few people who knows the real Cassandra",
+    "Dmitri_Volkov": "Secret negotiating partner; working with him behind Lysander's back to prevent war between their families"
+  },
+  "secrets": [
+    "Secretly funding reformist political movements through untraceable accounts",
+    "Meeting in secret with Elena Navarro to plan social reforms",
+    "Still thinks about Thane Rourke and wonders what life could have been",
+    "Has been negotiating with Dmitri Volkov to arrange a marriage between Victoria and Dmitri's son to forge peace",
+    "Knows about Lysander's illegitimate daughter and has been anonymously helping her"
+  ],
+  "knowledge_state": [
+    "Aware of growing social unrest and sympathetic to it",
+    "Knows Lysander is hiding health issues",
+    "Suspects Marcus is not as loyal to his father as he appears",
+    "Does not know that Thane Rourke is still alive and will arrive at Celestia Prime soon"
+  ]
+}

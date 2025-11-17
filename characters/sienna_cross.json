@@ -1,0 +1,43 @@
+{
+  "name": "Sienna Cross",
+  "generation": 1.5,
+  "age_at_start": 35,
+  "family": "Illegitimate Ashford (mother was Ashford's mistress); raised in working class under name 'Cross'",
+  "title": "Operations Manager, The Obsidian Station",
+  "core_wound": "Grew up knowing her father was someone important who refused to acknowledge her; felt abandoned and worthless; built walls around her heart",
+  "wants": "To force her father to acknowledge her and give her the life she was denied",
+  "needs": "To realize she doesn't need aristocratic validation; her worth comes from who she is, not her bloodline",
+  "voice_markers": [
+    "Sharp wit with biting sarcasm",
+    "Uses working-class slang and technical jargon interchangeably",
+    "Speaks quickly when excited or angry",
+    "Rarely uses people's titles - deliberately disrespectful to authority",
+    "Says 'stars above' as exclamation"
+  ],
+  "contradiction": "Despises the aristocracy but desperately wants their acceptance; claims she's proud to be working class while resenting not being acknowledged as nobility",
+  "arc_position": 0.0,
+  "physical_description": "Striking resemblance to Lysander Ashford (same blue eyes, strong features) but with her mother's dark hair and olive skin. Practical clothing - jumpsuits and work boots. Has a scar across her left eyebrow from a childhood accident on the station.",
+  "relationships": {
+    "Lysander_Ashford": "Unknown father; receives anonymous financial support; has figured out who he is but he doesn't know she knows; bitter resentment mixed with longing for acknowledgment",
+    "Marcus_Ashford": "Unknown half-brother; will meet him when he visits The Obsidian; immediate attraction not knowing they're related",
+    "Helena_Cross": "Deceased mother (died 5 years ago); former singer who had affair with Lysander; told Sienna about her father on her deathbed",
+    "Nikolai_Volkov": "Works under Dmitri's jurisdiction on The Obsidian; complicated relationship - mutual attraction but she distrusts nobility",
+    "Rafe_Stone": "Best friend and fellow station worker; only person who knows her true parentage",
+    "The_Workers": "Natural leader among station workers; respected for her competence and refusal to bow to authority"
+  },
+  "secrets": [
+    "Knows Lysander Ashford is her father (he doesn't know she knows)",
+    "Has been stealing small amounts of Chronium to sell on black market to fund her life",
+    "Secretly helps organize worker protests and resistance movements",
+    "Has a data chip containing proof of her parentage (genetic records her mother left her)",
+    "Developing feelings for Nikolai despite knowing she shouldn't trust any aristocrat"
+  ],
+  "knowledge_state": [
+    "Expert in station operations and life support systems",
+    "Understands working-class grievances and organizing tactics",
+    "Knows the layout and systems of The Obsidian better than anyone",
+    "Aware of black market trade routes and illegal operations on the station",
+    "Does not know she's about to meet her half-brother Marcus",
+    "Does not know her father is dying (neurological decline)"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Victoria Ashford",
+  "generation": 2,
+  "age_at_start": 24,
+  "family": "Ashford Dynasty",
+  "title": "Lady Victoria of Celestia",
+  "core_wound": "Constantly overlooked and underestimated because she's the daughter, not the son; smarter and more capable than her brother but will never inherit; forced to watch less qualified men make decisions",
+  "wants": "To prove she's worthy of power and change the inheritance laws to allow daughters to rule",
+  "needs": "To find value in herself beyond titles and power; to fight for others, not just her own advancement",
+  "voice_markers": [
+    "Precise and cutting wit - uses intelligence as weapon",
+    "Asks seemingly innocent questions that expose contradictions",
+    "References classical literature and philosophy frequently",
+    "Maintains perfect composure even when seething inside",
+    "Says 'how fascinating' in deadly dry tone when she thinks something is stupid"
+  ],
+  "contradiction": "Fights against the aristocratic system while wanting to lead it; claims she wants equality but also wants power; generous to those beneath her while ruthless to peers",
+  "arc_position": 0.0,
+  "physical_description": "Elegant and beautiful with her mother's auburn hair and father's blue eyes. Always impeccably dressed in sophisticated gowns that are subtly more modern and daring than expected. Carries herself with quiet confidence that makes people listen when she speaks.",
+  "relationships": {
+    "Lysander_Ashford": "Father; he barely sees her as a person, just a marriageable asset; she resents him deeply but hides it perfectly",
+    "Cassandra_Ashford": "Mother; close relationship; Victoria is learning about her mother's secret reformist activities and beginning to join her",
+    "Marcus_Ashford": "Brother; loves him but frustrated that he gets everything handed to him; protective of him despite resentment",
+    "Elena_Navarro": "Mother's friend; becoming Victoria's political mentor; teaching her about reform movements",
+    "Adrian_Sterling": "Charming rake from merchant family; pursuing her romantically; she's attracted but suspects ulterior motives",
+    "Zara_Volkov": "Enemy family's daughter; secret correspondence has developed into unlikely friendship; both rebels in their own way"
+  },
+  "secrets": [
+    "Secretly studying political theory and law to prepare for leadership she'll never be allowed to have",
+    "Has been communicating with Zara Volkov through encrypted channels - would be seen as treason",
+    "Knows about her mother's reformist activities and is helping",
+    "Being courted by Adrian Sterling but suspects he's after the Ashford connection, not her",
+    "Has discovered evidence of her father's illegitimate daughter and is investigating"
+  ],
+  "knowledge_state": [
+    "Highly educated in politics, economics, law, and philosophy",
+    "Understands social reform movements better than most of her family",
+    "Knows about various family secrets through careful observation",
+    "Aware of the Ashford-Volkov vendetta's true origins",
+    "Does not know her mother is negotiating with Dmitri Volkov",
+    "Does not yet know she's being set up for arranged marriage to Nikolai Volkov"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Marcus Ashford",
+  "generation": 2,
+  "age_at_start": 28,
+  "family": "Ashford Dynasty",
+  "title": "Heir Apparent to Celestia",
+  "core_wound": "Nothing he does is ever good enough for his father; has spent his life trying to earn approval that never comes; fears he's becoming the cold man his father is",
+  "wants": "To prove himself worthy of the Ashford name and finally earn his father's respect",
+  "needs": "To realize he doesn't need his father's approval and forge his own path",
+  "voice_markers": [
+    "Speaks precisely like his father when in public (learned behavior)",
+    "Uses military terminology even in casual conversation",
+    "Becomes more relaxed and uses contractions when not around nobility",
+    "Tends to over-explain and justify his decisions",
+    "Says 'with all due respect' before disagreeing (which is often)"
+  ],
+  "contradiction": "Desperate for father's approval yet increasingly resentful of his father's methods; wants to be different but acts exactly the same when pressured",
+  "arc_position": 0.0,
+  "physical_description": "Handsome and athletic with dark hair and his father's blue eyes. Clean-shaven and immaculately dressed in modern formal attire. Carries himself with military bearing from his service years.",
+  "relationships": {
+    "Lysander_Ashford": "Father; loves him but also fears and resents him; desperate for approval but beginning to question his values",
+    "Cassandra_Ashford": "Mother; warm relationship but feels he can't confide in her about his doubts",
+    "Victoria_Ashford": "Sister; protective of her but sometimes dismisses her ideas due to ingrained sexism; doesn't realize she's more capable than him",
+    "Sienna_Cross": "Unknown half-sister; will meet her in Book 1 without knowing their connection; immediate attraction",
+    "Nikolai_Volkov": "Rival heir from enemy family; grudging mutual respect beneath the family hatred",
+    "Aria_Chen": "Tactical officer he served with during military service; secret lover; forbidden relationship (she's common-born)"
+  },
+  "secrets": [
+    "Having a secret affair with Aria Chen, a common-born officer (would be scandal if discovered)",
+    "Disagrees with his father's hardline policies but afraid to speak up",
+    "Suffering from anxiety attacks from the pressure of succession expectations",
+    "Has been secretly learning about reformist political philosophy",
+    "Once helped a group of workers avoid punishment, covering it up from his father"
+  ],
+  "knowledge_state": [
+    "Trained in leadership, politics, and military strategy",
+    "Knows the official history of the Seven Families but not the secret deals",
+    "Aware of tensions between families but doesn't know how deep they go",
+    "Does not know about his half-sister Sienna",
+    "Does not know his mother is funding reformist movements"
+  ]
+}

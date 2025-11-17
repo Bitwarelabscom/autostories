@@ -1,0 +1,61 @@
+{
+  "generation_1": {
+    "Lysander_Ashford_x_Cassandra_Ashford": "Loveless political marriage; mutual respect but no romance; growing apart",
+    "Lysander_Ashford_x_Dmitri_Volkov": "50-year vendetta; bitter enemies; trapped in cycle of retaliation",
+    "Lysander_Ashford_x_Sienna_Cross": "Unknown father-daughter; he sends money but doesn't acknowledge her",
+    "Lysander_Ashford_x_Thane_Rourke": "Unknown rivals - Thane has the love of the woman Lysander married but doesn't love",
+    "Cassandra_Ashford_x_Dmitri_Volkov": "Secret peace negotiations; mutual respect developing",
+    "Cassandra_Ashford_x_Thane_Rourke": "Lost lovers; haven't seen each other in 30 years; still think of each other",
+    "Dmitri_Volkov_x_Thane_Rourke": "No connection",
+    "Thane_Rourke_x_Sienna_Cross": "Will become mentor/father figure relationship"
+  },
+  "generation_2": {
+    "Marcus_Ashford_x_Victoria_Ashford": "Loving siblings; Victoria resents his privilege but protects him",
+    "Marcus_Ashford_x_Sienna_Cross": "Unknown half-siblings; will meet and have immediate attraction (forbidden/incestuous without knowing)",
+    "Marcus_Ashford_x_Nikolai_Volkov": "Supposed enemies; secret mutual respect; both want peace",
+    "Marcus_Ashford_x_Zara_Volkov": "Haven't met; she hates him on principle as enemy",
+    "Victoria_Ashford_x_Nikolai_Volkov": "Being set up for arranged marriage by their families (don't know yet)",
+    "Victoria_Ashford_x_Zara_Volkov": "Secret friendship through encrypted messages; kindred spirits; different approaches to rebellion",
+    "Nikolai_Volkov_x_Zara_Volkov": "Siblings; he thinks she's too radical; she thinks he's too soft; both love each other",
+    "Nikolai_Volkov_x_Sienna_Cross": "Attraction across class lines; complicated by politics",
+    "Zara_Volkov_x_Sienna_Cross": "Will become revolutionary allies",
+    "Sienna_Cross_x_Rafe_Stone": "Best friends; he knows all her secrets"
+  },
+  "cross_generation": {
+    "Lysander_x_Marcus": "Father-son; Lysander's impossible standards; Marcus desperate for approval",
+    "Lysander_x_Victoria": "Father-daughter; he barely sees her; she resents being invisible",
+    "Cassandra_x_Marcus": "Mother-son; warm but Marcus doesn't confide his doubts",
+    "Cassandra_x_Victoria": "Mother-daughter; close; Cassandra wants better for Victoria",
+    "Dmitri_x_Nikolai": "Grandfather-grandson; love with toxic pressure to continue vendetta",
+    "Dmitri_x_Zara": "Grandfather-granddaughter; she's his favorite; he fears her radicalism",
+    "Thane_x_Marcus": "Will meet; Thane will see Cassandra in him",
+    "Thane_x_Victoria": "Will meet; Thane will recognize her intelligence"
+  },
+  "power_dynamics": {
+    "The_Seven_Families": "Ashford (political/capital), Volkov (industrial/mining), Meridian (agricultural), Sterling (merchant), Chen (military), Navarro (technology), Kane (transit/trade)",
+    "Transit_Authority": "Holds ultimate power through gate control; playing families against each other",
+    "The_Council": "Seven family representatives; deadlocked between Ashford and Volkov factions",
+    "Worker_Movements": "Growing power; led by figures like Rafe Stone and Sienna Cross; radicalized by Zara",
+    "Reformist_Movements": "Secret; led by Elena Navarro; supported by Cassandra and Victoria"
+  },
+  "major_tensions": {
+    "Ashford_vs_Volkov": "50-year vendetta over Pavel's death; threatens to tear Hegemony apart",
+    "Aristocracy_vs_Workers": "Class warfare brewing; workers tired of being exploited",
+    "Old_vs_Young": "Longevity treatments mean old guard won't die; young generation can't rise",
+    "Tradition_vs_Progress": "Rigid social structures vs desire for reform",
+    "Love_vs_Duty": "Personal desires vs family obligations - affects almost every character"
+  },
+  "secret_alliances": {
+    "Cassandra_and_Dmitri": "Secret peace negotiations",
+    "Victoria_and_Zara": "Cross-family friendship and coordination",
+    "Marcus_and_Nikolai": "Backchannel communications about peace",
+    "Cassandra_and_Elena": "Reformist movement planning",
+    "Zara_and_Workers": "Revolutionary organizing"
+  },
+  "forbidden_attractions": {
+    "Marcus_and_Sienna": "Half-siblings who don't know; attraction forbidden on multiple levels",
+    "Nikolai_and_Sienna": "Aristocrat and working class",
+    "Cassandra_and_Thane": "Married woman and lost love",
+    "Zara_and_Rafe": "Aristocrat and worker (she denies it)"
+  }
+}

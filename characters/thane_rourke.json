@@ -1,0 +1,43 @@
+{
+  "name": "Thane Rourke",
+  "generation": 1,
+  "age_at_start": 54,
+  "family": "Common-born; no family affiliation",
+  "title": "Captain of independent cargo vessel 'Stella's Dream'",
+  "core_wound": "Lost the love of his life (Cassandra Meridian) 30 years ago when her family forced her to marry Lysander Ashford; has carried that heartbreak ever since, never marrying or moving on",
+  "wants": "To reconnect with Cassandra and see if anything remains of what they had",
+  "needs": "To accept that the past is past and find a way to build a new life, whether with or without Cassandra",
+  "voice_markers": [
+    "Warm and expressive with working-class accent",
+    "Uses spacer slang and ship metaphors constantly",
+    "Tends to deflect serious emotions with humor",
+    "Has a storyteller's way of speaking - everything's an anecdote",
+    "Says 'by the void' as his favorite curse"
+  ],
+  "contradiction": "Presents as carefree wanderer but is deeply sentimental and romantic; claims he's moved on but has structured his entire life to avoid commitment; wants Cassandra but also resents her for choosing duty over love",
+  "arc_position": 0.0,
+  "physical_description": "Ruggedly handsome in a weathered way. Graying hair and laugh lines. Fit from years of physical ship work. Dresses in practical spacer gear - worn jacket, comfortable boots. Has a scar across his jaw from a bar fight years ago.",
+  "relationships": {
+    "Cassandra_Ashford": "Lost love from 30 years ago; hasn't seen her since she married Lysander; arriving at Celestia Prime will force confrontation with the past",
+    "Sienna_Cross": "Becomes her unlikely mentor and father figure; doesn't know she's connected to Cassandra through Lysander",
+    "Marcus_Ashford": "Cassandra's son; will meet him and see Cassandra in him; complicated feelings",
+    "Rafe_Stone": "His first mate and friend; knows all about the Cassandra situation",
+    "The_Unbound": "Respected among independent spacers and traders; known for being reliable and honorable",
+    "Lysander_Ashford": "The man who married his love; has hated him from afar for 30 years without ever meeting him"
+  },
+  "secrets": [
+    "Has been tracking Cassandra's life from afar for 30 years through news and gossip",
+    "Named his ship 'Stella's Dream' - Stella was his and Cassandra's private nickname for their imagined daughter",
+    "Carries a locket with Cassandra's picture from 30 years ago",
+    "Has been hired for a cargo run to Celestia Prime - deliberately took the job hoping to see her",
+    "Works occasionally as courier for reformist movements - his way of fighting the system that took Cassandra"
+  ],
+  "knowledge_state": [
+    "Expert pilot and ship captain with 30+ years experience",
+    "Knows trade routes and smuggling paths throughout the seven systems",
+    "Connected to Unbound network - knows their secrets and safe harbors",
+    "Aware of general political tensions but not insider knowledge",
+    "Does not know Cassandra still thinks of him",
+    "Does not know he's about to walk into a powder keg at Celestia Prime"
+  ]
+}

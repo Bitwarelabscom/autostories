@@ -1,0 +1,43 @@
+{
+  "name": "Nikolai Volkov",
+  "generation": 2,
+  "age_at_start": 25,
+  "family": "Volkov Dynasty",
+  "title": "Heir to the Obsidian Reaches",
+  "core_wound": "Secretly knows he's been genetically enhanced by his grandfather; feels like a fake, not a 'real' person; questions if his achievements are truly his own or programmed into him",
+  "wants": "To prove he can lead the Volkov family into a new era of prosperity without continuing the vendetta",
+  "needs": "To accept himself including his enhancements and forge his own identity separate from his grandfather's expectations",
+  "voice_markers": [
+    "Educated and articulate but deliberately informal to seem approachable",
+    "Uses technical and engineering terminology (studied engineering)",
+    "Tends to make self-deprecating jokes to deflect",
+    "Code-switches between aristocratic speech and working-class slang depending on audience",
+    "Says 'theoretically speaking' when proposing ideas"
+  ],
+  "contradiction": "Wants peace and progress but afraid to disappoint his grandfather; presents as confident but deeply insecure about his enhanced nature; befriends workers while being ultimate aristocrat",
+  "arc_position": 0.0,
+  "physical_description": "Tall and exceptionally handsome (result of genetic enhancement though he doesn't know extent). Dark hair, gray eyes, athletic build. Dresses in practical but expensive clothing. Has enhanced reflexes and intelligence but doesn't know how much is natural vs enhanced.",
+  "relationships": {
+    "Dmitri_Volkov": "Grandfather; loves him but exhausted by the constant push to hate Ashfords; afraid to reveal he wants peace",
+    "Marcus_Ashford": "Supposed enemy; secret mutual respect from afar; both trapped by family expectations",
+    "Sienna_Cross": "Attracted to her competence and authenticity; doesn't realize she's half-Ashford; complicated relationship",
+    "Zara_Volkov": "Younger sister; firebrand revolutionary; he tries to moderate her but secretly admires her conviction",
+    "Dr_Yuki_Tanaka": "The geneticist who enhanced him (under grandfather's orders); Nikolai has been secretly investigating to learn the truth",
+    "The_Workers": "Tries to present himself as 'man of the people' but they see through it; gaining genuine respect slowly"
+  },
+  "secrets": [
+    "Knows he's been genetically enhanced and is secretly investigating how extensively",
+    "Has been having unauthorized communications with Marcus Ashford about mutual desire for peace",
+    "Suffering from nightmares and identity crisis about his enhanced nature",
+    "Attracted to Sienna Cross despite class differences",
+    "Has discovered evidence that the Ashfords might not have killed his great-uncle Pavel"
+  ],
+  "knowledge_state": [
+    "Educated in engineering, politics, and business management",
+    "Knows about genetic enhancement technology (personal research)",
+    "Aware his grandfather is dying (observed symptoms)",
+    "Aware of sister's growing radicalization",
+    "Does not know Sienna is half-Ashford",
+    "Does not know extent of grandfather's secret dealings with Cassandra Ashford"
+  ]
+}

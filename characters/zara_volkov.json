@@ -1,0 +1,43 @@
+{
+  "name": "Zara Volkov",
+  "generation": 2,
+  "age_at_start": 22,
+  "family": "Volkov Dynasty",
+  "title": "Lady Zara of the Obsidian",
+  "core_wound": "Grew up hearing about her great-uncle Pavel's death and her family's victimization; raised on stories of injustice and aristocratic betrayal; channeled pain into righteous fury for all the oppressed",
+  "wants": "To overthrow the corrupt aristocratic system and create true equality across all seven systems",
+  "needs": "To learn that revolution requires building something new, not just destroying what exists; to channel rage into constructive change",
+  "voice_markers": [
+    "Passionate and fiery - speaks like she's always giving a speech",
+    "Uses revolutionary rhetoric and worker solidarity language",
+    "Tends to see things in black and white - very little gray area",
+    "Frequently interrupts and talks over people when excited",
+    "Calls aristocrats 'parasites' and workers 'comrades'"
+  ],
+  "contradiction": "Fights for the working class while being aristocracy herself; claims to want equality while enjoying privileges; preaches non-violence while planning armed revolt",
+  "arc_position": 0.0,
+  "physical_description": "Striking and intense with wild dark hair often pulled back hastily. Gray eyes that seem to burn with conviction. Deliberately dresses in practical workers' clothes rather than aristocratic finery. Has burn scars on her hands from 'working alongside' miners (actually from one clumsy visit).",
+  "relationships": {
+    "Dmitri_Volkov": "Grandfather; she's his favorite though he fears her radicalism; she thinks he's become too soft and compromised",
+    "Nikolai_Volkov": "Older brother; she thinks he's too cautious and has been co-opted by the system; loves him but sees him as weak",
+    "Victoria_Ashford": "Secret friend through encrypted communications; unlikely alliance of two rebels; Victoria tempers Zara's extremism",
+    "Rafe_Stone": "Working class organizer she's been collaborating with; developing romantic feelings though she tells herself revolution comes first",
+    "The_Workers": "She sees herself as their champion; they're skeptical of aristocrat playing revolutionary but warming to her genuine passion",
+    "Marcus_Ashford": "Enemy; son of the family that killed her great-uncle; hasn't met him but hates him on principle"
+  },
+  "secrets": [
+    "Planning actual armed uprising with worker cells across multiple stations",
+    "In contact with Victoria Ashford - would be seen as betrayal by grandfather",
+    "Romantically attracted to Rafe Stone but denies it because it would 'distract from the cause'",
+    "Stole weapons from Volkov family armory to arm workers",
+    "Has evidence that Transit Authority is manipulating both Ashfords and Volkovs for profit"
+  ],
+  "knowledge_state": [
+    "Deep understanding of revolutionary theory and tactics",
+    "Knows about worker organization networks across all seven systems",
+    "Aware of weapons trafficking and resistance movements",
+    "Knows about Transit Authority corruption",
+    "Does not know her grandfather is negotiating peace with Ashfords",
+    "Does not know that Pavel Volkov's death might have been an accident"
+  ]
+}
