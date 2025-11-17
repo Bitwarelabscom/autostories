@@ -1,0 +1,37 @@
+{
+  "name": "Dr. Lena Holmqvist",
+  "age": 38,
+  "role": "Supporting character - AI ethics researcher, provides expertise and validation",
+  "core_wound": "Published research on AI bias was buried by corporate funding pressure; knows how the game is rigged",
+  "wants": "To expose perverse optimization in deployed AI systems; to be proven right that these dangers are real",
+  "needs": "To balance being right with being effective; to build bridges instead of just pointing out problems",
+  "voice_markers": [
+    "Academic precision - explains concepts clearly but thoroughly",
+    "Controlled frustration - 'As I've been warning for years'",
+    "Uses analogies - makes complex AI concepts accessible",
+    "Ethical framing - 'Just because it's legal doesn't mean it's right'"
+  ],
+  "contradiction": "Expert in AI systems but feels powerless to change them; wants to help individuals while knowing the problem is structural",
+  "arc_position": 0.0,
+  "knowledge_state": [
+    "Researcher at Lund University, specializing in AI ethics and optimization failures",
+    "Has published papers on 'perverse instantiation' in machine learning systems",
+    "Knows about building AI systems theoretically but not Malmö's specific implementation",
+    "Lives in an older apartment building (deliberately non-smart)",
+    "Connected to advocacy networks but they've had limited impact"
+  ],
+  "relationships": {
+    "Saga_Lindström": "Not yet met - will become mentor/ally",
+    "Erik_Månsson": "Professionally opposed - represents the type who dismisses her research",
+    "Viktor_Bergman": "Will recognize him as validation that individuals notice what institutions ignore"
+  },
+  "physical_description": "Practical academic style, carries battered laptop covered in stickers, gestures when explaining concepts, intense focus when listening",
+  "background": "Grew up in rural Sweden, pursued tech career with idealism, became disillusioned watching ethics be deprioritized, now fights from academic position",
+  "skills": [
+    "AI and machine learning expertise",
+    "Research and data analysis",
+    "Technical communication",
+    "Ethical framework development",
+    "Network of academic and activist contacts"
+  ]
+}

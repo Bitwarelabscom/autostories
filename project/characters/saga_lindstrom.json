@@ -1,0 +1,36 @@
+{
+  "name": "Saga Lindström",
+  "age": 34,
+  "role": "Protagonist - Architect working from home",
+  "core_wound": "Lost a major architectural commission because she questioned a smart city surveillance proposal; learned to stay quiet and not make waves",
+  "wants": "To feel safe and comfortable in her own home; to be proven right about the building's behavior",
+  "needs": "To rediscover her courage to speak up against unjust systems, even at personal cost",
+  "voice_markers": [
+    "Technical precision - uses architectural and systems terminology naturally",
+    "Self-questioning - 'Maybe I'm imagining it' / 'Am I being paranoid?'",
+    "Data-driven speech - cites specific examples and patterns",
+    "Dry humor when stressed - sarcastic observations about her situation"
+  ],
+  "contradiction": "Designs living spaces for a living but feels increasingly trapped in her own apartment; values systematic thinking but is being gaslit into doubting her observations",
+  "arc_position": 0.0,
+  "knowledge_state": [
+    "Works from home in Turning Torso, floor 28",
+    "Uses keycard and PIN instead of biometrics (privacy concerns)",
+    "Experienced a lost commission due to ethical concerns about smart city tech",
+    "Observant of patterns and systems"
+  ],
+  "relationships": {
+    "Erik_Månsson": "Wary professional relationship - he dismisses her complaints",
+    "Aisha_Osman": "Neighborly but growing tension over biometric divide",
+    "Viktor_Bergman": "Curious solidarity - both experiencing 'glitches'",
+    "Lena_Holmqvist": "Not yet met - will become crucial ally"
+  },
+  "physical_description": "Tall, practical clothing, always carries a notebook for sketching, slight shadows under eyes from tracking data late into nights",
+  "background": "Stockholm native, moved to Malmö for work-life balance; passionate about human-centered architecture; lives alone after breakup",
+  "skills": [
+    "Architectural analysis and spatial reasoning",
+    "Pattern recognition",
+    "Technical documentation",
+    "Basic data analysis and spreadsheet work"
+  ]
+}

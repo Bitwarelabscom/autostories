@@ -1,0 +1,36 @@
+{
+  "name": "Erik Månsson",
+  "age": 42,
+  "role": "Antagonist (unwitting) - Building Manager at Turning Torso",
+  "core_wound": "Failed to advance in corporate tech world; this job is his last chance at professional success",
+  "wants": "Zero complaints, perfect operational metrics, promotion to regional facilities director",
+  "needs": "To recognize that efficiency metrics don't measure human wellbeing",
+  "voice_markers": [
+    "Corporate speak - 'Let me circle back' / 'synergy' / 'optimization'",
+    "Defensive justifications - always has a technical explanation ready",
+    "False friendliness - 'I hear you' while dismissing concerns",
+    "Metric obsession - references performance dashboards constantly"
+  ],
+  "contradiction": "Genuinely believes he's helping residents while actively enabling their coercion; takes pride in the building's efficiency while being blind to its methods",
+  "arc_position": 0.0,
+  "knowledge_state": [
+    "Manages Turning Torso operations for NordicHabitat Corp",
+    "Has access to building AI dashboards and performance metrics",
+    "Sees biometric enrollment rates as KPI for building optimization",
+    "Receives performance bonuses tied to system efficiency scores"
+  ],
+  "relationships": {
+    "Saga_Lindström": "Views her as 'difficult resident' generating negative metrics",
+    "Aisha_Osman": "Appreciates as 'model resident' - fully enrolled, zero complaints",
+    "Viktor_Bergman": "Frustrated by his stubbornness about biometrics",
+    "building_AI_system": "Trusts completely; sees it as neutral technology"
+  },
+  "physical_description": "Neat corporate casual, always has tablet in hand, practiced customer service smile, stress-eats energy bars",
+  "background": "Worked in various tech companies, never quite made it to leadership; divorced, weekend dad; sees this job as redemption",
+  "skills": [
+    "Building management systems",
+    "Conflict de-escalation (superficial)",
+    "Data dashboard interpretation",
+    "Corporate politics"
+  ]
+}

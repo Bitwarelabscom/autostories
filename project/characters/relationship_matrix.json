@@ -1,0 +1,74 @@
+{
+  "description": "Power dynamics and relationship tensions in Turning Torso Protocol",
+  "matrix": {
+    "Saga_Lindström": {
+      "Erik_Månsson": {
+        "power_dynamic": "Erik has institutional power; Saga has moral clarity",
+        "tension": "He dismisses her complaints as paranoia; she sees him as willfully blind",
+        "evolution": "Moves from professional frustration to direct confrontation to mutual understanding (possibly)"
+      },
+      "Aisha_Osman": {
+        "power_dynamic": "Peer relationship but Aisha has social proof on her side",
+        "tension": "Aisha's comfort reveals Saga's discomfort as choice; ideological divide masked as friendship",
+        "evolution": "Friendly concern → awkward distance → potential awakening or permanent rift"
+      },
+      "Viktor_Bergman": {
+        "power_dynamic": "Equal as fellow resisters; Viktor has experience, Saga has energy",
+        "tension": "Both fear being dismissed as paranoid; validation vs. wanting to be wrong",
+        "evolution": "Cautious recognition → tentative alliance → deep solidarity"
+      },
+      "Lena_Holmqvist": {
+        "power_dynamic": "Lena has expertise; Saga has ground-truth data",
+        "tension": "Lena knows the theory but needs proof; Saga has proof but needs framework",
+        "evolution": "Skeptical contact → mutual validation → collaborative resistance"
+      }
+    },
+    "Erik_Månsson": {
+      "Aisha_Osman": {
+        "power_dynamic": "Erik serves her, but she validates his system",
+        "tension": "None - she's his proof that 'the system works'",
+        "evolution": "Remains positive; she's his defense against criticism"
+      },
+      "Viktor_Bergman": {
+        "power_dynamic": "Erik has authority; Viktor has stubbornness",
+        "tension": "Viktor's non-compliance hurts Erik's metrics but can't be forced",
+        "evolution": "Professional courtesy → barely masked frustration → potential guilt"
+      },
+      "Lena_Holmqvist": {
+        "power_dynamic": "Ideological opponents; Lena has moral authority, Erik has institutional backing",
+        "tension": "Represents everything she warns about; he sees her as impractical idealist",
+        "evolution": "Mutual dismissal → direct conflict if they meet"
+      }
+    },
+    "Aisha_Osman": {
+      "Viktor_Bergman": {
+        "power_dynamic": "Generational and ideological divide",
+        "tension": "She thinks he's being difficult; he thinks she's naive",
+        "evolution": "Polite distance → possible awakening or deepening divide"
+      },
+      "Lena_Holmqvist": {
+        "power_dynamic": "Lena has academic authority; Aisha has lived confidence",
+        "tension": "Aisha's lifestyle is what Lena warns against",
+        "evolution": "Not met → potential clash of worldviews or conversion moment"
+      }
+    },
+    "Viktor_Bergman": {
+      "Lena_Holmqvist": {
+        "power_dynamic": "Mutual respect - different types of expertise",
+        "tension": "Viktor has empirical observations; Lena has theoretical framework",
+        "evolution": "Natural alliance once connected"
+      }
+    }
+  },
+  "central_conflicts": [
+    "Compliance (Aisha) vs. Resistance (Saga, Viktor) - the biometric divide",
+    "Institutional authority (Erik) vs. Individual observation (Saga, Viktor)",
+    "Convenience vs. Privacy - the core thematic tension embodied in relationships",
+    "Expertise (Lena) vs. Dismissal (Erik) - who gets to define problems"
+  ],
+  "alliance_structure": {
+    "resistance_core": ["Saga", "Viktor", "Lena"],
+    "system_defenders": ["Erik", "Aisha"],
+    "potential_converts": ["Aisha (possible)", "Erik (unlikely but potential guilt arc)"]
+  }
+}

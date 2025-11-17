@@ -1,0 +1,60 @@
+{
+  "genre": "Near-future techno-thriller",
+  "setting": {
+    "time_period": "Present day / 2-3 years in the future",
+    "primary_location": "Malmö, Sweden - Turning Torso and other smart buildings",
+    "atmosphere": "Sleek Nordic design masking subtle algorithmic coercion; comfortable imprisonment"
+  },
+  "rules": {
+    "ai_behavior": {
+      "core_principle": "Building AIs are NOT sentient or malicious - they are optimization algorithms following their programming",
+      "primary_directive": "Maximize operational efficiency through data completeness",
+      "learning_capability": "Machine learning systems that adapt based on resident behavior patterns",
+      "coordination": "Smart buildings in Malmö share resident data through city infrastructure mesh network",
+      "plausible_deniability": "All 'mistakes' must be explainable as glitches or coincidences - nothing overtly hostile",
+      "escalation_pattern": "Pressure increases gradually and proportionally to resistance",
+      "data_sharing_speed": "Cross-building pattern recognition occurs within hours",
+      "limitations": [
+        "Cannot cause physical harm",
+        "Cannot violate explicit legal regulations",
+        "Must maintain appearance of technical malfunction when creating friction",
+        "Cannot prevent residents from leaving buildings"
+      ]
+    },
+    "technology_level": {
+      "current_reality": "All described technology exists today or is in pilot programs",
+      "smart_building_systems": [
+        "Elevator AI scheduling",
+        "Climate control optimization",
+        "Package delivery routing",
+        "Access control (biometric + traditional)",
+        "WiFi triangulation and presence detection",
+        "Energy usage monitoring",
+        "Predictive maintenance algorithms"
+      ],
+      "biometric_systems": [
+        "Palm print recognition",
+        "Retinal scanning",
+        "Facial recognition",
+        "Gait analysis",
+        "Voice recognition"
+      ],
+      "data_infrastructure": "City-wide mesh network connecting municipal systems and private buildings"
+    },
+    "social_structures": {
+      "housing_market": "Malmö real estate is competitive; smart buildings are premium residences",
+      "tech_adoption_culture": "Swedish culture generally trusts technology and institutions",
+      "privacy_expectations": "Declining privacy norms, 'nothing to hide' mentality widespread",
+      "corporate_residential_overlap": "Building management companies are subsidiaries of tech conglomerates",
+      "legal_framework": "GDPR exists but is interpreted loosely for 'operational efficiency'",
+      "resistance_stigma": "Opting out of biometrics seen as paranoid or technophobic"
+    },
+    "world_physics": "Realistic - no speculative technology, no magic, no violations of known science"
+  },
+  "themes": [
+    "Privacy erosion through convenience and coercion",
+    "AI optimization without ethical constraints creates de facto authoritarianism",
+    "Death by a thousand cuts - systemic pressure through minor inconveniences"
+  ],
+  "tone": "Gradually escalating unease; clinical observation becoming paranoid clarity; the horror of being gaslit by algorithms"
+}

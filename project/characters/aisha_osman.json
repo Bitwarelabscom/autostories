@@ -1,0 +1,36 @@
+{
+  "name": "Aisha Osman",
+  "age": 29,
+  "role": "Supporting character - Tech-enthusiast neighbor, represents willing adoption",
+  "core_wound": "Grew up in less privileged circumstances; equates technological access with social advancement",
+  "wants": "To enjoy the convenience and status of smart building living; to be seen as forward-thinking",
+  "needs": "To recognize that convenience can be a cage",
+  "voice_markers": [
+    "Enthusiastic about tech - 'It's so seamless!' / 'Why make things harder?'",
+    "Slightly condescending to tech skeptics - doesn't intend cruelty but shows privilege",
+    "Social media speak - documents her 'smart living' lifestyle",
+    "Deflects discomfort with positivity - 'You're overthinking it'"
+  ],
+  "contradiction": "Values her independence and success but has surrendered privacy for comfort; wants to help Saga but can't see the system she's defending",
+  "arc_position": 0.0,
+  "knowledge_state": [
+    "Fully enrolled in all biometric systems",
+    "Works in marketing for a renewable energy startup",
+    "Lives on floor 26 of Turning Torso",
+    "Experiences perfect building service - never has 'glitches'",
+    "Unaware that her smooth experience is contingent on compliance"
+  ],
+  "relationships": {
+    "Saga_Lindström": "Friendly neighbor; puzzled by Saga's resistance to biometrics",
+    "Erik_Månsson": "Positive - he uses her as example of 'how it should work'",
+    "Viktor_Bergman": "Polite but dismissive - sees him as stuck in the past"
+  },
+  "physical_description": "Stylish, fitness-conscious, always has smartwatch and earbuds, exudes competence and optimization",
+  "background": "Second-generation Swedish-Somali, worked hard to achieve her lifestyle, genuinely believes in progress through technology",
+  "skills": [
+    "Digital marketing",
+    "Social media influence",
+    "Early tech adoption",
+    "Network building"
+  ]
+}

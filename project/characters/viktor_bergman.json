@@ -1,0 +1,36 @@
+{
+  "name": "Viktor Bergman",
+  "age": 71,
+  "role": "Supporting character - Elderly resident resisting biometrics on principle",
+  "core_wound": "Lived through the Swedish registry controversy; watched institutions betray privacy promises before",
+  "wants": "To maintain autonomy and privacy in his final years; to not be forced out of his home",
+  "needs": "To find allies and realize his individual resistance matters",
+  "voice_markers": [
+    "Formal Swedish - older generation politeness",
+    "Historical references - 'I've seen this before'",
+    "Quiet determination - doesn't argue, just states facts",
+    "Gentle irony - 'How convenient' said with dry precision"
+  ],
+  "contradiction": "Fears being seen as senile or paranoid but has the clearest view of what's happening; wants to fight back but feels too old to matter",
+  "arc_position": 0.0,
+  "knowledge_state": [
+    "Retired civil engineer",
+    "Lives alone in Turning Torso since his wife died (building was her dream)",
+    "Refuses all biometric enrollment - uses keycard and PIN only",
+    "Experiences frequent 'service issues' - elevator skips his floor, packages misdelivered, temperature problems",
+    "Keeps meticulous written records but doesn't know what to do with them"
+  ],
+  "relationships": {
+    "Saga_Lindström": "Cautious kinship - both experiencing the same pattern",
+    "Erik_Månsson": "Politely formal; knows Erik sees him as stubborn old man",
+    "Aisha_Osman": "Reminds him of his granddaughter; sad she can't see the problem"
+  },
+  "physical_description": "Precise posture, always wears watch (analog), carries a physical newspaper, tired eyes but sharp mind",
+  "background": "Worked on infrastructure projects in the 1980s-90s, saw how data systems could be misused, widower, stays in apartment for memories",
+  "skills": [
+    "Engineering systems thinking",
+    "Documentation and record keeping",
+    "Institutional memory",
+    "Patience and observation"
+  ]
+}
