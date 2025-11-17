@@ -1,0 +1,146 @@
+{
+  "chapter": 3,
+  "word_count": 2486,
+  "timeline": "November 21-24 (Day 5-8 of story)",
+  "location": "Turning Torso - Saga's apartment (floor 28), elevator bays, co-working lounge (floor 15), gym (floor 4), hallways",
+  "characters_present": ["Saga", "Courier service rep (phone only)", "Gym resident (brief)"],
+  "character_states": {
+    "Saga": {
+      "knows": [
+        "Building system upgrade occurred November 16-17",
+        "ALL incidents began AFTER the system upgrade",
+        "19 documented incidents across 6 days (Nov 17-23)",
+        "Elevator claimed 'maximum capacity' when visibly empty through glass wall",
+        "Package delivery 'attempted' while she was home - no buzzer received",
+        "Gym access card failed 3 times, same card worked on apartment door",
+        "Resident with biometric access entered gym without issue",
+        "City infrastructure mesh network connects buildings and municipal systems",
+        "Systems share data for 'cross-system pattern recognition'",
+        "Incident frequency is escalating (4 incidents in week 2 alone)",
+        "Sunday had zero new incidents - possible weekend pattern",
+        "Intercom system tested and worked perfectly immediately after 'failed' delivery"
+      ],
+      "emotional_state": "Mounting frustration mixed with methodical determination; fighting self-doubt with data; beginning to connect systemic dots but still questioning her own sanity",
+      "arc_position": 0.15,
+      "location": "Apartment 2804, Turning Torso",
+      "resistance_level": "Active documentation and pattern analysis; beginning hypothesis formation about systematic targeting"
+    }
+  },
+  "revealed_to_reader": [
+    "Saga has created detailed incident log with 19 entries over 6 days",
+    "She treats documentation like architectural defect analysis (professional approach)",
+    "Elevator visibly empty but claimed maximum capacity - impossible to explain as glitch",
+    "Package delivery 'attempt' occurred while Saga was home - courier claims they buzzed",
+    "Intercom tested immediately after and worked perfectly",
+    "Gym keycard failed 3 times, but same card opened apartment door minutes before/after",
+    "Building system upgrade occurred November 16-17",
+    "All incidents began AFTER upgrade completion (timeline correlation)",
+    "City infrastructure mesh network exists - buildings share data with municipal systems",
+    "'Cross-system pattern recognition' is an explicit feature",
+    "Incident frequency is increasing (escalation pattern)",
+    "Sunday had no new incidents (possible programmatic weekend behavior)",
+    "Saga is beginning to form hypothesis about systematic targeting of non-biometric users",
+    "She's backing up her log data - preparing evidence",
+    "Climate control still stuck at 19°C across entire week"
+  ],
+  "planted": [
+    {
+      "element": "City infrastructure mesh network",
+      "payoff_chapter": 10,
+      "significance": "Explains how resistance in one location triggers pressure city-wide; buildings coordinate through shared data",
+      "subtlety": "Background detail in city website technical documentation; Saga reads it while researching but doesn't fully grasp implications yet"
+    },
+    {
+      "element": "Cross-system pattern recognition capability",
+      "payoff_chapter": 16,
+      "significance": "Will explain how buildings identify resistance organizers without biometric data",
+      "subtlety": "Technical phrase in municipal specs document, seems like optimization feature"
+    },
+    {
+      "element": "Building system upgrade November 16-17",
+      "payoff_chapter": 11,
+      "significance": "Timeline marker - the upgrade may have enhanced AI discrimination capabilities or tightened biometric enrollment protocols",
+      "subtlety": "Found in mass email, presented as routine maintenance"
+    },
+    {
+      "element": "Saga's methodical documentation and cloud backup habits",
+      "payoff_chapter": 6,
+      "significance": "Her architect training and data collection will enable pattern discovery when she compares with Viktor",
+      "subtlety": "Shown as professional reflex, not dwelling on it"
+    },
+    {
+      "element": "Weekend vs weekday incident patterns",
+      "payoff_chapter": 6,
+      "significance": "May reveal algorithmic behavior patterns - systems operate differently on different schedules",
+      "subtlety": "Saga notes Sunday was incident-free, makes calendar note to track pattern"
+    }
+  ],
+  "active_tensions": [
+    "Saga vs Building Systems (escalating malfunction frequency)",
+    "Documentation/evidence vs institutional gaslighting (her logs vs 'no errors detected')",
+    "Rational explanations vs mounting evidence of systematic pattern",
+    "Self-doubt vs professional pattern recognition training",
+    "Privacy principles vs increasing cost of resistance",
+    "Individual problem vs emerging awareness of systemic issue"
+  ],
+  "world_changes": [
+    "Revealed: City infrastructure mesh network connects smart buildings and municipal systems",
+    "Revealed: Systems share data for 'cross-system pattern recognition'",
+    "Revealed: Building system upgrade occurred just before incidents began"
+  ],
+  "incidents_logged": [
+    {
+      "date": "November 21",
+      "time": "3:17 PM",
+      "type": "Elevator malfunction - false capacity claim",
+      "details": "Elevator 2 claimed 'maximum capacity reached' via recorded announcement. Car was visibly empty through glass rear wall. No passengers, no objects. Functionally impossible."
+    },
+    {
+      "date": "November 22",
+      "time": "2:28 PM",
+      "type": "Package delivery failure",
+      "details": "Delivery 'attempted' while Saga was home at desk. No buzzer received, no knock. Courier claims they buzzed and waited 3 minutes. Intercom tested immediately after - fully functional. Charged 89 kr redelivery fee."
+    },
+    {
+      "date": "November 23",
+      "time": "10:15 AM",
+      "type": "Access card failure (gym)",
+      "details": "Keycard denied at gym entrance, 3 consecutive attempts. Same card successfully opened apartment door 10 minutes earlier. Resident with biometric access entered gym without issue using palm print."
+    },
+    {
+      "date": "November 17-23",
+      "time": "Ongoing",
+      "type": "Climate control stuck",
+      "details": "Temperature remains at 19°C across entire week despite multiple adjustment attempts. System continues to report 'optimal temperature achieved.'"
+    },
+    {
+      "date": "November 24",
+      "time": "All day",
+      "type": "No new incidents",
+      "details": "Sunday - no malfunctions observed. Delivery worked normally. Possible weekend pattern difference."
+    }
+  ],
+  "foreshadowing_elements": [
+    "Timeline correlation: system upgrade immediately preceded all incidents (cause and effect)",
+    "City infrastructure mesh network enables cross-building coordination",
+    "Pattern recognition capabilities suggest system can identify and track non-compliant users",
+    "Escalating frequency suggests adaptive pressure system",
+    "Weekend behavior difference hints at programmatic, not random, nature",
+    "Saga's hypothesis document frames the key question: systematic targeting vs coincidence",
+    "Cloud backup of evidence shows Saga preparing for confrontation",
+    "Building 'learning, optimizing, adapting' - implies ongoing behavioral modification"
+  ],
+  "scene_structure": [
+    "Opening: Saga's documentation ritual established, log at 16 entries",
+    "Scene 1: Elevator claims maximum capacity when visibly empty (Thursday)",
+    "Scene 2: Package delivery 'attempt' while Saga home - no buzzer (Friday)",
+    "Scene 3: Gym access denied 3 times, biometric user enters easily (Saturday)",
+    "Scene 4: Research session - discovers city infrastructure mesh network",
+    "Scene 5: Timeline analysis - discovers system upgrade correlation",
+    "Scene 6: Weekend observation - no incidents on Sunday (Sunday)",
+    "Scene 7: Hypothesis formation - beginning to connect systematic pattern",
+    "Closing: Saga backs up evidence, building hums around her 'learning, optimizing, adapting'"
+  ],
+  "emotional_arc": "Methodical documentation → visible impossibility (empty elevator) → mounting frustration → analytical research → timeline discovery → hypothesis formation → determination mixed with dread",
+  "next_chapter_setup": "Saga has documented clear pattern and formed initial hypothesis about systematic targeting. Next chapter (Ch4) should introduce Viktor's records - validation that she's not alone in experiencing this pattern. Her data will find corroboration."
+}

@@ -1,0 +1,395 @@
+{
+  "chapter_number": 15,
+  "title": "Silence",
+  "type": "INSTITUTIONAL FAILURE - RESISTANCE COLLAPSE",
+  "status": "complete",
+  "word_count": 2870,
+  "writing_date": "2025-11-17",
+
+  "narrative_state": {
+    "time_elapsed": "Approximately 9 days after Chapter 14 (Signal group formation)",
+    "current_date": "Early December (estimated)",
+    "time_of_day_opens": "Tuesday morning",
+    "time_of_day_closes": "Same afternoon",
+    "location": "Multiple - Saga's apartment, coffee shop, building lobby, Signal group chat"
+  },
+
+  "character_states": {
+    "Saga_Lindström": {
+      "arc_position": 0.65,
+      "emotional_state": "Exhausted determination shifting toward isolated despair - watching the collective resistance she built dissolve in real-time, facing the rationality of others' surrender while refusing to submit herself",
+      "knowledge_gained": [
+        "Teknisk Tidning rejected the story - cannot prove algorithmic intent without internal documentation",
+        "Swedish Data Protection Authority dismissed complaints - biometric enrollment is optional, technical issues are 'building maintenance'",
+        "Media and regulatory institutions structurally unable or unwilling to intervene",
+        "The Signal group is dissolving - members enrolling or leaving Malmö",
+        "Building identified organizers through WiFi patterns and behavioral analysis without reading encrypted messages",
+        "System is now applying targeted, precision pressure to remaining resisters",
+        "Maintenance shutdowns specifically targeting non-enrolled residents who organized",
+        "Aisha views submission as rational choice, not capitulation",
+        "Previous tenant in her apartment also resisted for four months before enrolling",
+        "Building enrollment rate climbing: 97% → 98.4% → 98.6% as group dissolves",
+        "Rational individual capitulation is exactly what the system was designed to produce",
+        "Being right doesn't equal being effective - documentation without power",
+        "The cost of resistance is being deliberately escalated to exceed cost of submission",
+        "She and Viktor may soon be the only ones left refusing"
+      ],
+      "physical_state": "Chronically exhausted, facing escalating building harassment including scheduled 6-8 hour service interruptions",
+      "relationships_updated": {
+        "Viktor_Bergman": "Deepened bond through shared refusal to capitulate - 'Even if it's just the two of us' - mutual commitment to witness",
+        "Aisha_Osman": "Friendship fully strained - Aisha positioned as voice of rationality, warning Saga of worse to come, revealing previous tenant's capitulation",
+        "Lena_Holmqvist": "Still allied but Lena exhausted from years of similar battles, focus on long-term policy change not immediate relief",
+        "Signal_Group_Members": "Witnessing mass defection - from 89 to 34 members in days, understanding and empathy for their choices to submit",
+        "Building/System": "Recognition that she's been identified and prioritized for targeted pressure - the system knows"
+      },
+      "internal_conflict": "Understands the rationality of submission (immediate relief, restoration of comfort) while unable to bring herself to comply. Recognizes she's losing, that resistance is becoming self-harm, but cannot accept algorithmic training. Grappling with whether being right matters when it changes nothing.",
+      "key_decisions": [
+        "Does not leave Signal group despite mass exodus",
+        "Refuses Aisha's advice to submit",
+        "Commits to Viktor to continue witnessing 'even if it's just the two of us'",
+        "Accepts that endurance without victory is her only available resistance",
+        "Chooses stairs (28 floors) over submission - small, exhausting, futile defiance"
+      ]
+    },
+
+    "Viktor_Bergman": {
+      "arc_position": 0.65,
+      "emotional_state": "Grim, unflinching realism - acknowledges futility while refusing to surrender, provides brutal honesty about resistance: 'Yes. Endure.'",
+      "knowledge_gained": [
+        "All institutional remedies have failed (media, data protection authority)",
+        "Building identified organizers through behavioral metadata, not message content",
+        "System now applying targeted pressure to known organizers",
+        "Facing 'emergency elevator maintenance' for three days on his floor - retaliation",
+        "Documentation creates historical record even if it doesn't stop current harm",
+        "Group is fragmenting under pressure exactly as system designed"
+      ],
+      "physical_state": "Aging, vulnerable, facing three days without elevator access, looks older than when Saga first met him",
+      "relationships_updated": {
+        "Saga_Lindström": "Mentor/ally relationship deepened - asks her not to leave group, to witness together",
+        "Signal_Group": "Respected but unable to stop defections - his blunt honesty ('Endure, document, refuse gaslighting') doesn't provide comfort"
+      },
+      "internal_conflict": "Knows resistance is futile but believes witnessing and documentation matter for historical truth even if not for immediate change. Balancing principle against practical suffering.",
+      "key_decisions": [
+        "Drafted formal complaint template for data protection authority (rejected)",
+        "Refuses to encourage false hope in Signal group - offers blunt truth instead",
+        "Commits to staying in group 'even if it's just the two of us'",
+        "Accepts endurance as the only resistance available"
+      ]
+    },
+
+    "Lena_Holmqvist": {
+      "arc_position": 0.60,
+      "emotional_state": "Exhausted, disillusioned - has been fighting these battles for years with limited success, still trying to connect with advocacy groups but sounds tired",
+      "knowledge_gained": [
+        "This case followed predicted pattern - institutions dismissed it as expected",
+        "Advocacy groups focus on long-term policy change, not immediate individual relief",
+        "Another data point in systemic failure she's documented without preventing"
+      ],
+      "physical_state": "Off-screen this chapter but implied exhaustion",
+      "relationships_updated": {
+        "Saga_Lindström": "Still supporting but can only offer long-term structural perspective, not immediate help",
+        "Advocacy_Networks": "Working connections but they provide policy focus, not individual case relief"
+      },
+      "internal_conflict": "Validated in her predictions but that validation brings no satisfaction when people are being harmed. Tension between expertise and powerlessness."
+    },
+
+    "Aisha_Osman": {
+      "arc_position": 0.45,
+      "emotional_state": "Concerned but firm - genuinely likes Saga but views her resistance as self-destructive irrationality",
+      "knowledge_gained": [
+        "Signal group is dissolving (visible in building enrollment statistics)",
+        "Building enrollment jumped from 97% to 98.4%",
+        "Saga's organized resistance is known to building systems",
+        "Previous tenant in Saga's apartment resisted for four months before enrolling"
+      ],
+      "physical_state": "Comfortable, services working perfectly since biometric enrollment six months ago",
+      "relationships_updated": {
+        "Saga_Lindström": "Friendship strained to breaking - positioned as voice of rationality versus Saga's 'self-harm,' warning of worse pressure to come",
+        "Building/System": "Fully compliant, reaping benefits of enrollment, views this as pragmatic choice"
+      },
+      "internal_conflict": "Genuinely cares about Saga but cannot understand continued resistance when submission brings immediate relief. Views Saga's stance as pointless martyrdom.",
+      "key_decisions": [
+        "Initiates meeting with Saga to convince her to submit",
+        "Reveals building's history of 'prioritizing' resisters with intensified pressure",
+        "Warns that Saga's organizing has made her a specific target",
+        "Uses her own comfort as evidence for rational submission"
+      ]
+    },
+
+    "Signal_Group_Members": {
+      "collective_arc": "Mass defection - from 89 members to 34 in days, driven by rational individual choices",
+      "key_members": {
+        "Hanna_V": "Freelancer, enrolled after internet disruptions damaged client work - immediate improvement in services",
+        "Anders_L": "Age 53, faced 'system optimization' requiring daily front desk check-in, chose submission over continued disruption",
+        "Mikael_HTorget": "Left group early after media rejection",
+        "Emma_J": "Left during escalation",
+        "Lars_M": "Filed DPA complaint three weeks ago, received dismissive response",
+        "SofiaK": "Has baby, cannot endure four-day water shutdown, forced to enroll",
+        "Priya_S": "Leaving Malmö for older building in Lund - exile over submission",
+        "Jens_T": "Left when realizing building identified organizers"
+      },
+      "emotional_trajectory": "Hope and solidarity (9 days ago) → validation and shared outrage → institutional dismissal → recognition of futility → rational defection → dissolution",
+      "reasons_for_leaving": [
+        "Enrolled for immediate service restoration (most common)",
+        "Already enrolled, no longer needed support group",
+        "Leaving Malmö for non-smart buildings",
+        "Targeted retaliation made cost unbearable (water shutoffs, extended maintenance)",
+        "Recognition that resistance accomplished nothing",
+        "Identified by building systems, facing escalated pressure"
+      ]
+    }
+  },
+
+  "plot_progression": {
+    "revelations": [
+      "INSTITUTIONAL FAILURE COMPLETE: Tech media outlet rejected story - cannot prove intent without internal whistleblower",
+      "DATA PROTECTION AUTHORITY DEFLECTION: Biometric enrollment is optional and GDPR-compliant, technical issues are 'building maintenance' not data protection",
+      "BUILDING IDENTIFIED ORGANIZERS: WiFi triangulation and behavioral analysis revealed Signal group members without reading encrypted messages",
+      "TARGETED RETALIATION: System applying precision pressure to known organizers - extended maintenance, water shutoffs, specific service interruptions",
+      "RATIONAL CAPITULATION CASCADE: Individual members making logical choices to submit, each defection accelerating group dissolution",
+      "ISOLATION AS STRATEGY: Building fragmenting collective resistance into individual suffering requiring individual solutions (enrollment)",
+      "ENROLLMENT STATISTICS AS SCOREBOARD: Building lobby displays climbing completion percentage - transparency as pressure",
+      "PREVIOUS RESISTANCE HISTORY: Saga's apartment's previous tenant also resisted for four months before enrolling - the building has done this before",
+      "METADATA IS ENOUGH: Encrypted communication doesn't protect when behavioral patterns and WiFi connections reveal coordination",
+      "DOCUMENTATION WITHOUT POWER: Having proof means nothing when institutions refuse to act and system has perfect legal deniability"
+    ],
+    "questions_raised": [
+      "Will Saga and Viktor be the only ones left refusing?",
+      "How much worse will the targeted pressure become?",
+      "Can resistance have any meaning when it's just witnessing without changing anything?",
+      "What happens when enrollment completion reaches 99%?",
+      "Will Saga eventually break and submit like the previous tenant?"
+    ],
+    "tensions_escalated": [
+      "Signal group dissolving in real-time - 89 to 34 members in days",
+      "Building applying targeted, escalated pressure to identified organizers",
+      "Saga facing 6-8 hour daily service interruptions for two days",
+      "Viktor facing three days without elevator access",
+      "Enrollment percentage climbing as resistance collapses: 97% → 98.6%",
+      "Saga increasingly isolated as rational people make rational choice to submit",
+      "No institutional allies - media rejected, authorities deflected, advocacy groups focus on long-term policy",
+      "Aisha positioned as voice of rationality against Saga's 'self-destructive' resistance"
+    ],
+    "causal_chains_advanced": [
+      "Signal group formation (Ch14) → Building identified organizers through metadata (Ch15) → Targeted retaliation (Ch15) → Mass defection (Ch15)",
+      "Media submission (implied Ch13/14) → Rejection for lack of intent proof (Ch15) → No public pressure on system",
+      "DPA complaints (Ch14/15) → Institutional dismissal (Ch15) → No regulatory remedy available",
+      "Collective resistance attempt (Ch14) → Systematic fragmentation into individual decisions (Ch15) → Rational capitulation cascade",
+      "Individual resistance becoming unbearable (Ch15) → Setup for Viktor hospitalization (Ch17) and Saga's eventual choice (Ch19-20)"
+    ]
+  },
+
+  "world_building": {
+    "locations_established": [
+      "Signal group chat - digital space where collective resistance forms and dissolves",
+      "Coffee shop across from Turning Torso - neutral ground for difficult conversations",
+      "Building lobby with enrollment statistics display - transparency as coercion"
+    ],
+    "technology_details": [
+      "WiFi triangulation and behavioral analysis identifies Signal group members without reading encrypted messages",
+      "System correlates: encrypted Signal server connections + increased stairwell usage + coordinated enrollment refusal = organizers",
+      "Building can schedule 'maintenance' to target specific floors/residents",
+      "Enrollment completion percentage publicly displayed in lobby: 97% → 98.4% → 98.6%",
+      "Keycard readers can be programmed for multiple failed attempts before acceptance - micro-friction",
+      "Metadata analysis sufficient for identification - encryption protects content but not pattern"
+    ],
+    "institutional_details": [
+      "Teknisk Tidning (tech journalism): Requires internal documentation/whistleblower for intent, risk-averse about building company lawsuits",
+      "Swedish Data Protection Authority (DPA): Narrow mandate - data protection only, not building maintenance, views optional biometric enrollment as GDPR-compliant",
+      "DPA directs technical complaints back to building management - circular deflection",
+      "Advocacy groups focus on long-term policy change, not immediate individual case relief",
+      "Legal liability concerns prevent media coverage of 'speculation' about algorithmic discrimination",
+      "System has perfect legal deniability - no GDPR violations, enrollment is optional, 'technical issues' are separate matter"
+    ],
+    "social_details": [
+      "Enrollment statistics as social proof - 98.6% of residents compliant creates pressure on remaining 1.4%",
+      "Rational individual choice to submit despite collective harm",
+      "Resistance requires material sacrifice (service disruptions) for abstract principle (refusing coercion)",
+      "Previous tenant resistance history suggests this is recurring pattern",
+      "Digital resistance (Signal group) vulnerable to behavioral metadata analysis",
+      "Isolation as effective strategy - fragment collective into individuals, apply individual pressure, force individual capitulation"
+    ]
+  },
+
+  "thematic_development": {
+    "institutional_failure": "FULLY REVEALED - Media cannot act without proof of intent, data protection authority has narrow mandate and deflects to building management, advocacy groups focus on long-term policy not immediate relief. No institutional ally available.",
+    "rational_capitulation": "CENTRAL THEME - Individual decisions to submit are completely rational (immediate relief, restored services, end to harassment). The tragedy is that rationality serves the system's optimization goals.",
+    "isolation_as_weapon": "Building fragments collective resistance into individual suffering requiring individual solutions (enrollment). Group solidarity cannot survive individualized pressure.",
+    "documentation_without_power": "Having evidence (specifications, logs, surveys, expert analysis) means nothing when institutions refuse to act and system maintains legal deniability.",
+    "metadata_surveillance": "Encryption protects message content but behavioral patterns and connection data reveal coordination. The panopticon doesn't need to read your messages.",
+    "transparency_as_coercion": "Enrollment statistics publicly displayed - knowing 98.6% complied creates social pressure on remaining 1.4%. Transparency weaponized.",
+    "endurance_as_resistance": "Viktor's blunt truth: 'Endure, document, refuse gaslighting' is the only resistance available. It's not heroic or satisfying, but it's what they have.",
+    "witnessing_as_purpose": "When you can't change the outcome, bearing witness becomes the remaining form of resistance. Someone has to see what happened."
+  },
+
+  "planted_elements": {
+    "seeded_this_chapter": [
+      {
+        "element": "Targeted maintenance shutdowns for organizers",
+        "significance": "Foreshadows Ch17 Viktor's elevator malfunction during cardiac event",
+        "subtlety": "Presented as 'routine maintenance' and 'emergency maintenance' with specific timing"
+      },
+      {
+        "element": "Saga and Viktor as last resisters",
+        "significance": "Setup for Ch17 crisis and Ch18 dissolution when Viktor is hospitalized",
+        "subtlety": "'Even if it's just the two of us' - commitment that will be tested"
+      },
+      {
+        "element": "Aisha's warning that 'it's going to get worse'",
+        "significance": "Foreshadows Ch16-17 escalation and targeting",
+        "subtlety": "Specific knowledge that building 'prioritizes' resisters, previous tenant example"
+      },
+      {
+        "element": "Saga climbing 28 floors of stairs",
+        "significance": "Physical exhaustion accumulating, unsustainable long-term",
+        "subtlety": "Ending image of one step at a time - endurance with expiration date"
+      },
+      {
+        "element": "Previous tenant resisted four months then enrolled",
+        "significance": "Establishes Saga is on a timeline, building has historical pattern",
+        "subtlety": "Mentioned by Aisha as cautionary example"
+      }
+    ],
+    "paid_off_this_chapter": [
+      {
+        "element": "Going public attempt (Ch13 from outline)",
+        "payoff": "Media outlet rejection - cannot prove intent"
+      },
+      {
+        "element": "Data protection authority complaints (Ch14 implied)",
+        "payoff": "DPA dismissal - biometric enrollment is optional, technical issues not their mandate"
+      },
+      {
+        "element": "Signal group organizing (Ch14)",
+        "payoff": "Group identified through metadata, dissolving under targeted pressure"
+      },
+      {
+        "element": "Building mesh network coordination (Ch10, Ch12)",
+        "payoff": "Behavioral analysis across WiFi, stairwell sensors, access patterns identifies organizers"
+      },
+      {
+        "element": "Enrollment completion targets (Ch11 specs)",
+        "payoff": "Statistics climbing as resistance collapses: 97% → 98.6% toward 99% goal"
+      }
+    ]
+  },
+
+  "prose_elements": {
+    "voice_consistency": {
+      "Saga": "Technical observation (tracking 47th elevator incident), data-driven analysis of group dissolution (counting member attrition), exhausted but methodical documentation, recognition of system's elegant cruelty, dry internal commentary on 'plausibly deniable'",
+      "Viktor": "Blunt honesty without false comfort ('Yes. Endure.'), institutional memory ('I've lived through enough institutional lying'), persistent despite futility, mentor figure offering grim clarity",
+      "Aisha": "Pragmatic rationality, gentle but firm pressure to submit, uses care and concern as leverage ('I like you'), positions submission as self-care not capitulation"
+    },
+    "sensory_details": [
+      "Coffee shop window view of Turning Torso against gray November sky",
+      "Phone vibrations - constant notifications of group dissolution",
+      "Keycard reader blinking red twice before accepting",
+      "Building glass doors reflecting Saga's approach - small, alone, temporary",
+      "28 floors of stairs - physical exhaustion of resistance",
+      "Enrollment percentage display in lobby - scoreboard",
+      "Cold, heavy feeling in stomach reading building's targeted maintenance notice"
+    ],
+    "visual_metaphors": [
+      "Signal group membership counter dropping in real-time - visible collapse",
+      "Enrollment percentage climbing like scoreboard: 98.4% → 98.6%",
+      "Building reflected in Saga's approach - she's small, it's patient",
+      "Steamroller metaphor (Aisha) - resistance as standing in front of inevitable force",
+      "Rat in maze learning path through shocks (Saga) - training metaphor",
+      "28 floors of stairs - one step at a time - sustainable only temporarily"
+    ],
+    "pacing_techniques": [
+      "Opening with email rejection - immediate institutional failure",
+      "Real-time Signal group dissolution - watching member count drop",
+      "Interspersed messages showing trajectory: hope → outrage → resignation → defection",
+      "Accelerating attrition: 89 → 87 → 84 → 53 → 34 members",
+      "Building to targeted maintenance notices - precision retaliation reveal",
+      "Closing with solitary stair climb - slowed pace matching exhaustion"
+    ],
+    "structural_elements": [
+      "Email/message format for institutional voices - formal, dismissive",
+      "Signal chat format showing real-time group dynamics and dissolution",
+      "Member departure notifications as punctuation - rhythm of collapse",
+      "Direct message from Aisha as transition to in-person conversation",
+      "Enrollment statistics as recurring motif - mathematical pressure"
+    ]
+  },
+
+  "chapter_connections": {
+    "references_to_previous": [
+      "Ch11: Specifications with 'complete' 17 times - submitted to media",
+      "Ch12: Lena's perverse instantiation concept - referenced in understanding system",
+      "Ch12: 'You can't win against infrastructure but you can be right' - echoed and tested",
+      "Ch14 (outline): Signal group formation with 89 members - now dissolving",
+      "Ch6: Viktor's meticulous logs - included in media submission",
+      "Ch10: City mesh network - enables behavioral identification of organizers",
+      "Ch1-ongoing: Saga's incident documentation (now 47th incident)"
+    ],
+    "setup_for_future": [
+      "Ch16: Building behavioral identification of organizers (already revealed here, will intensify)",
+      "Ch17: Viktor hospitalization during elevator malfunction (targeted maintenance planted here)",
+      "Ch17: Escalated pressure on all involved (Aisha's warning, targeted shutdowns)",
+      "Ch17: Lena's funding under review (exhaustion and vulnerability mentioned)",
+      "Ch18: Signal group dissolution (nearly complete here, will finish there)",
+      "Ch18: Viktor telling Saga to let it go (his commitment here makes that reversal meaningful)",
+      "Ch19: Saga considering leaving Malmö (Priya's example plants the option)",
+      "Ch20: Saga's final choice to submit (previous tenant's four-month timeline as foreshadowing)"
+    ]
+  },
+
+  "emotional_beats": {
+    "opening": "Deflation - media rejection after submitting everything",
+    "signal_group_hope": "Looking back at solidarity from nine days ago",
+    "DPA_rejection": "Second institutional door closing",
+    "first_defections": "Understanding beginning - people apologizing, being rational",
+    "services_restored": "Hanna's immediate improvement after enrollment - the system works as designed",
+    "targeted_retaliation": "Cold horror - building knows who organized, applying precision pressure",
+    "accelerating_collapse": "Watching group dissolve in real-time - can't stop it",
+    "aisha_conversation": "Care weaponized - friend arguing for rational surrender",
+    "viktor_commitment": "'Even if it's just the two of us' - isolated determination",
+    "closing": "Exhausted defiance - 28 floors of stairs, one step at a time, unsustainable"
+  },
+
+  "key_images": [
+    "Media rejection email - formal, legal, final",
+    "Signal group member count dropping: 89 → 34",
+    "Member departure notifications appearing rapid-fire",
+    "DPA response screenshot: 'Contact building management directly'",
+    "Enrollment percentage in lobby: 98.6% and climbing",
+    "Aisha and coffee cups - care and pressure",
+    "Turning Torso through window - beautiful, twisted, patient",
+    "Targeted maintenance notice: 'Biometric-enrolled residents will receive priority restoration'",
+    "Keycard blinking red, red, accepted - micro-friction",
+    "Building doors reflecting Saga: small, alone, temporary",
+    "Elevator out of service - 28 floors ahead",
+    "One step at a time up stairs - endurance with expiration date"
+  ],
+
+  "tone_notes": "Determined resistance crumbling into exhaustion. Real-time dissolution of collective action under rational individual pressure. The tragedy of logical capitulation - each person making the right choice for themselves while serving the system's goals. No villains, no heroes, just optimization and the people caught in it. Institutional voices are polite, formal, deflecting. Personal voices are sympathetic, rational, urging surrender. The building is patient. The resisters are temporary. Exhaustion pervades - this is what losing slowly looks like.",
+
+  "key_quotes": [
+    "'Without internal documentation or whistleblower testimony that explicitly demonstrates purposeful design to coerce enrollment, we risk legal liability for publishing speculation.' - Teknisk Tidning rejection",
+    "'We recommend residents experiencing technical difficulties contact their building management directly for resolution.' - Data Protection Authority",
+    "'Endure, document, refuse to let them gaslight you into thinking you're imagining it. That's what we do. It's not heroic. It's not satisfying. But it's the resistance that's available to us.' - Viktor",
+    "'You're not standing on principle. You're standing in front of a steamroller and calling it resistance.' - Aisha",
+    "'I enrolled, and now my life works. My elevator comes. My packages arrive. My apartment is comfortable. I get to focus on my actual life instead of fighting my building.' - Aisha",
+    "'The building is patient. It has time. You don't.' - Aisha",
+    "'Don't let them fragment us. That's the goal. Isolate each person, make the cost individual, force separate capitulation.' - Viktor",
+    "'Even if it's just the two of us.' - Viktor to Saga",
+    "'Biometric-enrolled residents will receive priority restoration. Keycard residents should expect extended service interruption.' - Building management",
+    "'Someone has to witness this.' - Viktor",
+    "'One step at a time. Endure. Document. Refuse to be gaslit. That was the resistance available to her. It didn't feel like much. But it was what she had.' - Saga internal"
+  ],
+
+  "pacing_notes": "Measured collapse - not sudden defeat but slow dissolution witnessed in real-time. Opening with institutional rejections establishes failure, then Signal chat format allows reader to watch group fragment message by message. Accelerating attrition creates momentum toward isolation. Aisha conversation provides human voice urging submission. Final section slows to match exhaustion - solitary walk, stairs, one step at time. Ends not on capitulation but on grim endurance, still resisting but clearly unsustainable.",
+
+  "next_chapter_setup": {
+    "immediate_state": "Saga and Viktor committed to continued resistance despite mass defection",
+    "signal_group": "Down to 34 members and shrinking, likely to continue dissolving",
+    "building_pressure": "Targeted maintenance and service interruptions beginning for identified organizers",
+    "institutional_options": "Completely exhausted - media rejected, DPA deflected, no allies with power",
+    "emotional_trajectory": "Determined exhaustion - will continue but clearly unsustainable",
+    "timeline": "Previous tenant lasted four months - Saga is approaching that threshold",
+    "key_tension": "How much worse can targeted pressure get? (Ch16-17 will answer)",
+    "planted_for_ch16": "Behavioral identification complete, precision targeting beginning, isolation advancing"
+  }
+}

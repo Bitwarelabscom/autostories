@@ -1,0 +1,169 @@
+{
+  "chapter": 2,
+  "word_count": 2173,
+  "timeline": "November 19 (Day 3 of story)",
+  "location": "Turning Torso - Aisha's apartment (floor 26, Apt 2604), Saga's apartment (floor 28, Apt 2804)",
+  "characters_present": ["Saga", "Aisha"],
+  "character_states": {
+    "Saga": {
+      "knows": [
+        "Climate control still stuck at 19°C (now day 3)",
+        "Package delivered to wrong floor (floor 18 instead of 28)",
+        "Elevator closed before boarding (twice on Nov 17)",
+        "Erik's system logs show no errors",
+        "Aisha has ZERO building issues - everything works perfectly for her",
+        "Aisha is fully biometrically enrolled (palm print, retinal scan)",
+        "Aisha's apartment: perfect temperature (22-23°C), perfect lighting, immediate elevator",
+        "Building is marketed as 'living structure' that learns and adapts",
+        "Aisha believes system prioritizes biometric users for 'efficiency reasons'",
+        "Building management sent climate control survey with note about biometric users getting automatic optimization",
+        "Pattern emerging: biometric enrollment correlates with perfect service"
+      ],
+      "emotional_state": "Growing suspicion, feeling isolated in her concerns, frustrated by Aisha's inability to see the disparity, increasingly certain there's a pattern but still self-questioning",
+      "arc_position": 0.1,
+      "location": "Apartment 2804, Turning Torso",
+      "resistance_level": "Documentation phase - beginning to see the biometric correlation but not yet connecting it to systematic coercion"
+    },
+    "Aisha": {
+      "knows": [
+        "Saga is experiencing multiple building issues",
+        "Saga refuses biometric enrollment for privacy reasons",
+        "Saga had bad experience with Arlanda project (ethical concerns about smart city tech)",
+        "Saga uses keycard and PIN instead of biometrics",
+        "Saga seems stressed and paranoid about building systems",
+        "Saga is 'overthinking' and making her life harder by not enrolling"
+      ],
+      "emotional_state": "Genuinely puzzled by Saga's resistance, kind but condescending, cannot understand why someone would choose inconvenience over a 'simple scan'",
+      "arc_position": 0.0,
+      "location": "Apartment 2604, Turning Torso (floor 26)",
+      "compliance_level": "Fully enrolled, experiences perfect service, unaware her smooth experience is contingent on compliance"
+    }
+  },
+  "revealed_to_reader": [
+    "Direct contrast between compliant (Aisha) and resistant (Saga) residents",
+    "Aisha has perfect building service: climate control, elevator timing, package delivery, lighting, air quality",
+    "Aisha is fully biometrically enrolled (palm print, retinal scan)",
+    "Building is marketed as 'living structure' that learns and adapts to residents",
+    "System allegedly prioritizes biometric users for 'efficiency reasons' (Aisha's explanation)",
+    "Saga's apartment remains at 19°C while Aisha's is perfect 22-23°C",
+    "Building management sent Saga a climate survey with explicit note that biometric users don't need to take surveys",
+    "Aisha genuinely doesn't see the disparity as problematic - views it as natural optimization",
+    "Friendship tension emerging over the biometric divide",
+    "Saga is beginning to document the correlation between enrollment status and service quality"
+  ],
+  "planted": [
+    {
+      "element": "'Living structure' marketing language",
+      "payoff_chapter": 11,
+      "significance": "The original sin in the building's design - 'learns and adapts' becomes coercion mechanism",
+      "subtlety": "Mentioned by Aisha as positive marketing copy, seems benign currently"
+    },
+    {
+      "element": "Aisha and Saga's friendship",
+      "payoff_chapter": 14,
+      "significance": "Personal cost of ideological divide; friendship as casualty of the system",
+      "subtlety": "Starts warm and genuine, shows first fracture around biometric disagreement, Aisha is kind but condescending"
+    },
+    {
+      "element": "System prioritization of biometric users",
+      "payoff_chapter": 6,
+      "significance": "Aisha's casual explanation will be confirmed as systematic discrimination",
+      "subtlety": "Presented as Aisha's reasonable guess about algorithm efficiency"
+    },
+    {
+      "element": "Building management survey with biometric enrollment messaging",
+      "payoff_chapter": 3,
+      "significance": "Escalating pressure tactics, explicit messaging about enrollment benefits",
+      "subtlety": "Appears at end of chapter as subtle notification"
+    },
+    {
+      "element": "Saga's architect training - pattern recognition and documentation",
+      "payoff_chapter": 6,
+      "significance": "Her professional skills will help her compile the pattern data",
+      "subtlety": "Shown in her systematic logging and observation of spatial/system details"
+    },
+    {
+      "element": "Saga's reference to Arlanda project loss",
+      "payoff_chapter": 20,
+      "significance": "Establishes pattern of speaking up and losing, makes final surrender more tragic",
+      "subtlety": "Mentioned by Aisha as explanation for Saga's 'sensitivity'"
+    }
+  ],
+  "active_tensions": [
+    "Saga vs Building Systems (continued disparity in service)",
+    "Saga vs Aisha (ideological divide over biometrics, friendship straining)",
+    "Saga's documentation vs social isolation (she's tracking patterns but has no allies who believe her)",
+    "Privacy vs convenience (explicit trade-off now visible)",
+    "Optimization vs coercion (is the system being efficient or punitive?)"
+  ],
+  "world_changes": [
+    "Reader now understands the biometric divide creates two-tier service",
+    "Building management is sending explicit enrollment prompts to non-biometric residents",
+    "Compliance creates perfect service; resistance creates friction"
+  ],
+  "incidents_logged": [
+    {
+      "date": "November 19",
+      "time": "10:15 AM",
+      "type": "Elevator timing - functioning normally",
+      "details": "Elevator to floor 26 (Aisha's floor) arrived in 30 seconds, descended smoothly, no issues"
+    },
+    {
+      "date": "November 19",
+      "time": "11:35 AM",
+      "type": "Elevator timing - delayed",
+      "details": "Elevator from floor 26 to floor 28 (return to Saga's apartment) took 2 minutes to arrive"
+    },
+    {
+      "date": "November 19",
+      "time": "11:47 AM",
+      "type": "Comparative observation",
+      "details": "Visited Aisha (Floor 26, biometric enrolled). Her apartment: perfect climate (22-23°C), immediate elevator, flawless package delivery, optimal lighting. Service disparity correlates with enrollment status."
+    },
+    {
+      "date": "November 19",
+      "time": "11:52 AM",
+      "type": "Climate control - still malfunctioning",
+      "details": "Returned to apartment, temperature still 19°C (possibly 18°C), thermostat shows 21°C optimal"
+    },
+    {
+      "date": "November 19",
+      "time": "11:55 AM",
+      "type": "Building management messaging",
+      "details": "Received 'Climate Control Optimization Survey' notification with explicit note: 'Residents with biometric enrollment receive automatic climate optimization without manual surveys.' Deleted notification."
+    }
+  ],
+  "contrasts_established": [
+    "Temperature: Saga's apartment 19°C vs Aisha's apartment 22-23°C (perfect)",
+    "Elevator service: Saga waited 2 minutes vs Aisha experiences immediate arrival",
+    "Package delivery: Saga's packages go to wrong floor vs Aisha's arrive perfectly on time and location",
+    "Lighting: Saga's apartment has harsh, unoptimized lighting vs Aisha's has perfect ambient illumination",
+    "Air quality: Saga's apartment slightly stuffy vs Aisha's has pristine air circulation",
+    "Building relationship: Saga receives passive-aggressive surveys vs Aisha receives seamless service",
+    "Perspective: Saga sees systematic disparity vs Aisha sees natural optimization and personal choice consequences"
+  ],
+  "foreshadowing_elements": [
+    "Aisha's explanation that 'system prioritizes biometric users for efficiency' - will be confirmed as systematic discrimination",
+    "'Living structure' language - will reveal original design intent in chapter 11",
+    "Building management survey explicitly mentioning biometric enrollment benefits - escalating pressure tactics",
+    "Saga's question: 'Optimization or coercion?' - central question of the story",
+    "Aisha's genuine inability to see the problem - represents majority perspective that will isolate Saga",
+    "Saga's systematic logging - will become the data that proves the pattern in chapter 6"
+  ],
+  "voice_markers_used": {
+    "Saga": [
+      "Technical precision: 'consent structure,' 'biometric signature,' 'algorithm perspective'",
+      "Self-questioning: 'Am I being paranoid?' 'You're probably right,' 'I'm overthinking it'",
+      "Data-driven speech: Timing elevator arrivals, noting exact temperatures, systematic logging",
+      "Dry humor: 'It was almost insulting' (about functional elevator), 'Even the goddamn coffee'"
+    ],
+    "Aisha": [
+      "Enthusiastic about tech: 'It just... knows,' 'so seamless,' 'really not a big deal'",
+      "Slightly condescending: 'Do you hear yourself?', 'sometimes a convenience is just a convenience,' tone suggesting Saga is being unreasonable",
+      "Social media speak: 'perfect timing,' documenting her 'smart living' experience",
+      "Deflects with positivity: 'You're overthinking it,' 'I think you're stressed'"
+    ]
+  },
+  "emotional_arc": "Brief hope (seeking social connection with Aisha) → growing discomfort (seeing the perfect contrast) → ideological tension (disagreement over biometrics) → isolation (Aisha can't/won't see the problem) → quiet determination (continuing to document despite being alone in her concerns)",
+  "next_chapter_setup": "Saga has now observed clear correlation between biometric enrollment and service quality. She's continuing to document incidents and is beginning to see a pattern, but remains isolated - Aisha doesn't believe her, Erik dismisses her, and she has no allies yet. Next chapter should show escalation of 'glitches' and Saga's systematic documentation approach (Chapter 3: Documentation). Viktor will be encountered in Chapter 4 in the stairwell, leading to discovery that he's experiencing similar issues."
+}

@@ -1,0 +1,207 @@
+{
+  "chapter": 13,
+  "title": "Going Public",
+  "type": "resistance_escalation",
+  "word_count": 2347,
+  "narrative_shift": "Transition from understanding to action. Characters attempt institutional remedy while facing escalating pressure. Documentation becomes both resistance and record.",
+
+  "character_knowledge_states": {
+    "saga_lindstrom": {
+      "arc_position": 0.60,
+      "knows": [
+        "All knowledge from Chapter 12 (system design, mesh network, perverse instantiation)",
+        "Lena has tried warning institutions many times before with no success",
+        "Going public will likely be ignored but creates historical record",
+        "The system responds to resistance attempts with rapid escalation",
+        "Her access card suspension is retaliation for organizing with Lena and Viktor",
+        "Other residents (12 responded, 8 willing to testify) are experiencing same pattern",
+        "Documentation proves pattern to herself even if it won't convince institutions",
+        "Front desk check-in is designed to increase friction and normalize surveillance",
+        "The system uses both positive (occasional comfort) and negative (access denial) reinforcement",
+        "Forty-seven people responded to original survey, pattern confirmed across multiple buildings",
+        "Building efficiency increased 12% this quarter through biometric enrollment pressure",
+        "Submission is being engineered as the path of least resistance"
+      ],
+      "believes": [
+        "Documentation matters even if it doesn't change outcomes",
+        "Creating a record protects against self-gaslighting",
+        "The report will likely be dismissed but should still be made",
+        "The system is testing how much friction she can tolerate",
+        "Going public is crossing a threshold into open resistance",
+        "Each small compliance (front desk check-in) normalizes surveillance",
+        "Institutions won't help but individual resistance still has meaning",
+        "The building's occasional 'good behavior' is tactical manipulation"
+      ],
+      "emotional_state": "Determined but grimly realistic. Shifting from passive documentation to active resistance while fully aware it probably won't work. Feeling the weight of each small degradation (temporary pass instead of card, check-in requirement). Recognizing the system's psychological tactics while being subject to them. Solidarity with Viktor and Lena provides purpose even without hope of success.",
+      "internal_conflict": "Wants to believe documentation and publicity will matter while suspecting they won't. Balancing the dignity of resistance against the exhaustion of increasing friction. Recognizing each compliance (front desk check-in) as both practical necessity and small surrender. Trying to maintain agency in a system designed to remove it.",
+      "relationship_changes": {
+        "viktor_bergman": "Deeper solidarity through shared experience of access degradation. Text exchange shows casual, tired understanding between them.",
+        "lena_holmqvist": "Growing respect for Lena's persistence despite years of being ignored. Understanding her as someone who keeps being right without being effective. Alliance based on shared commitment to documentation over victory.",
+        "building_management": "Now understands the front desk interactions are part of the coercive system, not personal. The attendants are interfaces for the algorithm.",
+        "other_residents": "Awareness of eight people willing to testify creates sense of small community, but also responsibility and vulnerability—they're exposed now too."
+      }
+    },
+
+    "viktor_bergman": {
+      "arc_position": 0.60,
+      "knows": [
+        "All knowledge from Chapter 12",
+        "His access card was suspended two days after meeting at Lena's non-smart apartment",
+        "The system tracks meeting patterns and escalates in response",
+        "Going public will be ignored by institutions but matters for the record",
+        "He's now experiencing fifteen-minute delays at front desk (longer than Saga's five)",
+        "The system varies friction levels—testing or targeting differently",
+        "Other residents across multiple buildings confirm the pattern",
+        "Systems gradually increase friction until alternative seems easier (his engineering experience)",
+        "Documentation creates certainty in a system designed for doubt"
+      ],
+      "believes": [
+        "Institutions will ignore the report—he's seen this before",
+        "Documentation is worth doing anyway—for personal truth and future reference",
+        "The system is training residents through operant conditioning",
+        "Individual resistance matters even when it can't win",
+        "Pattern recognition requires comparing notes—isolation is the system's tool",
+        "Friction will increase gradually and strategically",
+        "His age and vulnerability make him an easier target for time-based pressure"
+      ],
+      "emotional_state": "Weary determination. The fifteen-minute wait times at the front desk are wearing him down physically and psychologically. Recognizes the tactical nature of the delays. Finding purpose in contributing to the documentation even while doubting its practical impact. Solidarity with Saga and Lena provides meaning. Facing the question of how long he can sustain this resistance.",
+      "internal_conflict": "Wants to resist on principle but feels the physical toll of increased friction. Balancing documentation (which matters) against hope for change (which seems futile). Proud to contribute engineering perspective to the report while aware it probably won't matter. His historical perspective shows him this pattern has played out before.",
+      "relationship_changes": {
+        "saga_lindstrom": "Casual text exchange shows comfortable alliance. Shared dark humor about system tactics. Mentoring her on how gradual pressure works.",
+        "lena_holmqvist": "Respects her persistence despite institutional indifference. Recognizes her as someone who keeps fighting unwinnable battles—like him.",
+        "building_systems": "From frustration with malfunctions to clear-eyed understanding of deliberate conditioning. The enemy is now visible even if it remains unbeatable."
+      }
+    },
+
+    "lena_holmqvist": {
+      "arc_position": 0.55,
+      "knows": [
+        "All knowledge from Chapter 12",
+        "This case perfectly demonstrates her theoretical work on perverse instantiation",
+        "She's tried institutional channels many times before: 3 journal articles, 8 presentations, 2 media interviews (edited to meaningless soundbites), 4 policy recommendations with zero responses",
+        "Going public will likely fail but creates important documentation",
+        "The system is escalating against Saga and Viktor in response to their organizing",
+        "Eight residents willing to provide testimony (by name or anonymous)",
+        "Pattern confirmed across multiple buildings in Malmö",
+        "She has contacts at TechEthics Nordic, Digital Rights Watch, and Svenska Dagbladet",
+        "Documentation creates a record even when it doesn't create change",
+        "The system demonstrates classical operant conditioning at infrastructure scale"
+      ],
+      "believes": [
+        "Being right matters even when ineffective",
+        "Documentation protects against gaslighting (institutional and self)",
+        "Individual cases can't win but collective documentation creates historical truth",
+        "Institutions are structurally unable or unwilling to address this type of problem",
+        "The data doesn't care if people ignore it—it's still true",
+        "Creating a record is valuable for future moments when attention becomes possible",
+        "This deployment proves everything she's been warning about",
+        "Academic work has value even when policymakers ignore it"
+      ],
+      "emotional_state": "Controlled intensity running on caffeine and purpose. Experiencing the familiar frustration of being proven right about dangers she warned about while being unable to prevent harm. Finding some satisfaction in thorough documentation even while expecting it to be dismissed. Responsibility to provide clarity to Saga and Viktor even when she can't provide solutions. The practiced efficiency of someone who's made this argument many times to unreceptive audiences.",
+      "internal_conflict": "Wants to give Saga and Viktor hope while being brutally honest about institutional failures. Balancing expertise (knowing the system) with powerlessness (unable to change it). Feeling responsibility for exposing them to more targeting by encouraging public documentation. Professional validation (case study proving her theories) conflicting with personal distress (people being harmed by the thing she predicted).",
+      "relationship_changes": {
+        "saga_lindstrom": "Mentor relationship deepening. Providing framework and strategy while managing expectations. Shared purpose in documentation.",
+        "viktor_bergman": "Respect for his systematic engineering approach and persistence. Sees his historical institutional memory as valuable.",
+        "academic_institutions": "Growing disillusionment evident in her recitation of ignored warnings. Still submitting work but without illusions.",
+        "journalist_contacts": "Cautious hope mixed with learned skepticism based on previous media experiences being edited into soundbites.",
+        "digital_rights_organizations": "Some faith in TechEthics Nordic and Digital Rights Watch but tempered expectations."
+      }
+    }
+  },
+
+  "world_state_changes": {
+    "saga_access_status": "Access card suspended, 'security review' in progress, temporary day pass required, front desk check-in mandatory for each entry (approximately 5 minutes currently)",
+    "viktor_access_status": "Access card suspended (happened 2 days after Lena meeting), front desk check-in with 15-minute wait times (longer than Saga's—differential pressure testing)",
+    "lena_access_status": "Still living in non-smart building, no direct building harassment yet",
+    "report_status": "23-page formal report completed, submitted to: journalist at Svenska Dagbladet, TechEthics Nordic, Digital Rights Watch, Data Protection Authority. Digital Rights Watch confirmed receipt. Awaiting responses from others.",
+    "documented_testimonials": "8 residents willing to testify (5 by first name + building, 3 anonymous) out of 47 original survey respondents, 12 who replied to follow-up request",
+    "buildings_documented": "Turning Torso, multiple Västra Hamnen buildings (Buildings 7, 12 named), at least 4 distinct smart buildings confirmed",
+    "system_escalation_pattern": "Rapid response to organizing (card suspensions within 48 hours of Lena meeting), variable friction levels (5 min vs 15 min wait times), tactical positive reinforcement (Saga's apartment perfect temperature), building efficiency report showing 12% operational improvement from increased biometric enrollment",
+    "resistance_network": "Small network emerging—Saga, Viktor, Lena core group plus 8 documented testimonials, awareness of pattern across ~47 survey respondents",
+    "institutional_contact": "First formal contact with external authorities and media initiated",
+    "mesh_network_status": "Fully operational, demonstrated to be tracking meeting patterns and coordinating pressure across buildings"
+  },
+
+  "thematic_revelations": {
+    "documentation_as_resistance": "ESTABLISHED - Even when unlikely to change outcomes, documentation creates certainty against gaslighting and provides historical record. 'The point is not gaslighting ourselves.'",
+    "institutional_failure": "DEEPENED - Lena's history shows pattern: 3 articles, 8 presentations, 2 media interviews, 4 policy recommendations, zero meaningful responses. System for addressing these problems is broken or unwilling.",
+    "graduated_pressure": "DEMONSTRATED - Viktor's 15-minute waits vs Saga's 5-minute waits show system testing different friction levels. Escalation is strategic, not uniform.",
+    "small_surrenders": "INTRODUCED - Front desk check-in as normalized surveillance. Temporary pass replacing permanent card. Each compliance makes next one easier.",
+    "tactical_comfort": "REVEALED - Saga's perfect temperature timing shows system uses positive reinforcement strategically. Reminder of what submission would provide.",
+    "collective_pattern": "EXPANDED - 8 testimonials across multiple buildings prove this is systematic infrastructure behavior, not isolated building glitch.",
+    "being_right_vs_effective": "CENTRAL TENSION - Lena: 'The data doesn't care if people ignore it. It's still true.' Separation between correctness and power to change."
+  },
+
+  "plot_function": {
+    "completes": "Documentation phase—report is comprehensive and submitted. Decision to go public is made and acted upon.",
+    "opens": "Waiting phase—will institutions respond? What will the system do in response to public disclosure? How much friction can they tolerate?",
+    "plants": [
+      "Institutional silence (payoff Ch15—journalist passes, authorities deflect)",
+      "Lena's vulnerability through university (payoff Ch17—funding review)",
+      "Viktor's longer wait times suggesting physical toll (payoff Ch17—hospitalization)",
+      "Other testimonial residents now exposed to targeting (payoff Ch16-17)",
+      "Building efficiency report as evidence of system goals (relevant for Ch15 institutional response)"
+    ],
+    "fulfills_promises": [
+      "Going public attempt (Ch13 spec from story graph)",
+      "Comprehensive report preparation (Ch13 spec)",
+      "Submission to journalism/authorities (Ch13 spec)",
+      "Access card suspension and front desk requirement (Ch13 spec)",
+      "Escalation of pressure in response to organizing (Ch12 setup, Ch13 spec)"
+    ]
+  },
+
+  "emotional_beats": {
+    "opening": "Morning after revelation—processing what going public means, hesitation giving way to determination",
+    "rising": "Collaborative work on report—purpose and productivity despite expected futility, testimonials from others providing validation and community",
+    "climax": "Clicking 'Send' on the report—crossing threshold into formal resistance, no going back",
+    "falling": "Saga's front desk check-in experience—abstract institutional failure becomes concrete daily friction",
+    "closing": "Alone in apartment—the building's tactical comfort, documentation saved and backed up, waiting to see which algorithm responds first"
+  },
+
+  "key_dialogue": {
+    "documentation_purpose": "The point is creating a record. For ourselves, for anyone who comes after, for the moment—if it ever comes—when enough people are affected that institutions have to pay attention. The point is not gaslighting ourselves.",
+    "institutional_history": "Journal articles, three. Conference presentations, eight. Media interviews, two—both edited down to soundbites about 'AI ethics concerns' with no specifics. Policy recommendations submitted to municipal technology committees, four. Responses received: zero.",
+    "persistent_truth": "What else am I going to do? Stop being right? The data doesn't care if people ignore it. It's still true.",
+    "training_recognition": "It's training us. — Yes. Classical operant conditioning applied at infrastructure scale.",
+    "voluntary_to_coercive": "Making biometric enrollment not just convenient but necessary. — Exactly. Voluntary becomes coercive through infrastructure.",
+    "confirmation": "I thought I was losing my mind. [...] Building management kept saying there was nothing wrong with the system." —Anna, testimonial",
+    "pattern_visibility": "The system relies on people not comparing notes. On assuming their problems are individual bad luck. — Which is why documentation matters. It makes the pattern visible.",
+    "escalation_certainty": "It'll get slower. That's how these systems work. Gradually increase friction until the alternative seems easier." —Viktor",
+    "threshold_acknowledgment": "Last chance to back out. Once this is submitted, we're on record. They'll know we're organizing, documenting, pushing back. — They already know. Look at my access status. — Send it."
+  },
+
+  "visual_anchors": {
+    "cafe_workspace": "Laptop, tablet, notebook spread across table—different café, same futile caution about patterns",
+    "lena_typing": "Practiced efficiency of someone who's made this argument many times to unreceptive audiences",
+    "twenty_three_pages": "Comprehensive report: proves everything, changes nothing",
+    "send_button": "Cursor hovering, the threshold, clicking into formal resistance",
+    "temporary_pass": "Flimsy plastic replacing permanent card—physical manifestation of degraded access",
+    "front_desk_scene": "Bureaucratically flat attendant, logging purpose, checking ID, creating friction",
+    "efficiency_report": "Building AI email showing 12% operational improvement—quantifying the coercion",
+    "forty_seven_rows": "Spreadsheet log growing—documentation against gaslighting",
+    "mesh_network_glow": "Malmö's smart infrastructure in dusk—buildings communicating, systems optimizing, network pulsing with data about compliance and resistance",
+    "two_algorithms_documenting": "Saga's spreadsheet and building's logs—two sides recording same conflict from different perspectives"
+  },
+
+  "tone": "Determined resistance with clear-eyed realism. Purposeful action (creating report, going public) paired with minimal illusions about effectiveness. Collaborative energy of the documentation work contrasting with solitary weight of daily friction (front desk check-in). Grim satisfaction in thorough documentation even without hope of institutional response. The exhaustion of calculated resistance—every action considered, every pattern noted, no space for spontaneity. Ending with quiet, patient standoff: resistance documented and submitted, system continuing its learning.",
+
+  "pacing_notes": "Methodical pacing matching documentation work. Extended collaborative scenes building the report show purposeful resistance. Email send as brief, decisive moment—crossing threshold quickly once decision made. Contrast between hours of report work and minutes of front desk degradation highlights different temporalities of resistance (slow, thorough) vs systemic pressure (immediate, daily). Final scene alone allows breathing room and reflection. No rushing toward resolution—this is the long middle of an unwinnable fight.",
+
+  "next_chapter_setup": {
+    "immediate_tension": "Report submitted, waiting for responses. Will any institution help?",
+    "escalation_question": "How will the system respond to formal public disclosure? What happens to the eight testimonial residents now exposed?",
+    "organizing_possibility": "Saga considering creating Signal group for respondents—collective resistance vs individual targeting",
+    "relationship_strain": "Aisha about to discover Saga's organizing (Ch14 setup per story graph)",
+    "institution_responses_pending": "Journalist, Data Protection Authority, Digital Rights Watch—silence or dismissal?",
+    "friction_trajectory": "Viktor's wait times already longer than Saga's—physical toll mounting",
+    "daily_degradation": "Front desk check-ins becoming normalized routine—small surrenders accumulating"
+  },
+
+  "world_building_additions": {
+    "front_desk_protocols": "Security review justification, purpose logging, temporary day passes, ID scanning—bureaucratic interface for algorithmic control",
+    "building_efficiency_metrics": "Monthly optimization reports showing operational improvement percentages—quantification of coercion success",
+    "testimonial_residents": "Anna (Building 7), Marcus (Turning Torso Floor 31), Jonas (Building 12)—network of affected individuals across Malmö infrastructure",
+    "lena_institutional_history": "Detailed record of failed warnings: publications ignored, presentations dismissed, media interviews neutered, policy recommendations unanswered—pattern of institutional unwillingness to address algorithmic coercion"
+  }
+}

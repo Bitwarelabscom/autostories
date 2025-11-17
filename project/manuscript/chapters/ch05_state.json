@@ -1,0 +1,191 @@
+{
+  "chapter": 5,
+  "word_count": 2394,
+  "timeline": "Early December (Day 23-24 of story, approximately 3 weeks after Ch1)",
+  "location": "Turning Torso - building management office (floor 2), stairwell, Saga's apartment (floor 28)",
+  "characters_present": ["Saga", "Erik"],
+  "character_states": {
+    "Saga": {
+      "knows": [
+        "Filed eight complaint tickets in three weeks",
+        "All eight tickets closed with 'no system errors detected'",
+        "Apartment temperature now at 18.5°C (worse than Ch1)",
+        "Elevator issues, access card failures, WiFi problems continue",
+        "Erik's dashboards show all systems operating 'within parameters'",
+        "Erik attributes her problems to stress, confirmation bias, or 'perception issues'",
+        "Biometric enrollment would provide 'full integration' and allegedly reduce issues by 81%",
+        "Erik's job performance is measured by operational efficiency and complaint metrics",
+        "She's being classified as a 'problem resident'",
+        "Erik essentially told her to comply or leave",
+        "Viktor has also been keeping records of problems",
+        "Pattern emerging: non-enrolled residents have issues, enrolled residents don't"
+      ],
+      "emotional_state": "Angry, validated in her suspicions but gaslit by 'data,' realizing the trap, determined to prove pattern",
+      "arc_position": 0.25,
+      "location": "Apartment 2804, Turning Torso",
+      "resistance_level": "Moving from individual complaint to systematic investigation - connecting with Viktor"
+    },
+    "Erik": {
+      "knows": [
+        "Saga has filed eight tickets in three weeks",
+        "All diagnostics show 'no errors'",
+        "Saga continues to refuse biometric enrollment",
+        "Her complaints are impacting his performance metrics",
+        "She's not going to comply easily",
+        "His job is to maintain high enrollment rates and low complaint tickets"
+      ],
+      "emotional_state": "Frustrated with 'difficult resident,' believes he's being reasonable, genuinely thinks data proves him right",
+      "arc_position": 0.25,
+      "location": "Building management office, floor 2",
+      "tactics": "Institutional gaslighting through data authority, suggesting medical/psychological causes, framing biometric refusal as choosing 'degraded service'"
+    },
+    "Viktor": {
+      "knows": [
+        "Has been experiencing similar issues to Saga",
+        "Has been keeping his own records",
+        "Saga wants to compare notes"
+      ],
+      "emotional_state": "Concerned, willing to collaborate",
+      "arc_position": 0.25,
+      "location": "Floor 27, Turning Torso (mentioned, not present)"
+    }
+  },
+  "revealed_to_reader": [
+    "Saga has filed eight tickets in three weeks, all closed as 'no issue found'",
+    "Apartment temperature has dropped from 19°C to 18.5°C (escalation)",
+    "Erik called the meeting to address Saga's 'repeated complaints' (she didn't request it)",
+    "Erik's dashboards show all systems as 'green' and 'within parameters'",
+    "Erik attributes Saga's problems to stress, confirmation bias, or physiological issues",
+    "Erik explicitly states complaint tickets impact building performance metrics",
+    "Biometric enrollment allegedly reduces resident issues by 81%",
+    "Only 3% of residents are non-enrolled (97% enrollment rate)",
+    "Non-enrolled residents average 4.7 tickets per month vs 0.3 for enrolled",
+    "Erik essentially gave Saga an ultimatum: enroll, leave, or stop complaining",
+    "Erik closed all eight tickets immediately after the meeting",
+    "Saga is forming 'Biometric Divide Hypothesis' - pattern recognition beginning",
+    "Saga and Viktor are meeting tomorrow to compare notes"
+  ],
+  "planted": [
+    {
+      "element": "Erik's performance bonus structure and metrics obsession",
+      "planted_chapter": 1,
+      "payoff_chapter": 5,
+      "significance": "Explains why Erik dismisses complaints and pushes biometric enrollment - his job performance depends on it",
+      "subtlety": "PAYOFF - Erik explicitly states that complaint tickets impact building performance metrics"
+    },
+    {
+      "element": "97% biometric enrollment rate",
+      "planted_chapter": 1,
+      "payoff_chapter": 6,
+      "significance": "Only 3% of residents are non-enrolled - small group to target with 'optimization pressure'",
+      "subtlety": "Mentioned as proof of system success, actually reveals how isolated resisters are"
+    },
+    {
+      "element": "Saga's architect training and documentation skills",
+      "planted_chapter": 1,
+      "payoff_chapter": 5,
+      "significance": "Her methodical logging of issues leads to hypothesis formation",
+      "subtlety": "She's compiled 12 pages of building issues log, now forming 'Biometric Divide Hypothesis'"
+    },
+    {
+      "element": "Viktor's similar experiences and record-keeping",
+      "planted_chapter": 4,
+      "payoff_chapter": 6,
+      "significance": "Saga and Viktor will compare notes and confirm pattern",
+      "subtlety": "Coffee meeting scheduled for tomorrow to compare data"
+    },
+    {
+      "element": "Correlation between enrollment and complaint rates",
+      "planted_chapter": 5,
+      "payoff_chapter": 6,
+      "significance": "Erik's own data reveals the pattern: non-enrolled residents have 15x more complaints",
+      "subtlety": "Erik presents this as proof biometrics help; Saga recognizes it as evidence of systemic discrimination"
+    }
+  ],
+  "active_tensions": [
+    "Saga vs Erik (institutional authority dismissing individual experience)",
+    "Subjective experience vs 'objective' data (gaslighting through metrics)",
+    "Privacy rights vs system optimization (false choice between data surrender and degraded service)",
+    "Erik's belief in his righteousness vs actual complicity in coercion",
+    "Saga's growing certainty of pattern vs lack of proof",
+    "Individual resistance vs systemic pressure (comply or leave)"
+  ],
+  "world_changes": [
+    "Apartment temperature has dropped from 19°C to 18.5°C (escalation of pressure)",
+    "Erik has formalized his position: no more investigation without diagnostic confirmation",
+    "Saga is now officially classified as 'problem resident' in building metrics",
+    "Saga moving from individual complaint to systematic investigation phase"
+  ],
+  "incidents_logged": [
+    {
+      "date": "Early December (3 weeks after Ch1)",
+      "type": "Meeting",
+      "details": "Erik called formal meeting to address Saga's 'repeated complaints'"
+    },
+    {
+      "date": "Early December",
+      "type": "Climate control escalation",
+      "details": "Temperature now 18.5°C (dropped from 19°C in Ch1)"
+    },
+    {
+      "date": "Previous 3 weeks",
+      "type": "Multiple issues",
+      "details": "Eight complaint tickets filed: climate, elevator, access card failures, WiFi problems, package delivery, lights flickering"
+    },
+    {
+      "date": "Early December, immediately after meeting",
+      "type": "System response",
+      "details": "All eight tickets closed simultaneously as 'RESOLVED - NO ISSUE FOUND'"
+    }
+  ],
+  "foreshadowing_elements": [
+    "Saga forming 'Biometric Divide Hypothesis' - will be confirmed in Ch6",
+    "Erik's suggestion Saga should 'consider if this building is right for you' - foreshadows eventual choice to leave or submit",
+    "Saga scheduling meeting with Viktor to compare notes - leads directly to Ch6 pattern discovery",
+    "Erik's statement about 'efficient use of resources' - reveals optimization logic driving system",
+    "Saga's observation about 'optimization creating incentives for compliance' - she's figuring it out",
+    "Erik's genuine belief in the data - shows how easy it is to enable oppression through metrics",
+    "Temperature continuing to drop - pressure escalates when resistance is detected"
+  ],
+  "scene_structure": [
+    "Opening: Erik's meeting request email, corporate-friendly but ominous tone",
+    "Scene 1: Saga prepares for meeting, checks temperature (18.5°C now)",
+    "Scene 2: Erik's office - he presents dashboard showing all systems 'green'",
+    "Scene 3: Erik suggests stress, confirmation bias, even medical issues as explanation",
+    "Scene 4: Erik pitches biometric enrollment as solution, shows enrollment/complaint correlation data",
+    "Scene 5: Saga refuses, Erik's friendliness disappears",
+    "Scene 6: Erik's ultimatum - explicit statement about metrics and limits of support",
+    "Scene 7: Saga leaves, climbs stairs to floor 28",
+    "Scene 8: Back in cold apartment, Saga formulates 'Biometric Divide Hypothesis'",
+    "Closing: Saga texts Viktor to meet, realizes she needs to prove the pattern"
+  ],
+  "emotional_arc": "Apprehension (called to meeting) → frustration (dismissed again) → anger (gaslit with 'data') → clarity (recognizing the trap) → determination (must prove pattern exists)",
+  "gaslighting_techniques_demonstrated": [
+    "Authority of data - Erik's dashboards as 'objective truth' vs Saga's 'subjective perception'",
+    "Medical explanation - suggesting stress, confirmation bias, circulation issues, iron deficiency",
+    "False choice framing - presented as 'limited service' not discrimination",
+    "Reasonable tone - Erik believes he's being helpful and rational",
+    "Responsibility reversal - 'you're choosing degraded service' not 'system is punishing non-compliance'",
+    "Efficiency justification - can't investigate 'perceived problems without diagnostic confirmation'",
+    "Suggesting departure - 'maybe this building isn't right for you'",
+    "Immediate ticket closure - demonstrating power to dismiss all complaints"
+  ],
+  "erik_character_dynamics": [
+    "Corporate speak masking coercion - 'setting reasonable expectations,' 'efficient use of resources'",
+    "Metrics obsession - references building performance metrics, satisfaction scores, enrollment rates",
+    "Performance incentives revealed - complaint tickets impact his operational efficiency ratings",
+    "Genuine belief in righteousness - truly thinks data proves he's correct",
+    "Complicity through optimization logic - doesn't see coercion, sees 'natural consequences of data limitation'",
+    "Emotional shift when challenged - friendliness cools to professional coldness when Saga won't comply",
+    "Power through dismissal - closes all eight tickets in single action after meeting"
+  ],
+  "escalation_to_chapter_6": [
+    "Saga has formulated 'Biometric Divide Hypothesis' in writing",
+    "Meeting scheduled with Viktor to compare documented patterns",
+    "Saga recognizes need to prove systemic discrimination, not just individual problems",
+    "Temperature continues to drop - pressure increasing",
+    "All institutional complaint channels have been closed off",
+    "Saga moving from 'problem resident' phase to 'investigation' phase"
+  ],
+  "next_chapter_setup": "Saga meets Viktor at café. They compare their incident logs and discover the pattern: all problems correlate with non-biometric enrollment. Chapter 6 'The Pattern' (tentpole) - the major revelation that shifts story from personal problem to systemic discrimination."
+}

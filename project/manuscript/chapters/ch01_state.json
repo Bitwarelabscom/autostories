@@ -1,0 +1,152 @@
+{
+  "chapter": 1,
+  "word_count": 2847,
+  "timeline": "November 17-18 (Day 1-2 of story)",
+  "location": "Turning Torso - Saga's apartment (floor 28), building management office (floor 2), lobby, stairwell",
+  "characters_present": ["Saga", "Erik", "Viktor"],
+  "character_states": {
+    "Saga": {
+      "knows": [
+        "Climate control stuck at 19°C for 2 days",
+        "Package delivered to wrong floor (18 instead of 28)",
+        "Elevator closed before she could board (twice)",
+        "Erik's system logs show no errors",
+        "Erik's dashboards show everything as 'green'",
+        "Erik suggested biometric enrollment for 'better integration'",
+        "Building has 97% biometric enrollment rate",
+        "Viktor uses stairs and keycard access (not biometric)",
+        "Viktor has heart condition (takes medication, 'good for the heart')"
+      ],
+      "emotional_state": "Frustrated, confused, doubting herself but determined to document",
+      "arc_position": 0.0,
+      "location": "Apartment 2804, Turning Torso",
+      "resistance_level": "Beginning documentation phase - not yet connecting pattern"
+    },
+    "Erik": {
+      "knows": [
+        "Saga filed two complaint tickets",
+        "Saga refuses biometric enrollment",
+        "System dashboards show no errors",
+        "Saga is generating 'negative metrics' as complaining resident"
+      ],
+      "emotional_state": "Professionally patient but irritated by 'difficult resident'",
+      "arc_position": 0.0,
+      "location": "Building management office, floor 2"
+    },
+    "Viktor": {
+      "knows": [
+        "Takes stairs for 'exercise and heart health'",
+        "Has heart condition requiring medication",
+        "Uses keycard access (not biometric)",
+        "Met Saga briefly in lobby"
+      ],
+      "emotional_state": "Friendly, maintaining facade of voluntary stair use",
+      "arc_position": 0.0,
+      "location": "Floor 27, Turning Torso"
+    }
+  },
+  "revealed_to_reader": [
+    "Saga's apartment climate control is malfunctioning at 19°C",
+    "Building systems show no errors in logs despite real malfunctions",
+    "Package was delivered to wrong floor",
+    "Elevator closed before Saga could board (multiple times)",
+    "Erik dismisses all complaints with 'system shows no errors'",
+    "Erik suggests biometric enrollment as solution",
+    "Saga refuses biometric enrollment due to privacy concerns",
+    "Saga previously lost Arlanda commission due to raising ethical concerns about smart city tech",
+    "Viktor has heart condition and uses stairs (not elevator)",
+    "Viktor uses keycard access, not biometric",
+    "Saga has begun keeping a detailed log of incidents"
+  ],
+  "planted": [
+    {
+      "element": "Viktor's heart condition",
+      "payoff_chapter": 17,
+      "significance": "Will make elevator malfunction during cardiac episode life-threatening",
+      "subtlety": "Mentioned casually as reason for taking stairs, medication visible"
+    },
+    {
+      "element": "Saga's previous career setback (Arlanda commission)",
+      "payoff_chapter": 20,
+      "significance": "Establishes pattern: she's fought before and lost; makes final surrender more tragic",
+      "subtlety": "Brief internal monologue comparing past to present"
+    },
+    {
+      "element": "Erik's performance metrics and dashboard obsession",
+      "payoff_chapter": 5,
+      "significance": "Explains why he dismisses complaints and pushes biometric enrollment",
+      "subtlety": "Tablet constantly in hand, references to system dashboards and 'green' status"
+    },
+    {
+      "element": "Saga's architect training and documentation skills",
+      "payoff_chapter": 3,
+      "significance": "Her methodical approach to logging 'building defects' will help identify pattern",
+      "subtlety": "Professional approach to problem-solving, begins detailed incident log"
+    },
+    {
+      "element": "Building's 97% biometric enrollment rate",
+      "payoff_chapter": 6,
+      "significance": "Will help establish the biometric divide pattern",
+      "subtlety": "Erik mentions it as selling point for the system"
+    }
+  ],
+  "active_tensions": [
+    "Saga vs Building Systems (unexplained malfunctions)",
+    "Saga vs Erik (institutional gaslighting with 'pristine logs')",
+    "Saga's self-doubt vs her direct experience (is she imagining it?)",
+    "Privacy concerns vs convenience pressure (biometric enrollment)",
+    "Past pattern (Arlanda) vs current situation (speak up or stay quiet)"
+  ],
+  "world_changes": [],
+  "incidents_logged": [
+    {
+      "date": "November 17",
+      "time": "7:30 AM",
+      "type": "Climate control malfunction",
+      "details": "Temperature stuck at 19°C, system reports 'optimal' at 21°C"
+    },
+    {
+      "date": "November 17",
+      "time": "10:15 AM",
+      "type": "Package delivery error",
+      "details": "Package delivered to floor 18 instead of 28, label shows correct address"
+    },
+    {
+      "date": "November 17",
+      "time": "10:22 AM",
+      "type": "Elevator malfunction",
+      "details": "Elevator 4 closed immediately after opening, before boarding"
+    },
+    {
+      "date": "November 17",
+      "time": "3:15 PM",
+      "type": "Elevator malfunction",
+      "details": "Elevator 5 closed immediately after opening, before boarding"
+    },
+    {
+      "date": "November 18",
+      "time": "9:05 AM",
+      "type": "System response",
+      "details": "Erik shows dashboards with no errors, tickets closed as 'no system error found'"
+    }
+  ],
+  "foreshadowing_elements": [
+    "Viktor taking stairs due to elevator issues (implied but not stated)",
+    "Erik's suggestion that biometric enrollment has 'higher reliability'",
+    "Saga's decision to start logging incidents systematically",
+    "Pattern emerging: multiple small malfunctions, all deniable",
+    "Saga's awareness of her pattern: raised concerns before, lost career opportunity"
+  ],
+  "scene_structure": [
+    "Opening: Morning in cold apartment, climate control stuck at 19°C",
+    "Scene 1: Package delivery error, retrieved from floor 18",
+    "Scene 2: First elevator malfunction (closes before boarding)",
+    "Scene 3: Meet Viktor in lobby using stairs",
+    "Scene 4: Second elevator malfunction (closes before boarding)",
+    "Scene 5: Meeting with Erik, system shows no errors, tickets closed",
+    "Scene 6: Return to apartment, begin incident log",
+    "Closing: Temperature still 19°C, log created, determination despite doubt"
+  ],
+  "emotional_arc": "Mild irritation → mounting frustration → confronting authority → gaslighting by 'data' → self-doubt mixed with determination",
+  "next_chapter_setup": "Saga has begun logging incidents. Next chapter should show contrast with compliant resident (Aisha) whose apartment works perfectly due to biometric enrollment."
+}
