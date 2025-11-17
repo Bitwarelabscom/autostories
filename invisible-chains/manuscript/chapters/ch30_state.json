@@ -1,0 +1,30 @@
+{
+  "chapter": 30,
+  "book": 2,
+  "book_chapter": 10,
+  "title": "Alpha Fugitive",
+  "word_count": 1850,
+  "timeline": "Days 4-10 after exposure (6 days in Sera's room)",
+  "location": "Mother Sera's secret room",
+  "characters_present": ["Elara Quinn", "Mother Sera"],
+  "character_states": {
+    "Elara Quinn": {
+      "knows": ["She's healing - infections cleared, ankle mending", "Jax is using Drift heavily", "Search for her is dying down", "She has a plan: hack the genetic database", "She knows database location, security, has inside contact", "Sera will propose this to Jax tomorrow", "This won't earn forgiveness but it's the right thing", "She's truly changed, not performing anymore"],
+      "emotional_state": "Determined, guilty, resolved to make sacrifice, finding purpose",
+      "arc_position": 0.62,
+      "location": "Sera's secret room",
+      "physical_state": "Healing, permanent limp from ankle, mostly recovered"
+    },
+    "Mother Sera": {
+      "knows": ["Elara's plan to hack genetic database", "Elara has inside contact at SSS", "This is real revolution, blood and sacrifice", "Elara has truly changed, not the same person", "Jax is spiraling on Drift", "Search for Elara is winding down"],
+      "emotional_state": "Impressed by Elara's transformation, willing to help, cautious about revolution's cost",
+      "arc_position": 0.52,
+      "location": "Secret room",
+      "physical_state": "Aging, functional"
+    }
+  },
+  "revealed_to_reader": ["Elara healing in secret for 6 days total", "Elara has plan to hack genetic database at SSS HQ", "She knows location, security protocols, has inside contact with gambling debts", "Jax relapsed heavily on Drift", "Sera will propose plan to Jax tomorrow", "Elara doing this for redemption, not forgiveness", "Elara has truly changed - choosing rebellion over safety"],
+  "planted": [{"element": "Database hack plan", "payoff_chapter": "Book 2, Ch 32", "significance": "The proposition"}, {"element": "Inside contact with gambling debts", "payoff_chapter": "Book 2, Ch 36", "significance": "Finding the weak link"}],
+  "active_tensions": ["Will Jax accept the proposition?", "Heist could fail and kill them all", "Elara sacrificing for people who hate her"],
+  "world_changes": ["Elara has plan to destroy caste system", "Sera will mediate between Elara and Jax", "Elara fully committed to revolution"]
+}

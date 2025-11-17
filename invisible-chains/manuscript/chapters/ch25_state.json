@@ -1,0 +1,134 @@
+{
+  "chapter": 25,
+  "book": 2,
+  "book_chapter": 5,
+  "title": "The Trap Closes",
+  "word_count": 2100,
+  "timeline": "Day before the exposure, evening",
+  "location": "SSS Headquarters Level 1, Free Level Level 9, Level 8 maintenance corridor",
+  "characters_present": ["Director Ashton", "Technician Chen", "Agents Reeves and Sato", "Elara Quinn", "Jax Varro", "Beta technician Martinez"],
+  "character_states": {
+    "Director Ashton": {
+      "knows": [
+        "Exposure broadcast will air tomorrow 0800 hours",
+        "Free Level population is actually 500, not 400",
+        "Quinn used her SSS knowledge to hack station systems for the community",
+        "Tactical team is ready to move after exposure",
+        "Plan is to let Free Level turn on Quinn, then extract her when isolated",
+        "Terminal force is authorized if she won't surrender",
+        "The broadcast cannot be interrupted once it starts"
+      ],
+      "emotional_state": "Cold determination, personal betrayal, controlled rage, bitter hope she'll surrender",
+      "arc_position": 0.2,
+      "location": "SSS Headquarters",
+      "physical_state": "Hands trembling from stress"
+    },
+    "Agents Reeves and Sato": {
+      "knows": [
+        "Broadcast scheduled for tomorrow 0800",
+        "Tactical team positioned and ready",
+        "Population and infrastructure details of Free Level",
+        "Quinn used old access codes to help Free Level hack systems",
+        "Plan is to let community turn on Quinn first",
+        "Sato has doubts about whether this is right"
+      ],
+      "emotional_state": "Professional, Sato increasingly conflicted, Reeves more by-the-book",
+      "arc_position": 0.12,
+      "location": "SSS Headquarters, Level 8 (Sato)",
+      "physical_state": "Healthy, alert"
+    },
+    "Elara Quinn": {
+      "knows": [
+        "Something bad is coming, instincts screaming warnings",
+        "She had nightmare about walls closing in, everything collapsing",
+        "Her bad feeling has only gotten stronger",
+        "She nearly told Jax the truth but couldn't",
+        "She nearly suggested they run but backed down",
+        "She's still hiding her SSS past from Jax",
+        "Secrets eventually surface"
+      ],
+      "emotional_state": "Terrified, paranoid, instincts on fire, guilty, cowardly about confession, trapped",
+      "arc_position": 0.5,
+      "location": "Free Level, in bed with Jax",
+      "physical_state": "Anxiety, nightmares, not sleeping well"
+    },
+    "Jax Varro": {
+      "knows": [
+        "Elara is afraid of something",
+        "She wanted them to leave the Free Level temporarily",
+        "She's not telling him what's wrong",
+        "She says she's fine but isn't"
+      ],
+      "emotional_state": "Concerned about Elara, supportive, confused by her behavior",
+      "arc_position": 0.37,
+      "location": "Free Level, in bed",
+      "physical_state": "Healthy"
+    }
+  },
+  "revealed_to_reader": [
+    "Exposure broadcast is complete and scheduled for tomorrow 0800",
+    "Broadcast text: reveals Elara Frost is really Elara Quinn, SSS Alpha investigator",
+    "Broadcast includes Quinn's official SSS photo",
+    "Broadcast cannot be interrupted once it starts (fail-safes embedded)",
+    "Free Level population is actually 500 residents",
+    "Quinn used her SSS system knowledge to help Free Level hack station infrastructure",
+    "Ashton's plan: let community turn on Quinn, then extract when isolated",
+    "Terminal force authorized if Quinn won't surrender",
+    "Ashton thought of Quinn as a daughter",
+    "Beta technician Martinez will ensure broadcast can't be shut down",
+    "Agent Sato is having serious doubts about the mission",
+    "Elara's instincts are screaming warnings but she can't pinpoint the threat",
+    "Elara nearly confessed to Jax but couldn't",
+    "Elara nearly suggested they run but backed down"
+  ],
+  "planted": [
+    {
+      "element": "Exposure broadcast scheduled for next morning",
+      "payoff_chapter": "Book 2, Chapter 27 (immediate)",
+      "significance": "The betrayal revelation scene"
+    },
+    {
+      "element": "Ashton's plan to extract Quinn when isolated",
+      "payoff_chapter": "Book 2, Chapters 28-30",
+      "significance": "Quinn on the run, hunted"
+    },
+    {
+      "element": "Agent Sato's growing doubts",
+      "payoff_chapter": "Book 3, Chapters 6-7",
+      "significance": "May defect or help revolution"
+    },
+    {
+      "element": "Elara's nightmare about walls closing in",
+      "payoff_chapter": "Book 2, Chapter 27",
+      "significance": "Prophetic dream"
+    },
+    {
+      "element": "Elara nearly confessing but failing",
+      "payoff_chapter": "Book 2, Chapter 27",
+      "significance": "She missed her chance to control the narrative"
+    },
+    {
+      "element": "Terminal force authorization",
+      "payoff_chapter": "Book 2, Chapters 28-30",
+      "significance": "Quinn will be hunted with deadly force"
+    }
+  ],
+  "active_tensions": [
+    "Hours until exposure broadcast",
+    "Elara's instincts warning her versus her inability to act",
+    "Elara's cowardice about confessing versus time running out",
+    "Ashton's personal feelings versus his duty",
+    "Sato's doubts versus her orders",
+    "Free Level's ignorance versus impending revelation",
+    "The trap closing around Elara"
+  ],
+  "world_changes": [
+    "Exposure broadcast is finalized and scheduled",
+    "Fail-safes ensure broadcast cannot be stopped",
+    "Tactical team positioned and ready",
+    "Beta technician Martinez recruited to prevent shutdown",
+    "SSS knows Free Level used old access codes to hack systems",
+    "Terminal force authorized against Quinn",
+    "Less than 12 hours until everything changes"
+  ]
+}

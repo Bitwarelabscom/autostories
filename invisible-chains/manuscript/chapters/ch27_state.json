@@ -1,0 +1,150 @@
+{
+  "chapter": 27,
+  "book": 2,
+  "book_chapter": 7,
+  "title": "The Betrayal Revealed",
+  "word_count": 3400,
+  "timeline": "Morning of exposure, 0800-0900 station time",
+  "location": "Medical clinic, service alleys, forgotten sections of Level 9",
+  "characters_present": ["Elara Quinn", "Jax Varro", "Finn", "Mother Sera", "Kendra", "Marcus", "Free Level residents (crowd)"],
+  "character_states": {
+    "Elara Quinn": {
+      "knows": [
+        "Ashton exposed her identity via broadcast",
+        "Entire Free Level knows she's SSS Alpha investigator",
+        "Community has turned violent against her",
+        "She cut her hands escaping through window",
+        "She sprained/injured her ankle in escape",
+        "Jax knows the truth now",
+        "Jax doesn't believe her, doesn't know what was real",
+        "Jax may hate her",
+        "She's been cast out from Free Level",
+        "She's hunted by the people she tried to save",
+        "She's wanted by SSS for betraying them",
+        "She's trapped between two worlds, accepted by neither",
+        "She has to survive alone now"
+      ],
+      "emotional_state": "Devastated, heartbroken, guilty, desperate, alone, falling apart but forcing herself to survive",
+      "arc_position": 0.55,
+      "location": "Forgotten sections of Level 9",
+      "physical_state": "Hands bleeding from broken glass, sprained ankle, soaked, freezing, exhausted"
+    },
+    "Jax Varro": {
+      "knows": [
+        "Elara confirmed she's SSS Alpha investigator",
+        "She was sent to investigate him 2 years ago",
+        "She claims she fell in love and chose the Free Level over SSS",
+        "She claims she's been lying to SSS to protect them for 2 years",
+        "She loves him (she says)",
+        "But she lied to him every day for 2 years about who she was",
+        "He doesn't know what was real and what was performance",
+        "Mother Sera made her leave to prevent violence",
+        "Elara ran into the deep alleys",
+        "He loved someone who might not have existed"
+      ],
+      "emotional_state": "Shattered, betrayed, numb alternating with rage, heartbroken, lost, feeling foolish",
+      "arc_position": 0.25,
+      "location": "Service alleys, then Mother Sera's quarters",
+      "physical_state": "In shock, functioning on autopilot"
+    },
+    "Finn": {
+      "knows": [
+        "Elara's true identity confirmed",
+        "She was SSS Alpha all along",
+        "Their suspicions were correct but worse than expected",
+        "Jax is devastated",
+        "Elara has been cast out",
+        "Community is unified in anger"
+      ],
+      "emotional_state": "Protective of Jax, vindicated but not happy about it, angry at Elara",
+      "arc_position": 0.33,
+      "location": "Service alleys, then with Jax",
+      "physical_state": "Alert, protective mode"
+    },
+    "Mother Sera": {
+      "knows": [
+        "Elara's true identity",
+        "The crowd would have turned violent if Elara stayed",
+        "Elara had to leave for everyone's safety",
+        "Jax is broken by this betrayal",
+        "Elara claimed she changed, chose the Free Level",
+        "Whether that's true is unclear"
+      ],
+      "emotional_state": "Sad, pragmatic, protective of Jax, breathing labored from exertion",
+      "arc_position": 0.48,
+      "location": "Service alleys, then her quarters with Jax",
+      "physical_state": "Exhausted from pushing through crowd, lungs struggling"
+    }
+  },
+  "revealed_to_reader": [
+    "Elara saw the broadcast in the clinic",
+    "Residents Kendra and Marcus immediately turned violent",
+    "Elara used SSS combat training to disarm them (proves her identity)",
+    "Elara escaped through window, cutting hands, spraining ankle",
+    "Jax confronted her in service alley",
+    "Elara confessed everything: SSS Alpha, sent to investigate, fell in love, lied to SSS for 2 years",
+    "Elara claims everything with Jax was real, investigation was the lie",
+    "Jax doesn't know what to believe",
+    "Jax said 'the person I fell in love with didn't exist'",
+    "Crowd surrounded them, 50-100 angry residents",
+    "Mother Sera forced Elara to leave to prevent violence",
+    "Elara's final words: 'I love you. That was never a lie.'",
+    "Jax responded: 'I don't know what was a lie and what was real'",
+    "Elara ran, crowd pursued, Finn held Jax back",
+    "Elara ended up in forgotten sections, bleeding, injured, alone",
+    "She's trapped between two worlds - cast out from Free Level, wanted by SSS",
+    "Elara chose to survive and keep going despite having lost everything"
+  ],
+  "planted": [
+    {
+      "element": "Elara's injured hands and ankle",
+      "payoff_chapter": "Book 2, Chapters 28-30",
+      "significance": "Will impede her ability to evade pursuit"
+    },
+    {
+      "element": "Elara alone in forgotten sections",
+      "payoff_chapter": "Book 2, Chapters 28-30",
+      "significance": "She's on the run, hunted"
+    },
+    {
+      "element": "Jax not knowing what was real",
+      "payoff_chapter": "Book 2, Chapter 32",
+      "significance": "Core of their reconciliation conflict"
+    },
+    {
+      "element": "Elara vowing to make this right somehow",
+      "payoff_chapter": "Book 2, Chapter 32",
+      "significance": "She'll return with the database hack proposition"
+    },
+    {
+      "element": "Sera's labored breathing from exertion",
+      "payoff_chapter": "Book 3, Chapter 16",
+      "significance": "Her health is failing, foreshadowing death"
+    },
+    {
+      "element": "Elara trapped between two worlds",
+      "payoff_chapter": "Book 2-3",
+      "significance": "Theme of not belonging anywhere until she creates new identity"
+    }
+  ],
+  "active_tensions": [
+    "Jax's heartbreak and inability to trust",
+    "Elara hunted by former friends and SSS",
+    "Elara's injuries impeding escape",
+    "Free Level's betrayal and anger",
+    "Finn's protection of devastated Jax",
+    "Whether Elara's love was real or performance",
+    "Elara's survival alone in hostile environment",
+    "What Ashton will do next"
+  ],
+  "world_changes": [
+    "Elara's identity fully exposed to all of Free Level",
+    "Elara cast out from the community",
+    "Jax and Elara's relationship shattered",
+    "Free Level united in anger against perceived enemy",
+    "Elara is now hunted fugitive from both SSS and Free Level",
+    "Trust in Free Level community is damaged",
+    "Jax's arc toward cynicism and bitterness begins",
+    "Elara's arc toward redemption begins"
+  ]
+}

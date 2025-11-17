@@ -1,0 +1,110 @@
+{
+  "chapter": 28,
+  "book": 2,
+  "book_chapter": 8,
+  "title": "Hunted",
+  "word_count": 2500,
+  "timeline": "3 days after exposure (Chapter 27)",
+  "location": "Forgotten sections of Level 9, Mother Sera's secret room",
+  "characters_present": ["Elara Quinn", "Mother Sera", "search parties (heard)"],
+  "character_states": {
+    "Elara Quinn": {
+      "knows": [
+        "She's been hiding for 3 days in forgotten sections",
+        "Her hands are infected, ankle probably fractured",
+        "Former friends are hunting her with intent to kill",
+        "Finn is among those searching for her",
+        "Jax wants to talk to her (reported by searchers)",
+        "Mother Sera found her and is helping her",
+        "Sera gave her antibiotics, bandaged her wounds, hid her",
+        "Sera believes she chose to become their friend",
+        "Sera says community needs her whether they know it",
+        "She has one chance to figure out how to make things right",
+        "Without antibiotics she would have died from sepsis"
+      ],
+      "emotional_state": "Desperate, infected, feverish, heartbroken, given small hope by Sera's help",
+      "arc_position": 0.58,
+      "location": "Sera's secret room",
+      "physical_state": "Infected hands, fractured ankle, fever, sepsis beginning, now treated with antibiotics"
+    },
+    "Mother Sera": {
+      "knows": [
+        "Elara is badly injured and would die without help",
+        "Elara is being hunted by Free Level residents",
+        "Elara's story - chose community over SSS, filed false reports for 2 years",
+        "Jax is devastated and may or may not forgive her",
+        "Community is hurt, not just angry - there's a difference",
+        "Elara has a chance to make things right if she figures out how",
+        "She's giving Elara shelter in her secret room"
+      ],
+      "emotional_state": "Pragmatic, wise, protective, testing Elara's commitment",
+      "arc_position": 0.5,
+      "location": "Secret room, then her quarters",
+      "physical_state": "Aging, breathing labored, but functional"
+    },
+    "Jax Varro": {
+      "knows": [
+        "Elara is somewhere in Level 9",
+        "He wants to talk to her (per search party conversation)",
+        "Unknown what he wants to say to her"
+      ],
+      "emotional_state": "Unknown this chapter, dealing with betrayal",
+      "arc_position": 0.25,
+      "location": "Free Level",
+      "physical_state": "Unknown"
+    }
+  },
+  "revealed_to_reader": [
+    "Elara spent 3 days hiding in forgotten sections",
+    "Her injuries became infected, she was dying",
+    "Former friends are actively hunting her to kill her",
+    "Finn is among the searchers",
+    "Search parties report 'Jax wants to talk to her himself'",
+    "Elara has emergency pack with 3 days of supplies (now depleted)",
+    "Mother Sera has a secret room no one else knows about",
+    "Sera found Elara collapsed and brought her to safety",
+    "Sera gave her proper medical care - antibiotics, clean bandages",
+    "Sera believes Elara chose to become their friend, wasn't always enemy",
+    "Sera sees the community as 'hurt' not just 'angry'",
+    "Sera challenges Elara to find a way to make things right",
+    "Sera says community needs Elara whether they realize it",
+    "Elara has small hope for the first time since exposure"
+  ],
+  "planted": [
+    {
+      "element": "Sera's secret room where no one can find Elara",
+      "payoff_chapter": "Book 2, Chapters 29-32",
+      "significance": "Safe space for Elara to heal and plan"
+    },
+    {
+      "element": "Jax wanting to talk to Elara",
+      "payoff_chapter": "Book 2, Chapter 32",
+      "significance": "Sets up their eventual confrontation/proposition"
+    },
+    {
+      "element": "Sera saying community is 'hurt' not just 'angry'",
+      "payoff_chapter": "Book 2, Chapter 32",
+      "significance": "Hope for eventual reconciliation"
+    },
+    {
+      "element": "Sera challenging Elara to figure out how to make it right",
+      "payoff_chapter": "Book 2, Chapter 32",
+      "significance": "Elara will come up with database hack plan"
+    }
+  ],
+  "active_tensions": [
+    "Elara recovering but still hunted",
+    "Jax wants to talk to her - unknown intent",
+    "Community actively searching to kill her",
+    "Sera helping in secret - dangerous if discovered",
+    "Elara needs to figure out how to make amends",
+    "Trust is broken, unclear if repairable"
+  ],
+  "world_changes": [
+    "Elara found sanctuary with Mother Sera",
+    "Sera is now secretly helping Elara",
+    "Elara's injuries are being treated, won't die of sepsis",
+    "Search for Elara is ongoing and intense",
+    "Jax specifically wants to talk to Elara (motive unknown)"
+  ]
+}

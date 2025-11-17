@@ -1,0 +1,200 @@
+{
+  "chapter": 41,
+  "book": 3,
+  "book_chapter": 1,
+  "word_count": 1776,
+  "timeline": "Saturday, 48 hours after Harris's offer, Month 58 of experiment",
+  "location": "Reed's apartment, Sector 12 common area",
+  "characters_present": ["Reed Salazar", "Executive Director Harris (phone only)", "Dr. Amara Osei", "Marcus Ibrahim", "Yuki Tanaka", "Shen", "300+ Sector 12 residents"],
+  "character_states": {
+    "Reed Salazar": {
+      "knows": [
+        "He refused Harris's offer at 2 PM deadline",
+        "All accounts frozen immediately - 847K credits locked",
+        "UBI ended abruptly today, no transition",
+        "Corporate forensics broke his encryption in under a minute",
+        "Has 2-3 months to live max",
+        "Has ~2,000 personal credits from old dealing days",
+        "Criminal investigation opened, 72 hours to report for questioning",
+        "Sector 12 organizing to sustain without UBI",
+        "Amara offering 73K credits for documentation project",
+        "He's visible now - no more hiding",
+        "Has limited time to document everything"
+      ],
+      "emotional_state": "Clear purpose. Accepted death. No regrets. Focused on legacy. Finding peace in the choice. Dark humor about dying before trial.",
+      "arc_position": 0.90,
+      "location": "His apartment, community meeting, back to apartment",
+      "physical_state": "Deteriorating - hands shaking worse, kidneys failing faster, using more Leveler, burning out"
+    },
+    "Dr. Amara Osei": {
+      "knows": [
+        "Reed refused the offer",
+        "Accounts frozen, UBI ended",
+        "Reed has 2-3 months left",
+        "Wants to spend her savings documenting the experiment",
+        "Criminal investigation targeting Reed",
+        "Sector 12 sustaining through organizing",
+        "This is the final phase"
+      ],
+      "emotional_state": "Committed, fierce, relieved Reed chose truth, ready to document everything to the end",
+      "arc_position": 0.90,
+      "location": "Community meeting, coordinating with Reed",
+      "physical_state": "Functional, determined"
+    },
+    "Executive Director Jonathan Harris": {
+      "knows": [
+        "Reed refused the offer",
+        "Triggered account freeze immediately",
+        "UBI ended as consequence",
+        "Criminal investigation opened",
+        "Reed choosing death over cooperation",
+        "Can't buy Reed's compliance"
+      ],
+      "emotional_state": "Frustrated, losing friendly mask, threatening, still believes he's right",
+      "arc_position": 0.22,
+      "location": "Corporate offices"
+    },
+    "Marcus Ibrahim": {
+      "knows": [
+        "UBI has ended",
+        "Community has infrastructure to sustain",
+        "Cross-sector organizing continues",
+        "They have each other and cooperative structures"
+      ],
+      "emotional_state": "Calm leadership, organizing response, helping community adapt",
+      "arc_position": 0.65,
+      "location": "Leading community meeting"
+    },
+    "Yuki Tanaka": {
+      "knows": [
+        "UBI ended but cooperatives exist",
+        "Art classes can continue through community support",
+        "The infrastructure they built is real"
+      ],
+      "emotional_state": "Resilient, contributing to collective response",
+      "arc_position": 0.70,
+      "location": "Community meeting"
+    }
+  },
+  "revealed_to_reader": [
+    "Reed called Harris at exactly 2 PM (deadline) to refuse",
+    "All accounts frozen within 17 seconds of refusal",
+    "Corporate forensics immediately broke Reed's encryption",
+    "847,000 credits reduced to zero instantly",
+    "UBI ended today, abruptly, no transition",
+    "Reed has ~2,000 personal credits from old dealing",
+    "Corporate opened formal criminal investigation",
+    "72-hour deadline to report for questioning",
+    "Investigation will outlast Reed's life (dark irony)",
+    "Community meeting: 300+ people organizing response",
+    "Sector 12 has cooperatives, mutual aid, infrastructure built over 2 years",
+    "No chaos despite abrupt ending - people organizing",
+    "Amara has 73,000 credits saved, offering for documentation",
+    "Documentation project: record everything in final 2 months",
+    "Reed started writing 'The Salazar Experiment: A Complete Accounting'",
+    "Reed wrote 17,000 words through the night",
+    "Multiple encrypted backups to preserve truth",
+    "Sector 12 woke up to first day without UBI and started organizing"
+  ],
+  "planted": [
+    {
+      "element": "Documentation project with Amara's funding",
+      "payoff_chapter": "Book 3 Ch 16-17 - Final Project, The Recording",
+      "significance": "Creating permanent record of experiment"
+    },
+    {
+      "element": "2-3 months to live timeline",
+      "payoff_chapter": "Book 3 Ch 18-20 - Last Days, Marco's Brother, Legacy",
+      "significance": "Countdown to Reed's death"
+    },
+    {
+      "element": "'The Salazar Experiment' manuscript",
+      "payoff_chapter": "Book 3 Ch 20 - Legacy (published posthumously)",
+      "significance": "Truth preserved in Reed's words"
+    },
+    {
+      "element": "Criminal investigation outlasting Reed's life",
+      "payoff_chapter": "Book 3 Ch 20 - darkly ironic footnote in epilogue",
+      "significance": "Corporate absurdity"
+    },
+    {
+      "element": "Community organizing without UBI immediately",
+      "payoff_chapter": "Book 3 Ch 6, 12 - proves experiment transcended money",
+      "significance": "Movement self-sustaining"
+    },
+    {
+      "element": "Cooperatives and mutual aid built over 2 years",
+      "payoff_chapter": "Book 3 Ch 6 - Seeding Cooperatives, Ch 12 - UBI Ends",
+      "significance": "Infrastructure exists to sustain"
+    }
+  ],
+  "active_tensions": [
+    "Can Reed complete documentation before dying?",
+    "Will Sector 12 sustain without UBI?",
+    "Will corporate arrest Reed before he finishes?",
+    "How fast will Reed's health decline?",
+    "Can the truth be preserved?",
+    "Will cooperatives work long-term?",
+    "What will Reed's final legacy be?"
+  ],
+  "world_changes": [
+    "UBI experiment officially ended (accounts frozen)",
+    "Reed's identity and actions now fully exposed",
+    "Criminal investigation opened formally",
+    "Sector 12 transition begins (abrupt, not planned)",
+    "Community immediately mobilizing cooperative response",
+    "Documentation project begun",
+    "Reed's final countdown started",
+    "Corporate's friendly approach failed, shifting to legal threat"
+  ],
+  "continuity_notes": [
+    "Timeline: Saturday, 2 PM, 48 hours after offer",
+    "Month 58 of experiment (experiment ended at Month 58)",
+    "Reed's funds: 847K → 0 (frozen), plus 2K personal",
+    "Amara's funds: 73K available for documentation",
+    "Life expectancy: 2-3 months (stressed kidneys, increased Leveler use)",
+    "Reed age: still 36-37",
+    "Accounts frozen within 17 seconds of refusal",
+    "Corporate forensics override was prepared in advance",
+    "Community meeting: 300+ people in common area",
+    "Criminal investigation: 72-hour reporting deadline",
+    "Reed's manuscript started: 'The Salazar Experiment: A Complete Accounting'",
+    "First night: 17,000 words written",
+    "Multiple encrypted backups created",
+    "Sector 12 infrastructure: cooperatives, childcare collective, food distribution, skill-sharing"
+  ],
+  "voice_check": {
+    "Reed": "Clear-eyed acceptance, dark humor ('arrest a corpse'), focused purpose, no fear",
+    "Amara": "Fierce determination, practical planning, protective",
+    "Harris": "Friendly mask dropping, threatening, frustrated",
+    "Marcus": "Calm leadership, organizing voice, reassuring community"
+  },
+  "themes_advanced": [
+    "Choosing death with meaning over life with complicity",
+    "Truth as final weapon",
+    "Community resilience vs individual sacrifice",
+    "Documentation as resistance",
+    "Immediate corporate punishment for refusal",
+    "Movement transcending money",
+    "Legacy through truth-telling"
+  ],
+  "emotional_beats": [
+    "Reed's refusal - clear choice",
+    "Accounts freezing in 17 seconds - corporate vengeance",
+    "Community meeting organizing - hope",
+    "Amara offering her savings - partnership",
+    "Criminal investigation notice - dark humor",
+    "Writing through the night - urgency",
+    "17,000 words by dawn - dedication",
+    "Sector 12 organizing first day without UBI - proof"
+  ],
+  "setup_for_next_chapters": [
+    "Documentation project underway",
+    "Criminal investigation looming",
+    "Reed's health will decline rapidly",
+    "Community building cooperative infrastructure",
+    "Amara supporting the project",
+    "2-month countdown to Reed's death",
+    "Truth preservation becoming primary goal"
+  ]
+}

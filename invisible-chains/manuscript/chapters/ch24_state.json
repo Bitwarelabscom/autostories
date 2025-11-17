@@ -1,0 +1,102 @@
+{
+  "chapter": 24,
+  "book": 2,
+  "book_chapter": 4,
+  "title": "Finn's Heartbreak",
+  "word_count": 2150,
+  "timeline": "Same night as Chapters 22-23",
+  "location": "Free Level market, storage rooms, Level 9",
+  "characters_present": ["Finn", "Jax Varro", "Elara Quinn (mentioned/end)"],
+  "character_states": {
+    "Finn": {
+      "knows": [
+        "They're in love with Jax, have been for years",
+        "Jax knows now - the secret is out between them",
+        "Jax loves Elara, not them",
+        "Elara has noticed Finn's distance and cares enough to worry",
+        "The pain isn't going away",
+        "They need space to cope",
+        "They won't risk the friendship by pushing for more",
+        "Jax considers them family"
+      ],
+      "emotional_state": "Heartbroken, trying to cope, putting on a brave face, drinking to numb pain, grateful and resentful of kindness",
+      "arc_position": 0.32,
+      "location": "Storage rooms, Free Level",
+      "physical_state": "Hungover, emotionally exhausted, functional"
+    },
+    "Jax Varro": {
+      "knows": [
+        "Finn is in love with him",
+        "Finn has been suffering for years in silence",
+        "Finn is happy for him and Elara despite the pain",
+        "Finn needs space to process",
+        "Finn is one of the most important people in his life"
+      ],
+      "emotional_state": "Sympathetic, guilty, caring, worried about Finn",
+      "arc_position": 0.37,
+      "location": "Free Level",
+      "physical_state": "Healthy"
+    },
+    "Elara Quinn": {
+      "knows": [
+        "Finn has been distant for two years",
+        "Something is bothering Finn",
+        "Finn avoids her and Jax together",
+        "Likely figured out Finn's feelings (implied by her noting the distance)"
+      ],
+      "emotional_state": "Concerned about Finn, caring, wants to help",
+      "arc_position": 0.5,
+      "location": "Free Level",
+      "physical_state": "Healthy"
+    }
+  },
+  "revealed_to_reader": [
+    "Finn has been in love with Jax for years",
+    "Finn never planned to tell Jax, wanted to preserve friendship",
+    "Finn has been suffering silently for 2 years watching Jax and Elara together",
+    "Jax figured it out and confronted Finn",
+    "Finn admitted their feelings but told Jax to let it go",
+    "Finn is genuinely happy for Jax's happiness despite their pain",
+    "Finn uses work to cope, has been drinking alone",
+    "Elara noticed Finn's distance and is concerned",
+    "Elara left water, meds, and kind note for hungover Finn",
+    "Finn is trying to 'make the best of it' and cope with unrequited love",
+    "Finn considers themselves as collecting 'broken things nobody wanted'"
+  ],
+  "planted": [
+    {
+      "element": "Finn's unrequited love finally revealed to Jax",
+      "payoff_chapter": "Book 3, Chapter 16",
+      "significance": "During Sera's death, Finn finally lets go of this love, resolution"
+    },
+    {
+      "element": "Finn's pain and loyalty coexisting",
+      "payoff_chapter": "Book 3, Chapters 15-17",
+      "significance": "Finn's loyalty will drive them to become military leader in revolution"
+    },
+    {
+      "element": "Elara's kindness toward Finn despite the complicated dynamic",
+      "payoff_chapter": "Book 2-3",
+      "significance": "Builds foundation for eventual friendship between them"
+    },
+    {
+      "element": "Finn's identity as collector of 'broken things'",
+      "payoff_chapter": null,
+      "significance": "Character depth, explains their role as protector/gatherer"
+    }
+  ],
+  "active_tensions": [
+    "Finn's unrequited love versus their loyalty to Jax",
+    "Finn's pain versus their need to pretend to be fine",
+    "Jax's guilt versus his happiness with Elara",
+    "Finn's gratitude for Elara's kindness versus resentment of her existence",
+    "Finn's need for space versus the close-knit Free Level community",
+    "Finn's drinking as coping mechanism"
+  ],
+  "world_changes": [
+    "Jax now knows about Finn's feelings",
+    "The dynamic between Finn, Jax, and Elara is now openly complicated",
+    "Finn has explicitly stated they need space but will continue supporting Jax",
+    "Elara is aware something is wrong with Finn and is reaching out"
+  ]
+}

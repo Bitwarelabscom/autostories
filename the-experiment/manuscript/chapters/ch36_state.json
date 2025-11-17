@@ -1,0 +1,179 @@
+{
+  "chapter": 36,
+  "book": 2,
+  "book_chapter": 16,
+  "word_count": 2315,
+  "timeline": "Month 53-54 of the experiment, ~4 months after Chapter 32",
+  "location": "Memorial corridor (Marco's plaque), transition to walking together",
+  "characters_present": ["Reed Salazar", "Dr. Amara Osei", "Marco Salazar (memorial only)"],
+  "character_states": {
+    "Reed Salazar": {
+      "knows": [
+        "Amara has identified him with 94.3% probability",
+        "She's known for 3-4 weeks",
+        "She's choosing not to report him",
+        "Has ~2M credits left (~4 months of funding)",
+        "Dying from Leveler poisoning (kidney failure)",
+        "Has months to a year left if he stops using (can't stop)",
+        "Corporate is preparing to make an offer",
+        "Amara wants to partner with him to finish properly",
+        "He's 36 years old, Marco died when both were 25",
+        "The experiment has transcended him"
+      ],
+      "emotional_state": "Vulnerable but relieved. Finally not alone. Scared but accepting. Finding connection after years of isolation. Grief for Marco mixed with hope for meaning.",
+      "arc_position": 0.80,
+      "location": "Memorial corridor, then walking with Amara",
+      "physical_state": "Visibly dying - shaking hands, thin, exhausted, kidneys failing from Leveler overuse"
+    },
+    "Dr. Amara Osei": {
+      "knows": [
+        "Reed is the benefactor (94.3% probability, effectively certain)",
+        "He's dying from Leveler poisoning",
+        "Has months left to live",
+        "Started experiment impulsively after finding corporate black ops money",
+        "His brother Marco died at 25 from overwork",
+        "Reed has 4 months of funding left",
+        "Corporate will make Reed an offer soon",
+        "Reed plans to refuse the offer",
+        "The experiment succeeded beyond the money"
+      ],
+      "emotional_state": "Conflicted but decided. Choosing protection over reporting. Determined to help Reed finish properly. Committed to preserving the truth.",
+      "arc_position": 0.80,
+      "location": "Memorial corridor, then walking with Reed",
+      "physical_state": "Exhausted from weeks of knowing and deciding, but resolute"
+    },
+    "Marco Salazar": {
+      "knows": [],
+      "emotional_state": "Dead",
+      "arc_position": null,
+      "location": "Memorial plaque",
+      "physical_state": "Died at 25 from overwork (2950, eleven years before current timeline)"
+    }
+  },
+  "revealed_to_reader": [
+    "Amara identified Reed through economic modeling (94.3% probability)",
+    "She's known for 3-4 weeks but didn't report him",
+    "Reed stands at Marco's plaque every Tuesday - has for 5 years",
+    "Marco died at 25 in 2950, Reed was also 25 when Marco died",
+    "Reed found money from corporate courier who died in his building",
+    "500M credits in corporate black ops funds on data chip",
+    "Reed started experiment impulsively while high on Leveler at 3 AM",
+    "Previous trial acquitted Reed on technicality - encryption held",
+    "Corporate knew it was Reed but couldn't prove it legally",
+    "Reed is dying from Leveler poisoning (kidney failure)",
+    "Has months to a year left if he stops (can't stop - needs it for encryption work)",
+    "Reed has ~2M credits left (~4 months of funding)",
+    "Amara chooses to protect Reed rather than report him",
+    "They become partners to document and finish experiment properly",
+    "Reed promises to tell Amara before responding to corporate's offer",
+    "Corporate has been sending messages about making an offer",
+    "Reed plans to refuse the offer",
+    "Amara lost tenure for publishing research",
+    "Amara from Sector 8, escaped through education, carries guilt"
+  ],
+  "planted": [
+    {
+      "element": "Marco's death motivating everything",
+      "payoff_chapter": "Book 3 Ch 19 - Marco's Brother",
+      "significance": "Reed's entire arc motivated by proving brother's death was unnecessary"
+    },
+    {
+      "element": "4 months of funding remaining",
+      "payoff_chapter": "Book 2 Ch 20, Book 3 Ch 1",
+      "significance": "Timeline to critical decision point"
+    },
+    {
+      "element": "Corporate's coming offer",
+      "payoff_chapter": "Book 2 Ch 20 - Forty-Eight Hours",
+      "significance": "The deal that will test Reed's commitment"
+    },
+    {
+      "element": "Reed and Amara as partners now",
+      "payoff_chapter": "Book 2 Ch 17-18 - Collaboration and Connection, Book 3 ongoing",
+      "significance": "Reed no longer alone in final months"
+    },
+    {
+      "element": "Reed's kidney failure from Leveler",
+      "payoff_chapter": "Book 3 Ch 2 - Health Crisis",
+      "significance": "Physical cost of the experiment"
+    },
+    {
+      "element": "Amara's commitment to preserving the truth",
+      "payoff_chapter": "Book 3 Ch 13, Ch 20 - Her book/legacy work",
+      "significance": "Ensuring the story survives Reed"
+    },
+    {
+      "element": "Reed's Tuesday ritual at Marco's plaque",
+      "payoff_chapter": "Book 3 Ch 19 - Final thoughts of Marco",
+      "significance": "Ongoing connection to original motivation"
+    }
+  ],
+  "active_tensions": [
+    "Will Reed refuse corporate's offer when it comes?",
+    "Can they finish documenting in 4 months?",
+    "Will Reed survive the 4 months?",
+    "What will corporate offer exactly?",
+    "Can the data be protected after Reed's gone?",
+    "Will Amara's choice to protect Reed cost her everything?",
+    "Can Sector 12 sustain after payments end?"
+  ],
+  "world_changes": [
+    "Reed's identity confirmed to Amara",
+    "Amara now actively collaborating with Reed instead of just documenting",
+    "Partnership formed to properly finish and document experiment",
+    "Reed no longer alone in the work",
+    "Timeline set: 4 months until money runs out",
+    "Amara committed to protecting Reed from authorities",
+    "The truth of the origin story now known to someone Reed trusts"
+  ],
+  "continuity_notes": [
+    "Timeline: Month 53-54, approximately 4 months after Ch 32",
+    "Reed age: 36 (started experiment at ~30-31)",
+    "Marco died in 2950 at age 25, Reed was 25 when Marco died",
+    "Eleven years between Marco's death and current timeline (2961 current year)",
+    "Reed has stood at Marco's plaque every Tuesday for 5 years",
+    "Reed's funds: ~2M credits remaining (~4 months of payments)",
+    "Original amount: 500M credits in corporate black ops fund",
+    "Amara's probability model: 94.3% Reed is source",
+    "Amara has known for 3-4 weeks before confrontation",
+    "Previous trial acquitted on technicality (encryption held)",
+    "Current Sector 12 stats: Crime down 73%, Health up 84%, Community formation up 428%",
+    "Reed's condition: Kidney failure from Leveler overuse, months to year left",
+    "Memorial plaque text: 'Marco Salazar, 2925-2950, Early Resource Reallocation'"
+  ],
+  "voice_check": {
+    "Reed": "Vulnerable honesty, dark humor about dying, accepting of consequences, yearning for meaning in brother's death",
+    "Amara": "Professional analysis shifting to personal commitment, direct questions, choosing ethics over career",
+    "Narrative": "Intimate, quiet moments, memorial corridor as confessional space"
+  },
+  "themes_advanced": [
+    "Isolation vs connection in resistance",
+    "Cost of carrying truth alone",
+    "Choosing complicity or action",
+    "Academic observation vs participation",
+    "Meaning through sacrifice",
+    "Brother's death as motivation",
+    "Love as revolutionary act (choosing to protect Reed)"
+  ],
+  "emotional_beats": [
+    "Amara saying his full name - being seen",
+    "Reed telling the real origin story - vulnerability",
+    "Marco's plaque as witness - grief",
+    "Amara asking 'why didn't you ask for help' - care",
+    "Reed admitting he's dying - acceptance",
+    "Amara choosing not to report - trust",
+    "Reed asking 'Why?' - not understanding love",
+    "Amara holding his shaking hands - connection",
+    "Becoming partners - no longer alone",
+    "Walking away from memorial together - moving forward"
+  ],
+  "setup_for_next_chapters": [
+    "Reed and Amara working together openly now",
+    "Corporate's offer will come soon",
+    "4-month timeline to document everything",
+    "Reed's health will decline further",
+    "Encryption architecture needs protecting",
+    "Their relationship will deepen (Ch 17-18)",
+    "Corporate will make the offer (Ch 20)"
+  ]
+}

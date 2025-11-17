@@ -1,0 +1,165 @@
+{
+  "chapter": 36,
+  "book": 2,
+  "word_count": 2754,
+  "timeline": "Several weeks after Ch 32 (Age 38)",
+  "location": "Maintenance tunnels and hidden safe house in Level 8",
+  "characters_present": ["Nico Chen", "Kade Rivera", "Maya Torres", "Lin Zhao"],
+  "character_states": {
+    "Nico Chen": {
+      "age": 38,
+      "knows": [
+        "Kade relapsed hard - triple-concentrated Veil vape and injection",
+        "Kade almost died from respiratory depression",
+        "Maya risked her position to save Kade",
+        "Using comm even briefly risks SSS tracking",
+        "Kade had never been truly sober, just functional",
+        "He himself is still using daily, not sober",
+        "Withdrawal is torture but survivable",
+        "Using while Kade needs monitoring could kill them both",
+        "Addiction is lying when it says he can't function without using",
+        "47 dead weighing on everyone, 48th death narrowly avoided",
+        "He has to choose between using and being present",
+        "He's capable of being better than he believes"
+      ],
+      "emotional_state": "Terrified for Kade, confronting own addiction, choosing pain over numbness, suffering withdrawal symptoms",
+      "arc_position": 0.68,
+      "physical_state": "7 hours since last hit, hands shaking badly, experiencing withdrawal (panic, racing heart, sweating), stayed sober through crisis",
+      "current_resources": "Hidden in safe house, limited medical supplies, vape pen untouched (placed across room)",
+      "relationships_changed": "Deep bond with Kade shown through crisis, Lin serving as conscience, Maya exhausted and hardened",
+      "key_realization": "Using = choosing not to be present when people need him; addiction is simple (not easy) choice; being alive matters",
+      "status": "Fugitive in hiding, monitoring Kade's recovery, chose not to use during withdrawal crisis",
+      "transformation": "First time choosing sobriety (even temporary) through crisis rather than using to function"
+    },
+    "Kade Rivera": {
+      "age": 44,
+      "knows": [
+        "He overdosed on triple-concentrated Veil (vape and injection)",
+        "Nearly died - blue lips, barely breathing, pinpoint pupils",
+        "Nico and Maya saved him with naloxone",
+        "In severe withdrawal, risk of seizures or death for 24 hours",
+        "47 deaths broke him worse than he admitted",
+        "He apologized to Nico",
+        "They're both spectacularly fucked up but alive"
+      ],
+      "emotional_state": "Broken by guilt over 47 dead, apologetic, miserable in withdrawal, grateful to be alive",
+      "arc_position": 0.38,
+      "physical_state": "Overdosed, revived with naloxone, severe withdrawal (shivering, vomiting, confusion), on IV fluids and anti-seizure meds, critical for 24 hours",
+      "status": "In safe house recovering, needs monitoring, at risk of seizures",
+      "realization": "Couldn't live with the guilt, tried to escape through overdose (perhaps intentional?)",
+      "addiction": "Never was sober, just functional - that illusion shattered under trauma"
+    },
+    "Maya Torres": {
+      "age": 38,
+      "knows": [
+        "Kade OD'd on triple-concentrated Veil",
+        "Clinic is under SSS control",
+        "Treating 30 injured from crackdown",
+        "Has held 47 funerals in three weeks",
+        "Families asking why their loved ones died",
+        "She tells them 'lies that might be true' about dying for dignity",
+        "Can't stay with Kade - has to return to clinic after 6 hours",
+        "Nico is using daily but less than before (harm reduction)",
+        "Both are traumatized addicts managing impossible situation",
+        "Risked her safety to save Kade"
+      ],
+      "emotional_state": "Exhausted, hardened, granting forgiveness she doesn't have authority to give, voice shaking despite steady hands",
+      "arc_position": 0.55,
+      "location": "Clinic under SSS occupation (returned after 6 hours with Kade)",
+      "status": "Working under occupation, 47 funerals in 3 weeks, holding dying hands, telling necessary lies",
+      "role": "Emergency medical response, moral support, reality check for Nico",
+      "philosophy": "Addiction isn't moral failure; harm reduction matters; trauma makes relapse inevitable"
+    },
+    "Lin Zhao": {
+      "age": 62,
+      "knows": [
+        "Watched Nico transform from junkie dealer to king to revolutionary over 4 years",
+        "The difference wasn't money or circumstances, but Nico choosing to be better",
+        "Addiction isn't moral failure",
+        "Using while Kade needs monitoring would create two bodies instead of one",
+        "Nico is more than just an addict - unless he chooses not to be",
+        "Staying sober during crisis means feeling terrible things",
+        "She won't judge him for using, but he'll judge himself"
+      ],
+      "emotional_state": "Pragmatic wisdom, not judgmental, serving as conscience and guard",
+      "arc_position": 0.35,
+      "location": "Safe house, standing guard outside",
+      "status": "Protecting them, offering wisdom without judgment",
+      "role": "Conscience, reality check, witness to Nico's growth",
+      "philosophy": "Sobriety is simple choice (not easy); feeling pain is better than death; choice defines who you are"
+    }
+  },
+  "revealed_to_reader": [
+    "Kade overdosed on triple-concentrated Veil (vape and injection combo)",
+    "Nearly died - blue lips, pinpoint pupils, 4 breaths per minute",
+    "Nico found him at 3 AM, performed mouth-to-mouth for 10+ minutes",
+    "Turned on comm despite SSS tracking risk to call Maya",
+    "Maya arrived with naloxone, revived Kade",
+    "Kade needs 24-hour monitoring for seizure risk",
+    "Clinic under SSS control, treating 30 injured from crackdown",
+    "Maya has presided over 47 funerals in 3 weeks",
+    "Safe house is 15 sq meter converted storage room behind false wall",
+    "Nico was 7 hours into withdrawal, hands shaking",
+    "Nico almost used to 'function' but chose not to",
+    "Put vape pen across room, kept emergency injector for Kade",
+    "Suffered through withdrawal peak at 6 AM",
+    "Kade woke up at 8 AM, apologized",
+    "Both alive, both suffering, choosing to survive 'for now'",
+    "Neither sober, but both choosing to live"
+  ],
+  "planted": [
+    {
+      "element": "Nico's first real choice toward sobriety",
+      "payoff_chapter": "Book 3, Ch 8",
+      "significance": "Health failing from years of Veil use"
+    },
+    {
+      "element": "47 funerals Maya has held",
+      "payoff_chapter": "Book 3",
+      "significance": "Martyrs for the movement, names remembered"
+    },
+    {
+      "element": "Kade's fragility and near-death",
+      "payoff_chapter": "Book 3, Ch 16",
+      "significance": "Foreshadowing his ultimate sacrifice"
+    },
+    {
+      "element": "Safe house network",
+      "payoff_chapter": "Book 2, Ch 37-39 and Book 3",
+      "significance": "Infrastructure for continued resistance"
+    },
+    {
+      "element": "Lin's observation about Nico choosing to be better",
+      "payoff_chapter": "Book 3, Ch 18-20",
+      "significance": "Final transformation before death"
+    },
+    {
+      "element": "Maya telling 'lies that might be true'",
+      "payoff_chapter": "Book 3, Ch 20",
+      "significance": "Epilogue - the lies become truth"
+    }
+  ],
+  "active_tensions": [
+    "Kade in critical 24-hour window, could still seize or die",
+    "Nico monitoring Kade while in withdrawal himself",
+    "Clinic under SSS occupation, Maya divided between duties",
+    "Using comm risks SSS tracking",
+    "47 funerals creating trauma for survivors",
+    "Both Nico and Kade are functional addicts, not sober",
+    "Choosing survival 'for now' without long-term plan",
+    "Lin standing guard at safe house",
+    "How long can they hide?",
+    "Addiction management during crisis"
+  ],
+  "world_changes": [
+    "3 weeks since the riot",
+    "47 funerals have been held",
+    "Clinic under SSS control but still operating",
+    "30 people still being treated for riot injuries",
+    "Safe house network established in maintenance areas",
+    "Kade's near-death experience shows toll of resistance",
+    "Maya presiding over deaths, becoming voice of martyrdom",
+    "Nico made first real sobriety choice under pressure"
+  ],
+  "notes": "Fourth tentpole of Book 2 (DARK NIGHT). Kade's overdose forces Nico to confront his own addiction in immediate, visceral way. Not about recovery or sobriety - about choosing to be present vs choosing to be numb. Key themes: addiction as escape from guilt, harm reduction vs abstinence, being alive as victory. Character development: Nico's first real choice toward sobriety (choosing not to use while monitoring Kade), Kade broken by survivor's guilt, Maya hardened by 47 funerals, Lin as non-judgmental conscience. The weight of the 47 dead permeates everything. Neither character is sober or healed, but both choose to survive. Sets up Book 2 ending: Nico still standing despite everything. Arc position 0.68 - major growth through suffering."
+}
