@@ -1,0 +1,32 @@
+{
+  "book": 2,
+  "chapter": 5,
+  "title": "Trust",
+  "word_count": 2347,
+  "timeline": "Day 40 (1 day after ch4)",
+  "location": "Jin's headquarters → evacuation → fallback gamma (hydroponics facility)",
+  "characters_present": ["Aria Chen", "Marcus Webb", "Jin 'Ghost' Park", "Echo", "Sera (traitor, absent)", "19 resistance fighters"],
+  "character_states": {
+    "aria_chen": {
+      "arc_position": 0.25,
+      "programming_status": "97.5%, 72 hours to activation",
+      "knows": ["Sera was the traitor, not her", "9 fighters killed by Sera's betrayal", "Programming calculating how to exploit paranoia", "She's still dangerous at 97.5%", "Sera was deep cover Council operative", "Resistance down to 19 fighters"],
+      "decisions_made": ["Identified Sera's betrayal pattern", "Reported programming's exploitation calculations", "Stayed with resistance despite danger"],
+      "emotional_journey": "Relief it wasn't her → grief for betrayed fighters → guilt still dangerous → honored by Jin's trust"
+    },
+    "jin_ghost_park": {
+      "arc_position": 0.55,
+      "knows": ["Sera was deep cover operative", "Lost 9 fighters to betrayal", "Down to 19 fighters from 50", "Need to verify everyone", "Aria reported programming influence honestly"],
+      "decisions_made": ["Emergency evacuation", "Implemented verification protocols", "Compartmentalized information", "Chose to keep Aria despite risk", "Fighting for principle that composites are people worth saving"]
+    },
+    "marcus_webb": {
+      "arc_position": 0.25,
+      "knows": ["Sera was traitor", "Aria at 97.5%, 72 hours countdown", "Betrayal can be programmed or chosen - both harmful"],
+      "decisions_made": ["Traced transmission source", "Coordinated evacuation", "Reminded Aria her consciousness worth the risk"]
+    }
+  },
+  "revealed_to_reader": ["Sera was the traitor (not Aria)", "Sera was deep cover Council operative", "She betrayed first headquarters (ch1)", "Helped Council know about obsolete scanners (ch4)", "Transmitted full intelligence before disappearing", "9 fighters killed in ambushes from her intel", "Resistance down to 19 fighters (from 28)", "Jin implementing verification protocols", "Aria's programming exploiting paranoia", "She reported it honestly", "72 hours to activation"],
+  "planted": [{"element": "Verification protocols", "payoff": "ch13-16"}, {"element": "72 hours countdown", "payoff": "ch6-7"}, {"element": "19 fighters remaining", "payoff": "rest of Book 2"}, {"element": "Jin's principle that composites are people worth saving", "payoff": "ch17"}],
+  "active_tensions": ["97.5%, 72 hours to activation", "Trust crisis after Sera", "19 fighters remaining", "Paranoia exploitable by programming", "Aria still dangerous", "Verification protocols needed"],
+  "bridge_to_next_chapter": {"immediate_situation": "19 fighters, verified trust protocols, 72 hours countdown", "next_chapter_needs": ["Final preparation for major operation (ch7 setup)", "Programming approaching 98-99%", "Tanaka response or contact", "Aria's final useful contribution before activation"]}
+}

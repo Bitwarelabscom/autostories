@@ -1,0 +1,201 @@
+{
+  "chapter": 3,
+  "title": "The Supervisor's Test",
+  "word_count": 2654,
+  "timeline": "Day 2, Wednesday morning, 0800 meeting with Kauffman",
+  "location": "The Vault - Director Kauffman's office, Level 87, then ground level",
+  "characters_present": ["Aria Chen", "Director Sarah Kauffman"],
+  "pov_character": "Aria Chen",
+  "character_states": {
+    "aria_chen": {
+      "location": "Kauffman's office → ground level → heading toward Undercity",
+      "emotional_state": "Defensive anticipation → confusion → cautious hope → deepening uncertainty",
+      "arc_position": 0.15,
+      "knows": [
+        "All information from ch01-02",
+        "Kauffman found 17 irregularities in secondary scan, but third scan showed clean",
+        "Kauffman claims she's been investigating scrubbed logs for 6 months",
+        "Kauffman was off-site (Beijing conference) when Aria's emergency session occurred",
+        "Someone used Kauffman's credentials to authorize Aria's session",
+        "Security footage shows someone resembling Kauffman accessing construction chamber",
+        "Original Aria Chen died in vault breach 2 years ago trying to stop unauthorized access",
+        "Kauffman gave her data chip with evidence of systematic manipulation going back 5 years",
+        "Dead-drop protocols exist for coordination",
+        "Kauffman suggested working with black market criminals",
+        "Received anonymous message with Undercity coordinates: 'We should talk'"
+      ],
+      "does_not_know": [
+        "Whether Kauffman is sincere or testing her",
+        "Whether Kauffman is real or Composite herself",
+        "Who sent the anonymous coordinates message",
+        "Whether this is recruitment or trap",
+        "Full scope of conspiracy",
+        "Whether she's truly a Composite or just memory-edited Original",
+        "Who impersonated Kauffman 2 years ago"
+      ],
+      "decisions_made": [
+        "Told Kauffman the truth about 17 modified memories",
+        "Revealed knowledge of Kauffman's authorization on emergency session",
+        "Accepted Kauffman's data chip",
+        "Agreed to investigate independently",
+        "Deleted anonymous message but memorized coordinates",
+        "Decided to go to Undercity coordinates",
+        "Committed to working outside official channels"
+      ],
+      "internal_conflict": "Trust Kauffman or suspect her? Truth or trap? System loyalty vs. independent investigation fully chosen now",
+      "investigation_progress": "Has Kauffman's evidence chip, has Undercity contact coordinates, moving toward black market",
+      "possessions": ["Kauffman's data chip with 5 years of evidence", "Neural disruptor", "Memorized Undercity coordinates"]
+    },
+    "director_sarah_kauffman": {
+      "location": "Vault office Level 87",
+      "emotional_state": "Testing, calculating, possibly sincere concern",
+      "arc_position": 0.10,
+      "revealed_information": [
+        "Claims she's been investigating scrubbed logs for 6 months",
+        "Found irregularities in Aria's backup, then they disappeared",
+        "Was in Beijing when Aria's emergency session occurred",
+        "Someone impersonated her or used her credentials",
+        "Knows Original Aria died in vault breach 2 years ago",
+        "Has collected evidence of systematic manipulation over 5 years",
+        "Suggested working with black market criminals",
+        "Set up dead-drop protocol for communication"
+      ],
+      "possible_interpretations": [
+        "SINCERE: Fellow investigator recruiting ally",
+        "TRAP: Testing whether Aria will break protocol",
+        "COMPROMISED: Being controlled/watched, can't speak freely",
+        "COMPOSITE: Created to manage/monitor Aria's investigation"
+      ],
+      "relationship_to_aria": "Supervisor, possible ally, possible antagonist, ambiguous",
+      "voice_markers": "Professional, calculated, maternal concern mixed with strategic thinking"
+    }
+  },
+  "revealed_to_reader": [
+    "Kauffman detected irregularities in Aria's backup that disappeared",
+    "Kauffman claims 6 months of investigation into scrubbed logs",
+    "Someone impersonated Kauffman 2 years ago (or she's lying)",
+    "Original Aria died in vault breach attempting to stop unauthorized access",
+    "Security footage of 'Kauffman' accessing construction chamber at 3:47 AM",
+    "Systematic memory manipulation going back 5 years (per Kauffman's claim)",
+    "Dead-drop protocols exist from old vault emergency procedures",
+    "Kauffman gave Aria physical data chip with evidence",
+    "Anonymous message with Undercity coordinates sent to Aria",
+    "Original Aria may have been investigating same conspiracy before death",
+    "Kauffman's ambiguous trustworthiness - could be sincere or trap"
+  ],
+  "planted": [
+    {
+      "element": "Kauffman's data chip with 5 years of evidence",
+      "payoff_chapter": "Ch04-06, possibly compared with Marcus's evidence",
+      "significance": "Aria can verify claims, compare sources"
+    },
+    {
+      "element": "Original Aria died trying to stop unauthorized access",
+      "payoff_chapter": 12,
+      "significance": "This Aria mirrors original's dedication to truth"
+    },
+    {
+      "element": "Someone impersonating Kauffman 2 years ago",
+      "payoff_chapter": 17,
+      "significance": "Kauffman herself may be Composite replacing original"
+    },
+    {
+      "element": "Dead-drop protocols for secure communication",
+      "payoff_chapter": "Ch05-06",
+      "significance": "How Aria will coordinate evidence without surveillance"
+    },
+    {
+      "element": "Anonymous Undercity coordinates message",
+      "payoff_chapter": "Ch04-06",
+      "significance": "Leads toward meeting Marcus or his network"
+    },
+    {
+      "element": "Kauffman suggesting criminal allies",
+      "payoff_chapter": 7,
+      "significance": "Legitimizes Aria working with Marcus"
+    },
+    {
+      "element": "Vault breach 2 years ago where Original Aria died",
+      "payoff_chapter": "Later chapters/Book 2",
+      "significance": "What was she trying to stop? Who killed her?"
+    }
+  ],
+  "active_tensions": [
+    "Is Kauffman sincere investigator or conspiracy member?",
+    "Who sent the anonymous Undercity coordinates?",
+    "Will Aria walk into a trap going to coordinates?",
+    "Is Kauffman herself a Composite replacement?",
+    "What's on Kauffman's data chip - real evidence or fabricated?",
+    "Surveillance risk if Aria coordinates with Kauffman",
+    "How did Original Aria die and who killed her?"
+  ],
+  "world_rules_established": {
+    "vault_security": [
+      "Director can run secondary scans on staff backups",
+      "Someone can correct quantum irregularities between scans",
+      "Biometric data can be spoofed for authorization",
+      "Security footage can be accessed for historical sessions",
+      "Dead-drop protocols exist from pre-network era"
+    ],
+    "composite_possibilities": [
+      "Composites can be created to impersonate specific people",
+      "Director-level access allows session authorization",
+      "Systematic manipulation documented going back 5+ years",
+      "Original person can die while Composite replacement continues"
+    ],
+    "investigation_methods": [
+      "Physical data chips avoid network surveillance",
+      "Dead-drop coordination prevents electronic tracking",
+      "Off-site alibis can be verified through hotel/flight records"
+    ]
+  },
+  "atmosphere": {
+    "tone": "Paranoid negotiation, ambiguous alliances, deepening conspiracy",
+    "mood": "Uncertain trust, testing each other, layers of deception",
+    "sensory_details": [
+      "Corner office with dual views - towers and Undercity",
+      "Neural implant glowing blue with active connection",
+      "Biometric readings tracking Aria's heart rate",
+      "Morning sun painting gold and shadow",
+      "Security footage grainy darkness",
+      "Data chip physical weight"
+    ],
+    "visual_motifs": [
+      "Two worlds visible from one office (dual realities)",
+      "Kauffman's reflection in window (questioning authenticity)",
+      "Security footage obscured face (hidden identity)",
+      "Physical chip vs network data (old vs new trust)",
+      "Elevator descent from truth to uncertainty"
+    ]
+  },
+  "continuity_notes": {
+    "timeline": "Day 2, morning after ch02 evening, 0800 meeting as scheduled",
+    "character_knowledge": "Aria knows ch01-02 info, gains Kauffman's claims and evidence",
+    "callbacks": "Dead-drop server from ch01 connected to dead-drop protocols, Kauffman meeting from ch02 message"
+  },
+  "foreshadowing": [
+    "Kauffman may be Composite herself (impersonation 2 years ago suspicious)",
+    "Original Aria's death connects to current conspiracy",
+    "Systematic manipulation for 5+ years suggests large-scale program",
+    "Anonymous coordinates leading to black market contact (Marcus)",
+    "Someone monitoring Aria's investigation to send coordinates",
+    "Kauffman's true nature will be revealed (ch12 or 17)"
+  ],
+  "character_development": {
+    "aria": "From isolated investigator to accepting Kauffman's alliance (uncertain), committed to working outside system, willing to trust criminals, accepting she must break all rules",
+    "kauffman": "Introduced as ambiguous figure - mentor or manipulator?, shows complexity and strategic thinking, potentially sincere or elaborate trap"
+  },
+  "thematic_exploration": {
+    "trust_in_systems": "Official channels can't be trusted, must work outside protocol",
+    "layers_of_deception": "Everyone could be impersonation, multiple levels of conspiracy",
+    "consciousness_autonomy": "If Aria is Composite, she's thinking independently - program unstable",
+    "legacy_and_echo": "Original Aria's death haunts investigation, this Aria continuing her work"
+  },
+  "chapter_function": {
+    "plot": "Kauffman meeting reveals conspiracy scope, provides evidence, directs Aria toward black market, anonymous contact established",
+    "character": "Kauffman introduced as complex ambiguous ally/antagonist, Aria commits fully to independent investigation",
+    "world": "Systematic manipulation revealed, impersonation possible, dead-drop protocols, vault breach history",
+    "theme": "Can't verify anyone's authenticity, must act despite uncertainty, legacy of Original Aria",
+    "reader_engagement": "Major twist - Kauffman claims to be investigating too, ambiguous trustworthiness, multiple interpretations possible"
+  }
+}

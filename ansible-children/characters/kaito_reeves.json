@@ -1,0 +1,42 @@
+{
+  "name": "Kaito Reeves",
+  "role": "Relativistic trader - Physical evidence bearer",
+  "core_wound": "Watched Earth from orbit during the ansible detonation, unable to land due to quarantine, carries survivor's guilt for leaving Earth to die",
+  "wants": "To verify truth through physical presence - to be the witness who confirms reality",
+  "needs": "To accept that he cannot save everyone, that being the messenger is enough",
+  "voice_markers": [
+    "Uses spacer slang and relativistic time references ('three trips ago' instead of 'years ago')",
+    "Speaks slowly, deliberately - accent of someone who's lived across many colonies",
+    "Physical metaphors - 'touching distance', 'hand-verified', 'eyes-on'",
+    "Dry humor about time dilation and aging"
+  ],
+  "contradiction": "Believes in physical truth over transmitted information, yet his entire life is spent in transit between realities",
+  "arc_position": 0.0,
+  "knowledge_state": [],
+  "relationships": {
+    "Lira Voss": "Mutual respect - he provides physical proof of her data anomalies, she gives meaning to his observations",
+    "The Magistrate": "Unknowingly investigated by it, his travel patterns flag him as threat to information control",
+    "Ryn Takada": "Distrust - sees Ryn as manipulator of reality from comfortable ansible station",
+    "Zara Kim": "Professional respect, both outsiders to the ansible guild's power structure"
+  },
+  "physical_description": "Early 40s objective time, late 30s subjective due to relativistic travel. Mixed African/Asian ancestry, lean from low-gravity life, extensive tattoos marking colonies visited (37 different worlds), eyes that don't quite focus on nearby objects after years of deep space, carries an analog watch showing Earth time - stopped at the moment of detonation",
+  "skills": [
+    "Relativistic navigation and time-dilation calculations",
+    "Physical artifact authentication and preservation",
+    "Cross-cultural negotiation between divergent colonies",
+    "Long-term cryogenic survival protocols",
+    "Hand-to-hand combat (necessary for hostile port landings)"
+  ],
+  "background": "Born on a trade ship, raised between colonies. His family clan specialized in carrying physical goods and witnessing events for verification purposes. Was at Earth during the final days - sent on 'routine trade run' by Earth government, realized too late it was evacuation. Watched from orbit as Earth destroyed its ansible. Spent 20 years (subjective) trying to understand what happened, piecing together physical evidence. His ship's log is the only objective record of Earth's final transmission.",
+  "character_arc": {
+    "book_1": "Brings physical evidence of ansible tampering, partners with Lira, confirms Earth's silence through light-delay verification, becomes key witness to historical truth",
+    "book_2": "Reveals his presence at Earth during detonation, provides eyewitness account of alien contact, carries Earth's final message (physical data core), grapples with being last human to walk on Earth",
+    "book_3": "Realizes his role as living bridge between human colonies - after ansible destruction, becomes the last person who can physically visit all 47 worlds before he ages out, chooses to spend his remaining years connecting isolated humanities, becomes legend as 'the Last Witness'"
+  },
+  "unique_assets": {
+    "ship": "Meridian Runner - old but reliable fusion torch ship, 0.3c capable, contains physical artifacts from Earth",
+    "earth_data_core": "Final transmission from Earth government, encrypted, physical medium - cannot be altered like ansible messages",
+    "witness_credibility": "One of only 3 people who were at Earth during the ansible detonation and still alive",
+    "time_advantage": "Relativistic travel means he can 'skip' decades, arriving at crucial moments"
+  }
+}

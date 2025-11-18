@@ -1,0 +1,14 @@
+{
+  "chapter": 18,
+  "title": "First Blood",
+  "word_count": 1607,
+  "timeline": "Day 18, 24 hours after broadcast",
+  "location": "Undercity safe house, Level -8",
+  "character_states": {
+    "aria_chen": {"arc_position": 0.88, "knows": ["24 hours since broadcast", "3 deaths from mob violence", "22 Composites executed including Kauffman", "Kauffman dissolved at 0600 Day 18", "43 total Composites exposed", "Authentication Crisis / Memory War beginning", "Jin survived and organizing Composite underground", "Riots at authentication checkpoints", "She and Marcus hiding in Undercity"], "emotional_state": "Guilt over consequences, grief for Kauffman, determination to continue"},
+    "marcus_webb": {"arc_position": 0.88, "emotional_state": "Protective, pragmatic, committed to survival and fight"}
+  },
+  "revealed_to_reader": ["Kauffman executed", "Kauffman's final statement about choice", "22 Composites dissolved in 24 hours", "3 civilian deaths", "Jin organizing Composite underground", "Authentication Crisis spreading", "Aria and Marcus together in hiding", "War beginning"],
+  "planted": [{"element": "Composite underground organizing", "payoff_chapter": 20, "significance": "Jin's role in Book 2"}],
+  "chapter_function": {"plot": "Immediate aftermath, casualties revealed, Kauffman's death, war beginning", "character": "Aria processing consequences, Marcus committed to survival together", "pacing": "Cooldown from ch17 climax, building toward ch20 setup"}
+}

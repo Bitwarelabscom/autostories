@@ -1,0 +1,22 @@
+{
+  "book": 2,
+  "chapter": 3,
+  "title": "Preparation",
+  "word_count": 1742,
+  "timeline": "2883.115 - Three weeks before referendum",
+  "location": "Multiple: Tau Ceti shipyards, New Singapore, Kepler-442, The Relay, Proxima/Tau Ceti homes",
+  "pov_character": "Multiple perspectives",
+  "characters_present": ["Chief Engineer Ramos", "Admiral Webb", "Dr. Zara Kim", "Station Master Chen", "Various citizens"],
+  "revealed_to_reader": [
+    "Contact developing ansible decommissioning protocols",
+    "Memory preparing to defend ansibles if they win vote",
+    "Zara building alternative light-speed communication infrastructure",
+    "Guild operators accepting their obsolescence",
+    "Personal story: mother (YES) and daughter (NO) on opposite sides",
+    "Simulation models show 52-48 split risks deadlock and renewed war",
+    "Need 55-45 or better for clear mandate",
+    "Both sides preparing for transformation either way"
+  ],
+  "chapter_purpose": "Show practical preparations for either outcome, humanize the debate through mother-daughter story, establish stakes of close vote",
+  "mood": "Tense preparation, personal stakes emerging, fear of deadlock"
+}

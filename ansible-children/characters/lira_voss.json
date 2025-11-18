@@ -1,0 +1,36 @@
+{
+  "name": "Lira Voss",
+  "role": "Protagonist - Ansible operator",
+  "core_wound": "Sent a message she believed was urgent truth, triggering a colonial war that killed her brother - discovered later the message had been altered in transit by another operator",
+  "wants": "To expose the ansible guild's manipulation of history and information",
+  "needs": "To accept that some lies protect fragile peace, and truth isn't always the highest good",
+  "voice_markers": [
+    "Technical precision when discussing ansible operations",
+    "Obsessive attention to timestamps and verification details",
+    "Speaks in layers - what she says vs. what she means (years of guild secrecy training)",
+    "Goes silent when lying - physically incapable of verbal deception"
+  ],
+  "contradiction": "Dedicated to truth and transparency while being part of the ultimate information control system",
+  "arc_position": 0.0,
+  "knowledge_state": [],
+  "relationships": {
+    "Kaito Reeves": "Partnership built on his physical evidence validating her data anomalies",
+    "The Magistrate": "Doesn't know it exists initially, growing awareness of puppet master",
+    "Ryn Takada": "Mentor who taught her everything, betrayal when she learns the depth of fabrication",
+    "Zara Kim": "Ally in pursuit of truth beyond human politics"
+  },
+  "physical_description": "Late 20s, mixed East Asian/European ancestry, very pale from years in ansible stations, neural implants at temples for quantum state reading, moves with the careful precision of someone used to zero-g",
+  "skills": [
+    "Ansible operation and quantum state interpretation",
+    "Information forensics and timestamp verification",
+    "Guild protocols and security systems",
+    "Pattern recognition across massive datasets",
+    "Light-delay calculations and verification"
+  ],
+  "background": "Raised in ansible stations, third-generation guild member. Trained from childhood to operate ansible technology. Her brother died in the Kepler-442/New Singapore conflict that started from a message she transmitted about resource rights. Spent five years investigating the war's origin, discovered discrepancies in ansible logs. This discovery drives the entire trilogy.",
+  "character_arc": {
+    "book_1": "Discovers ansible message tampering, uncovers guild conspiracy, reveals Earth's 40-year silence, becomes revolutionary whistleblower",
+    "book_2": "Grapples with consequences of truth - colonial wars, cultural fragmentation, realizes guild fabrication maintained peace, discovers why Earth went silent",
+    "book_3": "Learns of Harvester threat, faces ultimate choice: maintain ansible (preserve human unity, attract death) or destroy it (isolate colonies forever, ensure survival), broadcasts complete truth to all colonies then destroys ansible network, ensures humanity survives at cost of eternal separation"
+  }
+}

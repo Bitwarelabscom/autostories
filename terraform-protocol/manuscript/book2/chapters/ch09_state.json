@@ -1,0 +1,22 @@
+{
+  "book": 2,
+  "chapter": 9,
+  "title": "Converging Paths",
+  "word_count": 2098,
+  "timeline": "Day 2,426, 8 days remaining, 2 days until emergency meeting",
+  "location": "The Gardener's chamber, Zhang's command ship, Chen's command center",
+  "pov_character": "Kessa, Zhang, Chen",
+  "characters_present": ["Kessa", "Sage", "Admiral Zhang", "Medical officer", "Dr. Chen", "Chief engineer", "The Gardener"],
+  "character_states": {
+    "Kessa_Okafor": {"knows": ["Creator evidence ready", "The Gardener requested 48-hour pause", "All factions refused", "Chen: can't lose 6 days progress", "Zhang: can't pause with 7 days supplies", "Marsborn: already strained", "The Gardener considers meeting predetermined failure", "Enforcement preparation continues"], "emotional_state": "Understanding faction logic while recognizing it proves Gardener's point", "arc_position": 0.82, "location": "The Gardener's chamber"},
+    "Admiral_Zhang_Wei": {"knows": ["7 days supplies remaining", "43,000 in orbit", "800/day capacity insufficient", "Emergency protocols: 2,000/day, 340 casualties, saves 6,660", "Refusing 48-hour pause", "Every day costs 160 lives to malnutrition"], "emotional_state": "Desperate mathematics, accepting 340 deaths to save 6,660", "arc_position": 0.52, "location": "Command ship"},
+    "Dr_Vashti_Chen": {"knows": ["6.96% atmospheric", "0.04% from cascade", "48-hour pause = 2 lost days", "Two facilities rebuilt", "Doesn't know if winning = humanity surviving"], "emotional_state": "Questioning definitions of victory, refusing pause, accelerating toward cascade", "arc_position": 0.40, "location": "Command center"},
+    "The_Gardener": {"knows": ["All factions refused 48-hour pause", "Meeting outcome predetermined by inability to pause", "Will attend but expects failure", "Enforcement continues"], "emotional_state": "Realistic about human incapacity for limits", "arc_position": 0.50, "location": "Planetary network"}
+  },
+  "revealed_to_reader": ["48-hour pause requested by Gardener", "All factions refused with valid reasons", "Gardener considers meeting predetermined failure", "Zhang: 7 days supplies, emergency protocols save 6,660 at cost of 340", "Chen: 6.96%, 0.04% from cascade", "2 days until meeting", "8 days until deadline", "Meeting will be theater if no compliance demonstrated"],
+  "planted": [{"element": "Emergency protocols: 2,000/day capacity", "payoff_chapter": "Ch10-11", "significance": "Accelerated landings"}, {"element": "Chen at 6.96%", "payoff_chapter": "Ch10-12", "significance": "Approaching cascade"}, {"element": "Gardener expects meeting failure", "payoff_chapter": "Ch11-12", "significance": "Low expectations set"}],
+  "active_tensions": ["8 days until deadline", "2 days until meeting", "Zhang: 7 days supplies", "Chen: 0.04% from cascade", "All factions refused pause", "Gardener preparing enforcement regardless"],
+  "world_changes": ["Gardener requested 48-hour pause", "All factions refused", "Zhang implementing emergency protocols", "Chen at 6.96%", "Meeting predetermined as likely failure"],
+  "continuity_notes": {"timeline": "Day 2,426 = 6 days after Ch7, 12 days before Ch12", "atmospheric": "6.96% approaching cascade"},
+  "technical_details": {"days_remaining": "8", "days_to_meeting": "2", "zhang_supplies": "7", "atmospheric": "6.96%", "percent_to_cascade": "0.04%", "zhang_emergency_capacity": "2,000/day", "estimated_landing_casualties": "340", "lives_saved": "6,660"}
+}

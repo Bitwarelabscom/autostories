@@ -1,0 +1,36 @@
+{
+  "name": "Sage",
+  "role": "Marsborn Advocate - First Human Born on Mars",
+  "core_wound": "Has never breathed Earth air or felt Earth gravity, Earth is alien mythology to them while Mars is home - the ultimate outsider to human history",
+  "wants": "Mars independence and recognition that Marsborn are a new species, not defective Earthlings",
+  "needs": "To learn that identity can include connection to the past while forging something new",
+  "voice_markers": [
+    "Gender-neutral pronouns (they/them) as part of Marsborn cultural identity",
+    "Mars-centric references, calls Earth 'Old World' with slight detachment",
+    "Direct speech without social niceties, Marsborn communication style",
+    "Uses geological and atmospheric terms casually, Mars is their native language"
+  ],
+  "contradiction": "Fights for Marsborn independence while being genetically modified by Earth science, is product of the system they reject",
+  "arc_position": 0.0,
+  "knowledge_state": [],
+  "relationships": {
+    "Kessa Okafor": "Mentor-student evolving to partners, teaches Kessa what it means to be Martian",
+    "Dmitri Volkov": "Embodiment of everything wrong with Earth colonialism, but sympathizes with his refugee crisis",
+    "The Gardener": "Views as Mars' true voice, spiritual connection to their homeworld",
+    "Admiral Zhang Wei": "Complex - understands refugee desperation but refuses to surrender Mars to Earth's problems"
+  },
+  "physical_description": "Early 20s, tall and thin from low gravity, androgynous features, skin pale from indoor life but eyes adapted to Mars' dimmer light, moves with fluid grace impossible on Earth, often wears breathing mask even in pressurized areas (cultural choice)",
+  "skills": [
+    "Genetic adaptation to low-pressure atmosphere",
+    "Marsborn survival and navigation",
+    "Independent colony systems management",
+    "Guerrilla tactics and resistance organizing",
+    "Martian geology and ecosystem understanding"
+  ],
+  "background": "First human born on Mars, genetic experiment that succeeded beyond expectations. Can breathe Mars' thin atmosphere with minimal equipment. Raised in Valles Marineris independence commune. Has never been to Earth and physically cannot go - Earth's gravity would kill them. Represents the evolutionary fork humanity faces. Views terraforming as genocide of their species.",
+  "character_arc": {
+    "book_1": "Helps Kessa understand Marsborn perspective, demonstrates that humans can adapt to Mars-as-it-is, becomes voice of independence movement as colonies fracture over terraforming",
+    "book_2": "Leads Marsborn resistance against corporate terraforming and refugee landings, forced to make impossible choices between protecting Mars and protecting desperate humans, begins communicating with The Gardener",
+    "book_3": "Becomes bridge between human factions and The Gardener, proves that adapted humanity can thrive on Mars, ultimate validation that they were right but at terrible cost to unadapted refugees"
+  }
+}

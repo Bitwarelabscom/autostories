@@ -1,0 +1,179 @@
+{
+  "chapter": 2,
+  "title": "The Digital Ghost",
+  "word_count": 2103,
+  "timeline": "Day 1, Tuesday evening (12 hours after ch01)",
+  "location": "The Vault - Archive room and corridors, then ground level exit",
+  "characters_present": ["Aria Chen", "Chen Park (colleague)"],
+  "pov_character": "Aria Chen",
+  "character_states": {
+    "aria_chen": {
+      "location": "Vault archive room → ground level → Neo-Singapore streets",
+      "emotional_state": "Paranoid investigation → tested by colleague → escalating concern → determined resolve",
+      "arc_position": 0.10,
+      "knows": [
+        "All information from ch01",
+        "Maintenance logs from 2 years ago are 'too clean' - suspiciously perfect",
+        "Normal vault operations always have minor discrepancies - these don't",
+        "Records appear to have been professionally scrubbed",
+        "Chen Park remembers their first meeting 6 years ago with perfect detail",
+        "Kauffman wants to meet tomorrow 0800 about her self-audit results",
+        "She is being watched or will be if she continues investigating",
+        "She needs outside help - starting to search for black market contacts"
+      ],
+      "does_not_know": [
+        "Whether Chen Park is real or Composite",
+        "Whether Kauffman knows she lied about the self-audit",
+        "Who scrubbed the maintenance logs",
+        "Whether tomorrow's meeting is routine or confrontation",
+        "How to contact black market safely",
+        "Full scope of conspiracy",
+        "She is a Composite (knows something is wrong, not full truth yet)"
+      ],
+      "decisions_made": [
+        "Spent 3 hours searching vault logs (found nothing)",
+        "Lied to Chen Park about what she was doing",
+        "Tested Chen Park by asking about their first meeting",
+        "Ran basic authentication on Chen Park's backup (came back clean)",
+        "Decided not to report to Kauffman as Chen Park suggested",
+        "Started searching for black market contacts in Undercity",
+        "Carrying illegal neural disruptor (continuing from ch01)"
+      ],
+      "internal_conflict": "Trust protocol vs. investigate independently, paranoia about colleagues, questioning everyone's authenticity including Chen Park",
+      "investigation_progress": "Dead end on vault logs but confirmed they're scrubbed, realizes she needs external help",
+      "timeline_pressure": "Meeting with Kauffman tomorrow 0800 - decision deadline approaching"
+    },
+    "chen_park": {
+      "location": "Vault archive room, then departed",
+      "role": "Colleague - authenticity uncertain",
+      "emotional_state": "Concerned, possibly suspicious",
+      "knows": [
+        "Aria is investigating something in old maintenance logs",
+        "She's acting unusual since self-audit",
+        "She asked weird questions about their first meeting"
+      ],
+      "motivation": "Unclear - either genuine concern or subtle surveillance",
+      "authentication_status": "Ran basic scan - clean quantum signatures, appears to be Original",
+      "relationship_to_aria": "Colleague for 2-6 years depending on which memory is real, friendly but potentially monitoring"
+    }
+  },
+  "revealed_to_reader": [
+    "Aria beginning active investigation of vault",
+    "Maintenance logs have been professionally scrubbed - too perfect",
+    "Chen Park as colleague - authenticity uncertain",
+    "Kauffman requesting meeting about self-audit tomorrow",
+    "Aria's paranoia extending to all colleagues",
+    "Basic authentication scan shows Chen Park as clean (but could be well-constructed)",
+    "Aria starting to seek black market contacts",
+    "Corporate surveillance risk if she continues investigating",
+    "Consciousness dissolution as punishment for compromising vault integrity",
+    "Aria carrying illegal neural disruptor"
+  ],
+  "planted": [
+    {
+      "element": "Kauffman meeting tomorrow 0800",
+      "payoff_chapter": 3,
+      "significance": "Immediate pressure, next chapter will show this confrontation"
+    },
+    {
+      "element": "Chen Park as potential Composite or surveillant",
+      "payoff_chapter": "Possibly ch05 or later",
+      "significance": "Trust no one atmosphere, colleague could be plant"
+    },
+    {
+      "element": "Scrubbed maintenance logs",
+      "payoff_chapter": 7,
+      "significance": "Confirms professional cover-up, Marcus's evidence will align with this"
+    },
+    {
+      "element": "Searching for black market contacts",
+      "payoff_chapter": "Ch03-06",
+      "significance": "Will lead to finding the Undercity vendor and Marcus"
+    },
+    {
+      "element": "Protocol enforcement as vault protection",
+      "payoff_chapter": 12,
+      "significance": "Thematic - system designed to suppress investigation"
+    }
+  ],
+  "active_tensions": [
+    "Kauffman meeting tomorrow - will she discover Aria lied?",
+    "Chen Park's true nature - colleague or surveillance?",
+    "Scrubbed logs suggest professional cover-up",
+    "Aria's investigation could trigger consciousness dissolution",
+    "Need for external help vs. risk of trusting criminals",
+    "12-hour deadline until Kauffman meeting"
+  ],
+  "world_rules_established": {
+    "vault_operations": [
+      "Normal operations have minor discrepancies and human error",
+      "Perfectly clean logs are suspicious",
+      "Employees can run basic authentication on each other's backups",
+      "High-level access can scrub system logs",
+      "Protocol violations result in consciousness dissolution"
+    ],
+    "social_dynamics": [
+      "Colleagues expected to report irregularities to supervisors",
+      "Independent investigation seen as protocol violation",
+      "Following protocol seen as protection not just bureaucracy"
+    ]
+  },
+  "atmosphere": {
+    "tone": "Paranoid investigation, noir suspicion, isolation",
+    "mood": "Growing tension, trust no one, countdown pressure",
+    "sensory_details": [
+      "Archive room quiet except environmental systems",
+      "Terminal screens reflecting in darkness",
+      "Elevator descent 93 levels",
+      "Neon evening streets - pink and blue",
+      "Vault humming authentication protocols",
+      "Neural implant chime with message"
+    ],
+    "visual_motifs": [
+      "Too-clean logs as evidence of manipulation",
+      "Reflective surfaces - watching for watchers",
+      "Neon colors connecting to ch01 sunrise",
+      "Descending from truth to lies (elevator metaphor)",
+      "Vault windows reflecting neon - layers of unreality"
+    ]
+  },
+  "style_notes": {
+    "aria_voice_markers_used": [
+      "Technical analysis of log irregularities",
+      "Questioning whether responses are personality or programming",
+      "Precise observation of Chen Park's micro-expressions",
+      "Memory-related metaphors: 'digital ghost' in scrubbed logs"
+    ],
+    "pacing": "Slow investigative build, interrupted by Chen Park, accelerating toward deadline",
+    "tension_building": "Scrubbed logs → colleague interaction → Kauffman message → black market search"
+  },
+  "continuity_notes": {
+    "timeline": "Day 1 evening, 12 hours after ch01 morning discovery",
+    "character_knowledge_consistent": "Aria knows what she discovered in ch01, nothing more",
+    "world_state": "Society normal, Aria isolated in investigation, no one else knows yet",
+    "callbacks": "Neon colors from ch01, neural disruptor mentioned, consciousness dissolution threat"
+  },
+  "foreshadowing": [
+    "Kauffman meeting will be confrontation or test (ch03)",
+    "Black market search leads to Undercity and Marcus",
+    "Chen Park may be revealed as Composite or informant later",
+    "Scrubbed logs confirm conspiracy exists",
+    "Aria's isolation driving her toward criminals for help"
+  ],
+  "character_development": {
+    "aria": "From morning discovery to evening investigation, paranoia setting in, questioning everyone, willing to break rules, seeking criminal contacts - desperation growing",
+    "methodology": "Systematic investigation of logs, testing colleague reactions, basic authentication scans, recognizing when evidence has been destroyed"
+  },
+  "thematic_exploration": {
+    "trust_and_protocol": "Protocol says trust the system, but system may be compromised",
+    "authenticity_verification": "Can't verify anyone's realness reliably, even clean scans questionable",
+    "isolation_of_truth_seeker": "Knowing truth isolates her from colleagues who don't"
+  },
+  "chapter_function": {
+    "plot": "Bridge - Aria's first investigation attempts, finding evidence of cover-up, establishing time pressure",
+    "character": "Aria's paranoia developing, willingness to break rules emerging, seeking help outside system",
+    "world": "Vault operations details, colleague dynamics, surveillance risk",
+    "theme": "System designed to suppress investigation, protocol as control mechanism",
+    "reader_engagement": "Building tension, introducing timeline pressure, showing investigation process"
+  }
+}

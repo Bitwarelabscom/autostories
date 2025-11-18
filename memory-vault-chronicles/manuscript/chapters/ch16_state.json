@@ -1,0 +1,14 @@
+{
+  "chapter": 16,
+  "title": "Hour of Truth",
+  "word_count": 1119,
+  "timeline": "Day 17, 2200-2310, leading directly into ch17",
+  "location": "Staging point, then vault infiltration",
+  "character_states": {
+    "aria_chen": {"arc_position": 0.83, "status": "Infiltrated vault, extraction begun, 21 minutes until broadcast or death"},
+    "marcus_webb": {"arc_position": 0.83, "status": "Operating extraction rig"},
+    "jin_ghost_park": {"arc_position": 0.50, "knows": ["Tanaka offered to remove kill switch if Jin stood down", "Jin refused", "Jin helping because of Maya's memories"], "status": "Mapping Composite construction files"}
+  },
+  "revealed_to_reader": ["Jin offered freedom by Tanaka, refused", "Successful infiltration up to minute 9", "Kauffman off-site again (pattern)", "Alarms activated minute 5", "21 minutes remaining until extraction complete", "Direct lead-in to ch17 confrontation"],
+  "chapter_function": {"plot": "Final infiltration, successful entry, extraction begun, alarms triggered, direct bridge to ch17", "pacing": "Accelerating to climax", "tension": "Maximum - countdown started"}
+}

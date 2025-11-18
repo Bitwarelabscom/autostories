@@ -1,0 +1,61 @@
+{
+  "trilogy": "The Memory Vault Chronicles",
+  "genre": "Hard sci-fi thriller",
+  "setting": {
+    "time_period": "2187",
+    "primary_location": "Neo-Singapore megacity (spanning Malaysia to Indonesia)",
+    "atmosphere": "Dense urban sprawl, neon-lit memory markets, sterile corporate memory vaults, underground black market operations",
+    "secondary_locations": [
+      "The Vault - secure memory archive facility",
+      "The Undercity - black market memory trading district",
+      "Neural Research Institute - where memory transfer was invented",
+      "The Archive - AI consciousness repository"
+    ]
+  },
+  "rules": {
+    "memory_transfer": {
+      "degradation_rate": "0.3% per transfer of original consciousness",
+      "copenhagen_protocol": "No consciousness can exist in two places simultaneously - enforced by quantum physics",
+      "quantum_signatures": "Memory manipulation leaves detectable quantum signatures that forensic analysts can identify",
+      "detection_time": "Signatures fade after 72 hours"
+    },
+    "technology_level": {
+      "memory_digitization": "Complete extraction and storage of human memories",
+      "neural_implants": "Standard for all citizens above poverty line",
+      "consciousness_backup": "Legal for citizens, available every 6 months",
+      "ai_consciousness": "Experimental and heavily regulated",
+      "physical_augmentation": "Common but separate from memory enhancement"
+    },
+    "social_structures": {
+      "memory_class_system": {
+        "Originals": "Unmodified consciousness, highest social status, 15% of population",
+        "Augmented": "Enhanced with purchased skill memories, 60% of population",
+        "Composites": "Constructed from multiple donor memories, 20% of population",
+        "Blanks": "Memory-wiped individuals, criminal punishment or voluntary, 5% of population"
+      },
+      "legal_framework": {
+        "memory_theft": "Consciousness dissolution (death penalty)",
+        "unauthorized_transfer": "20 years neural prison",
+        "black_market_trading": "Consciousness dissolution",
+        "memory_forgery": "Permanent blank status"
+      },
+      "governance": "Corporate council system - five mega-corps control memory infrastructure"
+    },
+    "economic_system": {
+      "memory_as_currency": "Skill memories tradeable, emotional memories priceless black market commodity",
+      "consciousness_backup_cost": "Month's salary for middle class",
+      "black_market_premium": "300-500% markup on illegal memories"
+    }
+  },
+  "themes": [
+    "Identity beyond memory - what makes us 'us' if memories can be changed",
+    "The price of immortality - consciousness backup promises eternal life but at what cost",
+    "Class warfare through cognitive inequality - those with better memories have better lives"
+  ],
+  "tone": "Noir thriller with philosophical undertones, fast-paced action with moments of existential contemplation, morally gray characters in impossible situations",
+  "trilogy_arc": {
+    "book_1": "Discovery and conspiracy - protagonist learns her memories are fabricated, uncovers government manipulation",
+    "book_2": "War and betrayal - conflict between Originals and Augmented, protagonist discovers she's a Composite spy",
+    "book_3": "Revolution and rebirth - fight over The Last Original Human child, sacrifice for authenticity over immortality"
+  }
+}

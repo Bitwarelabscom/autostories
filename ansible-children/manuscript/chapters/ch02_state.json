@@ -1,0 +1,150 @@
+{
+  "chapter": 2,
+  "title": "The Weight of Silence",
+  "word_count": 2347,
+  "timeline": "2880.046 - Day 4-5 after initial discovery (3 days after Ch1)",
+  "location": "Kepler-442 System ansible station, Lira's quarters and observation deck",
+  "pov_character": "Lira Voss",
+  "characters_present": [
+    "Lira Voss",
+    "Darin (second-shift operator)"
+  ],
+  "character_states": {
+    "Lira Voss": {
+      "knows": [
+        "Earth shows 18 years of systematic timestamp modification",
+        "New Singapore ansible hub shows content modifications (tariff percentages, etc.)",
+        "Message modifications occur across entire ansible network, not just Earth",
+        "12 cases of subtle message edits in past year at Kepler-442",
+        "Mikhael's war was cultivated over years through hundreds of small modifications",
+        "63 different authorization codes involved in modifications across network",
+        "Ryn's code RT-447 appears most frequently - she's coordinating the deception",
+        "Meridian Runner trade ship arriving in ~3 weeks from Sol System with physical verification data",
+        "Guild is watching her - Ryn told Darin to monitor her",
+        "Other operators trust the system completely, don't suspect modifications"
+      ],
+      "suspects": [
+        "Entire guild leadership may be involved in systematic deception",
+        "All ansible hubs coordinating message modifications",
+        "Guild Masters at major colonies working together",
+        "Modifications designed to shape colonial politics and relationships",
+        "Wars may be deliberately engineered through message manipulation"
+      ],
+      "does_not_know": [
+        "Why the modifications are being done",
+        "How deep the conspiracy goes",
+        "If Earth is even sending messages at all",
+        "What the Meridian Runner's physical data will reveal",
+        "How guild monitors her investigation",
+        "The Magistrate AI's existence",
+        "Kaito Reeves exists"
+      ],
+      "emotional_state": "Increasingly isolated. Sleep-deprived. Anger building about Mikhael's engineered death. Paranoid about surveillance. Guilt about lying to Darin. Determination hardening despite fear. Feeling trapped between duty and truth.",
+      "arc_position": 0.08,
+      "location": "Kepler-442 ansible station",
+      "physical_state": "Two days without sleep, neural implant headaches, running on adrenaline and obsession"
+    },
+    "Ryn Takada": {
+      "knows": [
+        "Lira is continuing investigation despite warning",
+        "Lira is emotionally vulnerable due to Mikhael's death anniversary approaching",
+        "Lira won't stop easily - she's too much like Ryn herself"
+      ],
+      "emotional_state": "Concerned about Lira, monitoring her through other operators, hoping she'll stop before forcing confrontation",
+      "arc_position": 0.04,
+      "location": "Kepler-442 ansible station (not present in chapter)"
+    }
+  },
+  "revealed_to_reader": [
+    "Message modifications occur throughout ansible network, not just Earth",
+    "Subtle content changes (like tariff percentages) designed to stay below detection",
+    "Mikhael's war was engineered over years through systematic modifications",
+    "63 operators involved in modifications across network",
+    "Ryn's authorization code appears most frequently - she's coordinating",
+    "Guild is monitoring Lira through other operators (Darin)",
+    "Mikhael's death anniversary is 3 weeks away",
+    "Trade ship Meridian Runner expected in 3 weeks with physical verification data from Sol System",
+    "Most guild operators don't suspect modifications, trust system completely",
+    "Lira has identified pattern showing Ryn as central coordinator"
+  ],
+  "planted": [
+    {
+      "element": "Meridian Runner arriving in 3 weeks with Sol System verification data",
+      "payoff_chapter": 7,
+      "significance": "This is Kaito's ship bringing physical evidence"
+    },
+    {
+      "element": "Ryn's RT-447 authorization code appearing on most modifications",
+      "payoff_chapter": 12,
+      "significance": "Will confirm Ryn's central role in systematic deception"
+    },
+    {
+      "element": "63 operators involved across network",
+      "payoff_chapter": 12,
+      "significance": "Shows scope - this is guild-wide policy, not rogue operation"
+    },
+    {
+      "element": "Mikhael's death anniversary approaching",
+      "payoff_chapter": 4,
+      "significance": "Emotional trigger that will intensify Lira's investigation"
+    },
+    {
+      "element": "Guild monitoring Lira through other operators",
+      "payoff_chapter": 6,
+      "significance": "Guild knows more than Lira realizes, setting up arrest in Ch7"
+    },
+    {
+      "element": "Concept that wars are deliberately engineered",
+      "payoff_chapter": 12,
+      "significance": "Central horror of the guild's utilitarian approach"
+    }
+  ],
+  "active_tensions": [
+    "Lira investigating despite Ryn's direct order to stop",
+    "Guild surveillance vs Lira's covert research",
+    "Lira's isolation - can't trust anyone on station",
+    "3-week countdown until Meridian Runner arrives with evidence",
+    "Mikhael's anniversary approaching - emotional pressure building",
+    "Lira's loyalty to guild vs commitment to truth",
+    "Discovery that entire guild may be involved, not just Ryn"
+  ],
+  "world_changes": [
+    "Lira has expanded investigation to entire ansible network",
+    "Discovered systematic modifications across all major hubs",
+    "Identified Ryn as central coordinator of deception",
+    "Set up monitoring for Meridian Runner's arrival",
+    "Guild knows she's continuing investigation (via Darin's report)"
+  ],
+  "technical_details": {
+    "modification_examples": [
+      "Tau Ceti trade message: 30% tariff changed to 40% in transit",
+      "12 similar content modifications found in past year",
+      "Subtle changes below detection threshold",
+      "Changes calibrated to create tension without being obviously false"
+    ],
+    "authorization_codes": [
+      "63 different codes involved in modifications",
+      "RT-447 (Ryn Takada) appears most frequently",
+      "Pattern suggests coordinated operation, not random errors"
+    ],
+    "trade_ship_data": [
+      "Physical courier vessels rare - most trade via ansible data",
+      "Meridian Runner scheduled arrival: ~3 weeks",
+      "Origin: Sol System",
+      "Cargo: Physical data archives and verification media"
+    ]
+  },
+  "themes_explored": {
+    "trust_and_verification": "Darin trusts system because verification exists, not realizing verifiers are compromised",
+    "isolation": "Lira can't confide in anyone, growing paranoia",
+    "engineered_conflict": "Wars deliberately cultivated through systematic message manipulation",
+    "truth_vs_physics": "Ice rings obey immutable laws, unlike human information systems"
+  },
+  "mood": "Paranoid isolation. Lira increasingly alone with terrible knowledge. Quiet dread as she realizes conspiracy's scope. Determination despite fear.",
+  "pacing": "Slow investigation build, discovery of network-wide modifications, setup for Meridian Runner arrival",
+  "chapter_purpose": "Expand investigation scope, show network-wide deception, plant Meridian Runner arrival, deepen Lira's isolation",
+  "connections_to_story_graph": {
+    "bridge_function": "Connects Ch1 (discovery) to Ch7 (physical evidence) by expanding scope and setting up Kaito's arrival",
+    "causal_chain": "Lira's investigation expands → discovers network-wide pattern → learns about incoming physical evidence → prepares for revelation"
+  }
+}

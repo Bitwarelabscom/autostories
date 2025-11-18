@@ -1,0 +1,25 @@
+{
+  "book": 2,
+  "chapter": 2,
+  "title": "The Campaign",
+  "word_count": 1654,
+  "timeline": "2883.075 - Four weeks before referendum (one month after Chapter 1)",
+  "location": "Multiple locations across human space via ansible",
+  "pov_character": "Multiple perspectives - Webb, Chen, various citizens",
+  "characters_present": ["Admiral Webb", "Commander Chen", "Dr. Zara Kim", "Various citizens"],
+  "revealed_to_reader": [
+    "Referendum campaign showing both sides' arguments",
+    "Memory: Earth said choose, not comply - democracy matters",
+    "Contact: Earth provided evidence pointing to shutdown",
+    "Same evidence, different interpretations both valid",
+    "Zara's analysis: 87% confidence Harvesters real",
+    "Memory scientists: 62% confidence threat exaggerated",
+    "Personal testimonies from both sides",
+    "Third option emerges: Individual colony choice (rejected)",
+    "Abstention ruled as acceptance of majority",
+    "All-or-nothing requirement: partial shutdown impossible",
+    "Anonymous message urging honest voting goes viral"
+  ],
+  "chapter_purpose": "Show referendum campaign, present both sides fairly, establish stakes, demonstrate complexity of choice",
+  "mood": "Tense campaigning, uncertainty, democratic process under pressure"
+}

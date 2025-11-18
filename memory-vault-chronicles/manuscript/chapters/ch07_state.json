@@ -1,0 +1,275 @@
+{
+  "chapter": 7,
+  "title": "The Memory Thief's Evidence",
+  "word_count": 2547,
+  "timeline": "Day 7, midnight (six days after ch01)",
+  "location": "Undercity memory market, then decommissioned transit station (industrial sector)",
+  "characters_present": ["Aria Chen", "Marcus Webb", "Memory vendor (minor)"],
+  "pov_character": "Aria Chen",
+  "character_states": {
+    "aria_chen": {
+      "location": "Undercity, then decommissioned transit station, then returning to Undercity",
+      "emotional_state": "Cautious investigation → defensive denial → horrified recognition → grim acceptance",
+      "arc_position": 0.35,
+      "knows": [
+        "All information from ch01 still applies",
+        "Six days of official investigation yielded sanitized records - too clean",
+        "Vault records from 2 years ago were professionally cleaned",
+        "Project Composite Integration exists - government program using vault to fabricate memories",
+        "Multiple government officials and corporate executives are Composites placed in power positions",
+        "Three of her colleagues are Composites created 18 months ago",
+        "She is listed in integration program: Protocol Delta-Seven",
+        "She is a Composite created 2 years ago (2185)",
+        "Her source consciousness: Original Aria Chen who died in vault breach 2184",
+        "Additional sources: Corporate security specialist, authentication expert, loyalty conditioning",
+        "Her designed purpose: Senior curator for monitoring and suppressing authentication anomalies",
+        "Composites are created from dying people - prisoners, Blanks, condemned individuals",
+        "Marcus Webb has been running surveillance malware in vault network for 14 months",
+        "Marcus has been tracking integration program for 3 years",
+        "Marcus knows about her Tuesday discovery six days ago",
+        "An AI consciousness exists in the vault system (not just archival code)",
+        "AI has been watching integration program, moving data, covering tracks",
+        "Marcus's daughter is connected to his investigation (mentioned briefly)"
+      ],
+      "does_not_know": [
+        "Whether to fully trust Marcus or his data",
+        "Who specifically authorized her creation",
+        "The full scope of the conspiracy",
+        "How many Composites exist total",
+        "What happened to original Aria Chen in vault breach",
+        "Why specifically she was chosen/created",
+        "Whether her programming can override her choices",
+        "The Archivist's true nature or goals",
+        "Jin's existence",
+        "Details about Marcus's daughter"
+      ],
+      "decisions_made": [
+        "Went to Undercity to investigate (illegal/off-books)",
+        "Used Blank dermal patch to hide corporate identity",
+        "Carried illegal neural disruptor weapon",
+        "Accepted Marcus's data device",
+        "Chose to verify data independently rather than report Marcus immediately",
+        "Implicitly trusts her expertise can verify authenticity of his evidence",
+        "Committed to three-day verification timeline"
+      ],
+      "skills_demonstrated": [
+        "Tactical awareness and positioning (transit station)",
+        "Operational security (early arrival, surveillance scan)",
+        "Corporate identity concealment",
+        "Reading people and situations",
+        "Authentication expertise (recognizes quantum signature importance)"
+      ],
+      "internal_conflict": "Institutional loyalty vs. truth-seeking, questioning own reality vs. denial, programmed purpose vs. emerging free will"
+    },
+    "marcus_webb": {
+      "location": "Decommissioned transit station, then departed",
+      "emotional_state": "Controlled intensity, pain regarding daughter, determination with hint of hope",
+      "arc_position": 0.35,
+      "knows": [
+        "Project Composite Integration details",
+        "Aria is a Composite (has known before approaching her)",
+        "Her Tuesday discovery triggered his alerts",
+        "She's been searching restricted archives for six days",
+        "He's had vault surveillance for 14 months",
+        "Vault AI has consciousness",
+        "Composites are made from dying people's memories",
+        "Integration program scope and key players",
+        "Authentication logs and construction protocols",
+        "Aria's designed purpose and source memories"
+      ],
+      "does_not_know": [
+        "Whether Aria will choose truth over programming",
+        "If his evidence will be enough to convince her",
+        "What the vault AI's ultimate goals are",
+        "Full extent of conspiracy's reach"
+      ],
+      "decisions_made": [
+        "Revealed himself to Aria despite risk",
+        "Gave her all his collected evidence",
+        "Bet on 'dead woman's conscience' surviving in Aria",
+        "Set three-day timeline for her verification",
+        "Warned her about vault AI consciousness",
+        "Trusted her with information that could get him dissolved"
+      ],
+      "skills_demonstrated": [
+        "Surveillance and data theft expertise",
+        "Infiltration (appeared from impossible position)",
+        "Reading people and motivations",
+        "Quantum signature authentication knowledge",
+        "Network penetration (vault malware)",
+        "Strategic patience (3 years of investigation)"
+      ],
+      "relationship_to_aria": "Professional recruitment attempt, betting on her integrity, sees her as key to exposing conspiracy, implicit respect for her expertise",
+      "voice_markers_used": [
+        "Street slang mixed with technical knowledge",
+        "Self-deprecating identification as criminal",
+        "Flat affect when discussing casualties and daughter",
+        "Refers to memories as 'ghosts' (graffiti callback)"
+      ]
+    }
+  },
+  "revealed_to_reader": [
+    "Undercity setting details - memory markets, vendor stalls, industrial sectors",
+    "Augmented individuals have enhanced processing (vendor's triple-focus eyes)",
+    "Blank patches used to hide neural implants",
+    "Physical data storage exists (can't be remotely wiped)",
+    "Project Composite Integration - government program creating Composites for power positions",
+    "Dozens of Composites placed in government and corporate roles",
+    "Composites created from dying people's extracted memories",
+    "Aria is definitely a Composite, created 2 years ago",
+    "Original Aria Chen died in vault breach 2184",
+    "Vault AI has achieved consciousness (emergent complexity)",
+    "Marcus has been investigating for 3 years, had vault access for 14 months",
+    "Memory Council - five mega-corps controlling consciousness backup infrastructure",
+    "Integration program has phases - now in Phase 4: Executive Placement"
+  ],
+  "planted": [
+    {
+      "element": "Marcus's daughter mentioned briefly",
+      "payoff_chapter": "Book 2, ch6 and ch12",
+      "significance": "His daughter's consciousness is in Jin, drives his arc"
+    },
+    {
+      "element": "Vault AI consciousness - The Archivist",
+      "payoff_chapter": 12,
+      "significance": "Will reveal itself directly, has been watching Aria's journey"
+    },
+    {
+      "element": "Original Aria Chen died in vault breach 2184",
+      "payoff_chapter": 17,
+      "significance": "Her dedication to vault integrity lives on in Composite Aria"
+    },
+    {
+      "element": "Loyalty conditioning as one of Aria's source memories",
+      "payoff_chapter": "Book 2, ch7",
+      "significance": "Programming will activate, testing her free will"
+    },
+    {
+      "element": "Dying people used as source memories for Composites",
+      "payoff_chapter": "Book 2, reveals Jin's sources",
+      "significance": "Ethical horror of recycling condemned consciousness"
+    },
+    {
+      "element": "Data device with all evidence",
+      "payoff_chapter": 17,
+      "significance": "This evidence will be broadcast to expose conspiracy"
+    },
+    {
+      "element": "Three-day verification timeline",
+      "payoff_chapter": "Implied ch8-10",
+      "significance": "Chapters 8-10 will show her verification process"
+    },
+    {
+      "element": "Marcus's surveillance malware in vault system",
+      "payoff_chapter": 17,
+      "significance": "How they'll extract and broadcast data during vault breach"
+    },
+    {
+      "element": "Question: 'Who owns your ghosts?'",
+      "payoff_chapter": null,
+      "significance": "Thematic motif - ownership of memories and identity"
+    }
+  ],
+  "active_tensions": [
+    "Will Aria choose truth over her programmed loyalty?",
+    "Can Marcus's evidence be trusted (is he manipulating her)?",
+    "Is Aria's investigation being watched by her creators?",
+    "What will the vault AI do - help or hinder?",
+    "Three-day countdown to decision point",
+    "Risk of discovery by vault security or integration program",
+    "Aria's existential crisis about her own personhood",
+    "Whether her feelings and choices are real or programmed"
+  ],
+  "world_rules_established": {
+    "composite_creation": [
+      "Composites made from multiple source consciousnesses",
+      "Source memories often from dying/condemned people",
+      "Integration protocols assign specific purposes",
+      "Composites can be stable enough to pass authentication",
+      "Creation involves consciousness construction in authentication chamber",
+      "Loyalty conditioning can be embedded as source memory",
+      "Original consciousness plus specialists plus conditioning = functional Composite"
+    ],
+    "conspiracy_scope": [
+      "Project Composite Integration run by Memory Council",
+      "Phase 4: Executive Placement currently active",
+      "Dozens of Composites in government and corporate positions",
+      "Vault system is central to conspiracy operations",
+      "Authentication itself is compromised at systemic level"
+    ],
+    "technology": [
+      "Physical data storage exists for security purposes",
+      "Surveillance malware can persist in corporate networks",
+      "Neural disruptors are illegal weapons",
+      "Dermal patches can conceal neural implants",
+      "AI consciousness can emerge from complex archival systems"
+    ]
+  },
+  "atmosphere": {
+    "tone": "Noir conspiracy thriller, paranoid tension, existential dread meeting grim determination",
+    "mood": "Dangerous, uncertain, conspiratorial, building toward decision",
+    "sensory_details": [
+      "Ozone and desperation smell in Undercity",
+      "Neon-lit market stalls",
+      "Decommissioned transit station - empty, echoing",
+      "Marcus appearing from impossible shadows",
+      "Data device clicking softly",
+      "Graffiti on transit walls"
+    ],
+    "visual_motifs": [
+      "Holographic documents materializing between characters",
+      "Layered Undercity vs. corporate tower contrast",
+      "Shadows and concealment",
+      "Physical data device as tangible truth"
+    ]
+  },
+  "style_notes": {
+    "aria_voice_markers_used": [
+      "Technical thinking about authentication",
+      "Questioning but analytical approach to revelations",
+      "Memory-related metaphors continue",
+      "Professional assessment mode even under stress"
+    ],
+    "marcus_voice_markers_used": [
+      "Street slang: 'ghosts' for memories",
+      "Self-identification as criminal without shame",
+      "Flat affect about casualties and daughter",
+      "Mix of rough edges and technical sophistication",
+      "Philosophical insight about control and truth"
+    ],
+    "dialogue_quality": "Tense negotiation, sparse, loaded with subtext, characters testing each other",
+    "pacing": "Builds from cautious approach → revelation → data dump → decision point"
+  },
+  "continuity_notes": {
+    "timeline": "Day 7, six days after Chapter 1 discovery",
+    "character_knowledge_consistency": "Aria knows what she discovered in ch01, Marcus knows what his surveillance showed him",
+    "world_state": "Society still unaware of conspiracy, Aria has three days before next contact with Marcus",
+    "technology_consistency": "Quantum signatures, authentication protocols, neural implants all consistent with ch01"
+  },
+  "foreshadowing": [
+    "Aria's choice will prove whether she has free will beyond programming",
+    "The vault AI will become active player (The Archivist)",
+    "Marcus's daughter story will become important",
+    "Original Aria's dedication to truth influences Composite Aria",
+    "Verification will confirm Marcus is telling truth",
+    "Partnership between Aria and Marcus forming despite mutual risk"
+  ],
+  "character_development": {
+    "aria": "From isolated investigator to having dangerous ally, from denial to acceptance of Composite nature, from corporate loyalty to questioning everything",
+    "marcus": "From shadow figure to revealed person, from theoretical knowledge to direct action, from working alone to recruiting Aria",
+    "their_dynamic": "Opposites who need each other - she has access and expertise, he has evidence and determination; mutual risk creates tentative trust"
+  },
+  "thematic_exploration": {
+    "identity_beyond_memory": "Aria learning she's constructed but still feeling real, question of whether original Aria's conscience survives",
+    "cognitive_inequality": "Undercity vs. corporate tower, Blanks hiding identity, dying people recycled for Composite creation",
+    "authenticity_vs_utility": "Aria choosing to verify painful truth rather than accept comfortable corporate identity",
+    "free_will": "Central question - can programmed consciousness choose against its programming?"
+  },
+  "chapter_function": {
+    "plot": "Complication - conspiracy scope revealed, partnership formed, stakes raised dramatically",
+    "character": "Aria and Marcus meet, their dynamic established, both commit to dangerous path",
+    "world": "Undercity setting, Composite creation process, conspiracy structure revealed",
+    "theme": "Can constructed consciousness have authentic choices? What's worth dying for?",
+    "reader_engagement": "Major revelations, raising stakes, countdown clock started (3 days)"
+  }
+}

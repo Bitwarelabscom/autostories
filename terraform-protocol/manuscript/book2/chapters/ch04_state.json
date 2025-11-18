@@ -1,0 +1,46 @@
+{
+  "book": 2,
+  "chapter": 4,
+  "title": "Atmospheric Divergence",
+  "word_count": 2987,
+  "timeline": "Day 2,413 (5 days after Ch1), first Zhang landing completed, seven hours spanned, Chen at 6.7%",
+  "location": "Red Canyon Settlement (Marsborn), Chen's command center, The Gardener's chamber",
+  "pov_character": "Sage primary, Chen secondary, Kessa tertiary",
+  "characters_present": ["Sage", "Elder Kai", "Dr. Chen", "Chen's chief engineer", "Kessa", "Zhang's refugees (163)"],
+  "characters_mentioned": ["Admiral Zhang", "The Gardener", "Marsborn communities", "Amazonis facility personnel (47)"],
+  "character_states": {
+    "Sage": {
+      "knows": ["All previous", "Red Canyon oxygen 0.8% → 1.2% (atmospheric drift from Chen)", "14 days until 3% (toxic threshold for Marsborn)", "Elder Kai considering martyrdom testimony", "Gardener warning: magnitude 5.1 at Amazonis in 1 hour", "Zhang requesting Red Canyon landing (163 refugees)", "Shield tactic: use Marsborn to prevent Gardener response", "Made decision to accept refugees with conditions: no terraforming equipment", "Zhang landing successful, 163 evacuated", "Amazonis earthquake magnitude 5.1 destroyed facility", "Chen's contingency facility compensating", "Atmospheric 6.7%, 11 Marsborn deaths from oxygen toxicity", "Second wave: 600 more refugees incoming"],
+      "emotional_state": "Burdened by leadership decision, conflicted about enabling expansion through mercy, aware of impossible choices, grieving 11 Marsborn deaths",
+      "arc_position": 0.48,
+      "location": "Red Canyon Settlement"
+    },
+    "Dr_Vashti_Chen": {
+      "knows": ["All previous", "Gardener warning: magnitude 5.1 at Amazonis", "Evacuated 47 personnel 8 minutes before earthquake", "Amazonis facility destroyed completely", "Contingency facility increased output, only 30% production loss", "Atmospheric conversion: 6.7%", "0.3% from cascade threshold", "12 days to cascade at current rate", "25 days in compliance window", "Will reach irreversibility before window closes", "11 Marsborn deaths from oxygen toxicity"],
+      "emotional_state": "Defiant, racing Gardener to threshold, viewing infrastructure loss as acceptable cost, rationalizing Marsborn deaths as evolutionary pressure",
+      "arc_position": 0.32,
+      "location": "Backup command center"
+    },
+    "Kessa_Okafor": {
+      "knows": ["All previous", "Zhang landed 163 successfully at Red Canyon", "Shield tactic worked—no Gardener response to Marsborn landing", "Amazonis destroyed, zero casualties", "Chen's production only down 30%", "Atmospheric 6.7%", "11 Marsborn deaths", "Second wave: 600 refugees landing in 12 hours", "Received 47-element Gardener message: patience depleting, enforcement escalating", "Communication without compliance is theater", "25 days if compliance, immediate if contamination continues", "Factions not complying despite successful communication"],
+      "emotional_state": "Desperate recognition that communication succeeded but cooperation failed, exhausted, aware first contact collapsing toward first war",
+      "arc_position": 0.76,
+      "location": "The Gardener's chamber"
+    },
+    "The_Gardener": {
+      "knows": ["All previous", "Chen evacuated personnel but continued production until earthquake", "Zhang using Marsborn as shields successfully", "Marsborn enabling expansion through refuge", "Atmospheric 6.7%", "11 adapted humans dead from contamination", "600 more refugees landing", "Pattern: humans exploit protection systems", "Communication successful but compliance absent"],
+      "emotional_state": "Patience depleting, recognizing communication is theater without compliance, preparing escalated enforcement",
+      "arc_position": 0.40,
+      "location": "Planetary network"
+    }
+  },
+  "revealed_to_reader": ["Red Canyon 43 years old, 217 Marsborn", "Atmospheric drift from Chen affecting all zones", "14-day timeline to Marsborn toxicity at current rate", "Marsborn martyrdom as testimony vs symbolism debate", "Gardener warning system: 1 hour, location, magnitude", "Magnitude 5.1 at Amazonis Planitia", "Zhang landing 163 at Red Canyon", "Sage made decision to accept refugees with conditions", "Shield tactic successful—Gardener didn't attack Marsborn hosting refugees", "47 personnel evacuated 8 minutes before earthquake", "Chen continuing production until earthquake hit", "Contingency facility compensating (30% loss only)", "Atmospheric 6.7% (0.3% from cascade)", "11 Marsborn deaths from oxygen toxicity", "Second wave: 600 refugees in 12 hours", "47-element Gardener message: patience depleting, compliance required", "Communication succeeded, cooperation failed"],
+  "planted": [{"element": "Shield tactic successful", "payoff_chapter": "Book 2, Ch7", "significance": "Zhang uses this extensively, triggers Gardener countermeasure"}, {"element": "11 Marsborn deaths from oxygen toxicity", "payoff_chapter": "Book 2, Ch5-6", "significance": "Casualties from Chen's acceleration"}, {"element": "Chen's 12-day timeline to cascade", "payoff_chapter": "Book 2, Ch7", "significance": "Timeline converging with Zhang's mass landings"}, {"element": "Atmospheric drift contaminating all zones", "payoff_chapter": "Book 2, Ch5-7", "significance": "Can't maintain separation without buffers"}, {"element": "600 refugees second wave", "payoff_chapter": "Book 2, Ch5", "significance": "Escalating use of Marsborn shields"}, {"element": "Sage's compassionate decision enabling expansion", "payoff_chapter": "Book 2, Ch7", "significance": "Marsborn complicity in expansion they oppose"}],
+  "active_tensions": ["Chen 6.7%, 12 days to cascade", "600 refugees landing in 12 hours", "Marsborn oxygen toxicity: 11 dead, more dying", "Gardener patience depleting, enforcement escalating", "25 days if compliance vs immediate if contamination", "Shield tactic working but enabling expansion", "Communication succeeded but factions not complying", "Marsborn enabling expansion through mercy", "Chen's redundancy defeating Gardener enforcement"],
+  "world_changes": ["Zhang landed 163 refugees at Red Canyon successfully", "Shield tactic validated—Gardener didn't attack Marsborn settlement", "Amazonis facility destroyed by magnitude 5.1", "Chen's contingency facility compensating, 30% production loss", "Atmospheric 6.7%", "11 Marsborn deaths from oxygen toxicity", "Red Canyon accepted refugees with equilibrium conditions", "Atmospheric drift affecting all zones (can't maintain separation)", "Second wave 600 refugees incoming", "Gardener transmitted 47-element message warning enforcement escalation"],
+  "atmosphere_notes": "Impossible choices creating complicity, shield tactics succeeding but morally compromising, Chen's redundancy defeating enforcement, Marsborn deaths from oxygen toxicity, compassion enabling problems, communication success but cooperation failure, countdown to catastrophe accelerating",
+  "continuity_notes": {"timeline_check": "Day 2,413 = 5 days after Ch1, 7 days before Ch7", "atmospheric": "6.4% (Ch3) → 6.7% (Ch4), Chen accelerating", "magnitude_escalation": "4.2 (Ch3) → 5.1 (Ch4), increasing as warned", "marsborn_deaths": "First casualties from atmospheric contamination"},
+  "foreshadowing": ["600 refugees in 12 hours means massive shield exploitation coming", "Chen's 12-day timeline converges with events around Ch7", "Atmospheric drift means territorial separation requires engineered buffers", "Marsborn deaths will increase as oxygen rises", "Gardener's 47-element message warns enforcement escalation imminent", "Communication without compliance leads to war"],
+  "technical_details": {"days_elapsed": "5", "atmospheric_conversion": "6.7%", "percent_to_cascade": "0.3%", "days_to_cascade_chen_timeline": "12", "days_in_compliance_window": "25", "red_canyon_oxygen": "1.2% (from 0.8%)", "days_to_marsborn_toxicity": "14", "magnitude_amazonis": "5.1", "zhang_first_landing": "163 refugees", "zhang_second_wave": "600 refugees", "amazonis_personnel_evacuated": "47", "marsborn_deaths": "11", "chen_production_loss": "30%", "gardener_message_complexity": "47 elements"},
+  "narrative_position": "Bridge chapter showing consequences of shield tactics, Chen's persistence, Marsborn complicity, atmospheric drift, first deaths from oxygen toxicity, Gardener's patience depleting, communication success insufficient without compliance, countdown accelerating toward Ch7 crisis"
+}

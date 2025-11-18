@@ -1,0 +1,32 @@
+{
+  "book": 2,
+  "chapter": 9,
+  "title": "Grieving",
+  "word_count": 1827,
+  "timeline": "Day 63-64 (3 weeks after ch7, planning rescue)",
+  "location": "Fallback delta (7th headquarters)",
+  "characters_present": ["Marcus Webb", "Jin 'Ghost' Park", "Dr. Yuki Tanaka", "14 resistance fighters"],
+  "pov_character": "Marcus Webb",
+  "character_states": {
+    "marcus_webb": {
+      "arc_position": 0.50,
+      "knows": ["3 weeks since capture", "Aria being enhanced-programmed", "14 fighters remaining (5 lost in ch7 operation)", "48 hours until enhanced programming complete", "Tanaka's odds: 30-70 against success", "Loves Aria despite betrayal"],
+      "decisions_made": ["No sleep for 3 weeks", "Committed to rescue despite risks", "Moved up operation timeline", "Leading infiltration personally", "Chose love over logic", "12 fighters volunteered"],
+      "emotional_journey": "Guilt → determination → acknowledging love → accepting risk → planning desperate rescue"
+    },
+    "jin_ghost_park": {
+      "arc_position": 0.60,
+      "knows": ["Down to 14 fighters", "Aria being enhanced-programmed", "Marcus loves Aria", "Rescue might kill everyone", "Aria proved composites can resist"],
+      "decisions_made": ["12 fighters committed to rescue", "Supported risky timeline", "2 new fighters staying behind to survive"]
+    },
+    "dr_yuki_tanaka": {
+      "arc_position": 0.45,
+      "knows": ["Enhanced programming requires 12+ hour surgery", "30-70 odds against success", "Each iteration makes deactivation harder", "Marcus choosing love over logic mirrors Reiko"],
+      "decisions_made": ["Joined rescue team", "Will attempt surgery despite low odds", "Recognized Marcus's choice as what Reiko believed"]
+    }
+  },
+  "revealed_to_reader": ["3 weeks passed since ch7", "Marcus hasn't slept", "14 fighters remain (5 lost)", "Aria being enhanced-programmed", "48-hour deadline", "Enhanced programming more subtle/undetectable", "Rescue moved up to tomorrow", "12 fighters volunteered, 2 staying", "Marcus loves Aria", "Tanaka's odds dropped to 30-70 against success", "Tanaka's partner Reiko believed love is choosing personhood over safety"],
+  "planted": [{"element": "30-70 odds against success", "payoff": "ch12-13"}, {"element": "Enhanced programming complications", "payoff": "ch12-13"}, {"element": "Reiko's belief about love", "payoff": "ch12"}, {"element": "12 fighters on rescue", "payoff": "ch12"}],
+  "active_tensions": ["Tomorrow's rescue operation", "Enhanced programming deadline", "30-70 odds against deactivation success", "Risk of total team loss", "Marcus choosing love despite danger"],
+  "bridge_to_next_chapter": {"next_chapter_needs": ["Rescue operation continues (ch10-11)", "Operation execution details", "Leads into ch12 rescue success"]}
+}

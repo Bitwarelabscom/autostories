@@ -1,0 +1,19 @@
+{
+  "chapter": 13,
+  "title": "The Weight of Knowing",
+  "word_count": 2145,
+  "timeline": "2880.079 - Day 37 (5 days after Ch12, 9 days before Magistrate deadline)",
+  "location": "Zara's research station",
+  "pov_character": "Lira Voss",
+  "characters_present": ["Lira Voss", "Kaito Reeves", "Zara Kim", "Ryn Takada (arrives end)"],
+  "character_states": {
+    "Lira Voss": {
+      "knows": ["Guild Masters tried to disclose truth multiple times over 40 years", "Magistrate modeling always showed disclosure would kill billions", "19 Guild Masters resigned, 12 transferred, 8 died from stress", "Average Guild Master lifespan: 137 years vs normal 182 years", "Ryn proposed truth disclosure multiple times, voted down", "5 years ago Ryn prepared contingency: train investigators for controlled disclosure", "Lira was identified and trained as contingency investigator", "7 other operators trained across network as exit strategy", "Investigation was anticipated, not rebellion", "Ryn coming to meet, bringing personal logs spanning 40 years"],
+      "emotional_state": "Profound understanding. Seeing guild as tragic figures, not villains. Realizing her investigation was contingency plan. Manipulation but also genuine burden-sharing. Need to talk to Ryn face-to-face. Carrying weight of impossible choices.",
+      "arc_position": 0.55
+    }
+  },
+  "revealed_to_reader": ["Multiple disclosure attempts over 40 years, all voted down", "Guild Masters dying from stress of deception", "Lira trained as contingency investigator 5 years ago", "Investigation was anticipated exit strategy", "Ryn's personal logs offered for review"],
+  "planted": [{"element": "Ryn's 40-year personal journal", "payoff_chapter": 14, "significance": "Understanding burden's full weight"}],
+  "chapter_purpose": "Show guild tried to disclose truth repeatedly. Reveal Lira's investigation was contingency plan. Deepen sympathy for guild's impossible position. Set up Ryn confrontation."
+}

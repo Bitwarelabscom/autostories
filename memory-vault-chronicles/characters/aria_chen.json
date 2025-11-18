@@ -1,0 +1,35 @@
+{
+  "name": "Aria Chen",
+  "role": "Protagonist - Memory vault curator",
+  "core_wound": "Unknowable past - her own memories are fabricated, leaving her without authentic identity",
+  "wants": "To find her original memories and discover who she really was",
+  "needs": "To accept that she can create a new identity based on who she chooses to be now, not who she was",
+  "voice_markers": [
+    "Precise, technical language when discussing memory systems",
+    "Tendency to speak in questions when uncertain about herself",
+    "Uses memory-related metaphors unconsciously",
+    "Becomes clipped and direct under stress"
+  ],
+  "contradiction": "Dedicated to preserving authentic memories while living with fabricated ones",
+  "arc_position": 0.0,
+  "knowledge_state": [],
+  "relationships": {
+    "Marcus Webb": "Distrust evolving to partnership - he represents everything she's sworn to stop",
+    "The Archivist": "Fascination and dependency - the AI knows her real history",
+    "Dr. Yuki Tanaka": "Resentment toward the creator of her false existence",
+    "Jin 'Ghost' Park": "Kinship with another person of uncertain identity"
+  },
+  "physical_description": "Mid-30s (subjective age), East Asian features, neural implant visible at temple, professional corporate appearance that gradually deteriorates through trilogy",
+  "skills": [
+    "Memory forensics and authentication",
+    "Vault security systems",
+    "Quantum signature detection",
+    "Corporate protocol navigation"
+  ],
+  "background": "Believes she's been a vault curator for 8 years. Actually a Composite created 2 years ago from multiple sources to infiltrate the memory preservation system. Her base memories come from a real Aria Chen who died in a vault breach.",
+  "character_arc": {
+    "book_1": "Discovers inconsistencies in her own memories, goes from loyal employee to conspiracy investigator",
+    "book_2": "Learns she's a Composite spy, faces identity crisis, must choose between programming and free will",
+    "book_3": "Accepts constructed identity, fights to protect The Last Original, ultimately sacrifices her consciousness to prevent future memory manipulation"
+  }
+}

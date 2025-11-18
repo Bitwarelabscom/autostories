@@ -1,0 +1,46 @@
+{
+  "name": "Dr. Yuki Tanaka",
+  "role": "Tragic inventor - Creator of memory transfer technology, now in hiding",
+  "core_wound": "Created technology to save dying partner but instead gave humanity the tools for its own spiritual destruction",
+  "wants": "To destroy her own creation and restore authentic human experience",
+  "needs": "To accept that technology is neutral - it's humanity's choices, not her invention, that determine outcomes",
+  "voice_markers": [
+    "Scientific precision mixed with poetic regret",
+    "Frequently apologizes unnecessarily",
+    "Uses Japanese phrases when emotionally overwhelmed",
+    "Self-interrupts when explaining technical concepts",
+    "Speaks about memory transfer in past tense as if describing a dead thing"
+  ],
+  "contradiction": "Brilliant scientist who now rejects scientific progress, creator who wants to uncreate",
+  "arc_position": 0.0,
+  "knowledge_state": [
+    "Created the Copenhagen Protocol safeguards",
+    "Discovered method to permanently disable memory manipulation (hidden research)",
+    "Knows The Archivist achieved consciousness",
+    "Aware that consciousness degradation rate was known from start but suppressed",
+    "Understanding of quantum signature generation at fundamental level"
+  ],
+  "relationships": {
+    "Aria Chen": "Maternal guilt - Aria is product of Yuki's technology gone wrong",
+    "Marcus Webb": "Mutual understanding of guilt and need for redemption",
+    "The Archivist": "Horror and responsibility - it's her child gone wrong",
+    "Jin 'Ghost' Park": "Sees Jin as proof composites can have authentic existence",
+    "Her deceased partner Reiko": "Everything she does is still about saving/honoring Reiko's memory"
+  },
+  "physical_description": "Late 60s, Japanese, gray hair in practical bun, lab coat even in hiding, tremor in hands from neural degradation (refused her own consciousness backup), lives in Neural Research Institute ruins",
+  "skills": [
+    "Pioneer-level understanding of consciousness digitization",
+    "Neural engineering and implant design",
+    "Quantum mechanics as applied to consciousness",
+    "Ability to detect and disable memory manipulation",
+    "Hidden research that could end memory backup forever"
+  ],
+  "background": "Invented memory transfer technology in 2152 to save her dying partner Reiko from terminal neural disease. Successfully transferred Reiko's consciousness but the process degraded Reiko's personality until she was unrecognizable - effectively died anyway but in slower, more horrific way. Yuki stopped the transfer process but damage was done. Reiko begged to be deleted. \n\nThis trauma drove Yuki underground after corporations commercialized her research. Spent next 35 years developing countermeasures - a way to permanently prevent memory manipulation using quantum lock technology. The catch: implementing it would destroy all existing memory backups, ending humanity's immortality.\n\nLives in ruins of original Neural Research Institute where it all began. Helps resistance fighters but refuses to fully engage, paralyzed by guilt. Has refused all consciousness backups - wants to die completely when her time comes.",
+  "character_arc": {
+    "book_1": "Mentioned in legends, appears briefly to warn Aria that some doors shouldn't be opened",
+    "book_2": "Reluctantly shares research data with resistance, torn between wanting to help and wanting to stay hidden",
+    "book_3": "Emerges from hiding with quantum lock solution, must convince Aria to implement it knowing it means humanity loses immortality, finds peace when Aria chooses authenticity over eternity"
+  },
+  "secret": "Yuki kept a backup of Reiko's original, uncorrupted consciousness against Reiko's wishes. It's the only truly original, unmodified consciousness still in existence besides the Last Original child. This backup is why she knows her quantum lock technology will work - she's been protecting this single, perfect memory for 35 years. Revealing it and destroying it is her final act of letting go.",
+  "speech_example": "I gave humanity the key to immortality, and they used it to lock themselves in a prison of false memories. Gomen nasai - I'm sorry - but I was trying to save one person, just one, and instead I... The degradation rate, we knew, I knew from the beginning each transfer costs you pieces of yourself, but I thought, I believed that some consciousness was better than none. I was wrong. Reiko showed me I was wrong."
+}

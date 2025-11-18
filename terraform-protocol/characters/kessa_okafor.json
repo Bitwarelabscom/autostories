@@ -1,0 +1,36 @@
+{
+  "name": "Kessa Okafor",
+  "role": "Protagonist - Xenoarchaeologist",
+  "core_wound": "Chose her career over family during Earth's ecological collapse - stayed to excavate sites while her family fled in refugee ships, never saw them again",
+  "wants": "To prove ancient aliens existed on Mars, validate her life's work and sacrifices",
+  "needs": "To learn when to stop pursuing truth - that some knowledge comes at too high a price",
+  "voice_markers": [
+    "Academic precision in speech, uses technical terminology naturally",
+    "References Earth archaeology and human history as comparisons",
+    "Becomes passionate and animated when discussing discoveries",
+    "Falls silent when emotionally overwhelmed, processes internally"
+  ],
+  "contradiction": "Dedicated to preserving and understanding alien culture while humanity actively destroys it through terraforming",
+  "arc_position": 0.0,
+  "knowledge_state": [],
+  "relationships": {
+    "Dmitri Volkov": "Professional antagonism - he wants to exploit what she wants to preserve",
+    "Sage": "Mentor-student evolving to equals - sees in Sage the Mars-first perspective she initially lacked",
+    "The Gardener": "Complex relationship with alien AI - from specimen to communication partner to ally",
+    "Admiral Zhang Wei": "Sympathizes with refugee crisis but opposes forced landing solution"
+  },
+  "physical_description": "Early 40s, Nigerian descent, tall and lean from years in low gravity, Mars dust permanently staining her work clothes, carries herself with academic authority",
+  "skills": [
+    "Xenoarchaeology and artifact analysis",
+    "Ancient language decipherment",
+    "Geological survey and excavation",
+    "Interfacing with alien technology",
+    "Scientific method and research design"
+  ],
+  "background": "Arrived on Mars 12 years ago as part of the initial archaeological survey. Discovered the first artifacts at Jezero crater. Has spent years trying to get funding to excavate Olympus Mons anomalies, finally succeeds just as corporate interests want to suppress findings. Lost contact with family during Earth's refugee crisis.",
+  "character_arc": {
+    "book_1": "Discovers The Beneath structure, excitement turns to horror as she realizes terraforming will trigger defensive response, corporate interests suppress her warnings, watches first colony die",
+    "book_2": "Deciphers alien AI's purpose, realizes aliens weren't visitors but Mars' original terraformers who succeeded then died out, humanity repeating their process will trigger 'correction', fights for halt to terraforming",
+    "book_3": "Makes choice to merge consciousness with The Gardener to become translator between human and alien ecology, sacrifices her humanity to save both species of humans that emerge, achieves understanding at cost of self"
+  }
+}

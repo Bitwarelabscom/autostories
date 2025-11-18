@@ -1,0 +1,20 @@
+{
+  "book": 2,
+  "chapter": 15,
+  "title": "Trust Rebuilt",
+  "word_count": 1947,
+  "timeline": "Day 73-74 (week after ch14 testing)",
+  "location": "Resistance headquarters, planning areas",
+  "characters_present": ["Aria Chen", "Jin 'Ghost' Park", "Marcus Webb", "Dax", "Kira", "13 resistance fighters"],
+  "pov_character": "Aria Chen",
+  "character_states": {
+    "aria_chen": {
+      "arc_position": 0.65,
+      "knows": ["Fighters don't trust her", "Dax questioned her worth", "Kira willing to work with her with verification", "Trust provisional and verified, not blind", "Week of working alongside resistance", "Authentication hub operation in 2 days", "Constant programming exhaustion", "She's worth trust through choosing, not perfection"],
+      "decisions_made": ["Admitted can't promise won't betray", "Promised to fight and report programming", "Accepted Kira's conditions (kill if betrays)", "Worked with verification systems", "Helped plan hub operation", "Reported all programming influences", "Participated in operation (ch16-17)"]
+    }
+  },
+  "revealed_to_reader": ["Resistance doesn't trust Aria initially", "Dax questioned if composites can be trusted", "Jin challenged Dax to leave if doesn't believe in consciousness", "Kira willing to work with verification", "Trust rebuilt provisionally over week", "Aria honest about being compromised", "Not perfect trust but enough", "Authentication hub operation 2 days away", "Aria participated and proved trustworthy through struggle"],
+  "planted": [{"element": "Trust verified not blind", "payoff": "ch16-17"}, {"element": "Hub operation in 2 days", "payoff": "ch16-17"}, {"element": "Kira's conditional trust", "payoff": "future"}],
+  "bridge_to_next_chapter": {"next_chapter_needs": ["Final hub operation planning (ch16)", "Execution (ch17)"]}
+}

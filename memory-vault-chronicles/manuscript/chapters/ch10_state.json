@@ -1,0 +1,39 @@
+{
+  "chapter": 10,
+  "title": "The Fractured Memory",
+  "word_count": 1562,
+  "timeline": "Day 10, final day of verification",
+  "character_states": {
+    "aria_chen": {
+      "arc_position": 0.54,
+      "knows": [
+        "Someone locked/unlocked her oldest backup to control timing of discovery - likely Kauffman",
+        "Investigation may be orchestrated, not rebellious",
+        "Her behavior follows predictable patterns - could be programming",
+        "Original Aria killed stopping vault breach 5 years ago",
+        "Original Aria died with consciousness dissolution - no resurrection",
+        "She was built from 6-month-old backup (missing final memories)",
+        "Marcus suggests Dr. Tanaka was the breach Original Aria stopped",
+        "Personality traits survive consciousness transfer (Marcus theory)",
+        "The Archivist gave her Original Aria's final 6 months of restricted files",
+        "The Archivist chose to intervene/help by sharing forbidden data"
+      ]
+    }
+  },
+  "revealed_to_reader": [
+    "Investigation may be controlled by Kauffman",
+    "Behavior patterns could be programming or professionalism",
+    "Original Aria killed with full consciousness dissolution",
+    "Built from outdated backup missing final critical memories",
+    "Dr. Tanaka possibly involved in breach that killed Original Aria",
+    "Personality survives consciousness construction (Marcus argues)",
+    "The Archivist decided to help by sharing restricted files",
+    "Original Aria's final memories available to Aria now"
+  ],
+  "planted": [
+    {"element": "Original Aria's final 6 months", "payoff_chapter": "Next chapters/Book 2", "significance": "Critical discovery that got her killed"},
+    {"element": "Tanaka as possible vault breach perpetrator", "payoff_chapter": 20, "significance": "Connects Tanaka to conspiracy"},
+    {"element": "Archivist choosing to intervene", "payoff_chapter": 12, "significance": "AI becoming participant not observer"}
+  ],
+  "chapter_function": {"plot": "Orchestrated investigation revealed, Original Aria's death context, Archivist gives forbidden data", "character": "Aria discovering even investigation may be controlled, Archivist choosing sides"}
+}

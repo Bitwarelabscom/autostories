@@ -1,0 +1,20 @@
+{
+  "book": 2,
+  "chapter": 16,
+  "title": "The Plan",
+  "word_count": 1593,
+  "timeline": "Day 75 (3 days planning, night before ch17 operation)",
+  "location": "Resistance headquarters, planning areas",
+  "characters_present": ["Aria Chen", "Jin 'Ghost' Park", "Marcus Webb", "Dr. Yuki Tanaka", "Dax", "23 resistance fighters"],
+  "pov_character": "Aria Chen",
+  "character_states": {
+    "aria_chen": {
+      "arc_position": 0.75,
+      "knows": ["Hub heavily defended", "Programming screaming against destruction", "Can sustain resistance during planning", "Combat stress untested", "Route beta chosen over programming's alpha suggestion", "Contingencies for her betrayal in place", "Tanaka's diagnostics promising", "Operation launching tonight", "13 fighters betting on her resistance"],
+      "decisions_made": ["Contributed expertise for 3 days", "Reported programming objections", "Recommended route beta over alpha", "Accepted being test case", "Chose to believe she can resist", "Participated in operation launch"]
+    }
+  },
+  "revealed_to_reader": ["Authentication hub in district 9", "3 days of planning", "Aria's programming protests but doesn't control", "Route alpha (programming suggested) vs beta (Aria recommended)", "Chosen beta", "Contingencies for Aria's betrayal planned", "Marcus has jamming device", "Abort codes ready", "Tanaka monitoring real-time", "23 fighters on operation", "Programming screaming during infiltration", "Operation launched route beta"],
+  "planted": [{"element": "Operation in progress", "payoff": "ch17"}, {"element": "Programming screaming BETRAY", "payoff": "ch17"}, {"element": "Combat stress untested", "payoff": "ch17"}],
+  "bridge_to_next_chapter": {"next_chapter_needs": ["Operation execution (ch17)", "Aria resisting programming under combat stress", "Threading needle technique", "Hub destroyed successfully"]}
+}

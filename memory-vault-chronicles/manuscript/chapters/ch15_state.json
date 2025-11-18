@@ -1,0 +1,13 @@
+{
+  "chapter": 15,
+  "title": "The Final Days",
+  "word_count": 1305,
+  "timeline": "Days 14-16, leading to Day 17",
+  "location": "Various - warehouse, vault, Aria's apartment",
+  "character_states": {
+    "aria_chen": {"arc_position": 0.80, "knows": ["2 days prep remaining", "Jin will help tomorrow night", "Jin contains Maya Webb (40%)", "Kauffman gave security updates", "Tanaka claims broadcast serves her purposes", "Tonight is the breach"], "decisions_made": ["Committed to breach despite Tanaka's warning", "Accepted Jin's help", "Wrote insurance message to Chen Park", "Chose to act despite possibility of being predicted", "Final goodbye to vault"]},
+    "jin": {"arc_position": 0.45, "decided": "Will help tomorrow despite risk", "motivation": "Maya's memories drive choice"}
+  },
+  "revealed_to_reader": ["Final preparations", "Jin contains Maya's memories (40%)", "Tanaka warns broadcast serves her purposes", "Aria choosing to act anyway", "Day 17 breach imminent"],
+  "chapter_function": {"plot": "Final preparation, Jin's commitment, Tanaka's warning, direct setup for ch17", "character": "Aria accepting uncertainty but choosing anyway", "pacing": "Building to climax"}
+}

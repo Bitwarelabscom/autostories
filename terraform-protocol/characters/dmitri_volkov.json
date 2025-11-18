@@ -1,0 +1,36 @@
+{
+  "name": "Dmitri Volkov",
+  "role": "Antagonist - Corporate Terraforming Director",
+  "core_wound": "Watched his wife die of radiation poisoning on a failed mining colony, believes only total planetary transformation can make space safe for humanity",
+  "wants": "To complete Mars terraforming and secure corporate bonuses that will bring his daughter from refugee fleet to safety",
+  "needs": "To learn that safety cannot be bought with destruction - that some compromises doom everyone",
+  "voice_markers": [
+    "Corporate speak and efficiency language, talks about 'metrics' and 'optimization'",
+    "Russian-accented English with occasional Russian phrases under stress",
+    "Dismissive of 'theoretical' concerns, demands 'actionable data'",
+    "Softens noticeably when discussing his daughter"
+  ],
+  "contradiction": "Claims to be making Mars safe for humanity while creating conditions that will destroy colonies",
+  "arc_position": 0.0,
+  "knowledge_state": [],
+  "relationships": {
+    "Kessa Okafor": "Views her as idealistic obstacle to progress, grudging respect for her expertise",
+    "Sage": "Sees as proof that Mars adaptation is possible but refuses to acknowledge implications",
+    "The Gardener": "Initially denies its existence, later views as problem to be solved with engineering",
+    "Admiral Zhang Wei": "Sympathizes with refugee crisis, daughter is in Zhang's fleet"
+  },
+  "physical_description": "Late 50s, broad-shouldered and physically imposing, Russian descent, gray hair closely cropped, corporate uniform always immaculate, carries himself with military precision despite civilian role",
+  "skills": [
+    "Terraforming project management",
+    "Corporate politics and negotiation",
+    "Engineering systems optimization",
+    "Resource allocation and logistics",
+    "Personnel management and manipulation"
+  ],
+  "background": "Former mining engineer who lost his wife in the Ceres Station disaster. Rose through corporate ranks through ruthless efficiency. Separated from his daughter when she joined refugee fleet. Views Mars terraforming as redemption - make one world truly safe for humans. Genuinely believes he's saving humanity, not destroying an alien ecosystem.",
+  "character_arc": {
+    "book_1": "Suppresses Kessa's findings to protect terraforming timeline and his daughter's future, accelerates nanite deployment, watches with horror as first colony is destroyed but doubles down, believing better engineering is the answer",
+    "book_2": "Daughter's arrival in refugee fleet forces confrontation between his two goals, attempts compromise solutions that satisfy neither corporate nor colonist interests, begins to question if terraforming can succeed",
+    "book_3": "Realizes his methods will kill his daughter along with everyone else, makes ultimate sacrifice to help broker compromise, achieves redemption by accepting he cannot engineer away consequences"
+  }
+}

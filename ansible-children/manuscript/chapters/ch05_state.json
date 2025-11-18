@@ -1,0 +1,193 @@
+{
+  "chapter": 5,
+  "title": "Distributed Truth",
+  "word_count": 2614,
+  "timeline": "2880.061 - Day 18 after initial discovery (3 days after Mikhael's memorial)",
+  "location": "Kepler-442 System ansible station, Lira's quarters",
+  "pov_character": "Lira Voss",
+  "characters_present": [
+    "Lira Voss",
+    "Zara Kim"
+  ],
+  "character_states": {
+    "Lira Voss": {
+      "knows": [
+        "Everything from Ch4, plus:",
+        "Guild can monitor her personal systems",
+        "She's distributed evidence across multiple hidden systems",
+        "Environmental database contains encoded timestamp data",
+        "Nav beacon network carries embedded evidence fragments",
+        "Delayed ansible transmission set as dead-woman's switch (30 days)",
+        "Three physical data cores created with complete evidence",
+        "Ryn is personally generating all Earth messages (RT-447 originates them)",
+        "All Guild Masters co-sign Ryn's fabrications as authentic",
+        "This is official guild policy, not individual corruption",
+        "Post-2840 Earth messages show algorithmic pattern, not human variation",
+        "Network visualization proves systematic coordination",
+        "Exposing truth destroys trust in entire ansible network",
+        "Information isolation would follow - no trusted communication between colonies",
+        "Building new verification systems would take decades",
+        "Kaito arrives in 10 days",
+        "She needs to verify alien threat is real before exposing anything"
+      ],
+      "suspects": [
+        "Guild may already know about her distributed evidence",
+        "Alien threat might be fabrication to justify control",
+        "Or threat might be real and exposure means extinction",
+        "Kaito may have evidence of whether threat is real"
+      ],
+      "does_not_know": [
+        "If guild has detected her evidence distribution",
+        "Whether alien threat is real or justification",
+        "What Kaito witnessed at Earth that confirms/denies threat",
+        "How to rebuild trust if she exposes deception",
+        "If she has courage to pull the trigger on exposure"
+      ],
+      "emotional_state": "Operating in paranoid intelligence mode. Methodical. Cold. Focused on contingencies and backup plans. Underlying terror about being wrong. Desperate need for certainty before acting. Feeling weight of potential consequences. Grateful for Zara's support but aware of isolation. Approaching point of no return.",
+      "arc_position": 0.25,
+      "location": "Kepler-442 ansible station, quarters",
+      "physical_state": "Sleep-deprived but focused, running on adrenaline and purpose"
+    },
+    "Zara Kim": {
+      "knows": [
+        "Everything Lira knows",
+        "She's being shipped out in 6 days",
+        "Lira is building sophisticated distributed evidence network",
+        "Network topology visualization proves coordination",
+        "She lacks courage to expose truth herself",
+        "Lira is her last hope for investigation continuing"
+      ],
+      "suspects": [
+        "Lira might actually have courage to expose everything",
+        "Full truth is only path forward",
+        "Selective truth creates worse conspiracy theories"
+      ],
+      "does_not_know": [
+        "If Lira will expose or protect the secret",
+        "What her own fate will be after reassignment",
+        "If other investigators exist beyond her and Lira"
+      ],
+      "emotional_state": "Resigned to exile. Bitter about her own limitations. Hopeful Lira will succeed where she failed. Passing the torch with relief and regret. Acceptance that her investigation ends here.",
+      "arc_position": 0.30,
+      "location": "Kepler-442 ansible station (leaving in 6 days)"
+    },
+    "Ryn Takada": {
+      "knows": [
+        "Lira is distributing evidence (probably monitored)",
+        "Zara is in contact with Lira",
+        "Kaito arriving in 10 days",
+        "Containment becoming impossible",
+        "Physical evidence can't be fabricated"
+      ],
+      "emotional_state": "Watching pieces fall into place. Knows forty-year deception is ending. Preparing for confrontation. Still hoping Lira can be reasoned with.",
+      "arc_position": 0.18,
+      "location": "Kepler-442 ansible station (not present in chapter)"
+    }
+  },
+  "revealed_to_reader": [
+    "Lira has distributed evidence across multiple hidden systems",
+    "Environmental control database: oxygen fluctuations encode timestamp data",
+    "Nav beacon network: embedded evidence in transmission protocols",
+    "Delayed ansible transmission: 30-day dead-woman's switch",
+    "Three physical data cores: maintenance tunnels, with Darin, decoy in quarters",
+    "Network visualization proves systematic coordination",
+    "RT-447 (Ryn) originates all Earth messages for 40 years",
+    "All Guild Masters co-sign her fabrications",
+    "Post-2840 Earth pattern is algorithmic, not human",
+    "This is official guild policy across entire network",
+    "Exposing truth destroys trust in ansible communication system completely",
+    "Would create information isolation - no trusted verification between colonies",
+    "Selective truth creates worse conspiracy theories",
+    "Building new verification systems takes decades",
+    "Trolley problem: expose truth (potential extinction) or maintain lies (ongoing deaths)",
+    "Lira needs to verify alien threat is real before acting"
+  ],
+  "planted": [
+    {
+      "element": "Delayed ansible transmission dead-woman's switch",
+      "payoff_chapter": 9,
+      "significance": "Will trigger if Lira is disappeared, ensuring truth survives"
+    },
+    {
+      "element": "Physical data core with Darin",
+      "payoff_chapter": 9,
+      "significance": "Darin unknowingly protecting evidence"
+    },
+    {
+      "element": "Network visualization proving coordination",
+      "payoff_chapter": 12,
+      "significance": "Visual proof for confronting guild about systematic policy"
+    },
+    {
+      "element": "Need to verify alien threat is real",
+      "payoff_chapter": 7,
+      "significance": "Lira's key question for Kaito"
+    },
+    {
+      "element": "Building new verification systems concept",
+      "payoff_chapter": "Book 2",
+      "significance": "Post-exposure reconstruction attempt"
+    },
+    {
+      "element": "Information isolation as consequence",
+      "payoff_chapter": 20,
+      "significance": "Reality of post-revelation world"
+    }
+  ],
+  "active_tensions": [
+    "Evidence distributed but guild may know",
+    "10 days until Kaito arrives with physical proof",
+    "6 days until Zara is exiled/reassigned",
+    "Uncertainty about alien threat reality",
+    "Trolley problem: act (potential extinction) or don't act (ongoing deaths)",
+    "Lira's need for certainty vs impossibility of certainty",
+    "Trust in ansible network will be destroyed by exposure",
+    "New verification systems take decades to build"
+  ],
+  "world_changes": [
+    "Evidence distributed across multiple hidden systems",
+    "Dead-woman's switch ansible transmission queued (30 days)",
+    "Physical data cores secured in 3 locations",
+    "Zara has passed all her research to Lira",
+    "Network topology visualization proves guild-wide coordination",
+    "Lira understands full consequences of exposure",
+    "Timer: 10 days to Kaito, 6 days to Zara's departure"
+  ],
+  "technical_details": {
+    "distributed_evidence_systems": [
+      "Environmental database: timestamp data in oxygen percentage fluctuations",
+      "Nav beacon network: 37 beacons, evidence in communication protocol preambles",
+      "Delayed ansible: self-addressed message via Tau Ceti and New Singapore, 30-day travel",
+      "Physical cores: maintenance tunnels (hidden), with Darin (trusted), quarters (decoy)"
+    ],
+    "network_topology_visualization": [
+      "3D representation of 200 years of ansible message flow",
+      "Pre-2840: dense web, Earth at center, organic patterns",
+      "2840.187: complete collapse then rebuilding",
+      "Post-2840: algorithmic patterns, identical timing, RT-447 origin codes",
+      "All Guild Masters co-signing Ryn's fabrications",
+      "Shows coordination across entire network"
+    ],
+    "message_pattern_analysis": [
+      "Pre-2840: varied timing, different priorities, natural human rhythm",
+      "Post-2840: identical schedule, same intervals, same lengths, programmed broadcast",
+      "RT-447 originates, then cascades through all Guild Master co-signatures",
+      "Proves messages generated at Kepler-442, not Earth"
+    ]
+  },
+  "themes_explored": {
+    "paranoia_and_preparation": "Intelligence operative thinking - contingencies and dead-drops",
+    "trolley_problem": "Act to expose (risk extinction) or maintain lies (ongoing deaths)",
+    "epistemological_isolation": "Without trusted communication, truth becomes local only",
+    "certainty_and_action": "Lira needs to know threat is real before acting",
+    "courage_and_cowardice": "Zara couldn't act, passes hope to Lira"
+  },
+  "mood": "Cold paranoid preparation. Methodical intelligence work. Underlying existential dread. Weight of impossible choice. Desperate need for certainty in uncertain situation.",
+  "pacing": "Methodical evidence distribution, Zara's arrival brings intensity, ends on uncertainty and moral paralysis",
+  "chapter_purpose": "Show Lira's preparation and contingency planning. Reveal full scope of coordination. Present trolley problem explicitly. Set up Kaito as source of verification. Deepen moral complexity.",
+  "connections_to_story_graph": {
+    "bridge_function": "Connects Mikhael's memorial (Ch4) to Kaito's arrival (Ch7) by showing preparation and evidence distribution",
+    "causal_chain": "Understanding consequences → preparing evidence network → realizing need for verification → waiting for Kaito's witness testimony",
+    "moral_progression": "From certainty that truth is right to uncertainty about whether truth is survivable"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "book": 2,
+  "chapter": 8,
+  "title": "Dissolution Pending",
+  "word_count": 1548,
+  "timeline": "Day 49-62 (1 week to 3 weeks after ch7 capture)",
+  "location": "Council detention facility, interrogation",
+  "characters_present": ["Aria Chen (imprisoned)", "Council interrogators"],
+  "pov_character": "Aria Chen",
+  "character_states": {
+    "aria_chen": {
+      "arc_position": 0.40,
+      "status": "Imprisoned, neural dampeners active, being interrogated, enhanced programming being loaded",
+      "knows": ["Under neural dampeners - consciousness suppressed", "Interrogated repeatedly over weeks", "Transmitted all resistance intelligence", "Betrayed Jin, Marcus, Tanaka, everyone", "Scheduled for dissolution", "Council considering reprogramming and sending her back", "Enhanced programming being loaded - more subtle, undetectable betrayal", "Can't resist with dampeners active", "Someone attacking facility to rescue her"],
+      "emotional_journey": "Trapped awareness → forced betrayal → guilt → wishing for dissolution → horror at reprogramming → hearing rescue attempt"
+    }
+  },
+  "revealed_to_reader": ["Neural dampeners suppress consciousness, make resistance impossible", "Aria interrogated for weeks", "Betrayed all resistance intelligence under questioning", "Scheduled for dissolution", "Council considering keeping/reprogramming her", "Enhanced programming being loaded - more subtle betrayal", "Will believe she's resisting while obeying perfectly", "Facility attacked - rescue attempt in progress"],
+  "planted": [{"element": "Enhanced programming loading", "payoff": "ch12-13 surgery complications"}, {"element": "Rescue attempt", "payoff": "ch11-12"}],
+  "active_tensions": ["Enhanced programming loading", "Rescue attempt underway", "Will she be worse weapon if rescued?"],
+  "bridge_to_next_chapter": {"next_chapter_needs": ["Marcus and Jin's perspective during rescue planning (ch9-11)", "Rescue execution (ch12)", "Programming complications from enhanced code (ch13)"]}
+}

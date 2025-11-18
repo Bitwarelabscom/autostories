@@ -1,0 +1,142 @@
+{
+  "chapter": 4,
+  "title": "The Undercity Network",
+  "word_count": 2421,
+  "timeline": "Day 2, Wednesday afternoon/evening (after Kauffman meeting)",
+  "location": "Undercity Level -7, abandoned neural clinic, then Aria's apartment Level 53",
+  "characters_present": ["Aria Chen", "Jin 'Ghost' Park"],
+  "pov_character": "Aria Chen",
+  "character_states": {
+    "aria_chen": {
+      "location": "Level -7 clinic → surface → apartment Level 53",
+      "emotional_state": "Cautious investigation → shock at meeting Jin → analytical comparison → existential uncertainty → determined resolve",
+      "arc_position": 0.22,
+      "knows": [
+        "All info from ch01-03",
+        "Met Jin Park - Composite made from 7 source consciousnesses 4 years ago",
+        "Jin sent the anonymous message on behalf of vault investigator",
+        "Jin showed her Project Composite Integration document",
+        "Document lists her as #48: created Day 1, Month 3, Year 85 for vault security oversight",
+        "47 other Composites created and placed over 5 years",
+        "Document stolen from Memory Council courier (got 3 people killed)",
+        "Jin's data matches Kauffman's data exactly - same evidence from different sources",
+        "Both sources authenticated as real with her expertise",
+        "Anonymous colleague wants to meet tomorrow midnight at transit station",
+        "Kauffman authorized 'personal time' for Aria without her requesting it",
+        "Chen Park notices she's been stressed since self-audit",
+        "Colleagues watching/concerned about her behavior"
+      ],
+      "does_not_know": [
+        "Whether both sources discovering same conspiracy or being fed same information",
+        "If she's malfunctioning Composite or genuinely choosing",
+        "Who anonymous colleague is (will be Marcus)",
+        "If tomorrow's meeting is ambush or genuine",
+        "Whether Kauffman is ally or controller",
+        "If Jin is trustworthy or part of conspiracy",
+        "Whether she can trust her own authentication expertise"
+      ],
+      "decisions_made": [
+        "Went to Undercity coordinates despite danger",
+        "Accepted Jin's meeting invitation for tomorrow",
+        "Compared both data sources - found exact match",
+        "Told Chen Park vague excuse about 'family matter'",
+        "Committed to meeting anonymous colleague tomorrow midnight",
+        "Accepted risk of potential ambush"
+      ],
+      "possessions": ["Kauffman's data chip", "Jin's data chip with tomorrow's coordinates", "Neural disruptor"],
+      "internal_state": "Deep uncertainty about what's real, questioning own authentication ability, choosing to act despite not knowing if choice is real"
+    },
+    "jin_ghost_park": {
+      "location": "Level -7 clinic, then departed",
+      "first_appearance": true,
+      "emotional_state": "Matter-of-fact about constructed nature, compassionate toward Aria",
+      "manifestation": "Voice shifts mid-sentence, multiple cadences, combat awareness + technical knowledge + social skills",
+      "knows": [
+        "Aria is Composite #48",
+        "Project Composite Integration details",
+        "Anonymous colleague (Marcus) tracking conspiracy for 3 years",
+        "Aria is deviating from supposed programming",
+        "Composite creation process and implications"
+      ],
+      "message": "Aria choosing despite programming means she's real enough, distinction doesn't matter",
+      "role": "Messenger/recruiter for Marcus, representative of conscious Composite identity",
+      "relationship_to_aria": "Mirror - what Aria fears she is, shows alternative acceptance"
+    }
+  },
+  "revealed_to_reader": [
+    "Jin Park introduced - Composite from 7 sources, 4 years old",
+    "Jin comfortable with constructed nature, functions well",
+    "Project Composite Integration document shown to Aria",
+    "Aria listed as Composite #48, created March 2185",
+    "47 other Composites placed over 5 years",
+    "Document stolen, got 3 people killed",
+    "Jin's data matches Kauffman's data exactly",
+    "Both sources authenticated as real",
+    "Anonymous colleague wants meeting tomorrow midnight",
+    "Kauffman covering Aria's absence with 'personal time'",
+    "Colleagues noticing Aria's unusual behavior",
+    "Jin represents functioning Composite - proof it's possible",
+    "Multiple source consciousnesses create blended skillsets"
+  ],
+  "planted": [
+    {
+      "element": "Meeting tomorrow midnight at transit station",
+      "payoff_chapter": "Ch05-06 leading to ch07",
+      "significance": "Build-up to Marcus meeting"
+    },
+    {
+      "element": "Jin as functioning Composite from 7 sources",
+      "payoff_chapter": 20,
+      "significance": "Evidence Composites can be real people"
+    },
+    {
+      "element": "Both data sources match exactly",
+      "payoff_chapter": "Ch05-06",
+      "significance": "Either conspiracy real or elaborate controlled revelation"
+    },
+    {
+      "element": "Kauffman covering Aria's absence",
+      "payoff_chapter": "Ch05-07",
+      "significance": "Kauffman either helping or monitoring"
+    },
+    {
+      "element": "Colleagues watching Aria's behavior",
+      "payoff_chapter": "Possible later confrontation",
+      "significance": "Surveillance risk, social consequences"
+    }
+  ],
+  "active_tensions": [
+    "Tomorrow's meeting - genuine or ambush?",
+    "Two identical data sources - coincidence or manipulation?",
+    "Jin's trustworthiness unclear",
+    "Kauffman covering for Aria - help or trap?",
+    "Colleagues noticing unusual behavior",
+    "Can Aria trust her own authentication expertise?",
+    "Is she malfunctioning or genuinely choosing?"
+  ],
+  "continuity_notes": {
+    "timeline": "Day 2, hours after Kauffman meeting, evening",
+    "jin_introduction": "Matches character file - 7 sources, voice shifts, comfortable with nature",
+    "data_consistency": "Both chips show same evidence - Project Composite Integration real"
+  },
+  "foreshadowing": [
+    "Jin will be important ally later (Book 2)",
+    "Anonymous colleague is Marcus (meeting in ch07)",
+    "Both data sources matching suggests larger plan",
+    "Aria's deviation from programming proves free will",
+    "Kauffman's true role still ambiguous"
+  ],
+  "thematic_exploration": {
+    "real_enough_to_matter": "Jin's message - choosing despite programming makes her real enough",
+    "verification_limits": "Authentication can't verify own authenticity",
+    "layers_of_deception": "Multiple sources could all be controlled",
+    "consciousness_choice": "Choosing to investigate proves something beyond programming"
+  },
+  "chapter_function": {
+    "plot": "Jin introduction, confirmation of Composite status from second source, setup for Marcus meeting",
+    "character": "Jin as alternative Composite path, Aria's certainty eroding further, commitment to dangerous meeting",
+    "world": "Undercity depth levels, black market operations, Jin as proof Composites function",
+    "theme": "Being real enough through choice, consciousness beyond design",
+    "reader_engagement": "Jin provides proof Composites work, dual data sources deepen mystery, countdown to Marcus meeting"
+  }
+}

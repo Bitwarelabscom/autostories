@@ -1,0 +1,20 @@
+{
+  "book": 3,
+  "chapter": 3,
+  "title": "Drift",
+  "word_count": 849,
+  "timeline": "2891-2896 - Five years after ansible shutdown",
+  "location": "Kepler-442 communications center",
+  "pov_character": "Mika",
+  "character_states": {
+    "Mika": {
+      "age": "28 (was 24 in Ch1)",
+      "has_daughter": "3 years old",
+      "knows": ["Gliese 163 went silent", "Last transmission 2891, now 2896", "Colony either dead, isolated by choice, or transformed", "Can't verify for 40 more years", "Zara 5 years into pilgrimage", "Practicing old dialect to communicate with returning Zara", "Next generation doesn't understand ansible mourning"],
+      "emotional_state": "Sobered by colony silence, accepting new reality",
+      "arc_position": 0.20
+    }
+  },
+  "revealed_to_reader": ["First colony (Gliese 163) stopped responding", "40 light-years = 80-year verification delay", "Colonies can die and no one knows for decades", "New generation views ansible as fantasy", "Mika has daughter who doesn't understand unity concept", "Zara 5 years into 16-year journey"],
+  "themes_explored": {"colony_mortality": "Settlements can fail, no one can help", "generational_forgetting": "Children born after don't mourn what they never knew", "verification_impossibility": "Light-speed makes rescue meaningless"}
+}

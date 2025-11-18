@@ -1,0 +1,19 @@
+{
+  "book": 2,
+  "chapter": 14,
+  "title": "Testing",
+  "word_count": 1650,
+  "timeline": "Day 69-72 (3 days after ch13, week of testing)",
+  "location": "Tanaka's lab and resistance operations locations",
+  "characters_present": ["Aria Chen", "Jin 'Ghost' Park", "Marcus Webb", "Dr. Yuki Tanaka"],
+  "character_states": {
+    "aria_chen": {
+      "arc_position": 0.55,
+      "knows": ["Programming provides accurate technical intelligence", "Can resist programming whispers", "Can deliberately ignore suggestions", "Week of successful testing completed", "Want to participate in field operations", "Authentication hub is next major target", "Programming screams when planning destruction", "Reported every whisper during planning"],
+      "decisions_made": ["Provided detailed authentication analysis", "Tested resisting programming deliberately", "Chose against preservation imperatives", "Volunteered for field operations", "Helped plan authentication hub destruction", "Reported all programming whispers", "Chose to fight despite exhaustion"]
+    }
+  },
+  "revealed_to_reader": ["Aria tested for week", "Programming provides accurate intelligence", "Can resist deliberately", "Successful operations using her expertise", "Programming influences but doesn't control", "Most successful composite resisting military-grade programming", "Wants to prove trustworthy in field", "Planning authentication hub attack (ch16-17)", "3 days of planning with constant programming resistance", "Proving choice is real through exhausting struggle"],
+  "planted": [{"element": "Authentication hub target", "payoff": "ch16-17"}, {"element": "Field operations participation", "payoff": "ch16-17"}, {"element": "Constant programming resistance exhaustion", "payoff": "ch17"}],
+  "bridge_to_next_chapter": {"next_chapter_needs": ["Rebuilding trust with wider resistance (ch15)", "Full operation planning (ch16)", "Execution (ch17)"]}
+}

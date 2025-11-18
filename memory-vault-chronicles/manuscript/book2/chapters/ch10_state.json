@@ -1,0 +1,26 @@
+{
+  "book": 2,
+  "chapter": 10,
+  "title": "Scattered",
+  "word_count": 1663,
+  "timeline": "Day 64-65 (while Marcus plans, resistance fragmenting)",
+  "location": "Multiple locations - fallback delta, safe houses, detention facility",
+  "characters_present": ["Jin 'Ghost' Park", "Marcus Webb", "Dax", "Kade", "resistance fighters (dropping from 14 to 7 at HQ)"],
+  "pov_character": "Jin 'Ghost' Park",
+  "character_states": {
+    "jin_ghost_park": {
+      "arc_position": 0.62,
+      "knows": ["Resistance bleeding - multiple fighters killed", "Down to 15 total (7 at HQ, 8 on rescue)", "Safe houses compromised from Aria's intelligence", "Forged signatures failing without her expertise", "Council moving Aria tomorrow", "Tonight is only window", "Choosing faith over logic"],
+      "decisions_made": ["Refused to scatter", "Kept resistance together through philosophy", "Supported rescue despite casualties", "8 fighters authorized for rescue", "1 fighter guarding HQ", "Choosing to believe consciousness matters"]
+    },
+    "marcus_webb": {
+      "arc_position": 0.55,
+      "knows": ["Resistance dying", "Tonight only chance", "8 fighters on rescue team", "Plan not ready but no choice"],
+      "decisions_made": ["Going tonight despite unready plan", "Leading 8 fighters", "Faith as strategy", "Choosing love over logic"]
+    }
+  },
+  "revealed_to_reader": ["Resistance fragmenting - multiple safe houses fell", "Down to 15 fighters total (from 50)", "7 at HQ, 8 on rescue mission", "Aria's transmitted intelligence systematically destroying resistance", "Council moving Aria tomorrow - tonight only window", "Forged signatures failing without Aria", "Jin's philosophy: faith that consciousness matters", "Kade questioned why save her - Marcus answered with consciousness proof", "Rescue team deployed at nightfall", "2 more fighters killed that evening - down to 7 at HQ"],
+  "planted": [{"element": "15 fighters total - heavy casualties", "payoff": "ch12-20"}, {"element": "Tonight only window for rescue", "payoff": "ch11-12"}, {"element": "Faith as strategy", "payoff": "ch17"}],
+  "active_tensions": ["Resistance dying", "Tonight's rescue operation", "Enhanced programming loading on Aria", "15 fighters left total", "Faith vs logic tension"],
+  "bridge_to_next_chapter": {"next_chapter_needs": ["Rescue execution (ch11-12)", "Operation details", "Getting to Aria before transfer"]}
+}

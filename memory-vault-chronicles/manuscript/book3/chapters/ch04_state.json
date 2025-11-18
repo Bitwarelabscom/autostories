@@ -1,0 +1,14 @@
+{
+  "book": 3,
+  "chapter": 4,
+  "title": "The Price of Protection",
+  "word_count": 1777,
+  "timeline": "Day 20 (10 days before forum)",
+  "location": "Safe House 31-Gamma",
+  "characters_present": ["Aria", "Marcus", "Jin", "Tanaka", "Kenji", "11 fighters"],
+  "pov_character": "Aria Chen",
+  "revealed_to_reader": ["Chen Wei (Composite fighter) collapsed - neural overload, integration degradation", "Fragmented into 3 separate consciousnesses - Wei ceased to exist", "12 → 11 fighters", "Dissolution ceremony for Composites", "Jin fears fragmenting like Wei", "Jin wants quantum lock for integration security", "Society at breaking point - authentication still not repaired", "Council proposing temporary verification (Composites reject)", "Council planning something big for forum", "Council position: gradual implementation, voluntary lock, two-tier system (won't work per Tanaka)", "Kenji turned 7.5 years old", "Aria decides to bring quantum lock equipment to forum for live demonstrations", "7 days until forum"],
+  "fighter_count": "11 (lost Chen Wei to fragmentation)",
+  "planted": [{"element": "Live quantum mechanics demonstrations at forum", "payoff_chapter": 6, "significance": "Truth demonstration"}],
+  "continuity": "Day 20, Wei lost, forum in 7 days, Council planning counter-narrative"
+}

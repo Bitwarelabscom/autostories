@@ -1,0 +1,33 @@
+{
+  "book": 2,
+  "chapter": 2,
+  "title": "Old Debts",
+  "word_count": 1328,
+  "timeline": "Day 36-38 (2-3 days after ch1)",
+  "location": "Alvarez's safe house, industrial sector",
+  "characters_present": ["Aria Chen", "Marcus Webb", "Alvarez (military contact)"],
+  "character_states": {
+    "aria_chen": {
+      "arc_position": 0.10,
+      "programming_status": "Pulsing, testing boundaries, escalating, feels like pressure/headache",
+      "knows": ["15 resistance members dissolved after headquarters raid", "Jin survived and rebuilding", "Authentication saturation coming to Undercity in 24 hours", "She's viewed as security risk", "Others may blame her for betrayal"],
+      "decisions": ["Committed to resistance despite risk", "Accepted monitoring threat from Alvarez", "Chose Marcus's faith over programming's whispers", "Moving to Jin's new headquarters"]
+    },
+    "marcus_webb": {
+      "arc_position": 0.10,
+      "relationship": "Deep faith in Aria's choices, protective, coordinating with Jin remotely"
+    },
+    "alvarez": {
+      "role": "Military contact/debt Marcus is calling in",
+      "stance": "Pragmatic, willing to help for 48 hours, will kill Aria if compromised, betting on Marcus's survival"
+    }
+  },
+  "revealed": ["15 resistance dissolved in raid aftermath", "Jin rebuilding cautiously", "Authentication saturation deadline: 24 hours", "Alvarez willing to help but monitoring", "Aria viewed as hero or terrorist depending on faction", "Someone betrayed headquarters (not Aria's implant but mystery remains)"],
+  "planted": [
+    {"element": "Authentication saturation deadline 24 hours", "payoff": "ch3-4"},
+    {"element": "Traitor mystery - who betrayed headquarters?", "payoff": "ch4-5"},
+    {"element": "Programming escalating (testing boundaries)", "payoff": "ch7"},
+    {"element": "Resistance members blaming Aria", "payoff": "ch5-6"}
+  ],
+  "bridge_function": "Connect ch1 escape to ch7 activation - show temporary shelter, programming escalation, resistance rebuilding, timer pressure"
+}

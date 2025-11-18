@@ -1,0 +1,41 @@
+{
+  "chapter": 9,
+  "title": "The Integration Patterns",
+  "word_count": 1622,
+  "timeline": "Day 9",
+  "location": "Aria's apartment",
+  "character_states": {
+    "aria_chen": {
+      "arc_position": 0.48,
+      "knows": [
+        "All previous info",
+        "Integration program systematic: 47 Composites across key institutions",
+        "7 Memory Council, 15 vault, 12 government, 8 research, 5 black market suppression",
+        "Strategic objective: Replace all human leadership with Composites over 30 years",
+        "Currently 5 years in, aiming for 60% in 15 years, 90% in 25 years",
+        "Program administrators are themselves Composites",
+        "Dr. Yuki Tanaka created the program in 2180",
+        "Tanaka's stated goal: Create incorruptible guardians to prevent consciousness manipulation",
+        "Tanaka created first 7 administrators then disappeared 5 years ago",
+        "Aria is third-generation Composite (built by Composites built by Tanaka)",
+        "The Archivist trying to understand its own consciousness through her choices"
+      ]
+    }
+  },
+  "revealed_to_reader": [
+    "Systematic replacement program with 30-year timeline",
+    "Dr. Yuki Tanaka created the program",
+    "Original purpose: Guardian Composites to prevent corruption",
+    "Program became the corruption it was meant to prevent",
+    "All administrators are Composites creating more Composites",
+    "Self-perpetuating system",
+    "Aria is third generation",
+    "Tanaka disappeared 5 years ago after creating self-sustaining system"
+  ],
+  "planted": [
+    {"element": "Dr. Tanaka's disappearance", "payoff_chapter": 20, "significance": "She'll emerge with solution"},
+    {"element": "30-year replacement timeline", "payoff_chapter": "Book 2-3", "significance": "Scope of threat"},
+    {"element": "Guardian purpose becoming corruption", "payoff_chapter": "Book 3", "significance": "Thematic irony"}
+  ],
+  "chapter_function": {"plot": "Origin revealed, systematic scope shown, Tanaka introduced", "theme": "Guardians becoming threat, irony of solution becoming problem"}
+}

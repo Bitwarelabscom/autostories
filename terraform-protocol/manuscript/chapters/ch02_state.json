@@ -1,0 +1,132 @@
+{
+  "chapter": 2,
+  "title": "Echoes in Red Dust",
+  "word_count": 2014,
+  "timeline": "Day 2,250 of terraforming project (Year 6, Month 2), 3 days after Chapter 1, 10 months until Year 7 threshold",
+  "location": "Surface lab at Olympus Station, Kessa's quarters",
+  "pov_character": "Kessa Okafor",
+  "characters_present": ["Kessa Okafor", "Rajesh"],
+  "characters_mentioned": ["Dmitri Volkov (video call)"],
+  "character_states": {
+    "Kessa_Okafor": {
+      "knows": [
+        "All from Ch1",
+        "Crystalline structures are computational/data storage nodes",
+        "Structure has active monitoring systems and power generation",
+        "Seismic responses are patterned and responsive to human presence",
+        "Response intervals are decreasing (17 min, 43 min, 1 hr 12 min)",
+        "Tremors increasing in magnitude (2.5 to 3.1)",
+        "Corporate charter requires reporting within 72 hours",
+        "Dmitri Volkov is terraforming director focused on timeline",
+        "50,000 refugees in orbit with critical timeline",
+        "10 months until Year 7 threshold",
+        "Volkov requires 'actionable data' not 'wonder and mystery'",
+        "Geological survey team will review independently"
+      ],
+      "emotional_state": "Excited by discovery but frustrated by corporate constraints, exhausted, growing apprehension about structure's responses",
+      "arc_position": 0.08,
+      "location": "Olympus Station surface lab",
+      "relationships_affected": {
+        "Rajesh": "Supportive colleague and friend, worries about her health",
+        "Dmitri_Volkov": "First direct contact, recognizes him as obstacle to pure science"
+      }
+    },
+    "Rajesh": {
+      "knows": [
+        "Structure responded to Kessa's contact",
+        "Seismic patterns are too regular to be natural",
+        "Corporate reporting requirements",
+        "Kessa hasn't slept in 72 hours",
+        "Volkov faces pressure from Earth and refugee situation"
+      ],
+      "emotional_state": "Concerned for Kessa's wellbeing, worried about corporate response",
+      "arc_position": 0.05,
+      "location": "Olympus Station surface lab"
+    },
+    "Dmitri_Volkov": {
+      "knows": [
+        "Alien structure exists beneath Olympus Mons",
+        "Structure shows evidence of active systems",
+        "Seismic responses correlate with excavation",
+        "Kessa wants 6 months to 2 years for study",
+        "10 months until Year 7 threshold",
+        "50,000 refugees need landing zones",
+        "Earth governments and investors demanding progress"
+      ],
+      "emotional_state": "Calculating, under pressure, respectful of expertise but prioritizes timeline",
+      "arc_position": 0.05,
+      "location": "Olympus Station corporate sector"
+    }
+  },
+  "revealed_to_reader": [
+    "Kessa has been analyzing samples for 72 hours with minimal sleep",
+    "Crystalline structures are computational/data storage, not just minerals",
+    "Structure's seismic responses are patterned: decreasing intervals, increasing magnitude",
+    "Corporate charter requires 72-hour reporting of discoveries affecting terraforming",
+    "Dmitri Volkov properly introduced as terraforming director",
+    "Volkov under pressure from refugee crisis and Year 7 threshold",
+    "Volkov wants 'actionable data' not academic wonder",
+    "Independent geological review will assess Kessa's findings",
+    "Structure's responses are escalating (magnitude 3.1 tremor at chapter end)",
+    "Response occurred 17 hours after corporate notification"
+  ],
+  "planted": [
+    {
+      "element": "Crystalline structures as computational nodes",
+      "payoff_chapter": 8,
+      "significance": "The Gardener's neural network extends throughout structure"
+    },
+    {
+      "element": "Decreasing response intervals pattern",
+      "payoff_chapter": 7,
+      "significance": "The Gardener adapting, learning to respond faster"
+    },
+    {
+      "element": "Volkov's respect for Kessa's expertise vs. timeline pressure",
+      "payoff_chapter": 7,
+      "significance": "Sets up their conflict as not good vs. evil but competing priorities"
+    },
+    {
+      "element": "Independent geological review",
+      "payoff_chapter": 5,
+      "significance": "Corporate delay tactic, conclusions predetermined"
+    },
+    {
+      "element": "Magnitude 3.1 tremor 17 hours after corporate notification",
+      "payoff_chapter": 6,
+      "significance": "Structure responding to human decisions, not just presence"
+    },
+    {
+      "element": "Beehive metaphor: investigation, agitation, defense",
+      "payoff_chapter": 12,
+      "significance": "Foreshadows structure's escalation to defensive protocols"
+    },
+    {
+      "element": "Refugee fleet timeline pressure on Volkov",
+      "payoff_chapter": 11,
+      "significance": "His daughter is in that fleet"
+    }
+  ],
+  "active_tensions": [
+    "Kessa's need for study time vs. corporate timeline pressure",
+    "Scientific discovery vs. practical realities",
+    "Structure's escalating responses",
+    "Refugee crisis creating urgency",
+    "Academic expertise vs. actionable data requirements"
+  ],
+  "world_changes": [
+    "Corporate leadership now aware of alien structure",
+    "Independent review process initiated",
+    "Structure's response magnitude increasing",
+    "Response timing pattern established and accelerating"
+  ],
+  "atmosphere_notes": "Shift from pure discovery excitement to bureaucratic friction, exhaustion and mounting dread, first hint of corporate-scientific conflict, pattern of escalation established",
+  "continuity_notes": {
+    "timeline": "Day 2,250, 3 days after Ch1, 10 months to Year 7 threshold",
+    "seismic_progression": "Ch1: magnitude 2.5 at contact; Ch2: magnitude 3.1 after 72 hours",
+    "response_intervals": "17 min, 43 min, 1 hr 12 min - decreasing pattern",
+    "character_voices": "Kessa: academic precision, passionate about discovery; Rajesh: practical, concerned friend; Volkov: corporate speak, 'actionable data', Russian accent",
+    "technology": "Spectroscopic analysis, seismic monitoring, video calls, biometric tracking",
+    "mars_appearance": "Greenish-blue sky from 6 years of terraforming, red desert surface, low gravity"
+  }
+}
