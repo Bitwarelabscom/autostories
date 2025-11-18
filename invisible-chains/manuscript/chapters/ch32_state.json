@@ -1,0 +1,30 @@
+{
+  "chapter": 32,
+  "book": 2,
+  "book_chapter": 12,
+  "title": "The Proposition",
+  "word_count": 2300,
+  "timeline": "Day after Chapter 31",
+  "location": "Old vault where Jax found Earth currency",
+  "characters_present": ["Jax Varro", "Elara Quinn", "Mother Sera (briefly)"],
+  "character_states": {
+    "Jax Varro": {
+      "knows": ["Elara's full plan: hack database via inside contact Dr. Chen", "Chen has gambling debts they can pay", "Virus will corrupt all caste markers", "Plan could work but will cause violence", "Elara willing to die for this", "His love for her was real, hers might have been too", "They're allies now, not lovers", "Revolution is beginning"],
+      "emotional_state": "Raw, sober, conflicted, accepting alliance while refusing forgiveness",
+      "arc_position": 0.32,
+      "location": "Old vault",
+      "physical_state": "Sober, recovering from Drift binge"
+    },
+    "Elara Quinn": {
+      "knows": ["Jax took the plan", "They'll work together as allies only", "Jax's love was real", "Jax may never forgive her", "She'll go first into danger as guarantee", "This is her chance for purpose if not redemption", "Revolution is beginning"],
+      "emotional_state": "Relieved, heartbroken, purposeful, willing to sacrifice everything",
+      "arc_position": 0.68,
+      "location": "Old vault",
+      "physical_state": "Healing from injuries, permanent limp"
+    }
+  },
+  "revealed_to_reader": ["Full plan: Pay Dr. Chen's gambling debts for 30 min database access", "Virus corrupts caste markers, causes system chaos", "Elara designed the virus", "Jax accepted the alliance with conditions", "They're allies, not lovers anymore", "Jax admitted his love was real", "Elara says hers was/is too", "Elara will take first risk as guarantee", "Revolution has begun"],
+  "planted": [{"element": "Dr. Chen as inside contact", "payoff_chapter": "Book 2, Ch 36", "significance": "Finding the weak link"}, {"element": "Elara goes first into danger", "payoff_chapter": "Book 2, Ch 40", "significance": "Heist sequence"}],
+  "active_tensions": ["Alliance without forgiveness", "Jax's residual love versus betrayal", "Plan's dangers", "Upcoming violence"],
+  "world_changes": ["Jax and Elara alliance formed", "Heist plan approved", "Revolution beginning", "They acknowledged their love was real but over"]
+}

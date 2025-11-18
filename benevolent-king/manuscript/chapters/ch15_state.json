@@ -1,0 +1,128 @@
+{
+  "chapter": 15,
+  "word_count": 2450,
+  "timeline": "Three months after Ch 10, morning and evening",
+  "location": "Chen's Noodle House and Level 8 streets",
+  "characters_present": ["Nico Chen", "Kade Rivera", "Specialist Yuki Tanaka (SSS)", "Maya Torres", "various Level 8 residents"],
+  "character_states": {
+    "Nico Chen": {
+      "knows": [
+        "He now owns 4 restaurants serving 500-800 free meals daily",
+        "Has donated 150k to keep community health clinic running",
+        "Has spent ~550k total so far on charity operations",
+        "SSS Financial Crimes Unit is investigating him",
+        "His forged documentation (fake uncle inheritance) exists but may not hold up under deep scrutiny",
+        "Specialist Tanaka is watching him closely",
+        "The operation is attracting dangerous attention",
+        "Maya has offered to help him"
+      ],
+      "emotional_state": "Anxious about investigation but determined to continue, experiencing pride in the work, grateful for Maya's support",
+      "arc_position": 0.45,
+      "location": "Level 8",
+      "physical_state": "Still using Veil (mentioned in Tanaka's assessment), functioning but addicted",
+      "current_resources": "Approximately 49.2 million credits remaining, owns 4 restaurants, has lawyer and accountant now",
+      "relationships_changed": "Maya moving from observer to active ally"
+    },
+    "Specialist Yuki Tanaka (SSS)": {
+      "knows": [
+        "Nico's complete criminal record",
+        "The timeline of his sudden wealth",
+        "He claims inheritance from uncle Chen Wei-long on Europa Station",
+        "The operation is helping people and reducing crime",
+        "Something feels wrong about the story",
+        "No direct evidence of criminal activity yet"
+      ],
+      "emotional_state": "Professionally suspicious but grudgingly impressed by the results, determined to investigate",
+      "arc_position": 0.0,
+      "location": "SSS offices",
+      "role": "Financial Crimes Unit - investigating money source"
+    },
+    "Kade Rivera": {
+      "knows": [
+        "The operation is growing too fast and too public",
+        "Investigation was inevitable",
+        "Documentation might hold but they're on borrowed time",
+        "Nico won't stop despite the risks"
+      ],
+      "emotional_state": "Anxious, frustrated that Nico won't be more careful, but loyal",
+      "arc_position": 0.15,
+      "location": "Level 8",
+      "role": "Advisor and bodyguard, increasingly worried"
+    },
+    "Maya Torres": {
+      "knows": [
+        "SSS is investigating Nico",
+        "What he's doing is helping people significantly",
+        "The system is designed to prevent exactly this kind of help",
+        "Getting involved means risking her career and record"
+      ],
+      "emotional_state": "Moved by what Nico's accomplished, deciding to commit to helping despite risks",
+      "arc_position": 0.15,
+      "location": "Level 8 (visiting)",
+      "decision": "Offers to actively help Nico, crossing line from observer to participant"
+    }
+  },
+  "revealed_to_reader": [
+    "Nico's operation has grown to 4 restaurants and clinic funding",
+    "Serving 500-800 free meals daily",
+    "Has spent approximately 550k so far",
+    "SSS Financial Crimes Unit is now investigating",
+    "Forged documentation exists: fake uncle Chen Wei-long, Europa Station, mining logistics",
+    "Documentation created by Specs, will pass casual inspection",
+    "Operation is reducing petty crime in the sector",
+    "Specialist Tanaka suspects something but has no proof",
+    "Maya decides to actively help, crossing ethical/professional lines",
+    "Nico is still actively using Veil throughout all of this",
+    "The cover story: inheritance from deceased uncle"
+  ],
+  "planted": [
+    {
+      "element": "Specialist Tanaka's ongoing investigation",
+      "payoff_chapter": 20,
+      "significance": "She represents institutional scrutiny that will culminate in Commander Wright's confrontation"
+    },
+    {
+      "element": "Forged documentation that 'will pass casual inspection'",
+      "payoff_chapter": null,
+      "significance": "Implies it won't pass deep inspection - future vulnerability"
+    },
+    {
+      "element": "Maya crossing line to actively help",
+      "payoff_chapter": 17,
+      "significance": "Her discovering full truth and having to choose between law and justice"
+    },
+    {
+      "element": "Kade's warning: 'this is bigger than we can manage'",
+      "payoff_chapter": null,
+      "significance": "Foreshadows Book 2's escalation and loss of control"
+    },
+    {
+      "element": "Tanaka noting reduced crime in the sector",
+      "payoff_chapter": null,
+      "significance": "Evidence that the charity is actually working - will be important later"
+    },
+    {
+      "element": "Nico's active drug use in medical records",
+      "payoff_chapter": null,
+      "significance": "Potential lever authorities could use against him"
+    }
+  ],
+  "active_tensions": [
+    "SSS investigation into money source",
+    "Forged documentation may not hold under scrutiny",
+    "Operation growing faster than they can safely manage",
+    "Kade wants Nico to slow down, Nico refuses",
+    "Maya risking career to help",
+    "Clock ticking on how long before they find something",
+    "Nico's pride vs. his vulnerability",
+    "The success of the operation making it a bigger target"
+  ],
+  "world_changes": [
+    "SSS Financial Crimes Unit actively investigating Nico",
+    "Maya Torres has committed to helping, crossing professional boundaries",
+    "Level 8 sector where restaurants operate has measurably less crime",
+    "Institutional power (SSS) now aware of and monitoring the operation",
+    "Nico now has legal representation and financial infrastructure"
+  ],
+  "notes": "Fourth tentpole chapter (COMPLICATION). Success breeds danger - the charity works, which makes it threatening to institutional power. Introduces Specialist Tanaka as investigative antagonist (precursor to Wright). Kade's warnings show the operation's vulnerability. Maya's decision to help is major character moment - she's choosing Nico and the work over her institutional loyalty. Nico experiences pride for first time, making the stakes emotional not just practical. Key tension: can they maintain this good work while authorities circle? Arc position rises to 0.45 - Nico is now committed and has allies, but faces serious external threats. The 'warning shot' as Kade says - foreshadows Book 1's climax where institutional power will confront him directly."
+}

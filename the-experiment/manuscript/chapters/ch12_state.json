@@ -1,0 +1,127 @@
+{
+  "chapter": 12,
+  "word_count": 2782,
+  "timeline": "Month 7, Day 12 of experiment",
+  "location": "Building 7 common area, Reed's pod apartment",
+  "characters_present": ["Reed Salazar", "Marcus Ibrahim", "Yuki Tanaka", "Chen Rodriguez", "Marcus's kids (Aisha and David)", "Sarah Kim", "Liu", "community members"],
+  "character_states": {
+    "Reed Salazar": {
+      "knows": ["He's started seeing people, not just watching", "Marcus knows he's running it", "Corporate is close to finding him", "His documentation might be all that survives", "He's doing this for Marco", "He feels purpose for first time since Marco's death", "He's probably going to get caught"],
+      "emotional_state": "Exhausted but purposeful, grieving Marco while honoring him, still using Leveler but differently, willing to die for the data, finding meaning",
+      "arc_position": 0.35,
+      "location": "Building 7, then his pod",
+      "physical_state": "Still using Leveler, hands shake, depressed baseline, accumulated damage, probably dying slowly"
+    },
+    "Marcus Ibrahim": {
+      "knows": ["Reed is running the experiment", "Reed's brother died from the system", "Reed is documenting everything", "Reed needs protection", "Community needs to preserve the data"],
+      "emotional_state": "Protective, understanding, committed to helping Reed",
+      "arc_position": 0.37,
+      "location": "Building 7"
+    },
+    "Yuki Tanaka": {
+      "knows": ["They're painting, claiming space, not apologizing"],
+      "emotional_state": "Confident, artistic, present",
+      "arc_position": 0.40,
+      "location": "Building 7 common area"
+    }
+  },
+  "revealed_to_reader": [
+    "Reed's Leveler sales down 43%",
+    "Reed has detailed documentation on tablet - months of observations",
+    "Reed's brother was Marco, died at 25",
+    "Marco worked three jobs, died from untreated illness",
+    "Marco's medical debt was 47,000 credits",
+    "Death called 'early resource reallocation' in report",
+    "Reed inherited Marco's death AND debt",
+    "Corporate sent grief counselor - 20 minute session, billed to account",
+    "Reed paid off debt over 6 years",
+    "Reed started experiment while high, thinking of Marco",
+    "Reed found the money, couldn't spend without being tracked",
+    "Marcus confirms Reed is running it",
+    "Reed tells Marcus about Marco - first time saying it out loud",
+    "Reed's documentation includes statistical tracking and emotional observations",
+    "Reed has encrypted files backed up to three servers",
+    "Auto-release set if Reed goes offline 30+ days",
+    "Reed still using Leveler regularly, dependent",
+    "Reed's hands shake, baseline depression, accumulated damage",
+    "Reed willing to die for the data",
+    "Reed reading sociology papers at 3 AM",
+    "Building 7 has book clubs, art classes, childcare cooperative, community garden"
+  ],
+  "planted": [
+    {
+      "element": "Reed's auto-release documentation",
+      "payoff_chapter": "Book 3 Ch 20",
+      "significance": "This becomes his posthumous video release"
+    },
+    {
+      "element": "Marco's death from medical debt at 25",
+      "payoff_chapter": "Book 3 Ch 19",
+      "significance": "Reed's final thoughts before death"
+    },
+    {
+      "element": "Reed willing to die for the data",
+      "payoff_chapter": "Book 3 Ch 16",
+      "significance": "When he chooses death over betrayal"
+    },
+    {
+      "element": "Marcus knows Reed is the benefactor",
+      "payoff_chapter": "Book 2 Ch 4",
+      "significance": "Marcus helps protect Reed"
+    },
+    {
+      "element": "Documentation encrypted and backed up",
+      "payoff_chapter": 15,
+      "significance": "Reed will give this to Amara"
+    },
+    {
+      "element": "Reed's Leveler dependency",
+      "payoff_chapter": "Book 2 and 3",
+      "significance": "His addiction continues, contributes to health decline"
+    },
+    {
+      "element": "Query: competition vs human nature",
+      "payoff_chapter": null,
+      "significance": "Key thematic question of trilogy"
+    }
+  ],
+  "continuity_notes": [
+    "Month 7, Day 12",
+    "Leveler sales down 43% (down from 40% in ch10)",
+    "83 people in Building 7 getting transfers",
+    "Marcus's kids mentioned: homework, debate team, robotics club",
+    "Building has book clubs, art classes, childcare cooperative, community garden",
+    "Yuki painting regularly",
+    "Chen teaching kids",
+    "Sarah Kim teaching meditation",
+    "Liu running art classes",
+    "Reed in corner with sightlines (dealer habits)",
+    "Reed's pod is closet-sized",
+    "Everything Reed owns fits in two bags"
+  ],
+  "voice_check": {
+    "Reed": "Deadpan ('It killed my brother' - flat tone), trails off mid-thought ('If sustained...', 'If they find me—'), inappropriate laughter ('Laughed inappropriately, sharp and bitter'), uses corporate-speak ironically ('early resource reallocation'), academic language failing ('Academic language failing to contain the weight') - all check"
+  },
+  "themes_explored": [
+    "Watching vs seeing - clinical distance vs human connection",
+    "Documentation as resistance",
+    "Purpose through service to others",
+    "Grief as motivation",
+    "The cost of dying for something vs living for nothing",
+    "Medical debt as violence",
+    "Competition as trauma response not human nature",
+    "Finding meaning in witnessing transformation",
+    "Legacy through data",
+    "Living for something vs just surviving"
+  ],
+  "emotional_beats": [
+    "Reed realizes he's seeing people now, not just watching",
+    "Marcus figures out Reed is the benefactor - Reed admits it",
+    "Reed tells Marco's story out loud for first time",
+    "Reed shows Marcus the documentation",
+    "Reed acknowledges he's found purpose",
+    "Reed accepts he might die for this",
+    "Reed's prayer to Marco: 'I'm trying to prove it didn't have to be that way'"
+  ],
+  "chapter_function": "Character study showing Reed's internal transformation, establishing his motivation (Marco's death), revealing he's willing to die for the data, showing Marcus knows his secret, deepening themes of grief and purpose"
+}

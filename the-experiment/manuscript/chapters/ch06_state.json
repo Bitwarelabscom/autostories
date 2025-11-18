@@ -1,0 +1,41 @@
+{
+  "chapter": 6,
+  "word_count": 1500,
+  "timeline": "Day after first transfer (Month 1, Day 1)",
+  "location": "Sector 12, Building 7",
+  "characters_present": ["Reed Salazar", "Marcus Ibrahim", "Yuki Tanaka", "Sarah Kim", "Chen Rodriguez", "David Ibrahim", "various residents"],
+  "character_states": {
+    "Reed Salazar": {
+      "knows": ["Everyone is suspicious", "Only 3 people spent money", "People are too scared to hope", "Will need second month for people to believe", "System has trained people to reject help"],
+      "emotional_state": "Observing, documenting, realizing fear is bigger obstacle than he expected",
+      "arc_position": 0.18,
+      "location": "Building 7",
+      "physical_state": "Functional on Leveler"
+    },
+    "Marcus Ibrahim": {
+      "knows": ["2000 credits appeared", "Everyone got it", "No explanation except prosperity initiative", "Daughter needs shoes but he won't buy them"],
+      "emotional_state": "Deeply suspicious, scared to hope, protecting himself from disappointment",
+      "arc_position": 0.02,
+      "location": "Building 7"
+    },
+    "Yuki Tanaka": {
+      "knows": ["Money is in account", "Everyone got it", "If it were real, they'd quit third job"],
+      "emotional_state": "Anxious, disbelieving, dreaming of what could be but not believing",
+      "arc_position": 0.03,
+      "location": "Building 7"
+    },
+    "Chen Rodriguez": {
+      "knows": ["Money is there", "He spent some on real food"],
+      "emotional_state": "'If it's fake, at least I ate well once' - pragmatic risk-taking",
+      "arc_position": 0.05,
+      "location": "Building 7"
+    }
+  },
+  "revealed_to_reader": ["40+ residents gathering in common area to discuss the money", "Prevailing theories: trap, test, hidden debt, future taxation", "Nobody considers genuine altruism as possibility", "Only 3 people spent money: Chen (food), unknown woman (debt), David (art supplies)", "Marcus won't buy daughter shoes despite needing them", "Yuki would quit worst job if money were real", "Community is paralyzed by fear of hope", "Reed documenting everything", "System has trained people to reject help"],
+  "planted": [{"element": "Marcus won't spend until second month", "payoff_chapter": 7, "significance": "Will believe after month 2"}, {"element": "Yuki dreaming of quitting third job", "payoff_chapter": 8, "significance": "Will quit after believing money is real"}, {"element": "David buying art supplies despite mother's fear", "payoff_chapter": null, "significance": "Children less traumatized, more willing to hope"}, {"element": "'Fear of hope' as major obstacle", "payoff_chapter": 7, "significance": "Second transfer will start overcoming this"}],
+  "active_tensions": ["Will second transfer come?", "Will people ever spend the money?", "Can hope overcome trauma?", "What's the catch?"],
+  "world_changes": ["Community gathering more than usual", "People comparing notes", "Collective suspicion"],
+  "continuity_notes": ["Day 1 after first transfer", "20 residents documented by Reed", "3 out of 200 spent money", "David is Marcus's son"],
+  "voice_check": {"Reed": "Observer mode - clinical documentation with empathy", "Marcus": "Defensive, 'moment you start hoping is moment they crush you'", "Yuki": "Rapid speech, 'It's not real. It can't be real.'"},
+  "themes_developed": ["Hope as dangerous in oppressive systems", "System training people to reject help", "Survival instincts blocking acceptance of aid", "Community forming through shared crisis"]
+}

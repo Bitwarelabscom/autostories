@@ -1,0 +1,138 @@
+{
+  "chapter": 7,
+  "word_count": 2800,
+  "timeline": "Approximately 2-3 weeks after Chapter 6, after multiple sales to The Collector",
+  "location": "Jax's new apartment in Sector 4, Level 9, and Dr. Yin's clinic in Sector 9",
+  "characters_present": ["Jax Varro", "Finn", "Dr. Yin"],
+  "character_states": {
+    "Jax Varro": {
+      "knows": [
+        "He has 412.7 million credits",
+        "Identity brokers exist who claim to create Beta credentials for 2 million credits",
+        "Level 7 has parks with real trees, clean air, professional Beta class",
+        "Dr. Yin told him scanners read actual DNA, not credentials",
+        "Genetic rewrite would take years, cost 50+ billion, 70% mortality rate",
+        "Complete genetic rewrite is detectable and carries death sentence",
+        "There's an understaffed checkpoint on Level 8 during third shift (rumor)",
+        "Scanner glitches might happen during solar flares (rumor)",
+        "He's been high on pharmaceutical-grade Drift for three days straight"
+      ],
+      "emotional_state": "Desperately hopeful, in denial, high on Drift, clinging to fantasy of escape despite warnings",
+      "arc_position": 0.3,
+      "location": "His new apartment, Sector 4",
+      "physical_state": "Addicted to pharmaceutical-grade Drift, using heavily, cycling between high and comedown",
+      "wealth": "412.7 million credits, minus 2 million sent to identity broker",
+      "internal_conflict": "Knows deep down he can't escape but refuses to accept it"
+    },
+    "Finn": {
+      "knows": [
+        "Jax has been high for three days planning his escape",
+        "Jax is in denial about genetic barriers",
+        "Jax hasn't considered anyone else in his escape plans",
+        "They were offered a cut of the money",
+        "Jax's self-hatred is driving his desperation to become Beta"
+      ],
+      "emotional_state": "Concerned, frustrated, trying to reality-check Jax, sad about his self-hatred",
+      "location": "Jax's apartment (visits)",
+      "physical_state": "Sober, alert, worried",
+      "philosophy": "Doesn't want to pretend to be Beta, sees it as different cage"
+    },
+    "Dr. Yin": {
+      "knows": [
+        "Jax came into money recently",
+        "He's planning to try to escape the undercity",
+        "She educated him about how scanners work and why genetic modification isn't viable"
+      ],
+      "emotional_state": "Clinical, pitying, realistic",
+      "location": "Her clinic in Sector 9",
+      "background": "Gamma-caste with manual dexterity modifications, ancestor was surgeon"
+    }
+  },
+  "revealed_to_reader": [
+    "Jax now has 412.7 million credits",
+    "He's moved to a new apartment with real furniture, hot water, three rooms, real windows",
+    "Pharmaceutical-grade Drift (what Alphas use) is smoother and three times stronger",
+    "Jax has been high for three days straight",
+    "Level 7 is professional Beta class - engineers, administrators, medical technicians",
+    "Level 7 has parks with real trees, hydroponically grown in biodomes",
+    "Identity brokers exist on Level 6 who sell Beta credentials for 2 million credits",
+    "Jax's self-hatred drives his desire to escape being Gamma",
+    "Finn doesn't want to leave - sees pretending to be Beta as 'different cage'",
+    "Dr. Yin runs unofficial clinic in Sector 9, treats undercity residents",
+    "Gamma modifications are in mitochondrial DNA, passed down maternally",
+    "Scanners read actual genetic code and compare to genetic registry",
+    "Complete genetic rewrite takes years, costs 50+ billion, 70% mortality, detectable, death sentence",
+    "Undercity has few children because people can't afford to have them",
+    "Jax has sent 2 million to an identity broker for fake Beta credentials",
+    "He's supposed to pick up the documents in three days with 1 million in physical scrip",
+    "Immigration forums exist with advice (mostly useless) about moving between levels"
+  ],
+  "planted": [
+    {
+      "element": "Identity broker and fake Beta credentials",
+      "payoff_chapter": 8,
+      "significance": "The credentials won't work with the scanner"
+    },
+    {
+      "element": "Dr. Yin's explanation about scanners reading DNA not credentials",
+      "payoff_chapter": 8,
+      "significance": "Foreshadows exactly what will happen when Jax tries to pass through"
+    },
+    {
+      "element": "Understaffed checkpoint on Level 8 during third shift",
+      "payoff_chapter": 8,
+      "significance": "Where Jax will attempt to cross"
+    },
+    {
+      "element": "Jax's self-hatred and internalized oppression",
+      "payoff_chapter": null,
+      "significance": "Character flaw that drives much of trilogy, needs to overcome this"
+    },
+    {
+      "element": "Finn's refusal to pretend to be Beta",
+      "payoff_chapter": null,
+      "significance": "Shows Finn has healthier relationship with identity than Jax"
+    },
+    {
+      "element": "Fantasy of Level 7 parks and trees",
+      "payoff_chapter": 10,
+      "significance": "What Jax will mourn losing when he realizes he's trapped"
+    },
+    {
+      "element": "Finn warning 'when you try to leave and scanners reject you, it will break something'",
+      "payoff_chapter": 8-10,
+      "significance": "Direct foreshadowing of emotional devastation to come"
+    },
+    {
+      "element": "Heavy pharmaceutical Drift use",
+      "payoff_chapter": 10,
+      "significance": "Will escalate after rejection"
+    }
+  ],
+  "active_tensions": [
+    "Jax's desperate hope versus inevitable rejection",
+    "Knowledge that scanners read DNA versus belief that money can solve it",
+    "Finn's attempts to reality-check versus Jax's denial",
+    "Self-hatred driving escape fantasy",
+    "Three-day countdown to picking up fake credentials",
+    "Money that can buy everything except what he actually needs",
+    "Jax's isolation - not considering anyone else in his planning",
+    "Fantasy of Level 7 life versus reality of genetic imprisonment"
+  ],
+  "world_changes": [
+    "Jax has upgraded to expensive apartment with real furniture",
+    "He's using pharmaceutical-grade Drift now, much stronger",
+    "He's sent 2 million to identity broker",
+    "Three days until he receives fake Beta credentials",
+    "His relationship with Finn is strained by his self-absorption"
+  ],
+  "continuity_notes": [
+    "Timeline: 2-3 weeks after first Collector sale, multiple sales have occurred",
+    "Jax has spent money on apartment, furniture, pharmaceutical Drift",
+    "Dr. Yin's clinic location established in Sector 9",
+    "Level 7 details established: Beta professional class, parks with trees",
+    "Finn explicitly offered money but refuses to buy Beta identity",
+    "Jax has been high continuously for three days",
+    "Next chapter will be pickup of credentials and attempt to cross checkpoint"
+  ]
+}

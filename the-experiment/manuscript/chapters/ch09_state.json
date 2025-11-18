@@ -1,0 +1,110 @@
+{
+  "chapter": 9,
+  "word_count": 2841,
+  "timeline": "Months 3-7 of experiment",
+  "location": "Sector 12, Building 7, Sector 10 medical district, Sector 11 education center",
+  "characters_present": ["Marcus Ibrahim", "Aisha (daughter)", "David (son)", "Reed Salazar", "Yuki Tanaka", "Chen Rodriguez", "Sarah Kim", "pharmacist", "community members"],
+  "character_states": {
+    "Marcus Ibrahim": {
+      "knows": ["Money is reliable", "He can afford real pain medication", "His kids can have opportunities", "He has organizing knowledge worth sharing", "This is proving people aren't lazy"],
+      "emotional_state": "Hopeful for first time in years, physically transformed, finding purpose beyond labor",
+      "arc_position": 0.28,
+      "location": "Building 7, Sector 12",
+      "physical_changes": ["Pain managed with Somatic-7", "Can sleep through night", "Can lift things", "Can walk without shuffling", "Can be present with kids"]
+    },
+    "Reed Salazar": {
+      "knows": ["Marcus suspects something", "People are transforming", "It's working"],
+      "emotional_state": "Guarded but gratified, watching results",
+      "arc_position": 0.28,
+      "location": "Building 7 common area"
+    },
+    "Aisha Ibrahim": {
+      "knows": ["Money keeps coming", "She can have tutoring", "Dad is getting better", "Hope might be allowed"],
+      "emotional_state": "Cautiously hopeful, protective",
+      "arc_position": 0.15,
+      "location": "Sector 11 education center"
+    },
+    "David Ibrahim": {
+      "knows": ["He can join robotics club", "Dad is less hurt", "Things might get better"],
+      "emotional_state": "Excited, building robots",
+      "arc_position": 0.15,
+      "location": "Sector 11 education center"
+    }
+  },
+  "revealed_to_reader": [
+    "Marcus worked 30 years in waste processing",
+    "His body is broken: chronic back pain, damaged shoulders, missing 3 fingers, bad knees, lung damage",
+    "He's 45 but feels 70",
+    "Has two kids: Aisha (14) and David (12)",
+    "They share 12 square meters",
+    "Marcus took Leveler for pain management for 8 years",
+    "Real pain medication (Somatic-7) costs 340 credits/month",
+    "His prosperity score locked him out of real healthcare",
+    "Bought Somatic-7 with transfer money",
+    "Pain managed within 3-5 days",
+    "Can sleep through night for first time in years",
+    "Spent money on kids' tutoring and extracurriculars",
+    "Saved 1,100 credits over 3 months",
+    "Aisha in debate team, David in robotics club",
+    "Marcus was in union before they were crushed",
+    "Started teaching organizing workshops in Building 7",
+    "20 people attended first organizing workshop",
+    "Marcus suspects Reed might be involved",
+    "Building 7 has library corner, art classes, food sharing program"
+  ],
+  "planted": [
+    {
+      "element": "Marcus's organizing knowledge and union history",
+      "payoff_chapter": "Book 3 - becomes key organizer",
+      "significance": "His knowledge becomes crucial when money stops"
+    },
+    {
+      "element": "Aisha and David's education improvements",
+      "payoff_chapter": "Book 2 and 3",
+      "significance": "Breaking cycle of inherited poverty"
+    },
+    {
+      "element": "Marcus teaching organizing workshops",
+      "payoff_chapter": "Book 2 Ch 12 and Book 3",
+      "significance": "Building infrastructure for post-UBI organizing"
+    },
+    {
+      "element": "Marcus suspects Reed",
+      "payoff_chapter": "Book 2 - Community discovers Reed is benefactor",
+      "significance": "The wise ones see clearly"
+    },
+    {
+      "element": "Quote: 'worst thing poverty does is make you police your own hope'",
+      "payoff_chapter": null,
+      "significance": "Key theme of trilogy"
+    }
+  ],
+  "continuity_notes": [
+    "Months 3-7 of experiment",
+    "Money came months 3, 4, 5, 6, 7 consistently",
+    "Marcus saved 1,100 credits",
+    "Stopped buying Leveler from Reed",
+    "Building 7 common area very active",
+    "Community meetings spontaneously organizing",
+    "Food sharing program started",
+    "Library corner exists (from ch08)",
+    "Art classes happening (from ch08)",
+    "Multiple people got the money",
+    "Yuki doing art (from ch08)",
+    "Chen organizing activities",
+    "Sarah Kim teaching meditation (stopped Leveler in ch07)"
+  ],
+  "voice_check": {
+    "Marcus": "Speaks slowly/thoughtfully - check. Uses 'in my experience' - check. Uses metaphors from work ('body is the invoice', 'breathing together') - check. Whistles work songs - not in this chapter but established. Arabic endearment 'habibti' - check."
+  },
+  "themes_explored": [
+    "The body as site of exploitation",
+    "Healthcare as gatekept by prosperity",
+    "Poverty forces you to police your own hope",
+    "Breaking cycles of inherited poverty",
+    "Organizing as collective breathing",
+    "Knowledge and wisdom have value beyond labor",
+    "Pain management vs healing",
+    "The measure of a person is action without recognition"
+  ]
+}

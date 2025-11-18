@@ -1,0 +1,42 @@
+{
+  "name": "Nico Chen",
+  "age_range": "28-47 across trilogy",
+  "core_wound": "Abandoned by his family at age 19 when his addiction made him 'too much trouble' - believes he's fundamentally unworthy of love or belonging",
+  "wants": "To be seen as valuable, to escape the lower tiers, to matter to someone",
+  "needs": "To accept that the system is broken and his worth isn't defined by tier level, to build genuine community rather than buy loyalty",
+  "voice_markers": [
+    "Self-deprecating humor even in dark situations",
+    "Uses street slang mixed with occasional formal words (remnant of his pre-addiction education)",
+    "Deflects emotional moments with jokes or profanity",
+    "Says 'yeah?' as a verbal tic when uncertain"
+  ],
+  "contradiction": "Wants to help people but struggles to trust anyone completely; craves connection but keeps everyone at arm's length",
+  "physical_description": "East Asian descent, thin from years of poor nutrition and drug use, nervous energy, scarred hands from years of street fights and manual labor, by his 40s looks a decade older than he is",
+  "arc_position_book1": 0.0,
+  "arc_position_book2": 0.5,
+  "arc_position_book3": 1.0,
+  "skills": [
+    "Street-smart - knows how to survive in lower tiers",
+    "Decent with technology (former tech student before dropout)",
+    "Reading people - knows when someone's lying",
+    "Drug trade knowledge - supply chains, cutting, distribution"
+  ],
+  "flaws": [
+    "Addiction to Veil throughout entire trilogy",
+    "Impulsive decision-making",
+    "Difficulty accepting help or showing vulnerability",
+    "Paranoid due to years of street life"
+  ],
+  "knowledge_state_book1_start": [
+    "How to survive in Level 8 slums",
+    "Basic drug dealing operations",
+    "Station layout (lower levels only)",
+    "Doesn't know anything about high finance, legal systems, or upper tier culture"
+  ],
+  "relationships": {
+    "Maya Torres": "Former friend from before addiction, now a social worker who occasionally tries to help him - complex mix of guilt, shame, and buried affection",
+    "Kade Rivera": "Supplier and occasional friend, another addict and dealer, only person Nico semi-trusts at start",
+    "Station Security": "Antagonistic - he's been arrested multiple times, knows which guards take bribes",
+    "Level 8 community": "Known but not liked - he's just another dealer to most, invisible to many"
+  }
+}

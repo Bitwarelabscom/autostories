@@ -1,0 +1,42 @@
+{
+  "name": "Kade Rivera",
+  "age_range": "35-54 across trilogy",
+  "core_wound": "Was a medic in corporate military service, saw horrors, turned to drugs to cope, dishonorably discharged, lost everything",
+  "wants": "Just to get through each day without too much pain",
+  "needs": "To find something worth staying sober for, to believe he can still help people",
+  "voice_markers": [
+    "Gallows humor, dark jokes about death",
+    "Military slang mixed with street talk",
+    "Calls people 'kid' even when they're not much younger",
+    "Whistles tunelessly when nervous"
+  ],
+  "contradiction": "Cynical and world-weary but secretly still cares deeply about people, acts like he's given up but keeps helping Nico",
+  "physical_description": "Latino, weathered face, old military tattoos fading on arms, walks with slight limp from old injury, surprisingly steady hands despite drug use",
+  "arc_position_book1": 0.0,
+  "arc_position_book2": 0.4,
+  "arc_position_book3": 0.9,
+  "skills": [
+    "Emergency medical training",
+    "Drug chemistry knowledge - knows how to cut and test substances",
+    "Combat training from military days",
+    "Supply chain logistics"
+  ],
+  "flaws": [
+    "Heavy Veil addiction, worse than Nico's",
+    "Suicidal ideation he masks with humor",
+    "Difficulty forming attachments - everyone he cared about died",
+    "Self-sabotages any chance at improvement"
+  ],
+  "knowledge_state_book1_start": [
+    "Drug trade at higher level than Nico",
+    "Station's black market systems",
+    "Some upper-tier contacts from military days",
+    "Medical knowledge useful for treating ODs"
+  ],
+  "relationships": {
+    "Nico Chen": "Business partner and closest thing to a friend, protective of him in subtle ways",
+    "Maya Torres": "Dislikes her do-gooder attitude, but respects her for not giving up on Nico",
+    "Old military contacts": "Complicated - some will help for money, others want him dead",
+    "Level 8 community": "Respected for medical help he provides"
+  }
+}

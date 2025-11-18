@@ -1,0 +1,96 @@
+{
+  "chapter": 10,
+  "word_count": 2600,
+  "timeline": "Approximately 3-4 weeks after Chapter 5, after selling multiple batches to The Collector",
+  "location": "Level 7 checkpoint, Dr. Yin's clinic in Sector 9, Jax's renovated apartment",
+  "characters_present": ["Jax Varro", "Border guard", "Dr. Yin (genetic hacker)", "Finn"],
+  "character_states": {
+    "Jax Varro": {
+      "knows": [
+        "He has 400+ million credits in his account",
+        "Biometric scanners cannot be fooled by credentials or bribes",
+        "His DNA has special flags preventing level transition",
+        "Genetic rewrite would take years, cost 50+ billion, 70% mortality rate",
+        "The caste system is designed to be permanent across generations",
+        "He can never leave Level 9 through normal means",
+        "He has enough wealth to rebuild significant parts of the undercity",
+        "Property on Level 9 is extremely cheap",
+        "Station authority abandoned Level 9 decades ago"
+      ],
+      "emotional_state": "Devastated, then enraged, then drugged, finally grimly determined - turning despair into purpose",
+      "arc_position": 0.5,
+      "location": "His renovated apartment, Sector 4",
+      "physical_state": "Heavily intoxicated on pharmaceutical-grade Drift, coming down"
+    },
+    "Finn": {
+      "knows": [
+        "Jax tried to leave and failed",
+        "Jax is planning to rebuild Level 9 with his wealth",
+        "The plan is partially driven by Drift and desperation",
+        "Jax is in emotional crisis"
+      ],
+      "emotional_state": "Concerned for Jax, skeptical but supportive, committed to helping",
+      "location": "Jax's apartment",
+      "physical_state": "Sober, alert"
+    }
+  },
+  "revealed_to_reader": [
+    "Jax now has 400+ million credits (sold multiple batches to The Collector)",
+    "Biometric scanners have secondary genetic locks preventing Gamma movement",
+    "Locks are embedded in mitochondrial DNA, passed down maternally",
+    "Genetic hacking to change caste would require: years of treatment, 50+ billion credits, 70% mortality rate",
+    "Complete genetic rewrite would be detected and carry automatic death sentence",
+    "Caste system was designed to be permanent across all future generations",
+    "Level 9 property is extremely cheap because no one wants to live there",
+    "Jax has upgraded his living space but is still trapped",
+    "Pharmaceutical-grade Drift exists (what Alphas use)",
+    "Jax has been successful in selling to The Collector multiple times",
+    "The Free Level concept is born from desperation and rage",
+    "Jax plans to buy sectors and rebuild infrastructure"
+  ],
+  "planted": [
+    {
+      "element": "The Free Level concept - free housing, food, medical care",
+      "payoff_chapter": 11,
+      "significance": "Beginning of Jax's transformation from dealer to community leader"
+    },
+    {
+      "element": "Plan to buy sectors 4, 6, and 9",
+      "payoff_chapter": 11,
+      "significance": "Specific properties that will become Free Level"
+    },
+    {
+      "element": "Station authority might not interfere if it looks like containment",
+      "payoff_chapter": 14,
+      "significance": "Foreshadowing - they will interfere when it grows too much"
+    },
+    {
+      "element": "Jax's drug use escalating under stress",
+      "payoff_chapter": null,
+      "significance": "Character flaw that will continue throughout trilogy"
+    },
+    {
+      "element": "Genetic locks in mitochondrial DNA",
+      "payoff_chapter": null,
+      "significance": "Technical detail that will be important for Book 2 heist planning"
+    },
+    {
+      "element": "Jax's desire to prove Gammas are more than what they were engineered to be",
+      "payoff_chapter": null,
+      "significance": "Core thematic driver for entire trilogy"
+    }
+  ],
+  "active_tensions": [
+    "Jax's wealth versus his genetic imprisonment",
+    "Desire to escape versus impossibility of escape",
+    "Drug-fueled grandiose planning versus harsh reality",
+    "Station authority's potential response to Free Level",
+    "Jax's desperation and suicidal ideation versus newfound purpose",
+    "Whether the plan will work or just be a prettier cage"
+  ],
+  "world_changes": [
+    "Jax has decided to rebuild Level 9 instead of trying to escape",
+    "First property purchase planned (20-unit building in Sector 4)",
+    "The Free Level movement is conceived"
+  ]
+}

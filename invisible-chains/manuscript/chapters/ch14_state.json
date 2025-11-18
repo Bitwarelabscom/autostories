@@ -1,0 +1,178 @@
+{
+  "chapter": 14,
+  "word_count": 2500,
+  "timeline": "5-6 months after Chapter 13, covering a 5-month population boom period",
+  "location": "Level 8/9 checkpoint, Buildings across multiple sectors, Mother Sera's apartment, Jax's office",
+  "characters_present": ["Jax Varro", "Finn", "Zara", "Dr. Yin", "Dr. Okafor", "Kara", "Kovak", "Iris", "Mother Sera", "Checkpoint guards", "Hundreds of new arrivals"],
+  "character_states": {
+    "Jax Varro": {
+      "knows": [
+        "4,500 Gammas have moved from Level 8 to Level 9 in 5 months",
+        "Started as desperate, became hopeful, now everyone coming",
+        "People choosing undercity Free Level over legal housing",
+        "Bought 12 more buildings for 1.2 billion credits",
+        "Now has ~19 total buildings, ~3,500 residents (stopped counting individuals)",
+        "90 staff members employed",
+        "Labor songs spreading organically through community",
+        "Station Authority has noticed - formal inquiry issued",
+        "Must appear before Level Management Board within 30 days",
+        "Charges: unauthorized development, tax evasion, public health risk, security concerns",
+        "They're really concerned about concentrated Gamma population",
+        "Hearing scheduled for 14:00 at Level 5 Administrative Complex",
+        "Has temporary pass to reach Level 5 (irony noted)",
+        "Mother Sera says he's defending the idea that Gammas deserve dignity",
+        "4,000+ people can't be disappeared easily",
+        "Culture and community are spreading as fast as hope"
+      ],
+      "emotional_state": "Determined, aware of danger, committed to fighting, ready to defend publicly",
+      "arc_position": 0.75,
+      "location": "Office at Building 47, preparing for hearing",
+      "physical_state": "Working until dawn, running on purpose",
+      "wealth": "Spent another 1.2 billion (total ~2.2 billion spent), still has Earth currency to sell",
+      "decision": "Will fight the hearing, will publicly defend Gamma humanity"
+    },
+    "Finn": {
+      "knows": [
+        "400 new arrivals per week at peak",
+        "People choosing Free Level over legal housing",
+        "Station Authority has issued formal inquiry",
+        "Hearing is in 12 hours (narrative present)",
+        "They're going with Jax as backup"
+      ],
+      "emotional_state": "Concerned, supportive, ready to stand with Jax",
+      "role": "Going to hearing as backup with Zara"
+    },
+    "Mother Sera": {
+      "knows": [
+        "Station Authority noticed and is moving against Free Level",
+        "Jax is willing to fight",
+        "Once he defends Gamma humanity publicly, he'll be marked",
+        "4,000 people can't be easily disappeared",
+        "This is about stopping Gammas from organizing, not about regulations"
+      ],
+      "emotional_state": "Supportive, wise, preparing Jax for consequences",
+      "philosophy": "'They can't disappear us all' and 'sing so loud they can't ignore us'"
+    },
+    "Zara": {
+      "knows": [
+        "4,500 new arrivals in 5 months",
+        "Waiting list now at 3,000",
+        "Current capacity: ~750-950 residents across 165 units plus overcrowding",
+        "Set up intake processing system at checkpoint",
+        "10 more buildings would cost 1 billion, increase operating costs to 60 million/month",
+        "At current growth: 3-4 years until money runs out",
+        "Going to hearing as backup"
+      ],
+      "emotional_state": "Organized, protective, professional",
+      "role": "Administrator, attendance at hearing for professional appearance"
+    }
+  },
+  "revealed_to_reader": [
+    "Phenomenon started 3 weeks before chapter, then accelerated",
+    "First trickle: desperate (lost jobs, can't afford rent, injured, sick)",
+    "Then hopeful, then everyone",
+    "Quote: 'Down there we're people. Up here we're just livestock that happens to be useful'",
+    "Scanners track Gamma movement from Level 8 to 9 (downward movement unusual)",
+    "Zara set up checkpoint processing: intake forms, housing assignments, orientation",
+    "63 arrivals first day, 400 by end of first week",
+    "4,500 total over 5 months",
+    "Emergency staff meeting called",
+    "Staff now includes 90 people (was 30, now 60 more hired)",
+    "12 new buildings bought and renovated for 1.2 billion",
+    "Sectors expanded to: 4, 5, 6, 7, 9, 11",
+    "Three more medical clinics opened",
+    "100 patients per day across all clinics",
+    "Timeline: 4 months of expansion after initial influx week",
+    "Month 2: 2,000 residents. Month 3: 3,500 residents. Month 4: stopped counting individuals, count families instead",
+    "Labor songs spreading organically - children learning and teaching each other",
+    "Songs heard everywhere: hallways, clinics, common areas",
+    "Official Notice from Station Authority, Office of Level Management",
+    "30-day deadline to appear before Level Management Board",
+    "Concerns listed: building codes, tax evasion, public health, security (concentrated Gamma population)",
+    "Jax spent 2 weeks preparing documentation",
+    "Documentation includes: property purchases, inspection reports, financial records, medical statistics (40% reduction in preventable deaths), employment records (90 staff), resident testimonials",
+    "Hearing set for 14:00 at Level 5 Administrative Complex",
+    "Jax issued temporary pass to reach Level 5",
+    "Jax, Finn, and Zara will attend together",
+    "Final resident count: ~3,500-4,500 (text varies between 'thirty-five hundred' and 'four thousand')"
+  ],
+  "planted": [
+    {
+      "element": "Labor songs spreading organically through children",
+      "payoff_chapter": "Book 3",
+      "significance": "Cultural weapon becoming part of daily life"
+    },
+    {
+      "element": "Station Authority formal inquiry and hearing",
+      "payoff_chapter": 15,
+      "significance": "Sets up next chapter where authorities send Elara to investigate"
+    },
+    {
+      "element": "Jax will be 'marked' after public defense of Gamma humanity",
+      "payoff_chapter": "Books 2-3",
+      "significance": "Increased surveillance and targeting"
+    },
+    {
+      "element": "40% reduction in preventable deaths statistic",
+      "payoff_chapter": null,
+      "significance": "Concrete evidence of Free Level's impact"
+    },
+    {
+      "element": "'They can't disappear us all' philosophy",
+      "payoff_chapter": "Book 3",
+      "significance": "Resistance strategy based on numbers"
+    },
+    {
+      "element": "Level 5 Administrative Complex as authority location",
+      "payoff_chapter": null,
+      "significance": "Setting for bureaucratic power"
+    },
+    {
+      "element": "Temporary pass irony - still can't go to Level 5 without permission",
+      "payoff_chapter": null,
+      "significance": "Reminder of his genetic imprisonment despite influence"
+    }
+  ],
+  "active_tensions": [
+    "4,500 people vs. capacity for 750-950",
+    "Impending hearing in 12 hours (narrative present)",
+    "Station Authority wanting to shut down concentrated Gamma population",
+    "Growth rate burning through money in 3-4 years",
+    "Jax's commitment to fight vs. real possibility of losing",
+    "Cultural awakening through labor songs",
+    "Overcrowding causing infrastructure strain",
+    "3,000 people still on waiting list",
+    "Whether Jax will be marked/targeted after public testimony",
+    "Question of how to sustain this growth"
+  ],
+  "world_changes": [
+    "Total Free Level buildings: 19 (7 from Ch12 + 12 new)",
+    "Total residents: 3,500-4,500 (sources vary, use 4,000 as approximate)",
+    "Total staff: 90 people",
+    "Operating costs: 60 million per month minimum",
+    "Total spent: ~2.2 billion credits",
+    "Labor songs are now part of Free Level culture",
+    "Gammas choosing to move from legal Level 8 housing to undercity",
+    "Station Authority has formally noticed and issued inquiry",
+    "Hearing scheduled for 14:00, Level 5 Administrative Complex",
+    "Zara's checkpoint processing system operational",
+    "Medical clinics seeing 100 patients daily",
+    "40% reduction in preventable deaths achieved",
+    "Three more medical clinics opened (total now 5-6)",
+    "Community self-identifies as 'the Free Level'",
+    "Culture is spreading as fast as hope"
+  ],
+  "continuity_notes": [
+    "5-6 months timeline from Ch13",
+    "Chapter covers 5-month population boom period",
+    "Hearing is set for next day from narrative present",
+    "Buildings in Sectors: 4, 5, 6, 7, 9, 11",
+    "Staff grew from 30 (Ch12) to 90 (Ch14)",
+    "Operating costs from 32 million/month (Ch12) to 60 million/month (Ch14)",
+    "Residents from 640 (Ch12) to 4,000 (Ch14)",
+    "Jax has never been to Level 5 before",
+    "Next chapter (15) is when Elara arrives - this hearing likely triggers her investigation",
+    "Labor songs notebook from Ch13 is being used - songs spreading",
+    "Mother Sera's apartment visits continue"
+  ]
+}

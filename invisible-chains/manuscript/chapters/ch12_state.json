@@ -1,0 +1,179 @@
+{
+  "chapter": 12,
+  "word_count": 2500,
+  "timeline": "5 months after Chapter 11 (3 months to open Building 2, then 2 more months expanding)",
+  "location": "Multiple buildings across Sectors 4, 6, 7, 8, 9; Jax's offices",
+  "characters_present": ["Jax Varro", "Finn", "Mother Sera", "Zara (administrator)", "Dr. Okafor", "Kovak and Iris (security)", "Large crowd at Building 4 opening"],
+  "character_states": {
+    "Jax Varro": {
+      "knows": [
+        "Has opened 7 buildings total (165 units, 640 residents)",
+        "Has spent close to 1 billion credits on the project",
+        "Operating costs are 32 million per month (384 million per year)",
+        "Waiting list is 1,500 people",
+        "30 people on staff across all operations",
+        "Word is spreading to Level 8 - some Gammas asking to move down for community",
+        "People are calling it 'the Free Level' as a place, not just buildings",
+        "Some residents want to petition for Level 9 independence",
+        "Mother Sera has noticed and semi-blessed the project",
+        "The Collector keeps buying currency - latest payment 400 million",
+        "He's thinking about job creation and commercial properties next",
+        "Has enough money to run current operations for 5 years if he stops expanding"
+      ],
+      "emotional_state": "Driven, purposeful, committed to expansion, aware he's building something significant",
+      "arc_position": 0.65,
+      "location": "Rotating between offices in Buildings 47, Sector 6, and Sector 9",
+      "physical_state": "Working late, not sleeping enough, sustained by purpose",
+      "wealth": "Spent ~1 billion, continues receiving hundreds of millions from Collector",
+      "transformation": "No longer seeking escape - building a way forward instead"
+    },
+    "Finn": {
+      "knows": [
+        "Hired kitchen staff (5 people initially, now more)",
+        "Feeding 200+ people daily across buildings",
+        "Jax is looking at commercial properties for job creation",
+        "Talk on Level 8 about the Free Level",
+        "Jax has stopped trying to escape and started building forward",
+        "Jax works too much and doesn't sleep enough"
+      ],
+      "emotional_state": "Supportive, proud of what they're building, concerned about Jax's health",
+      "location": "Building 47 primarily, rotating to other locations",
+      "role": "Kitchen operations manager, hiring and coordinating food service"
+    },
+    "Mother Sera": {
+      "knows": [
+        "Jax is buying condemned buildings and giving away housing",
+        "He tried to leave undercity and couldn't",
+        "He's spending massive amounts of money on Gammas",
+        "People are calling it the Free Level",
+        "This is giving people hope and expectations",
+        "Lives in Sector 9, Building 17"
+      ],
+      "emotional_state": "Watchful, testing, cautiously approving",
+      "location": "Sector 9, Building 17",
+      "action": "Semi-blessed the project publicly, invited Jax to talk about what he's really building"
+    },
+    "Zara": {
+      "knows": [
+        "Managing waiting lists and logistics",
+        "1,500 people currently waiting",
+        "All operational numbers and statistics",
+        "Was doing off-books accounting before Jax hired her"
+      ],
+      "emotional_state": "Protective of residents, brilliant with numbers",
+      "role": "Administrator across all buildings"
+    }
+  },
+  "revealed_to_reader": [
+    "Building 2: Sector 6 Block 23, 30 units, cost 100 million",
+    "Building 3: Sector 9, 15 units, cost 110 million",
+    "Building 4: Sector 7 (opening scene), size not specified",
+    "Total through expansion: 7 buildings, 165 units, 640 residents",
+    "30 staff members hired",
+    "Dr. Okafor recruited as second doctor, clinics running 5 days a week",
+    "Kitchen staff: 5 people hired, preparing food for 200+ daily",
+    "Maintenance: Kara's crew hired permanently at triple wages",
+    "Security: Kovak (former private security) and Iris (former undercity police)",
+    "Administration: Zara (former off-books accountant)",
+    "Operating costs: 32 million per month, 384 million per year",
+    "Waiting list: 1,500 people",
+    "Total spent: close to 1 billion credits",
+    "Latest Collector payment: 400 million",
+    "Undercity forums discussing Free Level extensively",
+    "People on Level 8 talking about it, some Gammas wanting to move down",
+    "Residents want to petition for Level 9 independence recognition",
+    "200 people attended Building 4 opening",
+    "Someone made a 'Welcome to the Free Level' sign",
+    "Mother Sera publicly tested and semi-blessed the project",
+    "Jax thinking about commercial properties for job creation",
+    "Planning buildings in Sectors 5, 8, 11",
+    "Has 3 offices now across main buildings"
+  ],
+  "planted": [
+    {
+      "element": "Mother Sera inviting Jax to Building 17 to talk",
+      "payoff_chapter": 13,
+      "significance": "Sets up next chapter's confrontation/test"
+    },
+    {
+      "element": "1,500 people on waiting list",
+      "payoff_chapter": 14,
+      "significance": "Shows scale of need and demand"
+    },
+    {
+      "element": "Talk on Level 8, Gammas wanting to move down",
+      "payoff_chapter": 14,
+      "significance": "The influx chapter - people moving from legal levels to Free Level"
+    },
+    {
+      "element": "Petition for Level 9 independence",
+      "payoff_chapter": null,
+      "significance": "Shows political awakening of residents"
+    },
+    {
+      "element": "Commercial properties for job creation",
+      "payoff_chapter": null,
+      "significance": "Next phase of Free Level development"
+    },
+    {
+      "element": "Someone had to be noticing from levels above",
+      "payoff_chapter": 14-15,
+      "significance": "Foreshadows authority response"
+    },
+    {
+      "element": "Money running out in 5 years at current rate",
+      "payoff_chapter": null,
+      "significance": "Sustainability tension"
+    },
+    {
+      "element": "Zara as fierce administrator",
+      "payoff_chapter": null,
+      "significance": "Key staff member, protective of project"
+    }
+  ],
+  "active_tensions": [
+    "Exponential growth versus sustainability",
+    "1,500 people waiting versus 165 units available",
+    "Building 1 billion credits worth of infrastructure",
+    "Word spreading to upper levels = attention from authority",
+    "Hope building versus potential for crushing disappointment",
+    "Jax's health/sleep versus work obsession",
+    "Whether this can last or will collapse",
+    "Question of what happens when money runs out",
+    "Mother Sera's test of Jax's motives pending"
+  ],
+  "world_changes": [
+    "Free Level now has 7 buildings, 165 units, 640 residents, 30 staff",
+    "1,500 people on waiting list",
+    "Operating as unified organization across multiple sectors",
+    "Recognized community called 'the Free Level' by residents",
+    "Talk reaching Level 8, affecting Gamma workers in legal zones",
+    "Mother Sera has semi-publicly endorsed the project",
+    "Large public gatherings (200+ people) at building openings",
+    "Job creation beginning - 30 people employed with fair wages",
+    "Undercity economy shifting - fair wages, free services available",
+    "Political consciousness emerging (independence petition discussions)"
+  ],
+  "continuity_notes": [
+    "5 months total timeline from Ch11",
+    "Building progression: 1 (Ch11), then 2-7 (Ch12)",
+    "Sectors covered: 4, 6, 7, 8, 9, with plans for 5, 11",
+    "Mother Sera lives in Sector 9, Building 17",
+    "Jax has offices in Buildings 47 (Sector 4), Sector 6 building, Sector 9 building",
+    "Latest Collector payment: 400 million (suggests ongoing sales)",
+    "Total spent approaching 1 billion",
+    "Monthly operating costs: 32 million",
+    "Staff count: 30 across all operations",
+    "Next chapter will be meeting with Mother Sera at Building 17"
+  ],
+  "emotional_beats": [
+    "Reading forum posts - validation that it's working",
+    "Mother Sera's public test at Building 4 opening",
+    "Her semi-blessing and invitation to talk",
+    "200 people showing up as if it matters",
+    "Finn noting Jax has stopped trying to escape",
+    "Jax's realization he's building a way forward",
+    "Awareness that someone above must be noticing",
+    "Commitment to keep building until something stops him"
+  ]
+}

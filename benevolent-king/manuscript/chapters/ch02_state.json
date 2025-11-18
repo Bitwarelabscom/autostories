@@ -1,0 +1,97 @@
+{
+  "chapter": 2,
+  "word_count": 2400,
+  "timeline": "Day 1, afternoon to evening",
+  "location": "Level 8 - Park's apartment (7-G-2847), then Kade's apartment",
+  "characters_present": ["Nico Chen", "Kade Rivera", "Chen Wei (landlord, briefly)"],
+  "character_states": {
+    "Nico Chen": {
+      "knows": [
+        "Park Jin-ho was 63, former accountant for Covenant Holdings, died alone",
+        "Park had hidden a military-grade security case under the floor",
+        "The case contains a corporate-grade encrypted data core",
+        "Kade can't crack it but knows Specs who might be able to",
+        "Cracking it would cost 5-10k credits he doesn't have",
+        "He took the case despite Chen's warning not to take anything",
+        "The data core could be valuable or dangerous or nothing"
+      ],
+      "emotional_state": "Guilty about stealing but driven by desperate hope, anxious about possibilities",
+      "arc_position": 0.02,
+      "location": "His sleeping pod by end of chapter",
+      "physical_state": "Functioning on one vial, has eaten",
+      "current_resources": "318 credits total, one remaining vial of Veil, stolen data core case",
+      "moral_line_crossed": "Theft from dead man's apartment despite warning"
+    },
+    "Kade Rivera": {
+      "knows": [
+        "Nico found a military-grade data core in corporate-grade case",
+        "It needs specialist to crack (Specs)",
+        "These cores usually mean trouble",
+        "Nico owes him 50 credits for opening the case"
+      ],
+      "emotional_state": "Pragmatic, warning Nico but not stopping him, deeper in withdrawal today",
+      "arc_position": 0.02,
+      "location": "His apartment",
+      "service_provided": "Opened the biometric case lock"
+    }
+  },
+  "revealed_to_reader": [
+    "Park Jin-ho's background: 63 years old, former Covenant Holdings accountant, retired 5 years ago",
+    "Park lived alone, died alone, had no family or friends to claim belongings",
+    "Park had hidden a military-grade case containing data core under floor",
+    "The data core is corporate-grade encrypted storage for sensitive financial data",
+    "Kade was a military logistics officer before addiction and discharge",
+    "Specs exists: tech specialist who can crack encryption (5-10k cost)",
+    "Nico chose to steal the case despite warning",
+    "Park kept journals with numbers, dates, mentions of Covenant and transfers",
+    "The apartment was tiny - 15 square meters total, but private (luxury on Level 8)",
+    "Chen pays fair wages (300 credits for cleaning job)"
+  ],
+  "planted": [
+    {
+      "element": "Park's journal with numbers and 'Covenant' references",
+      "payoff_chapter": null,
+      "significance": "Evidence he knew something about corporate wrongdoing - will be revealed Book 2, Ch 19"
+    },
+    {
+      "element": "Kade's warning: 'Dead man's secrets have a way of killing the living'",
+      "payoff_chapter": null,
+      "significance": "Foreshadowing that this money will bring danger"
+    },
+    {
+      "element": "Specs as data specialist",
+      "payoff_chapter": 3,
+      "significance": "Nico will need to take core to Specs, but can't afford it yet"
+    },
+    {
+      "element": "Park worked for Covenant Holdings",
+      "payoff_chapter": 15,
+      "significance": "The company whose money this likely is - will investigate later"
+    },
+    {
+      "element": "Corporate-grade encrypted storage 'for sensitive financial data'",
+      "payoff_chapter": 5,
+      "significance": "This is the 50 million in accounts"
+    },
+    {
+      "element": "Nico's guilt about stealing from dead man",
+      "payoff_chapter": null,
+      "significance": "Moral complexity - his whole operation built on theft"
+    }
+  },
+  "active_tensions": [
+    "Nico stole the case despite being told not to take anything",
+    "The data core might be valuable, dangerous, or worthless",
+    "He can't afford to have it cracked (needs 5-10k)",
+    "Someone hid this carefully - they might want it back",
+    "Nico's desperation making him take risks",
+    "Kade's warning vs. Nico's hope"
+  ],
+  "world_changes": [
+    "Nico now possesses the hidden data core",
+    "Chen thinks job was done honestly - doesn't know about theft",
+    "Nico knows about Specs as a potential resource",
+    "Nico owes Kade 50 credits"
+  ],
+  "notes": "Bridge chapter connecting Ch 1's job offer to Ch 3's investigation of the core. Shows Nico's desperation and moral flexibility - he steals despite warning, rationalizing it. Introduces the data core that will change everything. Park's background established: accountant for Covenant Holdings, careful man who hid something important. Kade's warning about danger goes unheeded. Nico's arc barely moves (0.02) - he's still the same person making questionable choices out of desperation. The 'possibility' Nico feels at the end is dangerous hope - the hook that pulls him forward. Sensory details of Level 8's grimmer sections and the sad aftermath of a lonely death ground the chapter in the world's bleakness."
+}

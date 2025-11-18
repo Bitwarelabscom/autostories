@@ -1,0 +1,30 @@
+{
+  "chapter": 29,
+  "book": 2,
+  "book_chapter": 9,
+  "title": "Jax's Rage",
+  "word_count": 2300,
+  "timeline": "3 days after exposure, same time as Chapter 28",
+  "location": "Jax and Elara's shared quarters, Free Level",
+  "characters_present": ["Jax Varro", "Finn"],
+  "character_states": {
+    "Jax Varro": {
+      "knows": ["Elara lied for 2 years", "Everything they had might have been performance", "He loved her completely", "He wants to believe she loved him but can't trust it", "Drift makes the pain manageable", "He's destroyed their shared quarters", "Finn is trying to help him"],
+      "emotional_state": "Rage, heartbreak, self-destructive, using Drift again after 8 months clean, questioning what was real",
+      "arc_position": 0.22,
+      "location": "Destroyed quarters",
+      "physical_state": "Bloody knuckles from punching walls, Drift-intoxicated"
+    },
+    "Finn": {
+      "knows": ["Jax is self-destructing", "Jax is back on Drift", "Jax wants to believe Elara loved him", "Jax is broken", "Finn needs to help him heal"],
+      "emotional_state": "Worried, protective, loving but refusing to take advantage",
+      "arc_position": 0.34,
+      "location": "Quarters with Jax",
+      "physical_state": "Healthy, alert"
+    }
+  },
+  "revealed_to_reader": ["Jax destroyed everything that reminded him of Elara", "Jax relapsed on Drift after 8 months clean", "Jax bloody knuckles from hitting walls", "Deep down Jax wants to believe she loved him", "Finn refuses to take advantage of Jax's pain", "Jax doesn't know what was real about their relationship", "Jax is drowning in grief and Drift"],
+  "planted": [{"element": "Jax's Drift relapse", "payoff_chapter": "Book 2, Chapters 30-32", "significance": "Part of his spiral before eventual recovery"}],
+  "active_tensions": ["Jax's self-destruction", "Finn's unrequited love versus refusal to take advantage", "Jax's desire to believe Elara versus betrayal", "Free Level needing leadership while Jax falls apart"],
+  "world_changes": ["Jax relapsed on Drift", "Their shared quarters destroyed", "Jax is not functioning as leader"]
+}

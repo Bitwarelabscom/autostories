@@ -1,0 +1,78 @@
+{
+  "chapter": 1,
+  "word_count": 2350,
+  "timeline": "Day 1, morning to early afternoon",
+  "location": "Level 8 slums, Section 7",
+  "characters_present": ["Nico Chen", "Mrs. Huang", "Patel brothers", "Jess", "Maya Torres", "Chen Wei (landlord)"],
+  "character_states": {
+    "Nico Chen": {
+      "knows": [
+        "He's a small-time Veil dealer barely surviving",
+        "The tier system is rigged against people with criminal records",
+        "Maya is a Level 6 social worker who wants to help him",
+        "He had an engineering scholarship before addiction",
+        "He has a cleaning job at apartment 7-G-2847"
+      ],
+      "emotional_state": "Exhausted and nihilistic, functional addict going through motions, brief pain when confronting Maya",
+      "arc_position": 0.0,
+      "location": "Level 8, Section 7",
+      "physical_state": "Experiencing withdrawal symptoms, takes Veil to function, malnourished",
+      "current_resources": "Two vials of Veil remaining, minimal credits, key card to dead man's apartment"
+    },
+    "Maya Torres": {
+      "knows": [
+        "Nico is dealing again",
+        "He refuses help and program interventions",
+        "She and Nico have history from before his addiction spiraled"
+      ],
+      "emotional_state": "Frustrated and disappointed, feeling helpless to save him",
+      "arc_position": 0.0,
+      "location": "Level 8 (visiting), lives in Level 6"
+    }
+  },
+  "revealed_to_reader": [
+    "Level 8 living conditions - pod dormitories, failing infrastructure",
+    "Nico's Veil addiction and daily routine",
+    "The tier system and class divisions (Levels 1-10)",
+    "Nico's past: had engineering scholarship, fell into addiction",
+    "His relationship with Maya - former friends, possibly more",
+    "Small kindnesses: undercharging Mrs. Huang, accepting food stamps",
+    "The grinding economics of addiction and survival",
+    "Station geography: massive space station, 2 million people, Jupiter orbit"
+  ],
+  "planted": [
+    {
+      "element": "Dead man's apartment and cleaning job",
+      "payoff_chapter": 2,
+      "significance": "This job leads to finding the money - the inciting incident"
+    },
+    {
+      "element": "Nico's engineering background and lost potential",
+      "payoff_chapter": 10,
+      "significance": "Shows he once had legitimate path to upper tiers, reinforces why he chooses Level 8 later"
+    },
+    {
+      "element": "Maya and Nico's complicated history",
+      "payoff_chapter": 8,
+      "significance": "They were close before his addiction, possible romantic feelings"
+    },
+    {
+      "element": "Mrs. Huang's endorsement of Nico's character",
+      "payoff_chapter": null,
+      "significance": "Establishes that despite being a dealer, Nico has compassion - foreshadows his later choices"
+    },
+    {
+      "element": "Chen Wei's warning: 'don't take nothing that ain't yours'",
+      "payoff_chapter": 2,
+      "significance": "Dramatic irony - Nico will take the money, starting everything"
+    }
+  ],
+  "active_tensions": [
+    "Nico's addiction and daily survival",
+    "His refusal of help despite Maya's efforts",
+    "Economic precarity - barely making ends meet",
+    "The grinding hopelessness of Level 8 existence"
+  ],
+  "world_changes": [],
+  "notes": "First tentpole chapter (HOOK). Establishes protagonist's ordinary world in all its grim detail. Voice is cynical but not completely hopeless. Shows Nico's contradictions - junkie dealer who still has moments of compassion. Ends with hook of the cleaning job that will change everything."
+}

@@ -1,0 +1,131 @@
+{
+  "chapter": 26,
+  "book": 2,
+  "book_chapter": 6,
+  "title": "False Peace",
+  "word_count": 2000,
+  "timeline": "Morning of the exposure, 0700-0745 station time",
+  "location": "Free Level Level 9",
+  "characters_present": ["Elara Quinn", "Jax Varro", "Finn", "Mother Sera", "Free Level residents"],
+  "character_states": {
+    "Elara Quinn": {
+      "knows": [
+        "This is the last good morning, though she doesn't fully realize it",
+        "Her instincts are still screaming danger",
+        "She should run but is choosing to stay",
+        "Jax told her he loves her 'whatever happens'",
+        "She's walking toward her own execution",
+        "She's at the medical clinic when broadcast hits"
+      ],
+      "emotional_state": "Foreboding, trying to memorize happiness, trapped, resigned, terrified",
+      "arc_position": 0.5,
+      "location": "Medical clinic, Free Level",
+      "physical_state": "Anxious, tense"
+    },
+    "Jax Varro": {
+      "knows": [
+        "Everything seems perfect this morning",
+        "He planned a romantic evening with Elara for tonight",
+        "He told Elara he loves her 'whatever happens' (prophetic)",
+        "At 0745 he's in community center setting up breakfast",
+        "THEN: screens flicker and broadcast reveals Elara's true identity",
+        "Elara Frost is really Elara Quinn, SSS Alpha investigator",
+        "She's been lying for two years, surveillance operation",
+        "The community is turning on her, violent",
+        "She's at the medical clinic"
+      ],
+      "emotional_state": "SHIFT: Happy and content → shocked, betrayed, devastated, world shattering, running to her",
+      "arc_position": 0.2,
+      "location": "Community center when broadcast hits",
+      "physical_state": "Shock, running toward clinic"
+    },
+    "Finn": {
+      "knows": [
+        "Something feels off this morning",
+        "Told Jax 'whatever happens, I've got your back'",
+        "THEN: broadcast reveals Elara's identity",
+        "She's SSS, has been lying",
+        "They suspected she was hiding something, but not this",
+        "The community is turning violent",
+        "Jax is devastated"
+      ],
+      "emotional_state": "Hungover, trying to be supportive, THEN: shocked, vindicated but not happy about it",
+      "arc_position": 0.32,
+      "location": "Community center",
+      "physical_state": "Hungover, alert"
+    },
+    "Mother Sera": {
+      "knows": [
+        "She's tired, old, lungs failing",
+        "She told Jax 'I'm fine for today' - ominous phrasing",
+        "Something is about to happen"
+      ],
+      "emotional_state": "Tired, watchful, resigned",
+      "arc_position": 0.45,
+      "location": "Her quarters",
+      "physical_state": "Failing health"
+    }
+  },
+  "revealed_to_reader": [
+    "The last peaceful morning before everything breaks",
+    "Elara knew something was coming but stayed anyway",
+    "Jax planned romantic evening for tonight (won't happen)",
+    "Jax told Elara 'I love you, whatever happens' - prophetic",
+    "At 0745, all screens in Free Level activate simultaneously",
+    "Exposure broadcast shows Elara Quinn's SSS ID photo",
+    "Broadcast shows surveillance images of her in Free Level over 18 months",
+    "Broadcast states she's Alpha SSS investigator on surveillance op",
+    "Community center erupts in anger and betrayal",
+    "Residents want to find her, violence implied",
+    "Jax realizes the ID photo is really her",
+    "Jax is devastated, world cracking apart",
+    "Finn confirms 'I think it's real'",
+    "Jax runs toward medical clinic to find her",
+    "Chapter ends on cliffhanger: what happens when he reaches her?"
+  ],
+  "planted": [
+    {
+      "element": "Exposure broadcast happens",
+      "payoff_chapter": "Book 2, Chapter 27 (immediate continuation)",
+      "significance": "The betrayal revelation climax"
+    },
+    {
+      "element": "Community turning violent against Elara",
+      "payoff_chapter": "Book 2, Chapter 27",
+      "significance": "Elara will have to flee for her life"
+    },
+    {
+      "element": "Jax running to find Elara",
+      "payoff_chapter": "Book 2, Chapter 27",
+      "significance": "Their confrontation"
+    },
+    {
+      "element": "Finn's 'whatever happens, I've got your back' to Jax",
+      "payoff_chapter": "Book 2, Chapter 27 onward",
+      "significance": "Finn will help protect Jax through this crisis"
+    },
+    {
+      "element": "Sera's 'I'm fine for today' phrasing",
+      "payoff_chapter": "Book 3, Chapter 16",
+      "significance": "Foreshadowing her limited time, eventual death"
+    }
+  ],
+  "active_tensions": [
+    "Jax's devastation and betrayal",
+    "Community's violent anger toward Elara",
+    "Elara at medical clinic, unaware broadcast just happened",
+    "Jax running to confront/save/denounce her",
+    "Finn's loyalty to Jax versus what comes next",
+    "The shattering of Jax's trust and love",
+    "The destruction of Elara's two years of integration"
+  ],
+  "world_changes": [
+    "Exposure broadcast successful, entire Free Level knows the truth",
+    "Elara's cover completely blown",
+    "Community has turned against her, violence threatened",
+    "Jax knows she's SSS Alpha, has been lying for 2 years",
+    "The fragile peace and happiness is shattered",
+    "Free Level united in anger against perceived enemy",
+    "Everything Elara built with community is destroyed"
+  ]
+}

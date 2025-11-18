@@ -1,0 +1,93 @@
+{
+  "chapter": 2,
+  "word_count": 2200,
+  "timeline": "3 days after Chapter 1, still Night 4",
+  "location": "Undercity Level 9 - alley behind hydroponics facility, Jax's new hiding spot Sector 6",
+  "characters_present": ["Jax Varro", "Marcus Chen (dying scavenger)", "Finn"],
+  "character_states": {
+    "Jax Varro": {
+      "knows": [
+        "SSS is still hunting him, laying low",
+        "Location of treasure in deep city: Sector 13 subsection D, yellow-striped maintenance corridor, vault with broken biometric lock",
+        "Scavenger (Marcus Chen) found something valuable - 'Earth treasure'",
+        "The treasure is dangerous enough people will kill for it",
+        "Deep city is dangerous - unstable gravity, failing life support",
+        "Plan to go with Finn tomorrow",
+        "Marcus Chen's last words and dying wish"
+      ],
+      "emotional_state": "Cautious but intrigued, feeling compassionate toward dying man, ready for risk",
+      "arc_position": 0.05,
+      "location": "Hiding spot, Sector 6",
+      "physical_state": "Healthy, slightly high on Drift"
+    },
+    "Finn": {
+      "knows": [
+        "Jax found dying scavenger with treasure map",
+        "Location of supposed treasure",
+        "This is probably stupid but they're going anyway",
+        "Deep city is dangerous"
+      ],
+      "emotional_state": "Skeptical but loyal, resigned to following Jax into danger",
+      "arc_position": 0.0,
+      "location": "Jax's hiding spot"
+    }
+  },
+  "revealed_to_reader": [
+    "Gamma deaths often go unrecorded by station",
+    "Scavengers do go into deep city looking for valuable items",
+    "Earth artifacts are valuable to collectors",
+    "Deep city exists below Level 9 - abandoned sections with dangers",
+    "Jax has reputation as 'good' dealer who doesn't sell to kids",
+    "Jax shows compassion - gives dying man Drift to ease death",
+    "Marcus Chen - former engineer reassigned when too old",
+    "Specific location of vault: Sector 13 subsection D",
+    "Deep city has unstable gravity and failing life support",
+    "Finn is pragmatic and skeptical but loyal to Jax",
+    "Jax is tired of just surviving, wants something more"
+  ],
+  "planted": [
+    {
+      "element": "Marcus Chen's daughter Lin Chen",
+      "payoff_chapter": null,
+      "significance": "Humanizing detail, probably won't return but adds weight to the death"
+    },
+    {
+      "element": "Photo display with Chen's family",
+      "payoff_chapter": null,
+      "significance": "Shows what was lost, Jax keeping it as memorial"
+    },
+    {
+      "element": "Warning that people will kill for Earth treasure",
+      "payoff_chapter": null,
+      "significance": "Foreshadows danger, establishes stakes"
+    },
+    {
+      "element": "Deep city dangers - gravity, life support, sealed sections",
+      "payoff_chapter": 3,
+      "significance": "Setup for Chapter 3's journey"
+    },
+    {
+      "element": "Expensive boots on dying scavenger",
+      "payoff_chapter": null,
+      "significance": "Evidence he'd already sold some Earth artifacts"
+    },
+    {
+      "element": "Jax wanting more than just survival",
+      "payoff_chapter": null,
+      "significance": "Character motivation, arc development"
+    }
+  ],
+  "active_tensions": [
+    "Still hiding from SSS after Chapter 1 incident",
+    "Uncertainty about whether treasure is real or fantasy",
+    "Danger of deep city exploration",
+    "Need for secrecy about the treasure",
+    "Jax's growing dissatisfaction with just surviving",
+    "Risk versus reward of pursuing this lead"
+  ],
+  "world_changes": [
+    "Jax has information about vault location",
+    "Marcus Chen is dead",
+    "Jax and Finn planning deep city expedition"
+  ]
+}

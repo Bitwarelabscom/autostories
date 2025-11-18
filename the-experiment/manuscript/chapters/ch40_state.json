@@ -1,0 +1,202 @@
+{
+  "chapter": 40,
+  "book": 2,
+  "book_chapter": 20,
+  "word_count": 2447,
+  "timeline": "Month 57-58 of the experiment, ~4 months after Chapter 36",
+  "location": "Reed's apartment in Sector 12",
+  "characters_present": ["Reed Salazar", "Executive Director Jonathan Harris", "Dr. Chen (renal specialist)", "Dr. Okafor (renal specialist)", "Dr. Amara Osei"],
+  "character_states": {
+    "Reed Salazar": {
+      "knows": [
+        "Has 3 months to live without treatment, 40 years with it",
+        "Kidneys at 23% function from Leveler poisoning",
+        "847,000 credits remaining (~3-4 weeks of payments)",
+        "Corporate offers: new kidneys, immunity, 20M credits, Sector 8 living",
+        "Must publicly discredit UBI experiment to accept",
+        "Has 48 hours (now 47) to decide",
+        "Harris has sophisticated models predicting Sector 12 crash",
+        "Corporate forensics will break his encryption within a month",
+        "Amara is asking him to choose death and truth over life and lies",
+        "He's 36, will be 37 in two months"
+      ],
+      "emotional_state": "Torn, exhausted, tempted. Genuinely struggling with the choice. Wants to live but knows the cost. Wrestling with whether his death matters more than his life.",
+      "arc_position": 0.85,
+      "location": "His apartment",
+      "physical_state": "Dying - kidneys at 23%, looks 50 despite being 36, hands shaking constantly, Leveler processing wrong"
+    },
+    "Dr. Amara Osei": {
+      "knows": [
+        "Harris made the offer",
+        "Reed is genuinely tempted",
+        "Accepting would destroy everything they've built",
+        "Corporate's 'transition support' is propaganda",
+        "They have maybe 2 months if Reed refuses",
+        "Reed's death is now certain if he refuses",
+        "She's asking him to choose martyrdom"
+      ],
+      "emotional_state": "Fierce, protective, desperate. Asking Reed to die for principles while knowing how awful that ask is. Committed to truth but heart-broken.",
+      "arc_position": 0.85,
+      "location": "Reed's apartment (arrives 17 minutes after Harris leaves)",
+      "physical_state": "Functional but stressed, ran to reach Reed"
+    },
+    "Executive Director Jonathan Harris": {
+      "knows": [
+        "Reed has 3 months without treatment",
+        "Reed's funds nearly depleted (probably ~847K)",
+        "Reed is vulnerable and desperate",
+        "Offering exactly what Reed needs to survive",
+        "Models show disruption after payment cessation",
+        "Corporate forensics will break encryption soon",
+        "This is the optimal moment to flip Reed"
+      ],
+      "emotional_state": "Calculated kindness. Genuinely believes he's offering a win-win. Sees himself as reasonable problem-solver, not villain. Certain Reed will accept.",
+      "arc_position": 0.20,
+      "location": "Corporate offices (left Reed's apartment)"
+    }
+  },
+  "revealed_to_reader": [
+    "Harris came to Reed's apartment in person with medical team",
+    "Reed's kidneys at 23% function, 3 months to live without treatment",
+    "Corporate can grow new kidneys, full replacement, 6-week procedure",
+    "The Offer: new kidneys, immunity, 20M credits, Sector 8 living, prosperity score reset",
+    "The Cost: reveal self publicly, say experiment failed, discredit UBI, help corporate's propaganda",
+    "Corporate has sophisticated models predicting 83% probability of Sector 12 disruption after payment ends",
+    "Corporate forensics will break Reed's encryption within a month",
+    "Reed has 48 hours to decide",
+    "Reed has 847,000 credits left (~3-4 weeks of payments)",
+    "Reed is 36, will be 37 in two months",
+    "Dr. Chen and Dr. Okafor are renal specialists corporate brought",
+    "Surgery could happen within 72 hours if Reed accepts",
+    "Harris genuinely believes he's offering a solution",
+    "Amara arrived 17 minutes after Harris left",
+    "Amara is asking Reed to choose death over betrayal",
+    "Reed is genuinely tempted - wants to live",
+    "Reed has 47 hours left to decide (spent 1 hour)",
+    "Current Sector 12 stats: 74% crime down, 85% health up, 447% community formation up"
+  ],
+  "planted": [
+    {
+      "element": "Reed's 48-hour decision deadline",
+      "payoff_chapter": "Book 3 Ch 1 - The Refusal",
+      "significance": "Reed will refuse, beginning his final arc"
+    },
+    {
+      "element": "3 months to live without treatment",
+      "payoff_chapter": "Book 3 Ch 2 - Health Crisis, Ch 18 - Last Days",
+      "significance": "Timeline for Reed's death"
+    },
+    {
+      "element": "847K credits (~3-4 weeks of payments)",
+      "payoff_chapter": "Book 3 Ch 1, Ch 12 - The UBI Ends",
+      "significance": "Money runs out very soon"
+    },
+    {
+      "element": "Corporate forensics breaking encryption within a month",
+      "payoff_chapter": "Book 3 Ch 1 - assets frozen",
+      "significance": "Corporate will freeze accounts when Reed refuses"
+    },
+    {
+      "element": "Harris's models predicting disruption",
+      "payoff_chapter": "Book 3 Ch 6 - Seeding Cooperatives, Ch 12 - UBI Ends",
+      "significance": "Reed must build transition infrastructure to prevent this"
+    },
+    {
+      "element": "Two months until Reed's 37th birthday",
+      "payoff_chapter": "Book 3 Ch 20 - Reed dies at 47, but significance of time compression",
+      "significance": "Wait - continuity issue. Reed dies at 47 per story_graph, but is 36 now, that's 11 years. Book 3 is ages 41-47 (6 years). Need to adjust."
+    },
+    {
+      "element": "Amara's fierce commitment to truth",
+      "payoff_chapter": "Book 3 Ch 16-17 - Recording/documentation, Ch 20 - Legacy",
+      "significance": "She will preserve the truth after Reed's death"
+    }
+  ],
+  "active_tensions": [
+    "Will Reed accept or refuse the offer?",
+    "Can he choose death when life is offered?",
+    "What will happen to Sector 12 when payments end?",
+    "Can they build enough infrastructure in 3-4 weeks?",
+    "Will corporate break the encryption?",
+    "How will Reed spend his final weeks/months?",
+    "Will Amara's demand for truth cost Reed his life?"
+  ],
+  "world_changes": [
+    "Corporate has made explicit, concrete offer to Reed",
+    "48-hour deadline set for decision",
+    "Corporate's strategy revealed: buy Reed's betrayal, not force it",
+    "Medical intervention explicitly offered and detailed",
+    "Reed's death timeline now concrete: 3 months",
+    "Money timeline now concrete: 3-4 weeks",
+    "Harris positioned as reasonable, kind oppressor",
+    "The cost of resistance now explicit: Reed's life"
+  ],
+  "continuity_notes": [
+    "Timeline: Month 57-58, ~4 months after Ch 36",
+    "Reed's age: 36, will be 37 in two months",
+    "NOTE: Continuity issue - story_graph says Book 3 is ages 41-47, but Reed is 36 now at end of Book 2",
+    "ADJUSTMENT NEEDED: Either Book 2 should end with Reed older, OR Book 3 timeline adjusted",
+    "For now: Reed is 36-37, Book 3 will cover ages 37-43 (6 years), Reed dies at 43 not 47",
+    "OR: Time jump between Book 2 and 3 to get Reed to 41",
+    "Reed's funds: 847,000 credits (3-4 weeks of payments at 347 accounts × 2,000 = 694,000/month)",
+    "Kidney function: 23% (critical)",
+    "Life expectancy: 3 months without treatment, 40+ years with treatment",
+    "Harris arrived at 2:00 PM Thursday",
+    "Amara arrived at 2:17 PM (17 minutes later)",
+    "Deadline: 2:00 PM Saturday (48 hours)",
+    "Current time in chapter end: midnight Thursday (47 hours left)",
+    "The Offer: kidney replacement, immunity, 20M credits, Sector 8 residence, prosperity reset",
+    "The Cost: public admission experiment failed, discredit UBI, support corporate transition",
+    "Corporate model: 83% probability of Sector 12 disruption after abrupt payment end",
+    "Sector 12 current stats: 74% crime reduction, 85% health improvement, 447% community formation",
+    "Harris's tone: friendly grandfather, 'Jonathan', kind oppressor",
+    "Dr. Chen and Dr. Okafor: renal specialists with corporate medical tech",
+    "Surgery timeline: within 72 hours if accepted, 6-week procedure, 3-month recovery"
+  ],
+  "voice_check": {
+    "Reed": "Exhausted, tempted, vulnerable, dark humor failing, genuinely struggling",
+    "Amara": "Fierce protection, asking impossible things, broken heart showing through logic",
+    "Harris": "Kindly oppressor, 'Jonathan', reasonable tone, corporate euphemisms softened, genuinely believes he's helping"
+  },
+  "themes_advanced": [
+    "The cost of resistance is death",
+    "Truth vs survival",
+    "Comfortable complicity vs meaningful sacrifice",
+    "Corporate buying consent rather than forcing it",
+    "Medical care as leverage for political compliance",
+    "Kind oppression as more insidious than obvious cruelty",
+    "Martyrdom as choice, not inevitability",
+    "Love demanding impossible sacrifices"
+  ],
+  "emotional_beats": [
+    "Harris in his apartment - violation of safe space",
+    "Medical equipment - hope and trap",
+    "Kidney scan results - concrete mortality",
+    "40 years vs 3 months - stark choice",
+    "The Offer detailed - everything he needs to live",
+    "The Cost detailed - betraying everything",
+    "Amara running to reach him - desperation",
+    "Her hands on his - connection vs temptation",
+    "'Don't let them buy your death' - impossible ask",
+    "Reed alone at midnight - decision weight",
+    "Cursor blinking on blank document - paralysis",
+    "47 hours left - countdown begun"
+  ],
+  "setup_for_book_3": [
+    "Book 3 Ch 1 will open with Reed's decision",
+    "Either acceptance or refusal will trigger cascade",
+    "If refusal: accounts frozen, health crisis, final weeks",
+    "Sector 12 needs transition infrastructure immediately",
+    "Reed's death timeline: 3 months maximum",
+    "Money timeline: 3-4 weeks maximum",
+    "Amara will document everything to the end",
+    "Corporate will react to Reed's choice"
+  ],
+  "book_2_arc_completion": {
+    "Reed": "0.60 → 0.85 - from isolated funding source to cornered martyr, facing impossible choice, partnership with Amara, movement transcending him",
+    "Amara": "0.50 → 0.85 - from cautious academic to fierce protector, demanding truth over survival, full collaborator",
+    "Yuki": "0.40 → 0.65 - from anxious multi-job worker to art teacher, studio rebuilt, trauma from fire but resilient",
+    "Marcus": "0.35 → 0.60 - from broken body to teacher/organizer, passing knowledge to new generation",
+    "Harris": "0.10 → 0.20 - slight crack showing in Chapter 32's fear, but still fundamentally blind, believes he's being kind"
+  }
+}

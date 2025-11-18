@@ -1,0 +1,150 @@
+{
+  "chapter": 14,
+  "word_count": 2635,
+  "timeline": "Weeks 3-4 of Amara's research, Month 8 of experiment",
+  "location": "Sector 12, Building 7 community center",
+  "characters_present": ["Dr. Amara Osei", "Sarah Kim", "Chen Rodriguez", "Reed Salazar", "mentioned: Marcus Ibrahim, Mrs. Okafor"],
+  "character_states": {
+    "Dr. Amara Osei": {
+      "knows": ["Data proves corporate is lying", "UBI creates massive positive outcomes", "Labor participation down but wellbeing up", "Reed is suspicious - possibly the benefactor", "Publishing truth will destroy her career", "Board wants evidence experiment failed", "She has to choose between truth and safety"],
+      "emotional_state": "Burdened by data, conflicted about what to do, suspicious of Reed, aware of stakes",
+      "arc_position": 0.15,
+      "location": "Building 7 community center",
+      "suspects_Reed": true
+    },
+    "Reed Salazar": {
+      "knows": ["Amara suspects him", "She has good data", "Publishing truth will get her destroyed", "He needs to warn her but also protect himself"],
+      "emotional_state": "Guarded, protective of data, warning Amara of danger, almost revealing himself",
+      "arc_position": 0.42,
+      "location": "Building 7",
+      "interview_with_Amara": true
+    },
+    "Sarah Kim": {
+      "knows": ["She quit job and Leveler", "Went through withdrawal with community support", "Feels emotions again", "Teaching meditation now"],
+      "emotional_state": "Recovered, emotionally present, grateful",
+      "arc_position": 0.45,
+      "location": "Sector 12"
+    },
+    "Chen Rodriguez": {
+      "knows": ["He quit all jobs", "Discovered he likes helping people", "Doing community repair work", "Contribution vs wage labor distinction"],
+      "emotional_state": "Purpose-driven, community-engaged, transformed",
+      "arc_position": 0.48,
+      "location": "Sector 12"
+    }
+  },
+  "revealed_to_reader": [
+    "Week 3-4 of Amara's fieldwork",
+    "38 interviews completed total",
+    "47 surveys completed",
+    "Comprehensive statistical analysis done",
+    "Comparison data: Sector 12 vs Sector 14 (control)",
+    "Crime: -67% in S12 vs +3% in S14",
+    "Emergency healthcare: -52% vs +8%",
+    "Preventive healthcare: +89% vs -2%",
+    "Mental health crises: -71% vs +12%",
+    "Life satisfaction: +156% vs -8%",
+    "Labor participation: -47% vs +2%",
+    "Volunteer hours: +312% vs +5%",
+    "Community organization: +423% vs -1%",
+    "Sarah Kim quit pharmaceutical assembly and Leveler",
+    "Went through withdrawal with community support",
+    "Now teaches meditation, volunteers, visits mother",
+    "Work created her substance abuse, not the reverse",
+    "Chen quit all three jobs, does community repair work",
+    "Helps Mrs. Okafor (72, bad back) with furniture",
+    "Distinction: wage labor vs contribution",
+    "Reed interviewed by Amara",
+    "Reed slips: 'Every single person I've—observed'",
+    "Reed knows publishing truth will destroy Amara's career",
+    "Reed warns: 'Make sure data survives. Even if you don't'",
+    "Amara suspects Reed might be benefactor",
+    "Starts file: 'Anomalous observations—possible benefactor'",
+    "Department asking for preliminary findings (second request)",
+    "Amara understands publishing truth = career death",
+    "Amara begins writing paper honestly"
+  ],
+  "planted": [
+    {
+      "element": "Amara suspects Reed is benefactor",
+      "payoff_chapter": 15,
+      "significance": "Reed will contact her anonymously next chapter"
+    },
+    {
+      "element": "Reed warns about corporate retaliation",
+      "payoff_chapter": 20,
+      "significance": "Harris does exactly this - threatens her funding"
+    },
+    {
+      "element": "Reed's warning: 'Make sure data survives'",
+      "payoff_chapter": "Book 3",
+      "significance": "The data does survive, becomes his legacy"
+    },
+    {
+      "element": "Amara's choice: truth vs safety",
+      "payoff_chapter": 20,
+      "significance": "She chooses truth, refuses to stop research"
+    },
+    {
+      "element": "Sarah's Leveler withdrawal with community support",
+      "payoff_chapter": "Book 2",
+      "significance": "Model for helping Reed, though he never fully quits"
+    },
+    {
+      "element": "Chen's community repair work",
+      "payoff_chapter": 18,
+      "significance": "Part of community response to corporate squeeze"
+    },
+    {
+      "element": "Comprehensive dataset backed up to 3 servers",
+      "payoff_chapter": "Book 3",
+      "significance": "Data survives even when Reed doesn't"
+    }
+  ],
+  "continuity_notes": [
+    "Week 3-4 of fieldwork = Month 8 of experiment",
+    "38 interviews total (26 in ch13, added 12 more)",
+    "Crime down 67% (consistent)",
+    "Sarah stopped taking Leveler (established in ch07, expanded here)",
+    "Chen's transformation from three jobs to community work",
+    "Marcus mentioned as helping with Leveler withdrawal",
+    "Community garden mentioned",
+    "Mrs. Okafor introduced (72, lives alone, bad back)",
+    "Building 7 community center as central hub",
+    "Corporate pressuring Amara for preliminary findings"
+  ],
+  "voice_check": {
+    "Amara": "Academic analysis, says 'interesting' when disturbed (crime data, Sarah's story), asks questions, tries to simplify language - check",
+    "Reed": "Deadpan responses, inappropriate laugh, slips in observation ('Every single person I've—'), trails off, flat tone ('Interview's over') - check",
+    "Sarah": "Calm, matter-of-fact about trauma ('The repetition was murderous'), direct - check",
+    "Chen": "Sharp unhinged laugh, direct, pragmatic - check"
+  },
+  "themes_explored": [
+    "Data as resistance and danger",
+    "Work as coercion vs contribution as choice",
+    "Drug abuse as symptom of economic precarity",
+    "Taking up space = internalized need to justify existence",
+    "Observer vs participant dilemma",
+    "Truth-telling vs self-preservation",
+    "Negative outcomes only negative from corporate perspective",
+    "Human flourishing vs corporate productivity",
+    "Bravery required to speak truth to power"
+  ],
+  "statistical_evidence": {
+    "positive_outcomes": {
+      "improved_mental_health": "84%",
+      "improved_physical_health": "91%",
+      "quit_exploitative_job": "73%",
+      "increased_community_engagement": "68%",
+      "greater_life_satisfaction": "89%",
+      "crime_reduction": "67%",
+      "emergency_healthcare_reduction": "52%",
+      "child_welfare_up": "all metrics"
+    },
+    "negative_outcomes_corporate_perspective": {
+      "labor_force_participation": "-47%",
+      "productivity_metrics": "-38%",
+      "prosperity_score_advancement": "-51%"
+    }
+  },
+  "chapter_function": "Show research process, build comprehensive dataset proving UBI works, deepen Reed-Amara connection through interview, establish Amara's moral choice, plant suspicion Reed is benefactor, set up next chapter where Reed contacts her"
+}

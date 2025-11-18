@@ -1,0 +1,16 @@
+{
+  "chapter": 7,
+  "word_count": 1600,
+  "timeline": "Month 2 of experiment",
+  "location": "Sector 12, Building 7",
+  "characters_present": ["Reed Salazar", "Marcus Ibrahim", "Yuki Tanaka", "Chen Rodriguez", "Sarah Kim", "various residents"],
+  "character_states": {
+    "Reed Salazar": {"knows": ["Second transfer successful", "People starting to believe", "Leveler sales down 20%", "First job resignation happened", "Corporate has noticed staffing problems"], "emotional_state": "Excited, validated, documenting carefully, aware corporate will respond", "arc_position": 0.22, "location": "Building 7"},
+    "Marcus Ibrahim": {"knows": ["Money came twice", "He bought daughter shoes", "Might be real"], "emotional_state": "Cautiously hopeful, gave community permission to spend", "arc_position": 0.08, "location": "Building 7"},
+    "Chen Rodriguez": {"knows": ["He quit worst job", "Slept 8 hours", "Terrified but exhilarated"], "emotional_state": "Terrified gambler, hoping money continues, sleeping properly for first time", "arc_position": 0.15, "location": "Building 7"}
+  },
+  "revealed_to_reader": ["Second transfer successful", "Common area packed with residents", "Marcus bought daughter shoes - gave others permission", "Leveler sales down 20% - people less desperate", "Chen quit overnight cargo job - first full resignation", "Chen sleeping 8 hours for first time", "78% of residents spent money in month 2", "Health improvements visible", "Corporate noticed staffing problems", "News article about Sector 12 labor shortage"],
+  "planted": [{"element": "Corporate noticing labor shortage", "payoff_chapter": 10, "significance": "Will lead to hit pieces"}, {"element": "Month 3 prediction: floodgates open", "payoff_chapter": 8, "significance": "More resignations coming"}, {"element": "Chen asks if Reed is documenting", "payoff_chapter": null, "significance": "People becoming aware Reed is tracking"}],
+  "continuity_notes": ["Month 2", "Leveler sales down 20%", "Chen quit overnight cargo processing", "Marcus bought daughter shoes", "78% spent money", "Common area usage up 300%"],
+  "voice_check": {"Chen": "'Fucking terrified' - direct, unhinged laugh, pragmatic gambler"}
+}

@@ -1,0 +1,151 @@
+{
+  "chapter": 10,
+  "word_count": 2400,
+  "timeline": "Six months after the UBI experiment began (Month 6)",
+  "location": "Sector 12, Building 7 and Reed's apartment",
+  "characters_present": ["Reed Salazar", "Yuki Tanaka", "Marcus Ibrahim", "mentioned: Chen Rodriguez, Jenna Ibrahim, David Ibrahim"],
+  "character_states": {
+    "Reed Salazar": {
+      "knows": [
+        "The experiment is working beyond expectations",
+        "83% of residents quit at least one job, 47% quit all jobs",
+        "Crime down 67%, health improving, Leveler use down 40%",
+        "Corporate media has noticed and published hit pieces",
+        "Corporate investigations are ongoing",
+        "He's being watched/tracked potentially",
+        "He could shut it down to stay safe but is choosing to continue",
+        "People are thriving, not being lazy"
+      ],
+      "emotional_state": "Conflicted. Seeing the experiment work is unexpectedly powerful. Feeling something like purpose for first time in years. Also terrified because corporate noticed. Choosing to fight rather than flee.",
+      "arc_position": 0.25,
+      "location": "Building 7, Sector 12",
+      "physical_state": "Still using Leveler but less than before. Slightly healthier from reduced stress. Hands still shake."
+    },
+    "Yuki Tanaka": {
+      "knows": [
+        "They quit all three jobs months ago",
+        "They've discovered they're an artist",
+        "They're taking classes and joined art collective in Sector 15",
+        "They're helping with community garden",
+        "The mysterious money is still coming",
+        "Whoever is doing this 'gave them their life'"
+      ],
+      "emotional_state": "Transformed. Happy, purposeful, calm. Still energetic but directed rather than frantic. Grateful.",
+      "arc_position": 0.35,
+      "location": "Building 7, Sector 12",
+      "physical_state": "Healthy, calm, no longer having constant anxiety attacks"
+    },
+    "Marcus Ibrahim": {
+      "knows": [
+        "Reed is documenting the experiment",
+        "Reed is doing research on the community",
+        "The experiment is working—his kids are thriving",
+        "This is intentional, someone is studying them",
+        "He's former union organizer so he recognizes patterns"
+      ],
+      "emotional_state": "Cautiously hopeful and deeply grateful. Present as a father for first time in years. Protective of community.",
+      "arc_position": 0.30,
+      "location": "Building 7, Sector 12",
+      "physical_state": "Better pain management, can move more easily, healthier, can be present for his children"
+    }
+  },
+  "revealed_to_reader": [
+    "Six months have passed since UBI experiment began",
+    "Building 7 has been transformed: people laughing, plants growing, community forming",
+    "Statistics: 83% quit at least one job, 47% quit all jobs, 31% still working reduced hours",
+    "Crime down 67%, emergency healthcare down, preventive care up",
+    "Reed's Leveler sales down 40% (people need less to cope)",
+    "People are pursuing new projects: art, education, community organizing",
+    "Yuki is now an artist, teaching kids, helping with community garden",
+    "Marcus's kids (Jenna and David) are thriving academically, Marcus can parent properly",
+    "Corporate media has noticed and published hit pieces framing it as 'productivity decline' and 'entitlement'",
+    "Corporate investigations are ongoing - they're trying to find the source",
+    "Reed is documenting everything in detailed files",
+    "Reed makes choice to continue despite risk",
+    "People aren't lazy when given security - they're human"
+  ],
+  "planted": [
+    {
+      "element": "Corporate investigations ongoing",
+      "payoff_chapter": 15,
+      "significance": "This leads to pressure on Dr. Osei and eventually corporate identifying Reed in Book 2"
+    },
+    {
+      "element": "Reed's detailed documentation",
+      "payoff_chapter": null,
+      "significance": "This data will eventually go to Dr. Osei, become basis of her research, and Reed's final video in Book 3"
+    },
+    {
+      "element": "Marcus recognizes Reed is researching",
+      "payoff_chapter": null,
+      "significance": "Marcus will be first to figure out Reed is the benefactor (Book 2 Ch 4)"
+    },
+    {
+      "element": "Corporate media narrative: 'entitlement vs dedication'",
+      "payoff_chapter": 11,
+      "significance": "This narrative battle will escalate throughout the trilogy"
+    },
+    {
+      "element": "Yuki teaching kids in building",
+      "payoff_chapter": null,
+      "significance": "Yuki's transformation from anxious worker to community leader continues"
+    },
+    {
+      "element": "Community garden project",
+      "payoff_chapter": 18,
+      "significance": "Will become symbol of community cooperation when corporate tries to shut it down"
+    },
+    {
+      "element": "Reed's note about dying for something that matters",
+      "payoff_chapter": null,
+      "significance": "Foreshadowing his actual death in Book 3"
+    }
+  ],
+  "active_tensions": [
+    "Corporate investigations vs Reed's anonymity",
+    "Success of experiment vs danger of visibility",
+    "Reed's choice to continue vs personal safety",
+    "Corporate narrative vs lived reality",
+    "Will the experiment spread or be crushed?",
+    "How long until they find Reed?"
+  ],
+  "world_changes": [
+    "Building 7 is visibly, measurably different from rest of Sector 12",
+    "Corporate media actively reporting on 'Sector 12 problem'",
+    "Corporate board aware and investigating",
+    "Other sectors noticing and discussing on boards",
+    "Labor shortage in certain sectors due to mass quitting",
+    "Community formation in Building 7: gardens, teaching, mutual aid"
+  ],
+  "continuity_notes": [
+    "Timeline: Month 6 of the experiment",
+    "119 months of funding remaining (from original 125)",
+    "Leveler sales in Building 7 down 40% (Reed's income affected but doesn't matter)",
+    "Building 7 statistics tracked: 83% quit one job, 47% quit all, 31% reduced hours, 22% started new projects",
+    "Crime down 67% in Building 7",
+    "Marcus's kids: Jenna (teenager, made honor roll), David (teenager, engineering club)",
+    "Yuki joined art collective in Sector 15",
+    "Corporate Media Network is the main propaganda outlet",
+    "Dr. Evan Harris mentioned as Economic Policy Advisor (this is Executive Harris, establishing his role)"
+  ],
+  "voice_check": {
+    "Reed": "Maintained - deadpan observation ('And he had no idea what to do with that information'), ironic detachment breaking down slightly as he cares despite himself, bitter humor ('I'd been dead inside for five years anyway')",
+    "Yuki": "Evolution shown - still talks a lot but now purposeful rather than anxious, calm energy, grateful",
+    "Marcus": "Maintained - thoughtful, direct, recognizes patterns from union organizing days, protective"
+  },
+  "themes_developed": [
+    "People aren't lazy, they're exhausted - when given security they thrive",
+    "Value beyond productivity - Yuki discovers worth as artist, not worker",
+    "Community forms when people have time and energy",
+    "Corporate framing of liberation as crisis",
+    "Surveillance state vs privacy/anonymity",
+    "Reed finding purpose through giving others freedom"
+  ],
+  "emotional_beats": [
+    "Yuki showing Reed the painting - Reed sees transformation",
+    "Marcus showing kid's achievement awards - proof of better parenting",
+    "Reed reading corporate hit piece - threat arrives",
+    "Reed choosing to continue despite danger - commitment to the experiment",
+    "Sound of laughter in the building - life returning to Sector 12"
+  ]
+}

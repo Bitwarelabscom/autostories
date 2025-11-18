@@ -1,0 +1,208 @@
+{
+  "trilogy_structure": {
+    "book_1": {
+      "title": "The Find",
+      "timespan": "Ages 28-32, approximately 4 years",
+      "core_arc": "Nico discovers the money, tries and fails to move up legitimately, begins building his shadow welfare state in Level 8",
+      "chapters": 20,
+      "tentpoles": [
+        {
+          "chapter": 1,
+          "type": "hook",
+          "description": "Nico's daily life as small-time Veil dealer, showing the grinding poverty and hopelessness of Level 8, ends with him being hired to clean out a dead man's apartment"
+        },
+        {
+          "chapter": 5,
+          "type": "inciting_incident",
+          "description": "Nico discovers the data core with 50 million credits, has it verified by a fence, realizes he's holding a fortune"
+        },
+        {
+          "chapter": 10,
+          "type": "midpoint_reversal",
+          "description": "After failed attempts to buy his way up tiers (rejected, scammed, denied), Nico makes the decision to spend the money in Level 8 instead - buys first restaurant and announces free meals"
+        },
+        {
+          "chapter": 15,
+          "type": "complication",
+          "description": "Nico's charity operation grows, he's beloved in Level 8, but attracts attention from both gangs who want a cut and authorities who investigate the money source"
+        },
+        {
+          "chapter": 20,
+          "type": "book_climax",
+          "description": "Commander Wright confronts Nico directly, can't prove the money's origin but warns him he's being watched. Nico realizes he's started something he can't stop, and doesn't want to. He's 'The King' now."
+        }
+      ],
+      "chapter_outline": [
+        {"ch": 1, "title": "Another Day in Hell", "summary": "Nico's routine as dealer, using Veil himself, scraping by, showing Level 8's brutality. Ends with cleaning job offer."},
+        {"ch": 2, "title": "The Dead Man's Room", "summary": "Cleaning the apartment, finding the hidden data core, keeping it secret from landlord."},
+        {"ch": 3, "title": "The Fence", "summary": "Taking data core to black market tech fence Kade knows, learning it's worth millions."},
+        {"ch": 4, "title": "Fever Dreams", "summary": "Nico high on Veil, fantasizing about escape, visiting Maya who tries intervention, rejects her help."},
+        {"ch": 5, "title": "Fifty Million", "summary": "TENTPOLE - Confirmation the credits are real and accessible, Nico's overwhelmed, shares news with Kade."},
+        {"ch": 6, "title": "The Application", "summary": "Nico tries to apply for Level 6 housing legitimately, first rejection due to criminal record."},
+        {"ch": 7, "title": "The Bribe", "summary": "Attempts to bribe a housing official, gets scammed out of 100k credits, learns he's a mark."},
+        {"ch": 8, "title": "Maya's World", "summary": "Visits Maya's Level 6 apartment, sees what he's locked out of, they argue about systemic barriers."},
+        {"ch": 9, "title": "Business Venture Denied", "summary": "Tries to start 'legitimate' business, denied all permits, realizes the system is rigged."},
+        {"ch": 10, "title": "The Decision", "summary": "TENTPOLE - Drunk and high, Nico buys the noodle shop he eats at, tells owner to serve free meals on Fridays. The experiment begins."},
+        {"ch": 11, "title": "Free Friday", "summary": "First free meal day, lines around the block, Nico sees hunger he'd stopped noticing, feels something new."},
+        {"ch": 12, "title": "Expansion", "summary": "Buys three more restaurants, a clinic, starts paying for medical care. Word spreads. Kade warns him about attention."},
+        {"ch": 13, "title": "The King of Eight", "summary": "People start calling him 'Uncle Nico' and 'The King', he's uncomfortable but also intoxicated by respect."},
+        {"ch": 14, "title": "Complications", "summary": "Local gang leader demands protection money from the restaurants, Nico has to learn to be ruthless."},
+        {"ch": 15, "title": "Authorities Notice", "summary": "TENTPOLE - SSS investigates money source, Nico's operation at risk, he has to cover tracks while maintaining charity."},
+        {"ch": 16, "title": "Lin's Test", "summary": "Lin Zhao confronts Nico, questions his motives, tests if he's exploiting people's gratitude. He passes, barely."},
+        {"ch": 17, "title": "Maya's Dilemma", "summary": "Maya discovers what Nico's doing, conflicted between reporting him and recognizing the good he's doing."},
+        {"ch": 18, "title": "The First Betrayal", "summary": "Someone Nico helped steals from the operation, Nico has them 'dealt with' harshly, crosses a line."},
+        {"ch": 19, "title": "Building the Kingdom", "summary": "Montage of expansion - housing, schools, entertainment, Nico's becoming a shadow government."},
+        {"ch": 20, "title": "The Warning", "summary": "TENTPOLE - Commander Wright confronts Nico, can't arrest but warns him. Nico defiant. Book ends with his committed to the path."}
+      ]
+    },
+    "book_2": {
+      "title": "The Kingdom",
+      "timespan": "Ages 33-40, approximately 7 years",
+      "core_arc": "Nico's shadow welfare state flourishes but creates labor crisis; economic war with upper tiers; Nico becomes more ruthless; his addiction worsens",
+      "chapters": 20,
+      "tentpoles": [
+        {
+          "chapter": 1,
+          "type": "hook",
+          "description": "Three years later, Level 8 transformed into quasi-utopia, but upper tiers facing labor shortage crisis. Board meeting of corporate council deciding how to handle 'the Nico Chen problem'"
+        },
+        {
+          "chapter": 7,
+          "type": "escalation",
+          "description": "Upper tiers cut power and water to Level 8 as punishment. Nico has to smuggle resources, his money draining fast. Realizes he's in a war."
+        },
+        {
+          "chapter": 12,
+          "type": "midpoint_reversal",
+          "description": "Massive riot when SSS raids Level 8, thousands protect Nico, several killed. Nico hides, realizes his charity has created an army. He's terrified and exhilarated."
+        },
+        {
+          "chapter": 16,
+          "type": "dark_night",
+          "description": "Kade overdoses badly, nearly dies. Nico confronts his own worsening addiction. Money running low. Maya begs him to stop before more people die. He refuses."
+        },
+        {
+          "chapter": 20,
+          "type": "book_climax",
+          "description": "Corporate council offers the deal: wealth and citizenship for Nico if he dismantles everything. He's shown what his life could be. Cliffhanger: he has 48 hours to decide."
+        }
+      ],
+      "chapter_outline": [
+        {"ch": 1, "title": "The Kingdom Flourishes", "summary": "TENTPOLE - 3 years later, showing transformed Level 8, but corporate meeting reveals labor crisis and plan to stop Nico."},
+        {"ch": 2, "title": "Uncle Nico's Court", "summary": "Nico's daily routine now - people asking for help, him granting 'favors', uncomfortable parallels to feudalism."},
+        {"ch": 3, "title": "The Addiction Deepens", "summary": "Nico using more Veil to handle stress, hiding it from everyone, functional addict with too much responsibility."},
+        {"ch": 4, "title": "Labor Shortage", "summary": "Upper tier managers can't fill positions, waste piling up, systems failing, blaming Level 8 'laziness.'"},
+        {"ch": 5, "title": "Propaganda War", "summary": "Station media runs hit pieces on Nico, calling him warlord, his people welfare queens. Shaping public opinion."},
+        {"ch": 6, "title": "Lin's Warning", "summary": "Lin tells Nico this can't last, they need sustainability not charity. He's defensive, not ready to hear it."},
+        {"ch": 7, "title": "The Cutoff", "summary": "TENTPOLE - Upper tiers cut utilities to Level 8. Lights go out. Water stops. Calculated cruelty."},
+        {"ch": 8, "title": "Emergency Measures", "summary": "Nico using black market to smuggle power cells, water, burning through credits to keep people alive."},
+        {"ch": 9, "title": "Maya Crosses the Line", "summary": "Maya officially quits her job, joins Nico's operation, bridge burned with the system."},
+        {"ch": 10, "title": "The Council's Plan", "summary": "Corporate council planning to raid Level 8, seize Nico's assets, restore 'order.'"},
+        {"ch": 11, "title": "Preparing for War", "summary": "Kade organizes defense, people of Level 8 ready to fight, Nico realizes he's created something bigger than himself."},
+        {"ch": 12, "title": "The Riot", "summary": "TENTPOLE - SSS raids, thousands defend Nico, violence, deaths, Nico hides and watches his people fight for him."},
+        {"ch": 13, "title": "Body Count", "summary": "Aftermath, 47 dead, hundreds injured, Nico visits injured, guilt overwhelming, uses Veil heavily."},
+        {"ch": 14, "title": "The Fugitive King", "summary": "Nico can't appear publicly now, living in hiding, paranoia growing, still running operation remotely."},
+        {"ch": 15, "title": "Kade's Spiral", "summary": "Kade haunted by violence, using more, Nico too preoccupied to notice his friend is dying."},
+        {"ch": 16, "title": "Overdose", "summary": "TENTPOLE - Kade found unresponsive, Nico gets him to clinic, confronts his own addiction watching Kade barely survive."},
+        {"ch": 17, "title": "The Money's Running Out", "summary": "Accountant tells Nico he has maybe 2 years left at current burn rate, needs new plan."},
+        {"ch": 18, "title": "Wright's Conscience", "summary": "Commander Wright POV, seeing casualties, questioning orders, but still following them."},
+        {"ch": 19, "title": "The Offer", "summary": "Corporate envoy secretly contacts Nico with the deal, shows him what he could have."},
+        {"ch": 20, "title": "Forty-Eight Hours", "summary": "TENTPOLE - Nico has two days to decide: betray Level 8 and gain everything, or refuse and lose everything. Book ends with him staring at the deal."}
+      ]
+    },
+    "book_3": {
+      "title": "The Fall",
+      "timespan": "Ages 41-47, approximately 6 years",
+      "core_arc": "Nico refuses the deal, faces final confrontation with authorities, uses last resources to help people organize themselves, dies in prison but leaves a legacy",
+      "chapters": 20,
+      "tentpoles": [
+        {
+          "chapter": 1,
+          "type": "hook",
+          "description": "Nico rejects the deal, immediately faces consequences - assets frozen, warrant issued. He has weeks of freedom left."
+        },
+        {
+          "chapter": 6,
+          "type": "new_plan",
+          "description": "With Lin and Maya's help, Nico pivots strategy - using remaining funds to seed worker cooperatives and unions, teaching people to sustain themselves"
+        },
+        {
+          "chapter": 12,
+          "type": "midpoint_reversal",
+          "description": "The cooperatives work. People starting to organize across levels, not just Level 8. Station-wide labor movement beginning. Upper tiers terrified."
+        },
+        {
+          "chapter": 16,
+          "type": "sacrifice",
+          "description": "Kade sacrifices himself to buy Nico time, dying in shootout with SSS. Nico devastated but can't stop now."
+        },
+        {
+          "chapter": 20,
+          "type": "resolution",
+          "description": "Nico dies in prison at 47, but epilogue shows station transformed by labor movement he sparked. Complex, messy legacy. Some call him hero, some villain, truth is both."
+        }
+      ],
+      "chapter_outline": [
+        {"ch": 1, "title": "The Refusal", "summary": "TENTPOLE - Nico tells corporate envoy no, accepts consequences, knows he's a dead man walking."},
+        {"ch": 2, "title": "Assets Frozen", "summary": "Authorities move fast, seize his financial accounts, he has only hidden physical resources left."},
+        {"ch": 3, "title": "The Warrant", "summary": "Arrest warrant issued, SSS hunting him, Level 8 hiding him, moving safe house to safe house."},
+        {"ch": 4, "title": "Maya's Determination", "summary": "Maya fully committed now, helps Nico move resources, their relationship deepens in crisis."},
+        {"ch": 5, "title": "Lin's Wisdom", "summary": "Lin tells Nico charity was always temporary, real change is teaching people to organize themselves."},
+        {"ch": 6, "title": "The New Plan", "summary": "TENTPOLE - Nico uses remaining money to seed worker cooperatives, collective ownership, unions. Building infrastructure for after he's gone."},
+        {"ch": 7, "title": "Teaching Resistance", "summary": "Secret meetings teaching people organizing, collective bargaining, mutual aid without a benefactor."},
+        {"ch": 8, "title": "Health Failing", "summary": "Years of Veil use catching up, Nico's body breaking down, no time for treatment."},
+        {"ch": 9, "title": "Spread of the Movement", "summary": "Workers in Level 7, then Level 6 start organizing, inspired by Level 8's example."},
+        {"ch": 10, "title": "Corporate Panic", "summary": "Council realizes they're facing system-wide labor revolt, not just one troublemaker."},
+        {"ch": 11, "title": "Wright's Crisis", "summary": "Commander Wright ordered to crack down harder, beginning to question if he's on the right side."},
+        {"ch": 12, "title": "The Strike", "summary": "TENTPOLE - Station-wide general strike, thousands of workers walk out, station functions grinding to halt."},
+        {"ch": 13, "title": "Negotiations", "summary": "Corporate council forced to negotiate with worker representatives, first time in station history."},
+        {"ch": 14, "title": "The Betrayal Within", "summary": "Someone in Nico's inner circle sells him out for reward money, SSS knows his location."},
+        {"ch": 15, "title": "The Raid Coming", "summary": "Kade learns of incoming raid, plans to hold them off while Nico escapes."},
+        {"ch": 16, "title": "Kade's Last Stand", "summary": "TENTPOLE - Kade dies in shootout buying Nico time to escape, final act of redemption."},
+        {"ch": 17, "title": "Grief and Rage", "summary": "Nico mourning Kade, nearly gives up, Maya and Lin keep him moving forward."},
+        {"ch": 18, "title": "The Final Transfer", "summary": "Nico transferring all remaining resources to cooperative network, making himself unnecessary."},
+        {"ch": 19, "title": "Capture", "summary": "SSS finally corners Nico, he surrenders peacefully to avoid bloodshed, arrested publicly."},
+        {"ch": 20, "title": "Legacy", "summary": "TENTPOLE - Nico's trial, prison time, death at 47 from organ failure. Epilogue: 5 years later, station changed, labor has power, Nico's District exists, his statue in a park. Lin tells his story to young activists. Complicated legacy - he was a drug dealer, a thief, a would-be king, and a spark that lit a fire."}
+      ]
+    }
+  },
+  "trilogy_themes": [
+    "Individual charity cannot solve systemic oppression - requires collective action",
+    "Power corrupts but powerlessness corrupts absolutely",
+    "The difference between a hero and a villain is often just perspective",
+    "Addiction doesn't disqualify someone from being worthy or capable of good",
+    "Systems are designed to maintain themselves - change requires breaking them"
+  ],
+  "planted_elements_across_trilogy": [
+    {
+      "element": "Nico's family abandonment",
+      "planted": "Book 1, Chapter 4",
+      "payoff": "Book 3, Chapter 17 - Maya asks if he wants to contact them before he's arrested, he says they're not his family anymore",
+      "significance": "Shows Nico found real family in Level 8 community"
+    },
+    {
+      "element": "Commander Wright's lower-tier origin",
+      "planted": "Book 1, Chapter 20",
+      "payoff": "Book 3, Chapter 11 - Wright finally admits he's from Level 7, understands the pain he's inflicting",
+      "significance": "Humanizes the antagonist, shows systemic tragedy"
+    },
+    {
+      "element": "The original owner of the money",
+      "planted": "Book 1, Chapter 2",
+      "payoff": "Book 2, Chapter 19 - Revealed the dead man was corporate accountant who planned to expose embezzlement, killed for it",
+      "significance": "Nico is using stolen money that was itself stolen from workers"
+    },
+    {
+      "element": "Maya and Nico's past relationship",
+      "planted": "Book 1, Chapter 4",
+      "payoff": "Book 3, Chapter 17 - They finally admit they loved each other, too late for normal life together",
+      "significance": "Personal tragedy mirrors larger systemic tragedy"
+    },
+    {
+      "element": "Kade's medical skills",
+      "planted": "Book 1, Chapter 3",
+      "payoff": "Book 2, Chapter 12 - He treats dozens of injured rioters, Book 3, Chapter 16 - Dies using those skills to save others",
+      "significance": "Even the broken can be healers"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "chapter": 3,
+  "word_count": 2000,
+  "timeline": "3 days after Chapter 2 (Days 5-7 approximately)",
+  "location": "Dmitri's apartment, Sector 12",
+  "characters_present": ["Reed Salazar", "Dmitri Washington"],
+  "character_states": {
+    "Reed Salazar": {
+      "knows": [
+        "How to route money anonymously through shell accounts",
+        "The technical details of moving untraceable funds",
+        "Corporate can't officially investigate without admitting to illegal activity",
+        "He's targeting Building 7 - 200 units",
+        "System is set up for 2000 credits per month per unit",
+        "That's 125 months of funding (10+ years)",
+        "First transfer executes in 6 days",
+        "This is an experiment to prove people aren't what corporate says",
+        "If caught, he'll disappear permanently",
+        "He's committed now - can't take it back"
+      ],
+      "emotional_state": "Committed. Feeling more alive than in five years. Purpose emerging from nihilism. Determined.",
+      "arc_position": 0.12,
+      "location": "Dmitri's apartment, then returns to Building 7",
+      "physical_state": "Still on Leveler, functional, energized by purpose"
+    },
+    "Dmitri Washington": {
+      "knows": [
+        "Full technical details of how the system works",
+        "Reed is redistributing money, not keeping it",
+        "Reed is doing this as an experiment about human nature",
+        "Reed knows this will likely get him killed",
+        "Reed wants to prove his brother didn't have to die",
+        "Dmitri has now wiped all evidence of his involvement"
+      ],
+      "emotional_state": "Thinks Reed is insane but respects the audacity. Protecting himself by erasing involvement.",
+      "arc_position": 0.08,
+      "location": "Sector 12, different building"
+    }
+  },
+  "revealed_to_reader": [
+    "Technical details of how Reed will move money anonymously",
+    "12 shell accounts with boring corporate names",
+    "Main operating account: 'Future Forward Solutions'",
+    "Corporate can't officially investigate without admitting black ops fund exists",
+    "70% chance system works, 30% chance Reed is caught quickly",
+    "Reed is targeting 200 units in Building 7",
+    "2000 credits per month per unit",
+    "Total timeline: 125 months (10+ years)",
+    "First transfer in 6 days",
+    "Reed wants it to be anonymous - experiment about them, not him",
+    "Dmitri wipes all evidence of his involvement",
+    "Reed's motivation fully clarified: prove his brother didn't have to die",
+    "Question posed: 'What if freedom made people lazy or just made them human?'"
+  ],
+  "planted": [
+    {
+      "element": "System is automated and perpetual",
+      "payoff_chapter": null,
+      "significance": "Payments will continue automatically even if Reed is arrested (until money runs out)"
+    },
+    {
+      "element": "Reed planning to document changes",
+      "payoff_chapter": 5,
+      "significance": "His detailed documentation will become his collaboration with Amara"
+    },
+    {
+      "element": "'If you're going to die for this, make sure it's worth dying for'",
+      "payoff_chapter": 20,
+      "significance": "Reed's arc throughout trilogy - ensuring his death has meaning"
+    },
+    {
+      "element": "Question: what if people didn't have to be this tired?",
+      "payoff_chapter": 10,
+      "significance": "This question gets answered - they thrive"
+    },
+    {
+      "element": "Dmitri's complete erasure of involvement",
+      "payoff_chapter": null,
+      "significance": "Protects Dmitri when Reed is eventually caught"
+    }
+  ],
+  "active_tensions": [
+    "Will the system work as designed?",
+    "Will people believe the money is real?",
+    "How long until corporate traces it?",
+    "What will people do with security?",
+    "Can Reed document without being discovered?"
+  ],
+  "world_changes": [
+    "Black ops money is now in shell accounts ready for distribution",
+    "Future Forward Solutions is registered and operational",
+    "First transfer scheduled for 6 days",
+    "Reed has crossed the line - is now definitely a criminal",
+    "System is automated - will run until money depletes"
+  ],
+  "continuity_notes": [
+    "3 days spent learning and building the system",
+    "12 shell accounts created with boring names",
+    "Main account: Future Forward Solutions (Sector 15 corporate wellness initiative)",
+    "500 million credits total",
+    "200 recipients in Building 7",
+    "2000 credits/month each",
+    "400,000 credits per month total distribution",
+    "125 months of funding = 10.4 years",
+    "First transfer in 6 days from Chapter 3",
+    "Dmitri's additional fee: 5,000 credits for infrastructure",
+    "System is automated and perpetual",
+    "All evidence of Dmitri's involvement erased"
+  ],
+  "voice_check": {
+    "Reed": "Maintained - 'Inspiring' (deadpan), 'For you, Marco' (emotional core), growing sense of purpose, 'more alive than in five years'",
+    "Dmitri": "Maintained - 'You're absolutely insane', pragmatic, technical precision, 'fuck it' attitude"
+  },
+  "themes_developed": [
+    "Stealing from thieves - moral ambiguity of Robin Hood theft",
+    "Anonymous altruism vs recognition",
+    "Experiment as redemption for brother's death",
+    "Human nature question: lazy or just tired?",
+    "Dying with meaning vs living without",
+    "Technical expertise as power in system"
+  ],
+  "emotional_beats": [
+    "Reed's commitment: 'I'm sure'",
+    "Dmitri's respect: looking at Reed differently",
+    "Execute button moment - point of no return",
+    "Reed feeling more alive than in five years",
+    "'For you, Marco' - emotional core revealed",
+    "Planning to document - purpose found"
+  ]
+}

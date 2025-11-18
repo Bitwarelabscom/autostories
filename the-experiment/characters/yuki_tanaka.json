@@ -1,0 +1,42 @@
+{
+  "name": "Yuki Tanaka",
+  "age_range": "27-44 across trilogy",
+  "core_wound": "Was promised prosperity if they worked hard, did everything right, still ended up in Sector 12 with nothing - the system's broken promise personified",
+  "wants": "Just to breathe without constant panic about money",
+  "needs": "To believe they deserve rest, that their worth isn't tied to productivity",
+  "voice_markers": [
+    "Speaks quickly when anxious (always)",
+    "Apologizes before every request",
+    "Uses corporate slogans without irony, then ironically, then not at all",
+    "Nervous laughter"
+  ],
+  "contradiction": "Desperate for the UBI but scared it's a trick, wants to stop working but doesn't know who they are without work",
+  "physical_description": "Japanese, non-binary, small frame, constantly moving/fidgeting, bitten fingernails, gradually becomes calmer and healthier across trilogy",
+  "arc_position_book1": 0.0,
+  "arc_position_book2": 0.6,
+  "arc_position_book3": 1.0,
+  "skills": [
+    "Multi-tasking from juggling multiple jobs",
+    "Customer service and emotional labor",
+    "Quick learning and adaptation",
+    "Eventually discovers talent for art when given time"
+  ],
+  "flaws": [
+    "Anxiety disorder untreated due to healthcare costs",
+    "Difficulty accepting help",
+    "Workaholic even when they don't need to be",
+    "Distrusts good things happening"
+  ],
+  "knowledge_state_book1_start": [
+    "Every cheap meal option in Sector 12",
+    "How to sleep on transit between jobs",
+    "Corporate policies and loopholes",
+    "Nothing about rest or hobbies"
+  ],
+  "relationships": {
+    "Reed Salazar": "Doesn't know him personally, one of first UBI recipients, becomes poster child for the experiment",
+    "Dr. Amara Osei": "Interview subject who becomes friend",
+    "Other workers": "Solidarity born from shared suffering",
+    "Their own potential": "Discovers they're an artist when given time to explore"
+  }
+}

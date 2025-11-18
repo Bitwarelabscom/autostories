@@ -1,0 +1,43 @@
+{
+  "name": "Finn (only name, refuses to give caste designation)",
+  "age_range": "27-44 across trilogy",
+  "caste": "Gamma",
+  "core_wound": "Watched their mother die from work-related injury with no compensation, learned at young age that system doesn't value Gamma lives",
+  "wants": "Survival day-to-day, to protect Jax",
+  "needs": "To believe change is possible, to fight back instead of just survive",
+  "voice_markers": [
+    "Laconic, says a lot with few words",
+    "Dark gallows humor",
+    "Calls everyone 'friend' ironically",
+    "Goes silent when deeply angry"
+  ],
+  "contradiction": "Cynical about change but can't stop hoping, claims not to care but is fiercely loyal",
+  "physical_description": "Androgynous, ambiguous ethnicity, Gamma-modification gives them enhanced reflexes, lean and quick, missing two fingers from industrial accident, shaved head, always wearing layered coats with hidden pockets",
+  "arc_position_book1": 0.0,
+  "arc_position_book2": 0.5,
+  "arc_position_book3": 0.8,
+  "skills": [
+    "Pickpocketing and theft - best in the undercity",
+    "Information broker - knows everyone and everything",
+    "Fast reflexes from Gamma modification",
+    "Knows how to disappear"
+  ],
+  "flaws": [
+    "Drift use, though less than Jax",
+    "Difficulty trusting anyone outside undercity",
+    "Tendency to run when things get serious",
+    "Self-destructive streak when hopeless"
+  ],
+  "knowledge_state_book1_start": [
+    "Undercity black market intimately",
+    "Who can be trusted and who's an informant",
+    "Station's blind spots and security gaps",
+    "How to survive with nothing"
+  ],
+  "relationships": {
+    "Jax Varro": "Best friend, maybe in love with him but never says it, would die for him",
+    "Elara Quinn": "Suspicious of her initially, very slowly accepts her",
+    "The Undercity": "Knows everyone, is everyone's friend and no one's friend",
+    "Station Authority": "Pure hatred, lost too much to them"
+  }
+}

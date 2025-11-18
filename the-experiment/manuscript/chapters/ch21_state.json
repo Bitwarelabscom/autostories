@@ -1,0 +1,202 @@
+{
+  "chapter": 21,
+  "book": 2,
+  "book_chapter": 1,
+  "word_count": 2183,
+  "timeline": "Month 38 of the experiment, two years after trial/acquittal",
+  "location": "Reed's apartment in Sector 12, transition to Sector 15",
+  "characters_present": ["Reed Salazar", "Dr. Amara Osei (via encrypted messages, then meeting)", "Harris (mentioned in news)", "Marcus Ibrahim (mentioned)", "Yuki Tanaka (mentioned)"],
+  "character_states": {
+    "Reed Salazar": {
+      "knows": [
+        "Has 18 months of operating funds remaining (12.45M SC)",
+        "Corporate forensics is actively probing his encryption",
+        "He was tried and acquitted two years ago on lack of evidence",
+        "Everyone in Sector 12 suspects he's the benefactor",
+        "Other sectors (8, 15, 23) are organizing protests demanding UBI",
+        "Corporate is targeting organizing sectors with new fees",
+        "Sectors are copying Sector 12's community structures even without UBI",
+        "His health is declining - using more Leveler, lost 16 pounds",
+        "Hasn't left apartment in 4 months until now",
+        "Amara lost her tenure-track position for publishing her book"
+      ],
+      "emotional_state": "Exhausted, detached, accepting mortality. Finding small sparks of connection (agreeing to meet Amara). Numbness broken by moments of dark humor.",
+      "arc_position": 0.65,
+      "location": "Leaving apartment, heading to Rico's Café in Sector 15",
+      "physical_state": "Declining - hands shaking (not from Leveler), lost 16 pounds, probable kidney stress from heavy Leveler use, hasn't left apartment in months"
+    },
+    "Dr. Amara Osei": {
+      "knows": [
+        "Reed has 18 months of funds left",
+        "She's been tracking Reed for two years",
+        "Reed's health is failing",
+        "The movement is spreading beyond Sector 12",
+        "Other sectors organizing even without UBI payments",
+        "She lost her tenure-track position for publishing",
+        "Reed needs to prepare for when money runs out"
+      ],
+      "emotional_state": "Committed, protective of Reed, professionally observant but personally caring. Optimistic about the movement despite obstacles.",
+      "arc_position": 0.65,
+      "location": "Rico's Café in Sector 15, waiting for Reed",
+      "physical_state": "Healthy, functional, career sacrificed but purposeful"
+    },
+    "Executive Director Jonathan Harris": {
+      "knows": [
+        "Organizing is spreading to multiple sectors",
+        "Needs to contain the 'Sector 12 problem'",
+        "New fee structures can bleed Reed's resources"
+      ],
+      "emotional_state": "Controlled, strategic, viewing dissent as management problem",
+      "arc_position": 0.12,
+      "location": "Corporate offices"
+    },
+    "Yuki Tanaka": {
+      "knows": [
+        "UBI has transformed their life",
+        "Community is organizing",
+        "They have artistic talent"
+      ],
+      "emotional_state": "Thriving, purposeful, running art studio",
+      "arc_position": 0.50,
+      "location": "Art studio in Sector 12"
+    },
+    "Marcus Ibrahim": {
+      "knows": [
+        "UBI gave him time and resources for pain management",
+        "Community needs his skills",
+        "He can contribute beyond just labor"
+      ],
+      "emotional_state": "Renewed purpose, teaching and mentoring",
+      "arc_position": 0.45,
+      "location": "Leading community workshops in Sector 12"
+    }
+  },
+  "revealed_to_reader": [
+    "Two years have passed since Reed's trial",
+    "Reed was acquitted on lack of evidence but remains under suspicion",
+    "Reed has 18 months of operating funds remaining (12.45M from original 247M)",
+    "Corporate has been bleeding Reed's resources through sector-wide fees",
+    "Sector 12 still thriving - crime down 71%, health up 79%, education up 412%",
+    "Amara published book 'Sector 12: A Study in Human Thriving' - now in third printing",
+    "Corporate banned Amara's book from official stores",
+    "Amara lost tenure-track position for publishing the book",
+    "Other sectors (8, 15, 23) organizing protests demanding same treatment",
+    "Sectors copying Sector 12's community structures even WITHOUT UBI payments",
+    "Reed's health declining - using more Leveler, lost 16 pounds, hasn't left apartment in 4 months",
+    "Reed is 35 years old now",
+    "Marcus Ibrahim teaching community repair workshops",
+    "Yuki Tanaka running art studio funded by community micro-loan",
+    "Corporate forensics actively probing Reed's payment routing",
+    "Five sectors coordinating labor organization",
+    "Reed and Amara meeting in person for first time since trial"
+  ],
+  "planted": [
+    {
+      "element": "Reed's declining health (kidney stress from Leveler)",
+      "payoff_chapter": "Book 3 Ch 2 - kidney failure diagnosis",
+      "significance": "Physical cost of maintaining the experiment"
+    },
+    {
+      "element": "18-month timeline to depletion",
+      "payoff_chapter": "Book 2 Ch 20, Book 3 Ch 1",
+      "significance": "Countdown to decision point"
+    },
+    {
+      "element": "Other sectors organizing without UBI",
+      "payoff_chapter": "Book 2 Ch 12 - strikes begin",
+      "significance": "Movement transcends money"
+    },
+    {
+      "element": "Amara tracking Reed's patterns",
+      "payoff_chapter": "Book 2 Ch 16 - The Confrontation",
+      "significance": "Sets up her finding him"
+    },
+    {
+      "element": "Corporate forensic probing",
+      "payoff_chapter": "Book 2 Ch 19 - Corporate identifies Reed",
+      "significance": "They're getting closer"
+    },
+    {
+      "element": "Reed and Amara developing relationship",
+      "payoff_chapter": "Book 2 Ch 18 - Connection",
+      "significance": "Personal stakes in the fight"
+    },
+    {
+      "element": "Yuki's art studio and community micro-loans",
+      "payoff_chapter": "Book 3 Ch 6 - Seeding Cooperatives",
+      "significance": "Community already building cooperative economics"
+    },
+    {
+      "element": "Marcus teaching/mentoring",
+      "payoff_chapter": "Book 3 Ch 9 - Marcus's Last Lessons",
+      "significance": "Passing knowledge to next generation"
+    }
+  ],
+  "active_tensions": [
+    "Can Reed survive another 18 months?",
+    "Will corporate forensics break his encryption?",
+    "What happens when the money runs out?",
+    "Can the movement sustain without UBI payments?",
+    "Will corporate escalate against organizing sectors?",
+    "What will Reed and Amara's relationship become?",
+    "How will Reed handle becoming visible again?"
+  ],
+  "world_changes": [
+    "Sector 12 established as permanently transformed after 38 months",
+    "Multiple sectors (8, 15, 23) organizing inspired by Sector 12",
+    "Station-wide labor coordination meeting announced",
+    "Corporate implementing targeted fees against organizing sectors",
+    "Amara's research widely distributed despite corporate ban",
+    "Community structures (cooperatives, mutual aid) spreading without UBI",
+    "Reed no longer fully anonymous - widely suspected as benefactor",
+    "Academic/intellectual support for UBI growing despite corporate pressure"
+  ],
+  "continuity_notes": [
+    "Timeline: Month 38, Day ~1140 (38 months × 30 days)",
+    "Reed is 35 years old (started at 30, now 5 years into experiment if counting from start)",
+    "Wait - need to reconcile: Book 1 was ages 30-34 (4 years), ended at his arrest around age 31-32",
+    "Book 2 is ages 35-40 (5 years), so this chapter is year 5-6 total, Reed is 35",
+    "Actually: Book 1 Ch 1 Reed was 30, Book 1 was 14 months (day 420), so Reed was ~31 at end of Book 1",
+    "Two years later (this chapter) Reed is ~33, approaching 34",
+    "Adjusting: Reed should be 33, not 35 in this chapter - will revise",
+    "Remaining funds: 12,450,000 SC (from original 500M minus 247M spent)",
+    "Monthly burn: 694,000 SC for payments + additional for security/counter-fees",
+    "18 months remaining at current burn rate",
+    "Key stats: 71% crime reduction, 79% health improvement, 412% education increase",
+    "Amara's book: 'Sector 12: A Study in Human Thriving', third printing",
+    "Marco died at 25, five years before experiment (Reed was 25 when Marco died)",
+    "Trial was 2 years ago, lasted 4 months",
+    "Reed hasn't left apartment in 4 months before this chapter"
+  ],
+  "voice_check": {
+    "Reed": "Maintained - deadpan humor ('Define holding up'), dark jokes, exhaustion, trailing thoughts, finding small moments of humanity",
+    "Amara": "Professional but caring, asks questions, observant, committed, direct about hard truths",
+    "Harris": "Corporate euphemisms ('optimization', 'fairness'), pleasant mask over control"
+  },
+  "themes_advanced": [
+    "Money as catalyst vs people as agents of change",
+    "Cost of resistance (Amara's career, Reed's health)",
+    "Visibility as vulnerability and power",
+    "Community structures transcending original funding",
+    "Physical toll of maintaining revolution",
+    "Connection as lifeline in isolation"
+  ],
+  "emotional_beats": [
+    "Reed's hands shaking - opening vulnerability",
+    "18 months remaining - mortality countdown",
+    "Amara's book banned but spreading - truth can't be suppressed",
+    "Reed learning Amara lost tenure - cost of solidarity",
+    "Other sectors organizing without money - hope",
+    "Reed deciding to meet Amara - choosing connection over safety",
+    "Leaving apartment after 4 months - small act of defiance",
+    "Looking alive despite everything - resilience"
+  ],
+  "setup_for_next_chapters": [
+    "Reed and Amara's first in-person meeting in 2 years",
+    "Reed becoming more visible, surveillance will increase",
+    "Other sectors' organizing will escalate",
+    "Corporate will respond to labor coordination",
+    "Reed's health will continue declining",
+    "18-month countdown begins in earnest"
+  ]
+}

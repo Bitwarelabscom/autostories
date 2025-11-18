@@ -1,0 +1,92 @@
+{
+  "chapter": 8,
+  "word_count": 2847,
+  "timeline": "Month 3-6 of experiment",
+  "location": "Sector 12, Building 7, ProspectCafe in Sector 11",
+  "characters_present": ["Yuki Tanaka", "Indira (CleanSweep supervisor)", "Marcus Ibrahim", "Chen Rodriguez", "Liu (art instructor)"],
+  "character_states": {
+    "Yuki Tanaka": {
+      "knows": ["Third transfer came", "Money is reliable now", "They can quit jobs safely", "They've never chosen work before", "Rest is possible"],
+      "emotional_state": "Anxious but hopeful, transforming from exhausted to rested, discovering who they are beyond work",
+      "arc_position": 0.25,
+      "location": "Building 7, Sector 12",
+      "physical_changes": ["Hands stopped shaking", "Chronic headaches gone", "Actually sleeping 8-9 hours", "Gained healthy weight", "Energy for hobbies"]
+    },
+    "Reed Salazar": {
+      "knows": ["More people quitting jobs", "Yuki transformation visible"],
+      "emotional_state": "Observing changes, documenting",
+      "arc_position": 0.25,
+      "location": "Sector 12"
+    },
+    "Marcus Ibrahim": {
+      "knows": ["Yuki quit jobs", "Community transforming"],
+      "emotional_state": "Supportive elder, seeing the changes work",
+      "arc_position": 0.12,
+      "location": "Building 7"
+    },
+    "Chen Rodriguez": {
+      "knows": ["He and Yuki both quit", "They're still alive"],
+      "emotional_state": "Amazed by survival without grinding labor",
+      "arc_position": 0.18,
+      "location": "Building 7"
+    }
+  },
+  "revealed_to_reader": [
+    "Third transfer came on time",
+    "Yuki worked three jobs for 1,800 credits/month total",
+    "Jobs: ProspectCafe overnight, CleanSweep maintenance, DataSort Inc",
+    "Yuki has untreated generalized anxiety disorder",
+    "They quit DataSort and ProspectCafe, kept CleanSweep",
+    "First real sleep in years - 8.5 hours straight",
+    "Physical transformation: hands stop shaking, headaches gone, anxiety manageable",
+    "Yuki discovers they like art, has talent for drawing",
+    "Community art classes happening in common area",
+    "Went from 68 hours/week to 20 hours/week",
+    "Savings building up",
+    "Yuki stopped taking Leveler",
+    "Money continued months 4, 5, 6",
+    "Revelation: work can be choice, not just survival"
+  ],
+  "planted": [
+    {
+      "element": "Yuki's art talent discovered",
+      "payoff_chapter": "Book 2 - becomes successful artist",
+      "significance": "Shows what people become when given security"
+    },
+    {
+      "element": "Yuki can't go back to old life even if money stops",
+      "payoff_chapter": "Book 3 - when money does stop",
+      "significance": "Transformation is permanent, not dependent on money"
+    },
+    {
+      "element": "Liu the retired architect teaching art",
+      "payoff_chapter": null,
+      "significance": "Community members sharing skills freely"
+    },
+    {
+      "element": "Indira validating that Yuki isn't lazy",
+      "payoff_chapter": 11,
+      "significance": "Counter-narrative to corporate hit pieces"
+    }
+  ],
+  "continuity_notes": [
+    "Month 3 of experiment starts chapter",
+    "Chapter spans months 3-6",
+    "Money came months 3, 4, 5, 6 like clockwork",
+    "Yuki now works only 20 hours/week at CleanSweep",
+    "Multiple other community members also quitting jobs (Chen confirmed)",
+    "Leveler use down (Yuki stopped, Sarah Kim stopped per ch07)",
+    "Common area library corner established",
+    "Community art classes happening"
+  ],
+  "voice_check": {
+    "Yuki": "Speaks quickly when anxious - check. Apologizes constantly - check. Nervous laughter - check. Uses corporate slogans ('growth opportunity', 'workforce reallocation') - check. Internal anxiety monitoring - check."
+  },
+  "themes_explored": [
+    "What is work when it's not survival?",
+    "The right to rest",
+    "Anxiety as product of economic insecurity",
+    "Discovery of self beyond productivity",
+    "Choice vs coercion in labor"
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "chapter": 23,
+  "book": 2,
+  "book_chapter": 3,
+  "title": "Mother Sera's Counsel",
+  "word_count": 2350,
+  "timeline": "Same timeframe as Chapter 22",
+  "location": "Mother Sera's quarters, Free Level, Level 9",
+  "characters_present": ["Jax Varro", "Mother Sera"],
+  "character_states": {
+    "Jax Varro": {
+      "knows": [
+        "His paranoia about losing the Free Level is justified",
+        "Mother Sera believes trouble is coming soon",
+        "The Free Level represents a threat to the power structure",
+        "He's become a leader whether he wanted to be or not",
+        "He needs to decide how far he'll go to defend what they've built",
+        "Sera's daughter died 40 years ago in workplace 'accident'",
+        "Sera is dying, lungs failing, maybe a few years left",
+        "People will look to him when crisis comes",
+        "Old labor songs from resistance movements exist",
+        "Some people he trusts may betray him (this hits close given Elara)"
+      ],
+      "emotional_state": "Anxious, burdened by responsibility, determined not to run, worried about Elara's secrets",
+      "arc_position": 0.37,
+      "location": "Mother Sera's quarters, Free Level",
+      "physical_state": "Tired from lack of sleep, vigilant"
+    },
+    "Mother Sera": {
+      "knows": [
+        "Trouble is imminent, can sense it coming",
+        "The Free Level threatens the power structure",
+        "Jax is more of a leader than he realizes",
+        "Her time is limited, lungs failing",
+        "Jax is worried about someone's betrayal (suspects about Elara)",
+        "Revolution is coming whether Jax wants it or not",
+        "The old resistance songs need to be preserved",
+        "This fight will outlive her"
+      ],
+      "emotional_state": "Wise, accepting of her mortality, determined to prepare Jax, hopeful despite everything",
+      "arc_position": 0.45,
+      "location": "Her quarters, Free Level",
+      "physical_state": "Failing lungs, elderly, maybe few years left to live"
+    }
+  },
+  "revealed_to_reader": [
+    "Mother Sera knows trouble is coming imminently",
+    "Sera's daughter died 40 years ago in workplace 'accident', station blamed her",
+    "Sera is dying, enhanced lungs failing, has a few years at most",
+    "Sera has a notebook of old labor resistance songs from pre-caste uprising",
+    "Sera views Free Level as revolutionary act threatening power structure",
+    "Jax is walking perimeter 3x daily, checking systems hourly, barely sleeping",
+    "Jax is worried someone will betray him (thinking of Elara's secrets)",
+    "Sera advises that betrayal can be forgiven depending on reasons and amends",
+    "Sera believes they can 'go down fighting instead of kneeling' even if they can't traditionally 'win'",
+    "Sera has been waiting 40 years for someone to stand up to the system"
+  ],
+  "planted": [
+    {
+      "element": "Labor songs in Sera's notebook",
+      "payoff_chapter": "Book 3, Chapter 16",
+      "significance": "Will be sung at her funeral, become anthem of revolution"
+    },
+    {
+      "element": "Sera's failing lungs and limited time",
+      "payoff_chapter": "Book 3, Chapter 16",
+      "significance": "Foreshadowing her death in Authority airstrike"
+    },
+    {
+      "element": "Sera's advice about forgiving betrayal based on reasons and amends",
+      "payoff_chapter": "Book 2, Chapters 27-32",
+      "significance": "Will influence how Jax responds to Elara's betrayal revelation"
+    },
+    {
+      "element": "Sera's daughter's death 40 years ago",
+      "payoff_chapter": null,
+      "significance": "Establishes Sera's motivation, why this fight matters to her"
+    },
+    {
+      "element": "Sera's certainty that revolution is coming",
+      "payoff_chapter": "Book 3, Chapter 6",
+      "significance": "She's correct, the uprising happens"
+    },
+    {
+      "element": "Warning that some trusted people will betray, some unexpected will stand with him",
+      "payoff_chapter": "Book 2, Ch 27 and Book 3",
+      "significance": "Foreshadows both Elara's exposure and eventual reconciliation"
+    }
+  },
+  "active_tensions": [
+    "Jax's increasing anxiety about impending crisis",
+    "Sera's awareness of her mortality",
+    "Jax's suspicions about Elara's potential betrayal",
+    "The weight of leadership Jax never asked for",
+    "Sera's need to pass the torch before she dies",
+    "The revolutionary implications of Free Level's existence",
+    "Jax's decision about how far he'll go to defend the community"
+  ],
+  "world_changes": [
+    "Jax now has the notebook of old labor resistance songs",
+    "Jax has committed to staying and fighting, not running",
+    "Sera has explicitly named the Free Level as revolutionary threat to power",
+    "Jax understands he's become a leader and people will look to him",
+    "Sera has prepared Jax for betrayal and difficult choices ahead"
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "chapter": 17,
+  "word_count": 2495,
+  "timeline": "Month 11, weeks 2-3 of corporate squeeze",
+  "location": "Sector 12, Building 7",
+  "characters_present": ["Reed Salazar", "Marcus Ibrahim", "Aisha (Marcus's daughter)", "Chen Rodriguez", "Sarah Kim", "Yuki Tanaka", "community members", "clinic receptionist", "mentioned: Dr. Amara Osei"],
+  "character_states": {
+    "Reed Salazar": {
+      "knows": ["Corporate escalating systematically", "Burn rate now 800,000 SC/month at 4,000 SC transfers", "437 million remaining in fund", "4.5 years until depletion at current rate", "Corporate will escalate again", "He can't win long-term but can prove the point", "Amara publishes in 3 weeks", "Timeline compressing"],
+      "emotional_state": "Grimly determined, doing the math, accepting the inevitable, focused on documentation and legacy",
+      "arc_position": 0.50,
+      "location": "Building 7",
+      "burn_rate_escalation": "2000 → 2500 → 2800 → 3200 → 3500 → 4000 SC/month"
+    },
+    "Marcus Ibrahim": {
+      "knows": ["Corporate weaponizing healthcare against children", "Aisha punished for his choices", "System is evil not just broken", "Reed increasing transfers to cover costs", "This is about solidarity not just money"],
+      "emotional_state": "Rage at system, protective of daughter, clear-eyed about corporate cruelty",
+      "arc_position": 0.48,
+      "location": "Building 7"
+    },
+    "Aisha Ibrahim": {
+      "knows": ["She got sick, clinic charged fee because her prosperity score dropped", "Being punished for dad's choices"],
+      "emotional_state": "Sick, confused, experiencing systemic cruelty firsthand",
+      "arc_position": 0.20,
+      "location": "Sector 12"
+    },
+    "Dr. Amara Osei": {
+      "knows": ["Corporate escalating to compress timeline", "Publishing in 3 weeks at conference", "Paper submission next week", "Publishing will end her career", "She's doing it anyway"],
+      "emotional_state": "Committed, ready, accepting cost",
+      "arc_position": 0.42,
+      "location": "University/Sector 12"
+    }
+  },
+  "revealed_to_reader": [
+    "Air quality degraded to baseline standard (from optimal)",
+    "New fees: Enhanced air 150 SC, water filtration 100 SC, priority maintenance 80 SC, temperature regulation 120 SC",
+    "Total new fees: 450 SC/month per unit",
+    "Reed increased transfers: 3200 → 3500 → 4000 SC/month",
+    "Burn rate escalation: 640,000 → 700,000 → 800,000 SC/month",
+    "437 million remaining in fund (spent 63 million so far)",
+    "4.5 years until depletion at 4,000 SC rate",
+    "Maintenance now request-based, work orders ignored",
+    "Chen organized repair collective, teaching 23 people",
+    "Healthcare now requires prosperity score verification",
+    "Marcus's daughter Aisha charged 200 SC fee for clinic visit",
+    "Healthcare priority program: 180 SC/month",
+    "Transit costs up 20%",
+    "Food prices rose with 'prosperity-adjusted pricing'",
+    "Water has new 'hydration infrastructure maintenance fee'",
+    "Additional fees total ~600 SC/month",
+    "Community response: repair collectives, healthcare sharing, mutual aid",
+    "Amara's conference presentation in 3 weeks",
+    "Amara submitting paper next week",
+    "Reed and Amara messaging - she knows it will end her career",
+    "Corporate teaching solidarity by trying to impose scarcity"
+  ],
+  "planted": [
+    {
+      "element": "4.5 years until fund depletion",
+      "payoff_chapter": "Book 2",
+      "significance": "Actual timeline shorter as corporate keeps escalating"
+    },
+    {
+      "element": "Conference in 3 weeks",
+      "payoff_chapter": 19,
+      "significance": "When data goes public"
+    },
+    {
+      "element": "Community repair collectives",
+      "payoff_chapter": 18,
+      "significance": "Organized community response"
+    },
+    {
+      "element": "Healthcare sharing programs",
+      "payoff_chapter": 18,
+      "significance": "Community taking care of each other"
+    },
+    {
+      "element": "Reed's acceptance of eventual loss",
+      "payoff_chapter": "Book 2-3",
+      "significance": "Focus shifts from winning to legacy"
+    },
+    {
+      "element": "Weaponizing healthcare against children",
+      "payoff_chapter": null,
+      "significance": "Demonstrates depth of systemic cruelty"
+    },
+    {
+      "element": "Marcus saying 'that's evil'",
+      "payoff_chapter": null,
+      "significance": "Clear moral judgment, stripping away euphemisms"
+    }
+  },
+  "continuity_notes": [
+    "Month 11, weeks 2-3",
+    "Building 7: 200 units",
+    "Transfer progression: 2000 → 2500 → 2800 → 3200 → 3500 → 4000 SC",
+    "Started with 500 million SC",
+    "Spent 63 million over 11 months",
+    "437 million remaining",
+    "Chen's repair collective established",
+    "Sarah Kim teaching meditation for stressed parents",
+    "Yuki painting mural (unauthorized)",
+    "Common area still functioning as community hub",
+    "Aisha is Marcus's daughter (consistent with earlier chapters)",
+    "Free clinic in Sector 12"
+  ],
+  "voice_check": {
+    "Reed": "Deadpan observations, doing the math, trailing thoughts ('Yeah. Probably.'), documentation style, finding meaning in resistance - check",
+    "Marcus": "Speaking slowly, 'In my experience' implied, calls evil evil, thoughtful rage - check",
+    "Corporate notifications": "Euphemistic ('Prosperity Optimization', 'encourage resident agency'), friendly exclamation points masking cruelty - check"
+  },
+  "themes_explored": [
+    "Death by a thousand fees",
+    "Weaponizing survival to force compliance",
+    "Solidarity emerging from imposed scarcity",
+    "Finite resources vs infinite oppression",
+    "Documentation as resistance",
+    "The cruelty is the point",
+    "Legacy vs victory",
+    "Stripping euphemisms: calling evil evil",
+    "Children as weapons in class war",
+    "Ideas outlasting money",
+    "Mutual aid as counter to artificial scarcity"
+  ],
+  "corporate_squeeze_tactics": [
+    "Air quality degradation",
+    "Maintenance request-only (then ignored)",
+    "Healthcare prosperity score verification",
+    "Transit price increases",
+    "Food price increases",
+    "Water infrastructure fees",
+    "All small fees that accumulate",
+    "Forcing increased burn rate",
+    "Weaponizing medicine against children",
+    "Making survival conditional on compliance"
+  ],
+  "community_resistance": [
+    "Repair collective (Chen leading)",
+    "Healthcare sharing programs",
+    "Mutual aid networks",
+    "Support for stressed parents (Sarah's meditation)",
+    "Unauthorized art (Yuki's mural)",
+    "Refusing to return to exploitative jobs",
+    "Staying angry but not broken",
+    "Building solidarity through shared struggle"
+  ],
+  "financial_tracking": {
+    "fund_start": "500 million SC",
+    "spent_so_far": "63 million SC",
+    "remaining": "437 million SC",
+    "current_transfer": "4,000 SC/month per unit",
+    "current_burn_rate": "800,000 SC/month",
+    "annual_burn": "9.6 million SC",
+    "months_remaining": "52 months (4.5 years)",
+    "note": "Assuming no further escalation (which is unrealistic)"
+  },
+  "chapter_function": "Show corporate escalation in action, demonstrate squeeze tactics, reveal community resilience, build toward community organizing chapter, compress timeline toward conference, show Reed accepting eventual loss while focusing on legacy, establish three-week countdown to publication"
+}

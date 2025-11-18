@@ -1,0 +1,92 @@
+{
+  "chapter": 5,
+  "word_count": 2200,
+  "timeline": "Day 4-5 after Chapter 1 (vault discovery and aftermath)",
+  "location": "Deep city vault, then Jax's squat in Sector 4",
+  "characters_present": ["Jax Varro", "Finn"],
+  "character_states": {
+    "Jax Varro": {
+      "knows": [
+        "The vault contains Earth currency worth potentially billions",
+        "Physical Earth currency is extinct and incredibly valuable to collectors",
+        "The Collector exists and deals in high-value Earth artifacts",
+        "They have a meeting scheduled for next night at 23:00",
+        "This could change everything or get them killed",
+        "Location of the vault in deep city",
+        "How to access black market networks"
+      ],
+      "emotional_state": "Cautiously hopeful but paranoid, feeling possibility for the first time",
+      "arc_position": 0.15,
+      "location": "His squat, Sector 4, Level 9",
+      "physical_state": "Exhausted from 6-hour journey through deep city, anxious but focused"
+    },
+    "Finn": {
+      "knows": [
+        "Location of the vault",
+        "Contents worth billions",
+        "Meeting with The Collector scheduled",
+        "They're Jax's backup for the meet"
+      ],
+      "emotional_state": "Cautiously excited, loyal, protective of Jax",
+      "location": "Jax's squat",
+      "physical_state": "Tired but alert"
+    }
+  },
+  "revealed_to_reader": [
+    "The vault contains physical Earth currency - bills and coins",
+    "Physical currency has been extinct for 500 years (replaced by digital credits)",
+    "Earth artifacts are incredibly valuable to collectors",
+    "Multiple Earth currencies present: American dollars, Yuan, Euro, Yen, others",
+    "Estimated face value of 50 million old dollars, worth billions to collectors",
+    "The Collector - mysterious fence who deals in Earth artifacts",
+    "Black market networks and encrypted forums exist in the station",
+    "Deep city sections from before the Sealing exist",
+    "Jax is intelligent and resourceful despite limited formal education",
+    "Finn and Jax trust each other deeply",
+    "The station's rotation has slowed in deep sections, affecting gravity"
+  ],
+  "planted": [
+    {
+      "element": "The Collector as mysterious figure",
+      "payoff_chapter": 6,
+      "significance": "Will be the fence who makes Jax rich"
+    },
+    {
+      "element": "Meeting in Sector 12 hotel, room 347",
+      "payoff_chapter": 6,
+      "significance": "Where the first deal happens"
+    },
+    {
+      "element": "Finn as backup/protector role",
+      "payoff_chapter": null,
+      "significance": "Establishing their dynamic and Finn's protective nature"
+    },
+    {
+      "element": "Jax's intelligence and research skills",
+      "payoff_chapter": null,
+      "significance": "Character depth, will be important for later planning"
+    },
+    {
+      "element": "The vault location remains secret",
+      "payoff_chapter": null,
+      "significance": "Ongoing resource, will be revealed in Book 3 as revolutionary base"
+    },
+    {
+      "element": "Jax's fear that hope hurts more than hopelessness",
+      "payoff_chapter": 10,
+      "significance": "Foreshadows his emotional state when trapped despite wealth"
+    }
+  ],
+  "active_tensions": [
+    "Extreme value of discovery versus danger of being caught",
+    "Meeting with unknown Collector - could be trap",
+    "Paranoia about being robbed or killed",
+    "First real hope but fear of it being destroyed",
+    "Trust between Jax and Finn versus distrust of everyone else",
+    "Moving valuable goods through dangerous territory"
+  ],
+  "world_changes": [
+    "Jax and Finn now possess potentially billions in Earth currency",
+    "First contact made with The Collector"
+  ]
+}

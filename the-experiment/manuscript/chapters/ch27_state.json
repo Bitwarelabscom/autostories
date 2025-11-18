@@ -1,0 +1,192 @@
+{
+  "chapter": 27,
+  "book": 2,
+  "book_chapter": 7,
+  "word_count": 2086,
+  "timeline": "Month 44-45 of the experiment, ~6-7 months after Chapter 21",
+  "location": "Reed's apartment, Yuki's art studio (destroyed), Marcus's apartment, station-wide media",
+  "characters_present": ["Reed Salazar", "Dr. Amara Osei", "Yuki Tanaka", "Marcus Ibrahim", "Shen (childcare cooperative)", "Community council members", "Executive Director Harris (via message)", "Corporate agitators (anonymous)"],
+  "character_states": {
+    "Reed Salazar": {
+      "knows": [
+        "Corporate sent trained agitators to burn Yuki's studio",
+        "The attack was filmed and used for false narrative",
+        "Counter-narrative cost 2.4M credits",
+        "Now has ~7.8M credits remaining (10 months funding)",
+        "Other sectors are organizing in response to the attack",
+        "Corporate has identified him by name - 'Mr. Salazar'",
+        "Harris is preparing to make him an offer",
+        "He's running out of time faster than expected",
+        "Community is rebuilding collectively"
+      ],
+      "emotional_state": "Grim determination mixed with dark hope. Knows he's losing the resource war but seeing the community response. Accepting that exposure is imminent.",
+      "arc_position": 0.70,
+      "location": "His apartment, participating via encrypted audio in council",
+      "physical_state": "Still declining, shaking hands, using Leveler regularly, exhausted from stress"
+    },
+    "Dr. Amara Osei": {
+      "knows": [
+        "The attack was clearly corporate false flag",
+        "Has forensic evidence proving corporate involvement",
+        "Reed is spending himself into depletion fighting back",
+        "The community's response proves the experiment worked beyond money",
+        "Other sectors are watching and organizing",
+        "Reed is in danger"
+      ],
+      "emotional_state": "Protective of Reed, documenting everything, seeing the bigger picture about community resilience",
+      "arc_position": 0.72,
+      "location": "Marcus's apartment, community council",
+      "physical_state": "Functional, working tirelessly"
+    },
+    "Yuki Tanaka": {
+      "knows": [
+        "Their studio was deliberately destroyed",
+        "Corporate is blaming them for the attack",
+        "Community is coming together to rebuild",
+        "The attack targeted what they represent - successful UBI recipient"
+      ],
+      "emotional_state": "Traumatized but supported, old anxiety returning but community holding them up",
+      "arc_position": 0.55,
+      "location": "Marcus's apartment, community council",
+      "physical_state": "Ash-covered from helping with evacuation, smoke inhalation but recovering"
+    },
+    "Marcus Ibrahim": {
+      "knows": [
+        "The attackers were corporate-trained operatives",
+        "He recognized their movement patterns from his security days",
+        "Community responded with mutual aid instinctively",
+        "This is corporate escalation, not end"
+      ],
+      "emotional_state": "Angry but organized, using his skills to lead response",
+      "arc_position": 0.52,
+      "location": "His apartment, hosting council",
+      "physical_state": "Smoke inhalation from helping evacuate, but functioning"
+    },
+    "Executive Director Jonathan Harris": {
+      "knows": [
+        "Corporate sent the agitators",
+        "The operation partially failed - community responded too well",
+        "Reed Salazar is the benefactor - has proof",
+        "Preparing to make Reed an offer",
+        "Narrative war is not going as planned"
+      ],
+      "emotional_state": "Calculated, escalating pressure, preparing endgame move",
+      "arc_position": 0.15,
+      "location": "Corporate offices"
+    }
+  },
+  "revealed_to_reader": [
+    "Corporate sent professional agitators to burn Yuki's studio (2:47 AM attack)",
+    "Attack was filmed and immediately used for false narrative",
+    "Corporate media blamed UBI recipients for violence",
+    "Reed has real footage showing corporate operatives",
+    "Forensic analysis proves accelerant was corporate security-grade",
+    "Reed spent 2.4M credits on counter-narrative media campaign",
+    "Reed's funds now at 7.8M (down from 12.45M in Ch 21)",
+    "Timeline compressed: 10 months of funding left, maybe 8",
+    "Other sectors (8, 15, 23, 30, 42) organizing in response",
+    "Sector 12 community responded to fire with mutual aid automatically",
+    "Community is rebuilding studio collectively",
+    "Corporate has identified Reed by name as 'Mr. Salazar'",
+    "Harris is preparing to make Reed an offer",
+    "Reed sent next month's UBI early in case he's captured"
+  ],
+  "planted": [
+    {
+      "element": "Corporate knows Reed's identity specifically",
+      "payoff_chapter": "Book 2 Ch 16 (Amara's confrontation), Ch 20 (The offer)",
+      "significance": "Reed's anonymity is over"
+    },
+    {
+      "element": "Harris preparing to make an offer",
+      "payoff_chapter": "Book 2 Ch 20 - Forty-Eight Hours",
+      "significance": "The deal is coming"
+    },
+    {
+      "element": "Community rebuilding collectively without waiting for Reed's money",
+      "payoff_chapter": "Book 3 Ch 12 - The UBI Ends",
+      "significance": "They can sustain without him"
+    },
+    {
+      "element": "Other sectors organizing inspired by Sector 12's response to attack",
+      "payoff_chapter": "Book 2 Ch 12 - Strikes Begin",
+      "significance": "Movement spreading through solidarity, not money"
+    },
+    {
+      "element": "Reed's funds declining faster than planned",
+      "payoff_chapter": "Book 2 Ch 20, Book 3 Ch 1",
+      "significance": "Timeline compressing"
+    },
+    {
+      "element": "Marcus recognizing corporate tactical training",
+      "payoff_chapter": "Book 3 Ch 9 - Marcus's Last Lessons",
+      "significance": "His experience from union days becoming valuable"
+    }
+  ],
+  "active_tensions": [
+    "How will corporate escalate next?",
+    "Can Reed survive 10 months with corporate knowing his identity?",
+    "Will other sectors succeed in organizing?",
+    "What offer will Harris make?",
+    "Can the community sustain if Reed is captured?",
+    "How much more can Reed spend before depletion?",
+    "Will Yuki recover from trauma or regress to anxiety?"
+  ],
+  "world_changes": [
+    "Corporate has moved from passive sabotage to active violence",
+    "False flag operations now part of corporate playbook",
+    "Sector 12 community has proven resilient to direct attack",
+    "Station-wide narrative split between corporate and independent media",
+    "Multiple sectors now organizing explicitly",
+    "Corporate has specific intelligence on Reed's identity",
+    "Community has started collective funding beyond Reed's UBI"
+  ],
+  "continuity_notes": [
+    "Timeline: ~Month 44-45, approximately 6-7 months after Ch 21",
+    "Reed's funds: Started Ch 21 with 12.45M, now 7.8M (spent ~4.65M in 7 months)",
+    "Burn rate increased due to counter-narrative costs and security",
+    "10 months of funding remaining at current rate",
+    "Fire occurred at 2:47 AM",
+    "Corporate agitators used professional-grade accelerant",
+    "Yuki's art studio completely destroyed",
+    "Marcus has prior experience in station security",
+    "Community council meets in Marcus's apartment",
+    "Reed still participating via encrypted audio only",
+    "Sectors organizing: 8, 15, 23, 30, 42"
+  ],
+  "voice_check": {
+    "Reed": "Dark humor ('going to hate the next quarter's data'), exhausted determination, deadpan acceptance of danger",
+    "Amara": "Documentary precision, protective of Reed, seeing patterns",
+    "Yuki": "Anxiety returning under stress but supported by community",
+    "Marcus": "Practical leadership, using old skills, calm in crisis",
+    "Harris": "Calculated threat, euphemistic language in official statements"
+  },
+  "themes_advanced": [
+    "Violence as tool of oppression when narrative fails",
+    "Community resilience vs corporate resources",
+    "Truth as commodity in media warfare",
+    "Mutual aid as instinctive response when values are internalized",
+    "Surveillance capitalism - corporate tracking everything",
+    "Cost of resistance accelerating",
+    "Collective action transcending individual funding"
+  ],
+  "emotional_beats": [
+    "2:47 AM fire - sudden violence",
+    "Corporate media lies - betrayal of truth",
+    "Reed spending precious funds - sacrifice",
+    "Community forming water brigade - spontaneous mutual aid",
+    "Other sectors messaging support - solidarity spreading",
+    "Reed's dark laughter - finding hope in resistance",
+    "Harris's message - threat closing in",
+    "Reed sending early payments - preparing for capture"
+  ],
+  "setup_for_next_chapters": [
+    "Corporate knows Reed's identity, will act on it",
+    "Other sectors organizing will escalate",
+    "Community collective funding model emerging",
+    "Harris preparing the offer",
+    "Reed's timeline compressing",
+    "Yuki's trauma needs resolution",
+    "Marcus's security knowledge becoming valuable"
+  ]
+}

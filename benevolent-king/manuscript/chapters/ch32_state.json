@@ -1,0 +1,202 @@
+{
+  "chapter": 32,
+  "book": 2,
+  "word_count": 2935,
+  "timeline": "Approximately 1 month after Ch 27 (Age 37)",
+  "location": "Level 8 Jade District and maintenance tunnels",
+  "characters_present": ["Nico Chen", "Kade Rivera", "Maya Torres", "Lin Zhao", "Commander James Wright", "Level 8 residents", "SSS forces"],
+  "character_states": {
+    "Nico Chen": {
+      "age": 37,
+      "knows": [
+        "SSS raided Level 8 at dawn with 60+ officers",
+        "Arrest warrants issued for 47 people in his operation",
+        "Thousands of residents fought SSS for six hours",
+        "47 people died in the riot including Mrs. Huang and Terrence Rodriguez",
+        "SSS authorized live rounds",
+        "Corporate will use collective punishment to force his surrender",
+        "He's now a fugitive hiding in maintenance tunnels",
+        "His operation is destroyed",
+        "Maya is running clinic under lockdown conditions",
+        "Lin fought on the front lines",
+        "People died believing in what he built",
+        "Wright warned him it would end in massacre"
+      ],
+      "emotional_state": "Initially terrified, then devastated by casualties, ultimately transforming to cold focused rage",
+      "arc_position": 0.62,
+      "physical_state": "Hiding in maintenance tunnels, exhausted, comm off except emergency frequency",
+      "current_resources": "Unknown credit status (likely frozen), no buildings under his control, SSS occupation of district, in hiding",
+      "relationships_changed": "Realizes people fought for him specifically, sees their sacrifice as mandate to continue",
+      "key_realization": "People died for dignity, not just free meals - this is bigger than him now, wars don't end with surrender",
+      "status": "Fugitive king, wanted by SSS, hiding in tunnels, planning resistance rather than surrender",
+      "transformation": "From fugitive to rebel - cold rage replacing exhaustion and guilt"
+    },
+    "Kade Rivera": {
+      "age": 43,
+      "knows": [
+        "Got Nico off the streets minutes after shooting started",
+        "Knows hidden routes through maintenance tunnels",
+        "Sees the riot as assertion of dignity, not just violence",
+        "Corporate will use collective punishment",
+        "Nico needs to honor the dead by continuing to fight",
+        "They still have favors and people who owe them"
+      ],
+      "emotional_state": "Protective, pragmatic, fierce about defending dignity of those who died",
+      "arc_position": 0.35,
+      "physical_state": "Guiding Nico through tunnels, knows safe spots",
+      "status": "In hiding with Nico, acting as guide and counsel",
+      "philosophy": "The dead deserve a king who keeps fighting, not one who gives up",
+      "commitment": "Ready to help build an army for resistance"
+    },
+    "Maya Torres": {
+      "age": 37,
+      "knows": [
+        "Clinic overwhelmed with casualties in first hour",
+        "Terrence Rodriguez died in surgery from femoral artery gunshot",
+        "SSS doing door-to-door searches with thermal scanners",
+        "Corporate threatening collective punishment",
+        "Running clinic under lockdown conditions",
+        "Nico still in district and being hunted"
+      ],
+      "emotional_state": "Coordinating triage under impossible conditions, frightened for Nico",
+      "arc_position": 0.48,
+      "location": "Clinic, treating casualties",
+      "status": "Operating under SSS lockdown, voice shaking reporting casualties",
+      "role": "Medical response coordinator during crisis"
+    },
+    "Lin Zhao": {
+      "age": 62,
+      "knows": [
+        "This riot was always coming once Nico gave people hope",
+        "Corporate has been killing Level 8 slowly for decades",
+        "The difference is now it's fast enough to notice",
+        "People are fighting for dignity and the life Nico showed them was possible",
+        "This is bigger than Nico now"
+      ],
+      "emotional_state": "Fierce, fighting on front lines despite age, clear-eyed about inevitability",
+      "arc_position": 0.30,
+      "physical_state": "On front lines with metal pipe, fighting like she's 30 years younger",
+      "status": "Coordinating something (unspecified resistance)",
+      "philosophy": "People were always dying - Nico just gave them something worth dying for"
+    },
+    "Commander James Wright": {
+      "age": 54,
+      "knows": [
+        "Nico could have prevented riot by calling people off (believes)",
+        "Arrest warrants for 47 people in the operation",
+        "Crowd of thousands defending Nico",
+        "Someone threw improvised explosive, took out front rank",
+        "Had to authorize live rounds and weapons free",
+        "47 casualties confirmed",
+        "Nico still in district, searching door-to-door",
+        "Considering collective punishment to force surrender"
+      ],
+      "emotional_state": "Cold, calculating, blaming Nico for deaths, authorizing escalating violence",
+      "arc_position": 0.18,
+      "location": "Command position during raid",
+      "status": "Authorized lethal force, leading manhunt for Nico",
+      "quote": "How many casualties is a free meal worth?",
+      "strategy": "Collective punishment until Nico is handed over"
+    }
+  },
+  "revealed_to_reader": [
+    "SSS raided at dawn with 60+ officers in full tactical gear",
+    "Arrest warrants for 47 people involved in Nico's operation",
+    "Charges: fraud, tax evasion, criminal conspiracy, 20 years mandatory",
+    "Thousands of Level 8 residents fought back spontaneously",
+    "Riot lasted 6 hours before SSS reinforcements pushed crowd back",
+    "47 confirmed dead including Mrs. Huang (70, trampled) and Terrence Rodriguez (19, gunshot)",
+    "SSS used concussion grenades, tear gas, shock batons, then live rounds",
+    "Someone in crowd threw improvised explosive, took out front SSS rank",
+    "Wright authorized lethal force after explosive",
+    "Nico watched from street, crowd shielded him with their bodies",
+    "Kade pulled Nico into tunnels while riot continued",
+    "Maya coordinating triage at overwhelmed clinic",
+    "Lin fought on front lines with metal pipe",
+    "SSS occupation of entire district, no one in or out",
+    "Door-to-door searches with thermal scanners",
+    "Corporate threatening collective punishment until Nico surrenders",
+    "Nico transformed from guilt to cold focused rage",
+    "Planning to build 'an army' for continued resistance"
+  ],
+  "planted": [
+    {
+      "element": "Nico planning to build an army",
+      "payoff_chapter": "Book 2, Ch 33-35",
+      "significance": "Transition from charity to organized resistance"
+    },
+    {
+      "element": "Collective punishment threat",
+      "payoff_chapter": "Book 2, Ch 33",
+      "significance": "Corporate follows through, escalating conflict"
+    },
+    {
+      "element": "47 dead becoming martyrs for movement",
+      "payoff_chapter": "Book 3",
+      "significance": "Names and stories fuel broader labor movement"
+    },
+    {
+      "element": "Lin coordinating something",
+      "payoff_chapter": "Book 2, Ch 34-35 and Book 3",
+      "significance": "Building organizing infrastructure independent of Nico"
+    },
+    {
+      "element": "Improvised explosives from cleaning supplies",
+      "payoff_chapter": "Book 3, Ch 12-16",
+      "significance": "Level of resistance capabilities established"
+    },
+    {
+      "element": "Nico as fugitive king in tunnels",
+      "payoff_chapter": "Book 2, Ch 33-39",
+      "significance": "Can't appear publicly, must operate in hiding"
+    },
+    {
+      "element": "Wright's question: 'How many casualties is a free meal worth?'",
+      "payoff_chapter": "Book 3, Ch 11",
+      "significance": "Central moral question of the trilogy"
+    }
+  ],
+  "active_tensions": [
+    "Nico is fugitive in tunnels, SSS hunting with thermal scanners",
+    "Corporate threatening collective punishment",
+    "47 dead need to be honored by continuing fight or their deaths were meaningless",
+    "Operation destroyed but infrastructure (people, relationships) intact",
+    "Nico transformed from charity worker to revolutionary",
+    "Wright blaming Nico for deaths Nico blames himself for",
+    "Maya running clinic under lockdown",
+    "Entire district under occupation",
+    "How to resist without causing more deaths?",
+    "Kade pushing Nico to keep fighting, be the king people died for"
+  ],
+  "world_changes": [
+    "47 people dead in Level 8 riot",
+    "Level 8 Jade District under SSS occupation and lockdown",
+    "Thousands of residents fought SSS for 6 hours",
+    "Improvised explosives used against SSS",
+    "Lethal force authorized and used against civilians",
+    "Nico is now wanted fugitive",
+    "Charity operation completely destroyed",
+    "Level 8 residents have asserted themselves violently against Corporate",
+    "Precedent set: people will fight to defend dignity",
+    "Public knowledge of massacre (station-wide implications)"
+  ],
+  "casualties": [
+    {
+      "name": "Mrs. Huang",
+      "age": 70,
+      "role": "Morning shift worker at noodle house for 2 years",
+      "death": "Trampled in initial charge"
+    },
+    {
+      "name": "Terrence Rodriguez",
+      "age": 19,
+      "role": "Youth center volunteer, taught kids to code",
+      "death": "Gunshot to femoral artery, died in surgery"
+    },
+    {
+      "total": 47,
+      "note": "Official count, may be higher"
+    }
+  ],
+  "notes": "Third tentpole of Book 2 (MIDPOINT REVERSAL). Everything changes. SSS raid triggers spontaneous mass resistance, resulting in massacre. Nico transitions from charity provider trying to comply with Corporate to fugitive revolutionary. Key theme: People didn't die for free meals, they died for dignity and the hope Nico showed them. The riot had its own momentum - stopped being about Nico and became about collective assertion of humanity. Character development: Nico's transformation from guilt to cold rage, Kade as fierce defender of the dead's dignity, Lin fighting despite age, Maya under impossible pressure, Wright authorizing violence and blaming Nico. The King becomes the Rebel. Operation destroyed but revolutionary potential born. Sets up second half of Book 2: Nico in hiding, building resistance, planning next moves. Arc position 0.62 - major transformation under extreme trauma."
+}

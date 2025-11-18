@@ -1,0 +1,124 @@
+{
+  "chapter": 4,
+  "word_count": 2100,
+  "timeline": "6 days between Chapter 3 and Chapter 5 (the waiting period)",
+  "location": "Sector 12, Building 7, Reed's apartment, memorial wall, common area",
+  "characters_present": ["Reed Salazar", "Marcus Ibrahim (briefly)", "Yuki Tanaka (briefly)", "Marco (memorial)"],
+  "character_states": {
+    "Reed Salazar": {
+      "knows": [
+        "First transfer executes in 6 days, then 5, then 4, etc",
+        "He's committed and can't back out",
+        "Marcus notices he's different",
+        "He's starting to document baseline conditions",
+        "He has deep doubt about whether this will work",
+        "Transfer will execute at 6 AM on day 6",
+        "He's ready to collect data and prove something"
+      ],
+      "emotional_state": "Fluctuating between commitment and terror. Processing what he's done. Doubt on day 4. Recommitment by day 6. Talking to dead brother. Finding purpose despite fear.",
+      "arc_position": 0.15,
+      "location": "Sector 12, Building 7",
+      "physical_state": "Using Leveler heavily, can't sleep, wired, anxious"
+    },
+    "Marcus Ibrahim": {
+      "knows": [
+        "Reed looks different, like he's made a big decision",
+        "Something has changed about Reed"
+      ],
+      "emotional_state": "Curious but doesn't press",
+      "arc_position": 0.0,
+      "location": "Building 7"
+    }
+  },
+  "revealed_to_reader": [
+    "Reed's emotional journey during the waiting period",
+    "His deep doubt on day 4: what if corporate is right?",
+    "His daily visit to Marco's memorial is a ritual",
+    "He talks to Marco's plaque, explains the experiment",
+    "Reed starts documenting baseline conditions: hours people work, stress levels, Leveler sales, etc",
+    "His research questions: do people work less? Does health improve? Do communities form?",
+    "Marcus notices Reed has changed",
+    "Reed's fear: what if he proves corporate right? What if people really need desperation?",
+    "Reed can't sleep for days before transfer",
+    "He imagines the common area transformed",
+    "Transfer executes at 6 AM on day 6",
+    "Reed is ready to document, even if it proves him wrong"
+  ],
+  "planted": [
+    {
+      "element": "Reed's documentation system and baseline data",
+      "payoff_chapter": 10,
+      "significance": "This is the data he'll have showing transformation, will share with Amara"
+    },
+    {
+      "element": "Reed talking to Marco's memorial",
+      "payoff_chapter": null,
+      "significance": "Daily ritual throughout Book 1, final goodbye in Ch 20, final thoughts in Book 3 Ch 19"
+    },
+    {
+      "element": "Reed's doubt: what if corporate is right?",
+      "payoff_chapter": 10,
+      "significance": "This doubt gets conclusively answered - corporate is wrong"
+    },
+    {
+      "element": "Marcus noticing Reed has changed",
+      "payoff_chapter": null,
+      "significance": "Marcus will be first to figure out Reed is the benefactor (Book 2)"
+    },
+    {
+      "element": "Reed imagining common area transformed (plants, fixed furniture, laughter)",
+      "payoff_chapter": 10,
+      "significance": "Exactly what happens by Chapter 10"
+    },
+    {
+      "element": "Yuki thinks Reed is weird for documenting",
+      "payoff_chapter": null,
+      "significance": "Yuki will later understand Reed was researching, will defend his actions"
+    }
+  },
+  "active_tensions": [
+    "Will the transfer execute successfully?",
+    "Will people believe the money is real?",
+    "Is Reed right or is corporate right about human nature?",
+    "Will anyone notice Reed is documenting?",
+    "Can Reed handle the doubt and fear?"
+  ],
+  "world_changes": [
+    "Reed has documented comprehensive baseline conditions of Building 7",
+    "First transfer executes at end of chapter - money now in 200 accounts"
+  ],
+  "continuity_notes": [
+    "6 days pass in this chapter",
+    "Day 1: Reed processes what he's done",
+    "Day 2: Reed makes dealing rounds, Marcus notices change",
+    "Day 3: Reed talks to Marco's memorial",
+    "Day 4: Reed has crisis of doubt at 2 AM",
+    "Day 5: Reed documents baseline conditions (50 pages of notes)",
+    "Day 6: Transfer executes at 6 AM",
+    "Reed visits memorial wall daily (established routine)",
+    "Transfer scheduled for 6 AM to coincide with prosperity score checks",
+    "Reed has created research questions and documentation framework",
+    "Building 7 baseline: people leaving for multiple shifts, exhausted, running on Leveler, stressed"
+  ],
+  "voice_check": {
+    "Reed": "Maintained - internal dialogue shows doubt ('You're insane'), talking to dead brother, deadpan ('Probably both'), finding meaning in potential death ('At least then it would mean something')"
+  },
+  "themes_developed": [
+    "Doubt and commitment - choosing purpose despite fear",
+    "Talking to the dead - grief as motivation",
+    "What if corporate is right? - intellectual honesty about testing assumptions",
+    "Documentation as witness - importance of recording truth",
+    "Meaning through action even if action fails",
+    "Six days as liminal space - between decision and consequence"
+  ],
+  "emotional_beats": [
+    "Day 1: numb processing",
+    "Day 2: secret carrying, wanting to tell Marcus",
+    "Day 3: talking to Marco, explaining the plan, 'for you'",
+    "Day 4: 2 AM doubt crisis, fear of being wrong",
+    "Day 4: imagining common area transformed",
+    "Day 5: clinical documentation, becoming researcher",
+    "Day 6: countdown to 6 AM, 'For you', transfer executes",
+    "Final commitment: 'Even if it killed him. Especially if it killed him.'"
+  ]
+}

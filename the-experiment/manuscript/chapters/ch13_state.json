@@ -1,0 +1,129 @@
+{
+  "chapter": 13,
+  "word_count": 2829,
+  "timeline": "Month 7-8 of experiment (one week of fieldwork)",
+  "location": "Sector 12, Building 7 community center",
+  "characters_present": ["Dr. Amara Osei (NEW)", "Keisha (community relations)", "Marcus Ibrahim", "Yuki Tanaka", "community members"],
+  "character_states": {
+    "Dr. Amara Osei": {
+      "knows": ["Crime is down 67%, not up", "Corporate media lied", "Data contradicts corporate narrative", "This is career-making research", "Her department is corporate-funded", "Board wants preliminary findings", "She's from Sector 8 originally", "Reporting truthfully might cost her job"],
+      "emotional_state": "Guilty about studying former community, conflicted between career and truth, seeing people as people not data, uncertain what she'll do with findings",
+      "arc_position": 0.1,
+      "location": "Sector 12, Building 7",
+      "knows_about_Reed": false
+    },
+    "Reed Salazar": {
+      "knows": ["Researcher arrived in Sector 12", "She might be ally or threat"],
+      "emotional_state": "Observing, wary, documenting",
+      "arc_position": 0.38,
+      "location": "Sector 12"
+    },
+    "Marcus Ibrahim": {
+      "knows": ["Amara is from Sector 8", "She escaped through education", "She feels guilty", "She might actually care", "Data needs to be on record"],
+      "emotional_state": "Cautiously trusting, willing to help, protective of community",
+      "arc_position": 0.40,
+      "location": "Building 7"
+    },
+    "Yuki Tanaka": {
+      "knows": ["Researcher wants to hear real stories", "Corporate media lied about them"],
+      "emotional_state": "Nervous but willing to share, proud of transformation",
+      "arc_position": 0.42,
+      "location": "Building 7"
+    }
+  },
+  "revealed_to_reader": [
+    "Dr. Amara Osei introduced - sociologist from Nova Station University",
+    "Amara is 32, grew up in Sector 8 (mid-level worker residential)",
+    "She escaped through education: 4 years undergrad, 3 years grad school, 2 years doctorate",
+    "Still paying off student loans",
+    "Worked three jobs during grad school",
+    "Feels guilt about leaving community behind while studying their suffering",
+    "Research department is corporate-funded",
+    "Keisha works in Sector 12 Community Relations",
+    "Building 7 community center is vibrant: art class, homework help, coding class, community garden",
+    "Amara conducted 12 interviews in first week",
+    "Amara's voice marker: says 'interesting' when disturbed",
+    "She tries to simplify academic language",
+    "Interviewed Yuki: documented transformation, 'value without productivity' quote",
+    "Interviewed Marcus: documented pain management, kids thriving, union history",
+    "Data patterns: labor down but satisfaction up, crime down, community cohesion up",
+    "Board asked for preliminary findings",
+    "Amara bought time, didn't send data to Board yet",
+    "Amara conflicted: career-making data vs data that threatens her funding"
+  ],
+  "planted": [
+    {
+      "element": "Amara's guilt about studying suffering",
+      "payoff_chapter": "Book 2 - chooses action over observation",
+      "significance": "Her arc is observer to participant"
+    },
+    {
+      "element": "Department is corporate-funded",
+      "payoff_chapter": 20,
+      "significance": "Harris threatens her funding"
+    },
+    {
+      "element": "Board wants preliminary findings",
+      "payoff_chapter": 20,
+      "significance": "Pressure builds to report"
+    },
+    {
+      "element": "Amara's student loans and prosperity score vulnerability",
+      "payoff_chapter": "Book 2",
+      "significance": "Personal cost of standing up to corporate"
+    },
+    {
+      "element": "Marcus trusts Amara, willing to help",
+      "payoff_chapter": "Book 2",
+      "significance": "Marcus becomes ally in protecting Reed"
+    },
+    {
+      "element": "Yuki's quote 'labor hours vs person'",
+      "payoff_chapter": 19,
+      "significance": "Becomes key finding in Amara's research"
+    },
+    {
+      "element": "Amara's question: observation vs action",
+      "payoff_chapter": "Book 2 Ch 16",
+      "significance": "When she chooses to protect Reed"
+    }
+  ],
+  "continuity_notes": [
+    "Week in Month 7-8 of experiment",
+    "Crime down 67% (consistent with ch10, ch11)",
+    "Community center in Building 7 active",
+    "Art classes, coding classes, homework help, community garden all established",
+    "12 residents interviewed in first week",
+    "Yuki still working 20 hours at cleaning job",
+    "Yuki teaching kids art",
+    "Marcus managing pain with medication",
+    "Marcus's kids: daughter on honor roll, son building robots",
+    "Corporate media hit pieces already aired (ch11)",
+    "Board announced 'support measures' (ch11)"
+  ],
+  "voice_check": {
+    "Amara": "Academic language she tries to simplify ('qualitative research is essential' → stops herself), asks questions vs statements ('May I ask...', 'Can you tell me...'), says 'interesting' when disturbed (crime down = 'interesting'), apologizes unnecessarily from lower-sector background - all check",
+    "Marcus": "Speaks slowly/thoughtfully - check, 'In my experience' - check, uses work metaphors - check",
+    "Yuki": "Speaks quickly - check, apologizes constantly ('sorry' appears 7 times) - check, nervous but directed energy - check"
+  },
+  "themes_explored": [
+    "Guilt of escaping poverty while studying those who didn't",
+    "Observer vs participant - academic distance vs human connection",
+    "Career advancement vs truth-telling",
+    "Research as resistance or complicity",
+    "Value without productivity",
+    "Labor hours vs being human",
+    "System attribution vs personal pathology",
+    "Objectivity as cowardice with credentials"
+  ],
+  "research_findings": [
+    "Labor participation down, satisfaction and health up",
+    "Crime down 67%",
+    "Community cohesion increased",
+    "People working less but volunteering more",
+    "Unanimous rejection of laziness narrative",
+    "Money seen as freedom from coercion, not incentive to stop contributing",
+    "Systemic factors recognized over individual failings"
+  ],
+  "chapter_function": "Introduce Dr. Amara Osei, establish her background and conflict, show her beginning research, plant seeds of her relationship with community and eventual collaboration with Reed, contrast academic observation with human reality"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Commander James Wright",
+  "age_range": "45-64 across trilogy",
+  "core_wound": "Rose from Level 7 through brutal work and moral compromises, terrified of falling back down, sees lower tiers as what he escaped from",
+  "wants": "To maintain order and protect upper tier interests, to prove he belongs in Level 3",
+  "needs": "To confront that he's become the oppressor he once feared, that order isn't justice",
+  "voice_markers": [
+    "Formal, bureaucratic language",
+    "Military precision in speech",
+    "Says 'for the good of the station' frequently",
+    "Clears throat before difficult statements"
+  ],
+  "contradiction": "Genuinely believes he's protecting people but enforces systems that harm them; sees himself as pragmatic but is actually ideological",
+  "physical_description": "Black man, imposing presence, perfectly maintained uniform, early gray hair, posture like steel, eyes that calculate constantly",
+  "arc_position_book1": 0.0,
+  "arc_position_book2": 0.3,
+  "arc_position_book3": 0.7,
+  "skills": [
+    "Strategic thinking and tactical planning",
+    "Bureaucratic maneuvering",
+    "Intimidation and interrogation",
+    "Understanding of station security systems"
+  ],
+  "flaws": [
+    "Ends-justify-means thinking",
+    "Class traitor - harder on lower tiers because of his own background",
+    "Workaholic who neglects personal life",
+    "Inability to admit when he's wrong"
+  ],
+  "knowledge_state_book1_start": [
+    "Complete station security apparatus",
+    "Lower tier culture from lived experience",
+    "Upper tier politics and corporate interests",
+    "Intelligence networks and informants"
+  ],
+  "relationships": {
+    "Nico Chen": "Sees him as symptom of lower tier dysfunction, later as threat to station order",
+    "Corporate Council": "Reports to them, wants their approval to secure his position",
+    "Maya Torres": "Professionally cordial, privately thinks social workers are naive",
+    "His own past": "Haunted by where he came from, never speaks of it"
+  }
+}

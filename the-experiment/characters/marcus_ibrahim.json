@@ -1,0 +1,42 @@
+{
+  "name": "Marcus Ibrahim",
+  "age_range": "45-62 across trilogy",
+  "core_wound": "Worked 30 years in waste processing, body destroyed by labor, forced into early 'retirement' (fired when too injured to work), system used him up and discarded him",
+  "wants": "To provide for his kids, to matter, to not be forgotten",
+  "needs": "To realize his worth isn't his labor, to find new purpose",
+  "voice_markers": [
+    "Speaks slowly, thoughtfully",
+    "Uses metaphors from his work",
+    "Says 'in my experience' before advice",
+    "Whistles old work songs"
+  ],
+  "contradiction": "Bitter about the system but still has hope for next generation, body is broken but spirit isn't",
+  "physical_description": "Black man, Middle Eastern features, once powerful build now bent from decades of hard labor, chronic pain visible in how he moves, missing three fingers, gray beard, kind eyes, gradually stands straighter when pain is managed",
+  "arc_position_book1": 0.0,
+  "arc_position_book2": 0.5,
+  "arc_position_book3": 1.0,
+  "skills": [
+    "Practical engineering and repair work",
+    "Community organizing from union days (before unions were crushed)",
+    "Mentorship and wisdom",
+    "Understanding station infrastructure intimately"
+  ],
+  "flaws": [
+    "Chronic pain from decades of labor",
+    "Leveler use for pain management (becomes addicted)",
+    "Stubbornly independent, won't ask for help",
+    "Depression about his 'uselessness'"
+  ],
+  "knowledge_state_book1_start": [
+    "Station infrastructure and systems",
+    "History of labor movements on station",
+    "How to organize people",
+    "Raising kids in poverty"
+  ],
+  "relationships": {
+    "Reed Salazar": "Buys Leveler from him, one of first to recognize Reed is doing something important",
+    "His children": "Two teenagers he's trying to keep in school despite poverty",
+    "Yuki Tanaka": "Mentorship relationship, teaches them to slow down",
+    "Dr. Amara Osei": "She interviews him, he becomes key voice in her research"
+  }
+}

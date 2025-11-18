@@ -1,0 +1,190 @@
+{
+  "chapter": 17,
+  "word_count": 2600,
+  "timeline": "Days 10-12 of Elara's infiltration, shortly after Chapter 16",
+  "location": "Old casino planning center, Mother Sera's apartment, Jax's apartment",
+  "characters_present": ["Jax Varro", "Finn", "Zara (briefly)", "Mother Sera", "Elara Quinn (as Elara Frost)"],
+  "character_states": {
+    "Jax Varro": {
+      "knows": [
+        "Finn doesn't trust Elara and has warned him directly",
+        "Mother Sera doesn't trust her either",
+        "Elara is not who she says she is - he's admitted this",
+        "She might be an informant gathering intelligence",
+        "Free Level has attracted too much attention from authorities",
+        "He's staying with her anyway because she makes him feel less alone",
+        "Finn has been his friend for 15 years",
+        "Mother Sera's mother fell in love with an informant 70 years ago who betrayed rebellion",
+        "200 people died because of that betrayal",
+        "Elara admitted she came under false pretenses",
+        "She admitted whatever started between them 'was something else'",
+        "He's choosing connection over safety despite all warnings"
+      ],
+      "emotional_state": "Conflicted, lonely, choosing love over caution, aware he's probably making a mistake",
+      "arc_position": 0.7,
+      "location": "His apartment with Elara",
+      "physical_state": "Exhausted, holding Elara while she sleeps",
+      "relationship_status": "Deepening relationship with Elara despite knowing she's hiding things",
+      "internal_conflict": "Trading safety for connection, choosing heart over head"
+    },
+    "Finn": {
+      "knows": [
+        "Jax is sleeping with Elara",
+        "He knows she's hiding something and is with her anyway",
+        "Elara moves like someone trained for violence",
+        "She asks intelligence-gathering questions",
+        "Jax is open and vulnerable in ways Finn has never seen in 15 years",
+        "Jax is 'desperate not to be alone'",
+        "Warning him won't change his mind"
+      ],
+      "emotional_state": "Frustrated, scared for Jax, hurt, protective, hiding deeper feelings",
+      "arc_position": 0.1,
+      "location": "Left the casino planning center",
+      "physical_state": "Controlled anger, emotional pain showing briefly",
+      "revelation": "Hinted at deeper feelings - 'Because you matter to me' and stopping before saying more",
+      "relationship": "15 years of friendship with Jax, watching him fall for someone else"
+    },
+    "Mother Sera": {
+      "knows": [
+        "Elara is probably not her real name",
+        "She asks intelligence-gathering questions",
+        "She got close to Jax very quickly",
+        "Jax is lonely and will stay with her anyway",
+        "Her mother fell in love with an informant during the rebellion",
+        "200 people died because of that betrayal",
+        "The system can survive violence but not people realizing they're human",
+        "Jax wants both the Free Level and personal happiness",
+        "He's probably going to sacrifice one for the other"
+      ],
+      "emotional_state": "Wise, sad, realistic about human nature and patterns repeating",
+      "location": "Her apartment",
+      "history_revealed": "Mother fell in love with informant who betrayed rebellion",
+      "advice": "Be careful, watch what he tells her, prepare for betrayal, but stay with her if he must"
+    },
+    "Elara Quinn": {
+      "knows": [
+        "Jax's friends don't trust her",
+        "He's aware she's not who she claims",
+        "He's staying with her despite warnings",
+        "She has access codes to his apartment",
+        "He's directly asked if she's here to hurt him"
+      ],
+      "emotional_state": "Compromised, guilty, falling for Jax, unable to fully confess",
+      "location": "Jax's apartment",
+      "action": "Admitted she came under false pretenses, that it started as 'something else'",
+      "deception": "Still hasn't revealed she's SSS, but admitted partial truth"
+    }
+  },
+  "revealed_to_reader": [
+    "Finn confronted Jax directly about sleeping with Elara",
+    "Jax admits he knows she's hiding something",
+    "Jax: 'She sees me' - first time someone sees him as more than his genetic designation",
+    "Finn has been Jax's friend for 15 years",
+    "Finn pulled Jax out of fights, stood by him during escape attempt",
+    "Finn recognizes patterns: con artists, undercover cops, people playing games",
+    "Finn's theory: She's infiltrator determining if Free Level is a threat",
+    "Jax's response: What information could she want? Operations are legal",
+    "Quote: 'Everyone in the undercity is hiding something. That's why they're here'",
+    "Finn: 'You're so desperate not to be alone that you'll take connection from someone lying to you'",
+    "Finn visibly flinched when Jax asked 'Why do you care so much?'",
+    "Finn stopped mid-sentence, couldn't finish explaining why Jax matters",
+    "PLANTED: Finn's unrequited feelings for Jax shown subtly",
+    "Mother Sera's mother fell in love during rebellion 70 years ago",
+    "Man was informant, reported every meeting/plan/name to SSS",
+    "200 people died in the crackdown",
+    "Someone killed the informant before SSS could extract him",
+    "Mother's mother never knew who killed him, spent life wondering if she missed signs",
+    "Mother Sera's advice: prepare for betrayal but stay with her if he must",
+    "Quote: 'The system can survive violence. It can't survive people realizing they're human'",
+    "Elara was waiting in Jax's apartment - has access codes",
+    "She was reading one of his old noir novels",
+    "Jax gave her access codes 2 days ago",
+    "Jax directly asked: 'Are you here to hurt me?'",
+    "Elara's partial confession: 'I came here for reasons I can't tell you about'",
+    "She admitted: 'Whatever I was looking for... it's not what I found'",
+    "She admitted: 'Everything between us started as something else'",
+    "She admitted: 'Finn might be right' about betrayal",
+    "They slept together again",
+    "Jax held her while she slept, staring at ceiling, knowing he's probably making a mistake",
+    "Final thought: choosing to be less alone even if temporary, dangerous, doomed"
+  ],
+  "planted": [
+    {
+      "element": "Finn's unrequited love for Jax",
+      "payoff_chapter": "Book 3, Chapter 16",
+      "significance": "Per story graph - during grief over Sera, Finn finally lets it go"
+    },
+    {
+      "element": "Mother Sera's mother's story - informant betrayal",
+      "payoff_chapter": null,
+      "significance": "Historical parallel to Jax and Elara, shows pattern repeating"
+    },
+    {
+      "element": "Informant was killed before extraction",
+      "payoff_chapter": null,
+      "significance": "Suggests violent response to betrayal in community"
+    },
+    {
+      "element": "System can survive violence but not people realizing they're human",
+      "payoff_chapter": "Books 2-3",
+      "significance": "Core threat of Free Level - consciousness raising, not physical rebellion"
+    },
+    {
+      "element": "Jax choosing connection over safety despite warnings",
+      "payoff_chapter": "Book 2, Chapter 7",
+      "significance": "Makes betrayal revelation more devastating - he chose this"
+    },
+    {
+      "element": "Elara's partial confession",
+      "payoff_chapter": 19-20,
+      "significance": "She tried to warn him, gave him hints, makes her guilt worse"
+    }
+  ],
+  "active_tensions": [
+    "Jax knowing Elara is hiding something but staying anyway",
+    "Finn's frustration and hidden feelings",
+    "Mother Sera's warning based on historical pattern",
+    "Elara's inability to fully confess",
+    "Countdown to inevitable betrayal revelation",
+    "Jax's loneliness overriding his caution",
+    "Question of whether Elara will betray or protect",
+    "Free Level's visibility attracting authority attention",
+    "Everyone warning Jax versus him choosing love"
+  ],
+  "world_changes": [
+    "Jax has given Elara access codes to his apartment",
+    "His relationships with Finn and Mother Sera are strained by his choice",
+    "Elara has made partial confession about false pretenses",
+    "Jax is consciously choosing risk over safety",
+    "Historical pattern established: informants infiltrating resistance movements"
+  ],
+  "continuity_notes": [
+    "Days 10-12 of infiltration (following Ch16)",
+    "Finn and Jax: 15-year friendship established",
+    "Access codes given 2 days ago (day 10 of infiltration)",
+    "Mother Sera's mother's rebellion 70 years ago (matches established timeline)",
+    "200 people killed in rebellion crackdown (mentioned in Ch13 as well)",
+    "Planning center is in old casino (same location as other meetings)",
+    "Jax has old noir novels collection (established in Ch1)",
+    "Next chapter should show what Elara witnesses that changes her"
+  ],
+  "emotional_beats": [
+    "Finn's protective anger and hurt",
+    "Jax defending Elara despite knowing better",
+    "Finn's almost-confession of deeper feelings",
+    "Mother Sera's sad wisdom about repeating patterns",
+    "Historical parallel: mother's betrayal story",
+    "Jax's direct confrontation with Elara",
+    "Elara's partial confession",
+    "Jax choosing connection over safety",
+    "Holding her while knowing it's probably doomed",
+    "Acceptance of temporary happiness despite danger"
+  ],
+  "character_development": [
+    "Jax: Consciously choosing emotional risk, admitting loneliness drives decisions",
+    "Finn: Unrequited feelings beginning to show, protective instincts strong",
+    "Mother Sera: Using mother's story to warn without demanding",
+    "Elara: Moving toward honesty but still can't fully confess",
+    "Jax's self-awareness: Knows he's making mistake but does it anyway"
+  ]
+}

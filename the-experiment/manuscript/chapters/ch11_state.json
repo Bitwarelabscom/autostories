@@ -1,0 +1,126 @@
+{
+  "chapter": 11,
+  "word_count": 2963,
+  "timeline": "Month 7 of experiment",
+  "location": "Sector 12, Building 7 common area, Reed's apartment",
+  "characters_present": ["Reed Salazar", "Yuki Tanaka", "Marcus Ibrahim", "Chen Rodriguez", "Sarah Kim", "Liu", "Indira", "mentioned: Executive Director Jonathan Harris", "Marcus Venn (CMN anchor)", "Gerald Houston", "Rodriguez (manager)", "Jennifer Wu", "fake Sector 12 resident"],
+  "character_states": {
+    "Reed Salazar": {
+      "knows": ["Corporate knows about experiment", "They're investigating source", "Harris spoke directly to benefactor on TV", "They're close to finding him", "Corporate will sabotage with 'support measures'", "He could stop but won't"],
+      "emotional_state": "Angry, defiant, choosing to fight, documenting everything for the record",
+      "arc_position": 0.32,
+      "location": "Building 7, then his apartment"
+    },
+    "Executive Harris": {
+      "knows": ["Experiment is deliberate", "Someone with capital is running it", "Financial forensics being done", "Close to identifying source"],
+      "emotional_state": "Genuinely believes he's right, concerned for 'pre-prosperous' citizens, paternalistic",
+      "arc_position": 0.05,
+      "location": "CMN studio"
+    },
+    "Yuki Tanaka": {
+      "knows": ["Corporate is attacking them", "Media won't interview real residents", "They're happy but being called crisis"],
+      "emotional_state": "Angry, defensive, proud of transformation",
+      "arc_position": 0.38,
+      "location": "Building 7 common area"
+    },
+    "Marcus Ibrahim": {
+      "knows": ["Corporate plants in interviews", "Media manipulation tactics", "Need to organize collective response", "His union experience relevant"],
+      "emotional_state": "Protective, strategic, ready to organize",
+      "arc_position": 0.35,
+      "location": "Building 7 common area"
+    }
+  },
+  "revealed_to_reader": [
+    "First corporate media hit piece airs on CMN",
+    "Broadcast frames Sector 12 as 'labor defection event' and crisis",
+    "ProspectCafe lost 30% of overnight workforce",
+    "Corporate interviews managers, not actual residents",
+    "Uses fake Sector 12 resident (corporate plant) who claims crime up",
+    "Actual crime is down 67% per Marcus",
+    "Dr. Evan Harris is actually Executive Director Harris, Economic Policy Advisor",
+    "Harris acknowledges 'irregular transfers' exist",
+    "Corporate presenting productivity metrics showing decline",
+    "Metrics dishonest: measure exploitation not wellbeing",
+    "Director Wu announces 'support measures' (actually punishments)",
+    "Measures: cut services, harder prosperity scores, investigate finances, make life worse",
+    "Corporate framing: 'prosperity erosion,' 'entitlement,' 'handouts'",
+    "Four hit pieces air over one week",
+    "Online discourse divided - some sectors questioning",
+    "Harris speaks directly to benefactor on camera: 'Stop'",
+    "Corporate doing financial forensics, close to finding source",
+    "Reed increases payment from 2,000 to 2,500 to offset corporate sabotage",
+    "Reed sends message to recipients about cost of living adjustment",
+    "Reed documenting all propaganda for future record"
+  ],
+  "planted": [
+    {
+      "element": "Corporate 'support measures' announced",
+      "payoff_chapter": 17,
+      "significance": "These will be implemented and Sector 12 will feel the squeeze"
+    },
+    {
+      "element": "Financial forensics ongoing",
+      "payoff_chapter": "Book 2 Ch 16",
+      "significance": "This is how they eventually identify Reed"
+    },
+    {
+      "element": "Harris speaks directly to benefactor",
+      "payoff_chapter": "Book 2 Ch 20",
+      "significance": "Personal relationship begins, leads to the offer"
+    },
+    {
+      "element": "Other sectors debating online",
+      "payoff_chapter": "Book 2",
+      "significance": "Seeds of station-wide movement"
+    },
+    {
+      "element": "Marcus recognizes need to organize",
+      "payoff_chapter": 18,
+      "significance": "Community organizing becomes crucial"
+    },
+    {
+      "element": "Reed documenting everything",
+      "payoff_chapter": "Book 3",
+      "significance": "This becomes his legacy data and final video"
+    }
+  ],
+  "continuity_notes": [
+    "Month 7 of experiment",
+    "Four broadcasts over one week",
+    "Payment increased from 2,000 to 2,500 SC/month",
+    "Crime actually down 67%",
+    "Labor participation down 47% (from ch10)",
+    "Building 7 community watching together",
+    "Common area established as gathering place",
+    "SectorChat forums mentioned - station-wide communication",
+    "CMN (Corporate Media Network) is main propaganda outlet",
+    "Jennifer Wu is Director of Resource Allocation"
+  ],
+  "voice_check": {
+    "Reed": "Deadpan commentary ('Oh good, we're entitled now'), bitter translation of corporate speak, rage breaking through exhaustion - check",
+    "Harris": "Corporate euphemisms throughout ('pre-prosperous', 'prosperity erosion', 'irregular transfers'), friendly tone ordering cruelty, genuinely believes his own propaganda - check",
+    "Marcus Venn (anchor)": "Professional sympathy, 'concerned but not distressed' - check",
+    "Yuki": "Direct emotional response, defending their transformation - check",
+    "Marcus Ibrahim": "Strategic analysis, recognizes patterns, 'In my experience' implied - check"
+  },
+  "themes_explored": [
+    "Media manipulation and propaganda",
+    "Corporate framing of liberation as crisis",
+    "Euph emistic language hiding violence",
+    "Surveillance and financial forensics",
+    "Collective organizing vs individual resistance",
+    "Truth vs narrative control",
+    "Paternalistic 'concern' as weapon",
+    "Work as dignity (corporate myth) vs work as coercion (reality)"
+  ],
+  "corporate_propaganda_techniques": [
+    "Interview managers/economists, not affected people",
+    "Use plants/actors to support narrative",
+    "Present dishonest but technically accurate statistics",
+    "Frame liberation as pathology",
+    "Ignore contradictory data (crime down, health up)",
+    "Use euphemisms to obscure violence",
+    "Appeal to shared values (dignity, community) while meaning opposite",
+    "Announce punishments as 'support measures'"
+  ]
+}

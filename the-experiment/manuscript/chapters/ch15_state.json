@@ -1,0 +1,170 @@
+{
+  "chapter": 15,
+  "word_count": 2750,
+  "timeline": "Month 10-11 of the experiment",
+  "location": "Sector 12, Building 7 and Reed's apartment",
+  "characters_present": ["Reed Salazar", "Dr. Amara Osei", "Sarah Kim", "Chen Rodriguez", "Yuki Tanaka", "Marcus Ibrahim", "Executive Director Jonathan Harris (on broadcast)"],
+  "character_states": {
+    "Reed Salazar": {
+      "knows": [
+        "Amara is from Sector 8, understands lower sectors personally",
+        "Amara has figured out his identity",
+        "Corporate is implementing punitive measures against Sector 12",
+        "He needs to increase funding by 800 credits/month per unit to compensate",
+        "Amara will present findings at conference in 6 weeks",
+        "His life is at risk but the data will survive",
+        "Corporate will eventually find him",
+        "He's willing to die for this"
+      ],
+      "emotional_state": "Committed. Made the choice to fight rather than hide. Feels like it finally means something. Acceptance of likely death. Pride in what Building 7 has become.",
+      "arc_position": 0.45,
+      "location": "Building 7, Sector 12",
+      "physical_state": "Still using Leveler but functional, healthier from having purpose"
+    },
+    "Dr. Amara Osei": {
+      "knows": [
+        "Reed Salazar is the source of the UBI funds",
+        "He was a financial analyst, now a dealer",
+        "He found corporate black ops money",
+        "The full dataset shows revolutionary results",
+        "Corporate is retaliating against Sector 12",
+        "Reed is willing to die for the experiment",
+        "The data contradicts every economic model she was taught",
+        "She has full documentation to publish"
+      ],
+      "emotional_state": "Conflicted but committed. Torn between academic caution and moral imperative. Choosing to help Reed and publish truth. Concerned for his safety.",
+      "arc_position": 0.35,
+      "location": "Sector 12 (conducting research), also has university position",
+      "physical_state": "Healthy, stressed from corporate pressure and moral weight of research"
+    },
+    "Yuki Tanaka": {
+      "knows": [
+        "Corporate is implementing punitive fees and measures",
+        "This is retaliation for Sector 12's success",
+        "The community needs to organize in response"
+      ],
+      "emotional_state": "Angry but not defeated. Ready to fight. Recognizes punishment for being happy.",
+      "arc_position": 0.40,
+      "location": "Building 7"
+    },
+    "Marcus Ibrahim": {
+      "knows": [
+        "Corporate is trying to prove UBI failed by making residents suffer",
+        "This is a deliberate strategy, not policy",
+        "Community needs collective response"
+      ],
+      "emotional_state": "Grim understanding. Not surprised by corporate cruelty. Strategic about resistance.",
+      "arc_position": 0.38,
+      "location": "Building 7"
+    }
+  },
+  "revealed_to_reader": [
+    "Amara is from Sector 8, climbed through education and debt",
+    "She actually listens to residents and recognizes their humanity",
+    "Reed has been watching her for 2 weeks before contacting her",
+    "Reed contacts Amara through encrypted anonymous channels",
+    "He provides her with full dataset: 400 pages of documentation",
+    "Amara figures out Reed's identity from the data patterns",
+    "They agree to collaborate—she'll publish, he'll keep funding",
+    "Corporate announces 'Sector Optimization Initiative' - punitive measures:",
+    "  - 'Prosperity recalibration fees' for air, water, maintenance",
+    "  - Required minimum labor participation to access services",
+    "  - Prosperity scores tanked for those who quit jobs",
+    "New fees cost ~800 credits/month per resident",
+    "Reed increases transfers to 2800 credits/month to compensate",
+    "Amara will present findings at Interstation Economics Conference in 6 weeks",
+    "Reed accepts he'll likely die but data will survive",
+    "Community organizing collective response, not breaking"
+  ],
+  "planted": [
+    {
+      "element": "Amara knows Reed's identity",
+      "payoff_chapter": null,
+      "significance": "Sets up their eventual face-to-face meeting and collaboration throughout Book 2"
+    },
+    {
+      "element": "Conference presentation in 6 weeks",
+      "payoff_chapter": 19,
+      "significance": "This is where the research goes public (Chapter 19)"
+    },
+    {
+      "element": "Corporate's punitive measures pattern",
+      "payoff_chapter": 16,
+      "significance": "Corporate will continue escalating pressure"
+    },
+    {
+      "element": "Reed's acceptance he'll probably die",
+      "payoff_chapter": null,
+      "significance": "Foreshadowing Book 3 death, but also his arc of finding meaning"
+    },
+    {
+      "element": "Amara's academic position vs moral imperative conflict",
+      "payoff_chapter": 20,
+      "significance": "She'll be threatened by corporate to stop research (Ch 20)"
+    },
+    {
+      "element": "Community's collective organizing response",
+      "payoff_chapter": 18,
+      "significance": "Community will organize mutual aid and resistance"
+    },
+    {
+      "element": "'Whatever happens to you, the data survives'",
+      "payoff_chapter": null,
+      "significance": "Becomes Reed's strategy through Book 2-3: ensure data outlives him"
+    }
+  ],
+  "active_tensions": [
+    "Reed's anonymity vs Amara knowing his identity",
+    "Corporate escalation vs community resistance",
+    "Reed's safety vs his commitment to the experiment",
+    "Academic freedom vs corporate pressure on Amara",
+    "Will residents break under new fees or organize?",
+    "6 weeks until data goes public - can they last that long?",
+    "When will corporate find Reed?"
+  ],
+  "world_changes": [
+    "Corporate has implemented 'Sector Optimization Initiative' in Sector 12",
+    "New fees: 'prosperity recalibration' charges for basic services",
+    "Required labor participation for service access",
+    "Prosperity score penalties for reducing work",
+    "Reed increases UBI to 2800 credits/month (from 2000)",
+    "Amara and Reed are now actively collaborating",
+    "Conference presentation scheduled - data will go public in 6 weeks",
+    "Building 7 residents organizing collective response"
+  ],
+  "continuity_notes": [
+    "Timeline: Month 10-11 (about 10 months into experiment)",
+    "Amara has been in Sector 12 for 2 weeks researching",
+    "New UBI amount: 2800 credits/month (increase of 800 to cover fees)",
+    "New monthly burn rate: 560,000 credits (200 units x 2800)",
+    "Reed has sent Amara 400 pages of documentation",
+    "Conference is 6 weeks away (Interstation Economics Conference)",
+    "Amara grew up in Sector 8, climbed via scholarships and debt",
+    "Executive Director Jonathan Harris is public face of corporate",
+    "Reed's encrypted messages signed 'A Friend of the Experiment' then 'Friend'",
+    "Reed still doing dealer rounds, still in Building 7, not hiding"
+  ],
+  "voice_check": {
+    "Reed": "Maintained - 'Probably both' (smart decision or death warrant), deadpan acceptance of danger, ironic detachment, but growing commitment showing through",
+    "Amara": "Established - Academic language ('statistically revolutionary'), asks questions, careful precision, moral clarity ('we're doing it right')",
+    "Marcus": "Maintained - Strategic thinking, sees patterns, grim realism ('Not punishment. They're trying to prove a point')",
+    "Yuki": "Evolution continuing - More direct, less apologetic, angry ('They're punishing us for being happy')"
+  },
+  "themes_developed": [
+    "Systems punish success that threatens them",
+    "Individual sacrifice vs collective survival",
+    "Data/truth as weapon against power",
+    "Academic complicity vs moral action",
+    "Community resilience under attack",
+    "Reed's arc: from nihilism to meaning through sacrifice"
+  ],
+  "emotional_beats": [
+    "Reed watching Amara actually listen to Sarah - recognition she's different",
+    "Amara revealing she's from Sector 8 - vulnerability and trust",
+    "Reed's decision to contact her - point of no return",
+    "Corporate announcement - the threat becomes real",
+    "Amara figuring out Reed's identity - intimacy of being known",
+    "Reed's acceptance of likely death for meaning - tragic heroism",
+    "Community organizing instead of breaking - hope"
+  ]
+}

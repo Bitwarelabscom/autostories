@@ -1,0 +1,42 @@
+{
+  "name": "Lin Zhao",
+  "age_range": "52-71 across trilogy",
+  "core_wound": "Lost her family in an industrial accident caused by corporate negligence, received no compensation, has lived in Level 8 for 30 years",
+  "wants": "To survive with dignity, to see justice for workers",
+  "needs": "To trust others again, to believe collective action can work",
+  "voice_markers": [
+    "Speaks bluntly, no patience for bullshit",
+    "Uses Chinese phrases when emotional",
+    "Calls younger people 'child' affectionately",
+    "Dark humor about poverty and suffering"
+  ],
+  "contradiction": "Deeply cynical about change but can't stop trying to help her neighbors; claims not to care but is first to help in crisis",
+  "physical_description": "Chinese elder, gray hair in practical bun, weathered face with laugh lines, arthritic hands from decades of manual labor, sharp eyes that miss nothing",
+  "arc_position_book1": 0.0,
+  "arc_position_book2": 0.5,
+  "arc_position_book3": 1.0,
+  "skills": [
+    "Community organizing from decades of experience",
+    "Practical skills - cooking, repair work, first aid",
+    "Reading people and situations",
+    "Memory like steel - knows everyone's story"
+  ],
+  "flaws": [
+    "Difficulty accepting help - too proud",
+    "Sometimes too quick to dismiss hope as naive",
+    "Holds grudges for decades",
+    "Won't leave Level 8 even when given opportunity"
+  ],
+  "knowledge_state_book1_start": [
+    "30 years of Level 8 history and politics",
+    "Who can be trusted, who's an informant",
+    "How to survive on nothing",
+    "Every family's story in her housing block"
+  ],
+  "relationships": {
+    "Nico Chen": "Dismisses him as another junkie dealer at first, slowly becomes mentor/grandmother figure",
+    "Level 8 community": "Respected elder, people come to her for advice and conflict resolution",
+    "Commander Wright": "Represents everything wrong with people who forget where they came from",
+    "Maya Torres": "Respects her for coming back to help, wishes she'd break more rules"
+  }
+}

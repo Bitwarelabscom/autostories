@@ -1,0 +1,43 @@
+{
+  "name": "Mother Sera",
+  "age_range": "68-85 across trilogy",
+  "caste": "Gamma",
+  "core_wound": "Was alive during The Sealing 150 years ago (this is wrong, she'd be impossibly old - CORRECTED: She's 68, her parents lived through The Sealing, she grew up hearing stories), saw her community destroyed and forgotten",
+  "wants": "To preserve undercity community and history before everyone forgets",
+  "needs": "To pass the torch to younger generation, to believe her suffering wasn't meaningless",
+  "voice_markers": [
+    "Speaks slowly, deliberately, like every word matters",
+    "Tells stories in circular way, building to point",
+    "Uses old slang from 50 years ago",
+    "Hums old labor songs when working"
+  ],
+  "contradiction": "Preaches non-violence but runs weapons cache for resistance, tells people to survive but is preparing them to fight",
+  "physical_description": "Black woman, white natural hair in crown of locks, face deeply lined, Gamma modifications gave her enhanced lung capacity (for toxic environments) but now has breathing problems in old age, moves slowly but with dignity, always wears old coveralls from her working days",
+  "arc_position_book1": 0.0,
+  "arc_position_book2": 0.6,
+  "arc_position_book3": 1.0,
+  "skills": [
+    "Undercity history and oral tradition keeper",
+    "Conflict mediation - everyone respects her",
+    "Old station engineering knowledge",
+    "Organizing people without them realizing"
+  ],
+  "flaws": [
+    "Too patient - sometimes waits when action is needed",
+    "Difficulty accepting help - too independent",
+    "Health failing but refuses to slow down",
+    "Sometimes lost in the past"
+  ],
+  "knowledge_state_book1_start": [
+    "Undercity history going back 50 years",
+    "Location of old resistance weapons and supplies",
+    "How station systems work from working on them decades ago",
+    "Everyone's family history and connections"
+  ],
+  "relationships": {
+    "Jax Varro": "Sees his potential, becomes mentor figure, teaches him pride in being Gamma",
+    "Finn": "Knew their mother, protective of them",
+    "Elara Quinn": "Deeply suspicious, tests her repeatedly, eventually accepts her with conditions",
+    "The Undercity": "Matriarch and memory keeper, everyone comes to her for wisdom"
+  }
+}

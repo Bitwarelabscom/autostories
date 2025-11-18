@@ -1,0 +1,188 @@
+{
+  "chapter": 32,
+  "book": 2,
+  "book_chapter": 12,
+  "word_count": 1789,
+  "timeline": "Month 49-50 of the experiment, ~5 months after Chapter 27",
+  "location": "Reed's apartment, strike locations across 17 sectors, Sector 15 strike headquarters",
+  "characters_present": ["Reed Salazar", "Dr. Amara Osei (embedded with strikers)", "Marcus Ibrahim (leading organizing)", "Executive Director Harris (via statements)", "43,000 striking workers (background)", "Nova Prosperity Workers' Coordinating Council"],
+  "character_states": {
+    "Reed Salazar": {
+      "knows": [
+        "43,000 workers across 17 sectors are on strike",
+        "They're demanding structural changes, not UBI",
+        "The movement has transcended his funding",
+        "He has 5 months of funds remaining (4.2M credits)",
+        "Marcus is teaching organizing strategies to new generation",
+        "Corporate is scared and offering negotiations",
+        "Higher-level corporate wants to make him an offer",
+        "He's 36 years old now",
+        "The council wants to meet him in person",
+        "The revolution no longer needs him"
+      ],
+      "emotional_state": "Complex mix of grief, pride, relief, and hope. Feeling obsolete but also successful. Accepting mortality and irrelevance as signs of success.",
+      "arc_position": 0.75,
+      "location": "His apartment, watching strike feeds",
+      "physical_state": "Still declining, shaking hands, Leveler dependent, exhausted, looking sick and thin"
+    },
+    "Dr. Amara Osei": {
+      "knows": [
+        "The strikes are genuine grassroots organizing",
+        "Reed is struggling with becoming obsolete",
+        "The movement proves his experiment worked beyond money",
+        "Reed needs to come out of hiding and meet the movement",
+        "Workers learned solidarity from watching Sector 12"
+      ],
+      "emotional_state": "Excited by the movement, protective of Reed, documenting historical moment",
+      "arc_position": 0.78,
+      "location": "Sector 15 strike headquarters, embedded journalist",
+      "physical_state": "Functional, energized by the movement"
+    },
+    "Marcus Ibrahim": {
+      "knows": [
+        "Old union organizing strategies still work",
+        "Community can sustain through mutual aid",
+        "Solidarity is the key weapon",
+        "Sector 12 proved people deserve dignity",
+        "They don't need UBI to demand better treatment"
+      ],
+      "emotional_state": "Empowered, teaching, finding renewed purpose in labor organizing",
+      "arc_position": 0.58,
+      "location": "Sector 15 strike headquarters, leading training",
+      "physical_state": "Managing pain better, energized by teaching and movement"
+    },
+    "Executive Director Jonathan Harris": {
+      "knows": [
+        "The strikes are unprecedented and widespread",
+        "Simple suppression won't work against 43,000 workers",
+        "Must negotiate or risk complete loss of control",
+        "Reed Salazar is still the key pressure point",
+        "Need to isolate Reed from the movement"
+      ],
+      "emotional_state": "Controlled panic, strategic retreat to negotiation",
+      "arc_position": 0.18,
+      "location": "Corporate offices, emergency Board meetings"
+    }
+  },
+  "revealed_to_reader": [
+    "Station-wide strike: 43,000 workers across 17 sectors",
+    "Strike coordinated by Nova Prosperity Workers' Coordinating Council (new organization)",
+    "Workers demanding structural changes: living wages, healthcare, Board representation, end to prosperity score discrimination",
+    "Not demanding UBI - movement transcended original experiment",
+    "Corporate attempted threats, then shifted to negotiation offer",
+    "Reed has 4.2M credits left (5 months of funding)",
+    "Reed is 36 years old (had birthday last month)",
+    "Marcus teaching organizing strategies from old union days",
+    "Sectors organizing mutual aid networks to sustain strike",
+    "Corporate tried replacement workers, other sectors blocked them",
+    "Workers willing to tank prosperity scores for solidarity",
+    "Corporate higher-ups preparing 'final offer' for Reed",
+    "Reed agreed to meet coordinating council in person tomorrow",
+    "Mural repainted: 'We Are All Sector 12'",
+    "Reed sent simple 'No' to corporate offer"
+  ],
+  "planted": [
+    {
+      "element": "Reed's agreement to meet council in person",
+      "payoff_chapter": "Book 2 Ch 16 - The Confrontation",
+      "significance": "Reed coming out of hiding sets up Amara finding him"
+    },
+    {
+      "element": "Corporate 'final offer' being prepared",
+      "payoff_chapter": "Book 2 Ch 20 - Forty-Eight Hours",
+      "significance": "The deal Harris will propose"
+    },
+    {
+      "element": "5 months of funding remaining",
+      "payoff_chapter": "Book 2 Ch 20, Book 3 Ch 1",
+      "significance": "Timeline to depletion accelerating"
+    },
+    {
+      "element": "Workers' mutual aid networks sustaining strike",
+      "payoff_chapter": "Book 3 Ch 6 - Seeding Cooperatives, Ch 12 - UBI Ends",
+      "significance": "Community learning to sustain without UBI"
+    },
+    {
+      "element": "Marcus teaching next generation organizing",
+      "payoff_chapter": "Book 3 Ch 9 - Marcus's Last Lessons",
+      "significance": "Knowledge transfer before he's too old"
+    },
+    {
+      "element": "Reed's refusal of corporate contact",
+      "payoff_chapter": "Book 2 Ch 20, Book 3 Ch 1",
+      "significance": "Establishes his resistance to being bought"
+    },
+    {
+      "element": "Movement transcending catalyst",
+      "payoff_chapter": "Book 3 Ch 12 - The UBI Ends",
+      "significance": "Core theme payoff - people sustain change"
+    }
+  ],
+  "active_tensions": [
+    "Will corporate crush the strikes?",
+    "Can workers sustain without breaking?",
+    "What will Reed meeting the council reveal?",
+    "What is the 'final offer' corporate is preparing?",
+    "Will solidarity hold across sectors?",
+    "Can Reed survive 5 more months?",
+    "What happens when UBI payments end?"
+  ],
+  "world_changes": [
+    "Nova Prosperity Workers' Coordinating Council exists - first multi-sector labor organization",
+    "43,000 workers on strike simultaneously - unprecedented",
+    "Corporate forced to negotiate for first time",
+    "Mutual aid networks operating across sectors",
+    "Sector barriers breaking down through solidarity",
+    "Workers openly defying prosperity score consequences",
+    "Labor organizing back after decades of suppression",
+    "Corporate's absolute control fundamentally challenged"
+  ],
+  "continuity_notes": [
+    "Timeline: Month 49-50, approximately 5 months after Ch 27",
+    "Reed's age: 36 (had birthday last month)",
+    "Reed's funds: 4.2M credits (down from 7.8M in Ch 27)",
+    "5 months of funding remaining",
+    "Strike happened on Tuesday at 0900 hours",
+    "17 sectors participating, 43,000 workers total",
+    "Workers' demands: 7 specific structural changes, no mention of UBI",
+    "Corporate gave 24-hour ultimatum, then shifted to negotiation",
+    "Mural on Building 4 repainted with 'We Are All Sector 12'",
+    "Reed hasn't slept in 3 days before this chapter",
+    "Amara embedded with Sector 15 strike coordination",
+    "Marcus teaching in Sector 15 strike headquarters"
+  ],
+  "voice_check": {
+    "Reed": "Deadpan observations ('Revolutions should happen on Tuesdays'), complex emotions about obsolescence, dark humor, accepting",
+    "Amara": "Direct truth-telling, protective but pushing Reed to engage, documentary precision",
+    "Marcus": "Teaching voice, solidarity language, practical organizing wisdom",
+    "Harris": "Corporate negotiation-speak, euphemisms ('dialogue', 'good faith'), fear masked as disappointment"
+  },
+  "themes_advanced": [
+    "Movement transcending individual catalyst",
+    "Money as spark, people as sustaining fire",
+    "Solidarity as more powerful than individual benefits",
+    "Collective action vs individual sacrifice",
+    "Obsolescence as success for catalysts",
+    "Workers discovering own power through example",
+    "Structural change vs charity"
+  ],
+  "emotional_beats": [
+    "Reed realizing he's obsolete - complex grief/pride",
+    "43,000 workers walking off - power of collective action",
+    "Marcus teaching in room full of workers - generational transfer",
+    "Corporate shifting from threats to negotiation - fear",
+    "Reed agreeing to meet council - choosing visibility",
+    "Mural showing cross-sector solidarity - movement unity",
+    "Reed's simple 'No' to corporate - defiance",
+    "Dreaming of Marco seeing this - meaning in sacrifice"
+  ],
+  "setup_for_next_chapters": [
+    "Reed will meet coordinating council tomorrow",
+    "Corporate preparing escalated offer",
+    "Amara will be there when Reed goes public",
+    "Strikes continuing, negotiations beginning",
+    "5-month countdown to fund depletion",
+    "Reed's health continuing to decline",
+    "Movement proving sustainability without UBI"
+  ]
+}

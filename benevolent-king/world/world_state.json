@@ -1,0 +1,38 @@
+{
+  "genre": "Social science fiction / Political thriller",
+  "setting": {
+    "time_period": "2950 CE",
+    "primary_location": "Orbital Station Covenant-7, a massive multi-tiered space station orbiting Jupiter",
+    "atmosphere": "Grimdark cyberpunk with moments of hope, stark class divisions, decaying infrastructure in lower levels contrasts with gleaming upper tiers"
+  },
+  "rules": {
+    "technology_level": {
+      "general": "Advanced but unevenly distributed - upper tiers have clean energy, medical nanites, AI assistance; lower tiers have 50-year-old tech, constant breakdowns",
+      "currency": "Digital credits (standard), but also black market crypto and data cores",
+      "surveillance": "Omnipresent in mid-to-upper levels via biometric scanners, facial recognition, transaction tracking; lower levels have blind spots",
+      "medical": "Universal basic healthcare exists but is overwhelmed; quality care requires wealth or connections; addiction treatment is punitive rather than therapeutic"
+    },
+    "social_structures": {
+      "tier_system": "Station divided into 10 levels - Levels 1-3 (elite/corporate), 4-6 (professional/working class), 7-9 (poor/precarious), Level 10 (slums/forgotten). Movement between tiers is legally possible but practically impossible due to credit checks, background screenings, employment requirements.",
+      "employment": "Gig economy dominates lower tiers - short contracts, no benefits, constant precarity. Upper tiers have stable corporate positions. Labor is extracted from bottom to serve top.",
+      "law_enforcement": "Station Security Services (SSS) heavily patrol upper levels, barely present in lower levels except for raids. Private security for corporate zones. Lower levels police themselves or fall to gang control.",
+      "drugs": "Veil (the main drug) - synthetic psychoactive that provides euphoria and temporary escape, highly addictive, destroys dopamine receptors over time. Officially illegal but enforcement only targets dealers, not corporate suppliers. Other drugs exist but Veil is the epidemic."
+    },
+    "economic_rules": {
+      "mobility": "Designed to prevent upward movement - requires clean record, credit history, proof of stable income, biometric registration. Any criminal record (including drug possession) permanently bars tier advancement.",
+      "housing": "Tiered system - upper levels have spacious apartments, lower levels have pod hotels and communal blocks. Homelessness exists in maintenance tunnels and abandoned sections.",
+      "labor_extraction": "System requires cheap labor from lower tiers to maintain upper tier comfort - cleaning, maintenance, food service, manufacturing, waste management. If lower tiers stop working, system collapses."
+    },
+    "world_physics": {
+      "gravity": "Artificial gravity via rotating sections - quality varies by tier. Upper levels have perfect 1G, lower levels have fluctuations and occasional failures.",
+      "atmosphere": "Recycled air with quality declining in lower levels - upper tiers smell clean, lower tiers smell of industrial processes, algae farms, human density.",
+      "geography": "Covenant-7 is enormous - 50km long, houses 2 million people. Built over 200 years, layers added as needed. Oldest sections (lower levels) are decaying."
+    }
+  },
+  "themes": [
+    "Can individual charity solve systemic oppression?",
+    "The corruption of power even with good intentions",
+    "Class warfare and economic exploitation"
+  ],
+  "tone": "Gritty and realistic with flashes of dark humor, focuses on systemic cruelty and small human dignities, unafraid to show ugliness but also finds beauty in resistance"
+}

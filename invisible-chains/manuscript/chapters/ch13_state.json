@@ -1,0 +1,167 @@
+{
+  "chapter": 13,
+  "word_count": 2900,
+  "timeline": "Shortly after Chapter 12, same time period",
+  "location": "Mother Sera's apartment (Building 17, Unit 347, Sector 9), Marcus's storage bay (Sector 11), return to Building 47",
+  "characters_present": ["Jax Varro", "Mother Sera", "Marcus (injured worker)", "Marcus's sister (unnamed, ~16 years old)", "Dr. Yin (mentioned)", "Finn (via message)"],
+  "character_states": {
+    "Jax Varro": {
+      "knows": [
+        "Mother Sera has been watching him since first building",
+        "The Free Level is dangerous because it teaches Gammas they deserve better",
+        "70 years ago rebellion led to killing 200 people, then the Sealing",
+        "Mother Sera's mother lived through the rebellion",
+        "Labor songs exist from the rebellion era",
+        "Songs are written in Mother Sera's mother's notebook (now his)",
+        "He passed Mother Sera's test about justice vs. charity",
+        "Marcus needs 50k in medical treatment, can't pay it back",
+        "Hope is dangerous - revolution, not just charity",
+        "Station authority will come eventually"
+      ],
+      "emotional_state": "Committed, understanding the revolutionary nature of his work, accepting the danger",
+      "arc_position": 0.7,
+      "location": "Walking back to Building 47 through rain",
+      "physical_state": "Wet from rain, carrying historical notebook",
+      "revelation": "He's building revolution disguised as charity",
+      "possession": "Notebook with labor songs from 70 years ago"
+    },
+    "Mother Sera": {
+      "knows": [
+        "Been watching Jax since first building purchase",
+        "The Free Level is building revolutionary consciousness",
+        "Station authority will respond eventually",
+        "Her mother survived the rebellion 70 years ago",
+        "Labor songs are cultural weapon",
+        "Jax passed her test - chose justice over charity",
+        "Marcus and sister will go to clinic"
+      ],
+      "emotional_state": "Approving, cautiously hopeful, protective of history",
+      "location": "Building 17, Unit 347, Sector 9",
+      "background": "Mother lived through rebellion, she grew up hearing stories",
+      "action": "Tested Jax, gave him historical notebook, blessed his work",
+      "philosophy": "Charity can be withdrawn, justice can't. Hope is dangerous but necessary."
+    },
+    "Marcus": {
+      "knows": [
+        "Jax is offering free medical treatment and housing",
+        "Mother Sera sent Jax to help him",
+        "He can't pay it back",
+        "Dr. Yin will see him at clinic tomorrow"
+      ],
+      "emotional_state": "Pained, suspicious, cautiously hopeful",
+      "location": "Storage bay Sector 11, then moving to clinic/Free Level",
+      "injury": "Crushed hand from workplace accident, poorly set bones, needs surgery",
+      "background": "23 years old, fired after workplace injury, has younger sister (~16) to care for"
+    }
+  },
+  "revealed_to_reader": [
+    "Mother Sera lives in Building 17, Unit 347, Sector 9",
+    "Her apartment is immaculate, full of books, 40 years in same place",
+    "She's 70+ years old, white hair in long locs",
+    "Building 17 is first-generation architecture, art deco details",
+    "Rebellion 70 years ago: workers organized, demanded fair treatment",
+    "Station authority killed 200 people, then sealed Level 9",
+    "Took 50 years for survivors to figure out how to survive sealed in",
+    "Mother Sera's mother lived through rebellion, told her stories",
+    "Labor songs existed: sung while working, organizing, resisting",
+    "Songs in multiple languages, passed down orally",
+    "One labor song verse in unknown language about building with broken hands",
+    "English translation: 'We built these walls with broken hands / We lit these lights with borrowed time / They call us beasts, they call us less / But we are human, we are here'",
+    "Mother Sera has notebook with songs her mother wrote down",
+    "She gave the notebook to Jax",
+    "Marcus: 23 years old, crushed hand from workplace accident",
+    "Employer fired him without compensation",
+    "Lives in storage bay Sector 11 with sister (~16 years old)",
+    "Treatment will cost ~50k (surgery, rehab, pain management)",
+    "He can never pay it back",
+    "Mother Sera's test: help someone who can't repay vs. conditional help",
+    "Justice = people deserve help because they're human",
+    "Charity = help because giver is kind (can be withdrawn)",
+    "Jax offered Marcus medical care AND housing, no conditions",
+    "Marcus and sister went to clinic, surgery scheduled",
+    "They're staying in Unit 23 (presumably Building 47)"
+  ],
+  "planted": [
+    {
+      "element": "Labor songs in notebook",
+      "payoff_chapter": "Book 3, Chapter 16",
+      "significance": "Songs will be sung at Mother Sera's funeral, become anthem of movement"
+    },
+    {
+      "element": "Specific labor song verse",
+      "payoff_chapter": "Book 3, Chapter 16",
+      "significance": "Will be quoted and sung"
+    },
+    {
+      "element": "Mother Sera's mother survived the rebellion",
+      "payoff_chapter": null,
+      "significance": "Historical continuity, shows resistance is generational"
+    },
+    {
+      "element": "Station authority will come eventually",
+      "payoff_chapter": 14,
+      "significance": "Foreshadows authority attention/response"
+    },
+    {
+      "element": "Culture as weapon they can't confiscate",
+      "payoff_chapter": "Book 3",
+      "significance": "Songs become revolutionary tool"
+    },
+    {
+      "element": "Justice vs. charity distinction",
+      "payoff_chapter": null,
+      "significance": "Thematic core of trilogy"
+    },
+    {
+      "element": "Question of whether Jax will fight or fold when authority comes",
+      "payoff_chapter": "Books 2-3",
+      "significance": "Core question of his character arc"
+    },
+    {
+      "element": "Free Level teaching people they deserve dignity",
+      "payoff_chapter": null,
+      "significance": "Revolutionary consciousness building"
+    }
+  ],
+  "active_tensions": [
+    "Building revolution versus staying under authority radar",
+    "Mother Sera's warning that authority will come",
+    "Question of whether Jax will fight or fold",
+    "Marcus's recovery and integration",
+    "Labor songs as cultural weapon waiting to be deployed",
+    "Difference between charity and justice",
+    "Hope as dangerous but necessary",
+    "Whether Free Level is creating target for suppression"
+  ],
+  "world_changes": [
+    "Jax has Mother Sera's blessing and support",
+    "He possesses historical notebook with rebellion-era labor songs",
+    "Marcus and sister are now in Free Level care",
+    "Mother Sera has given Jax historical/cultural ammunition",
+    "Jax understands he's building revolution, not just charity",
+    "Cultural continuity established between past rebellion and current movement"
+  ],
+  "continuity_notes": [
+    "Building 17 is in Sector 9, Unit 347 on third floor",
+    "Mother Sera has lived there 40 years",
+    "She's 70+ years old",
+    "Her mother lived through rebellion 70 years ago",
+    "Rebellion timeline: 70 years ago = uprising, then Sealing",
+    "50 years between Sealing and survivors establishing survival",
+    "That means ~20 years ago undercity became somewhat stable",
+    "Marcus is in Unit 23 (location unspecified, likely Building 47)",
+    "Surgery costs ~50k for hand repair",
+    "Labor songs will be taught when Free Level is 'really ready'",
+    "Notebook is yellowed, cramped writing, fading"
+  ],
+  "thematic_elements": [
+    "Justice vs. charity: deserving help vs. receiving kindness",
+    "Culture as resistance and weapon",
+    "Generational struggle: mother's rebellion → daughter's memory → Jax's movement",
+    "Hope as dangerous but necessary",
+    "Building creates political consciousness",
+    "Providing dignity teaches people they deserve it",
+    "Questions that reveal character: what do you do when there's no benefit?",
+    "Songs and stories outlast people, become ammunition"
+  ]
+}

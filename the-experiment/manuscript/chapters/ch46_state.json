@@ -1,0 +1,163 @@
+{
+  "chapter": 46,
+  "book": 3,
+  "book_chapter": 6,
+  "word_count": 1609,
+  "timeline": "Month 60-61, ~3 weeks after Ch 41, Reed has ~6 weeks to live",
+  "location": "Marcus's apartment, Sector 12 Repair Collective, Reed's apartment",
+  "characters_present": ["Reed Salazar", "Dr. Amara Osei", "Marcus Ibrahim", "Yuki Tanaka", "Shen", "20+ community organizers"],
+  "character_states": {
+    "Reed Salazar": {
+      "knows": [
+        "Has 73K credits (Amara's savings) to distribute",
+        "Has 6 weeks to live (kidneys at 18% then 11%)",
+        "Can seed cooperatives, unions, mutual aid with remaining funds",
+        "Cooperatives multiplying beyond his funding",
+        "Movement is self-sustaining now",
+        "Too sick to attend meetings in person",
+        "Leveler not processing anymore",
+        "Maybe a week left by chapter end"
+      ],
+      "emotional_state": "Purposeful despite dying. Satisfied watching cooperatives multiply. Peace knowing he succeeded. Physical pain breaking through.",
+      "arc_position": 0.95,
+      "location": "Marcus's apartment (meeting), then his own apartment (too sick to leave)",
+      "physical_state": "Critically failing - kidneys at 11%, Leveler not working, constant pain, maybe a week left"
+    },
+    "Dr. Amara Osei": {
+      "knows": [
+        "Reed has maybe a week left",
+        "Cooperatives are working",
+        "Documentation project capturing everything",
+        "Reed achieved what he set out to do",
+        "She's watching him die while documenting"
+      ],
+      "emotional_state": "Grief mixed with pride, documenting through tears, bearing witness",
+      "arc_position": 0.95,
+      "location": "With Reed, bringing updates",
+      "physical_state": "Functional but emotionally devastated"
+    },
+    "Marcus Ibrahim": {
+      "knows": [
+        "Reed is dying",
+        "Cooperatives work because community built them",
+        "He's part of first worker-owned repair business",
+        "Teaching next generation",
+        "Reed's legacy is secure"
+      ],
+      "emotional_state": "Honored to continue the work, teaching, grateful",
+      "arc_position": 0.70,
+      "location": "Repair Collective, working",
+      "physical_state": "Managing pain, energized by meaningful work"
+    }
+  },
+  "revealed_to_reader": [
+    "Reed has 73K credits left (Amara's savings)",
+    "6 weeks to live when chapter starts",
+    "Detailed spending plan: 20K cooperatives, 15K unions, 20K mutual aid, 10K education, 8K documentation/legal",
+    "23 people at planning meeting",
+    "First cooperative opens 4 days later: Sector 12 Repair Collective",
+    "Marcus is one of six worker-owners",
+    "Cooperatives charge fair rates, return 10% to seed fund",
+    "Repair Collective booked 3 weeks out",
+    "3 weeks after funding: 38 cooperatives in Sector 12, 100+ station-wide",
+    "First successful collective bargaining agreement (Sector 8 waste processing)",
+    "Reed too sick to attend meetings by end of chapter",
+    "Kidneys degraded: 18% → 11%",
+    "Leveler stopped processing/working",
+    "Maybe a week left to live by chapter end",
+    "Cooperatives self-sustaining, multiplying through peer funding"
+  ],
+  "planted": [
+    {
+      "element": "Marco's death making Reed desperate enough to try",
+      "payoff_chapter": "Book 3 Ch 19 - Marco's Brother",
+      "significance": "Grief as catalyst for change"
+    },
+    {
+      "element": "Reed too sick to leave apartment",
+      "payoff_chapter": "Book 3 Ch 16-18 - Final Project, Last Days",
+      "significance": "Confined for final work"
+    },
+    {
+      "element": "Cooperatives self-sustaining and multiplying",
+      "payoff_chapter": "Book 3 Ch 12 - UBI Ends, Ch 20 - Legacy",
+      "significance": "Movement survives Reed"
+    },
+    {
+      "element": "Week left to live",
+      "payoff_chapter": "Book 3 Ch 16-20 - Final recording, death",
+      "significance": "Final countdown accelerating"
+    },
+    {
+      "element": "First collective bargaining agreement won",
+      "payoff_chapter": "Book 3 Ch 20 - Legacy (epilogue shows expansion)",
+      "significance": "Labor power restored"
+    }
+  ],
+  "active_tensions": [
+    "Will Reed survive long enough to see cooperatives fully established?",
+    "Can documentation be completed in final week?",
+    "Will cooperatives truly sustain without him?",
+    "What will Reed's final days look like?",
+    "Will corporate try to dismantle cooperatives after his death?"
+  ],
+  "world_changes": [
+    "38 cooperatives operating in Sector 12",
+    "100+ worker-owned businesses station-wide",
+    "First successful collective bargaining in station history",
+    "Self-sustaining seed fund operating",
+    "Mutual aid networks established across sectors",
+    "Union coordination infrastructure funded for 6 months",
+    "Educational cooperatives teaching next generation",
+    "Legal defense fund protecting structures",
+    "Worker ownership becoming normal alternative to corporate employment"
+  ],
+  "continuity_notes": [
+    "Timeline: Month 60-61, ~3 weeks after Ch 41",
+    "Reed's funds: 73,000 credits (Amara's savings)",
+    "Spending breakdown: 20K+15K+20K+10K+8K = 73K",
+    "Life expectancy: Started chapter at 6 weeks, ended at maybe 1 week",
+    "Kidney function: 18% declining to 11%",
+    "23 people at planning meeting in Marcus's apartment",
+    "First cooperative: Sector 12 Repair Collective, 6 worker-owners including Marcus",
+    "Repair Collective: charges 20% below corporate, pays living wages, returns 10% to seed fund",
+    "Booked 3 weeks out immediately",
+    "3 weeks later: 38 in Sector 12, 100+ station-wide",
+    "First union win: Sector 8 waste processing workers",
+    "Reed confined to apartment by end of chapter",
+    "Leveler no longer processing effectively"
+  ],
+  "voice_check": {
+    "Reed": "Clear purpose despite dying, matter-of-fact about death, focused on legacy",
+    "Amara": "Documenting through grief, witnessing, affirming Reed's success",
+    "Marcus": "Teaching voice, practical wisdom, honoring Reed's work"
+  },
+  "themes_advanced": [
+    "Infrastructure over charity",
+    "Collective ownership as sustainable model",
+    "Knowledge transfer to next generation",
+    "Movement transcending catalyst",
+    "Death with purpose vs death in poverty",
+    "Grief as catalyst for systemic change",
+    "Multiplying resources through cooperative structure"
+  ],
+  "emotional_beats": [
+    "Reed laying out seed funding plan - legacy building",
+    "Room organizing immediately - agency",
+    "First cooperative opening - success",
+    "Marcus teaching young worker - generational transfer",
+    "Cooperatives multiplying beyond projection - hope",
+    "Reed too sick to attend meetings - mortality",
+    "Amara saying 'you did it' - recognition",
+    "'Marco should have lived to see this' - grief",
+    "Reed closing eyes in peace - acceptance"
+  ],
+  "setup_for_next_chapters": [
+    "Reed has maybe a week left",
+    "Confined to apartment",
+    "Documentation project urgent now",
+    "Cooperatives proven sustainable",
+    "Final recording needs to happen soon",
+    "Reed's death imminent"
+  ]
+}
