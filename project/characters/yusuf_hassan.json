@@ -1,0 +1,49 @@
+{
+  "name": "Yusuf Hassan",
+  "age": 28,
+  "role": "Data analyst by day, 'algorithm broker' by night",
+  "core_wound": "Grew up in Rosengård watching his talented friends get tracked into dead-end service jobs despite their skills. The system predicted they'd fail, so it made sure they did. He learned early that algorithms aren't neutral.",
+  "wants": "Financial security and respect - to prove a kid from Rosengård can beat the system",
+  "needs": "To recognize that his algorithmic crimes hurt real people in his community - the pharmacies he robs serve his neighbors",
+  "voice_markers": [
+    "Code-switches fluently: perfect formal Swedish, Rosengård slang, technical jargon",
+    "Explains technical concepts through street metaphors",
+    "Confident, sometimes cocky, especially about his technical skills",
+    "Uses 'we' when talking about Rosengård, 'they' when talking about institutions",
+    "Punctuates explanations with 'you see?' and 'understand?'"
+  ],
+  "contradiction": "Fights algorithmic discrimination by becoming an algorithmic criminal - perpetuates the stereotype he's trying to escape",
+  "arc_position": 0.0,
+  "knowledge_state": [
+    "Expert in ML/AI - self-taught plus university courses",
+    "Deep understanding of adversarial attacks and model vulnerabilities",
+    "Knows Rosengård community networks and informal economy",
+    "Aware he's being sought but doesn't know Sara specifically is on his case"
+  ],
+  "relationships": {
+    "Sara Lindqvist": "Unknown at start. Will respect her persistence but underestimate her insight.",
+    "Katarina Ek": "Knows of her services through dark web markets, never met in person",
+    "Chen Wei": "Unknown. They're in parallel criminal operations.",
+    "Emil Bergström": "Unknown at start. Will develop grudging recognition of technical skills.",
+    "Community": "Popular in Rosengård among younger generation. Seen as someone who made it out but stayed connected."
+  },
+  "background": {
+    "education": "Computer science degree from Malmö University. Top of his class but passed over for corporate jobs - too 'urban' for their culture.",
+    "family": "Parents are Somali immigrants. Father drives taxi, mother is a nurse. Three younger siblings. He financially supports the family.",
+    "residence": "Still lives in Rosengård in his parents' apartment building. Could afford to move but won't.",
+    "legitimate_work": "Data analyst at a logistics company. Ironically, he helps optimize supply chains while also helping people exploit them."
+  },
+  "skills": [
+    "Machine learning and neural networks - expert level",
+    "Adversarial attack techniques",
+    "Social engineering and OSINT",
+    "Dark web navigation and operational security",
+    "Understanding system vulnerabilities and edge cases"
+  ],
+  "weaknesses": [
+    "Overconfident in his technical abilities - thinks he can't be caught",
+    "Emotional about Rosengård and discrimination - clouds his judgment",
+    "Loyal to community - won't betray people from the neighborhood",
+    "Rationalizes harm - doesn't fully confront consequences of his crimes"
+  ]
+}

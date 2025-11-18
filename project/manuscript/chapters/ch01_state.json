@@ -1,0 +1,175 @@
+{
+  "chapter": 1,
+  "title": "The Invisible Container",
+  "word_count": 2450,
+  "timeline": "Monday, December, 6:00 AM - 1:00 PM",
+  "location": "Limhamn Harbor, Malmö",
+  "weather": "Winter darkness, cold, light snow by afternoon",
+  "characters_present": [
+    "Sara Lindqvist",
+    "Emil Bergström",
+    "Petri (dockworker)"
+  ],
+  "characters_mentioned": [
+    "Erik Lindqvist (Sara's father, deceased)"
+  ],
+  "character_states": {
+    "Sara_Lindqvist": {
+      "location": "Limhamn Harbor, then driving back to city",
+      "emotional_state": "Professional determination mixed with underlying dread about being outmatched",
+      "knows": [
+        "Ghost containers exist - 30 found at Limhamn",
+        "Adversarial ML attacks make containers invisible to port AI",
+        "Smugglers use fake IoT signatures to appear legitimate",
+        "The actual contraband was offloaded months ago - they're too late",
+        "Other algorithmic crimes are happening in Malmö (pharmacy robberies, burglaries)",
+        "The systems can be monitored by criminals in real-time"
+      ],
+      "doesn't_know_yet": [
+        "Who is behind the smuggling operation",
+        "What was smuggled",
+        "How the pharmacy robberies work specifically",
+        "Chen Wei's identity or involvement",
+        "That multiple separate criminal operations are using similar techniques"
+      ],
+      "arc_position": 0.05,
+      "skills_demonstrated": [
+        "Crime scene documentation",
+        "Recognizing patterns and connections",
+        "Asking the right questions despite limited technical knowledge"
+      ],
+      "personal_stakes_established": "Her father's job loss to automation creates personal connection to the case"
+    },
+    "Emil_Bergström": {
+      "location": "Limhamn Harbor with Sara, then presumably returning to crime lab",
+      "emotional_state": "Professionally engaged but underlying cynicism showing - 'we're too late'",
+      "knows": [
+        "How adversarial ML attacks work technically",
+        "The smugglers can monitor port systems in real-time",
+        "Pattern of other algorithmic crimes in Malmö",
+        "Police are structurally behind criminals in technical sophistication"
+      ],
+      "doesn't_know_yet": [
+        "Identities of any criminals",
+        "Full scope of the algorithmic crime ecosystem",
+        "That he'll eventually identify Yusuf's signature"
+      ],
+      "arc_position": 0.05,
+      "skills_demonstrated": [
+        "Digital forensics on the phone",
+        "Explaining complex technical concepts clearly",
+        "Pattern recognition across different crime types"
+      ]
+    },
+    "Petri": {
+      "location": "Limhamn Harbor",
+      "emotional_state": "Unsettled by the breakdown of familiar systems, proud of catching the anomaly",
+      "knows": [
+        "Port operations and normal container workflows",
+        "How to spot anomalies through manual observation",
+        "The automated systems can be fooled"
+      ],
+      "role": "Supporting character - represents old guard dockworkers being displaced"
+    }
+  },
+  "revealed_to_reader": [
+    "Adversarial ML attacks on automated port systems are possible",
+    "Malmö's port is compromised by sophisticated smugglers",
+    "Sara's personal connection to automation displacement (father's story)",
+    "Emil's growing cynicism about police keeping up with tech crime",
+    "There are multiple algorithmic crimes happening in Malmö",
+    "The theme: invisibility through looking normal to algorithms"
+  ],
+  "planted": [
+    {
+      "element": "Chen Wei as background port worker",
+      "planted_how": "Not directly introduced yet, but port workers mentioned",
+      "payoff_chapter": 2,
+      "significance": "She's the inside connection to smuggling operation"
+    },
+    {
+      "element": "Emil's cynicism and burnout",
+      "planted_how": "His comments about being 'too late' and criminals staying ahead",
+      "payoff_chapter": 12,
+      "significance": "Will reach crisis point at midpoint"
+    },
+    {
+      "element": "Other algorithmic crimes in Malmö",
+      "planted_how": "Emil's text at end about pharmacy robberies and burglaries",
+      "payoff_chapter": 7,
+      "significance": "Pattern recognition that this is an ecosystem, not isolated"
+    },
+    {
+      "element": "Turning Torso visual",
+      "planted_how": "Sara sees it in distance, wonders about ghosts in that machine",
+      "payoff_chapter": 12,
+      "significance": "Will be location of apartment burglaries investigation"
+    },
+    {
+      "element": "Sara's father and automation displacement",
+      "planted_how": "Backstory about Erik Lindqvist losing job to automation",
+      "payoff_chapter": 12,
+      "significance": "Personal stakes in understanding algorithmic displacement"
+    },
+    {
+      "element": "Surveillance cameras and networked systems",
+      "planted_how": "Realization that criminals can monitor port cameras",
+      "payoff_chapter": 12,
+      "significance": "Setup for revelation that all surveillance infrastructure is exploitable"
+    }
+  ],
+  "active_tensions": [
+    "Police are reactive, criminals are proactive - always behind",
+    "Traditional detective work vs technical expertise gap",
+    "Sara's competence vs her awareness of being outmatched by systems",
+    "Human obsolescence - dockworkers, Sara's father, eventually Sara herself?"
+  ],
+  "world_changes": [
+    "Limhamn Harbor's security protocols will need review",
+    "Customs and Europol now involved in smuggling investigation",
+    "Port operations center is aware their AI systems were compromised"
+  ],
+  "technical_concepts_introduced": [
+    "Adversarial machine learning",
+    "IoT sensor signatures",
+    "Automated logistics systems and AI container management",
+    "GPS tracking and movement logs",
+    "Pattern recognition in ML models",
+    "Remote monitoring of networked systems"
+  ],
+  "locations_established": {
+    "Limhamn_Harbor": "Automated port with cranes, container yards, operations center. Mix of old infrastructure and new AI systems.",
+    "Geography": "Malmö, Sweden. Winter setting. Connection to Öresund strait. E20 highway. Turning Torso visible from port."
+  },
+  "investigation_progress": {
+    "case_name": "Limhamn Port Smuggling (Ghost Containers)",
+    "evidence_collected": [
+      "30 smartphones running fake IoT signatures",
+      "GPS movement logs showing unauthorized transfers",
+      "Forensic data from phones - ML models, sensor simulation code",
+      "Container registration numbers and movement history"
+    ],
+    "leads": [
+      "One container went dark when they approached - criminals monitoring in real time",
+      "Connection to other algorithmic crimes in Malmö",
+      "Europol interest suggests international smuggling network"
+    ],
+    "dead_ends": [
+      "Actual contraband is long gone",
+      "No witnesses to the offloading",
+      "Criminals have superior technical capability and awareness"
+    ],
+    "next_steps": [
+      "Full forensic analysis of phones and ML models",
+      "Cross-reference with other algorithmic crime cases",
+      "Interview port personnel (including Chen Wei, though they don't know her yet)",
+      "Coordinate with Customs and Europol"
+    ]
+  },
+  "themes_developed": {
+    "invisibility_through_pattern": "Ghost containers are invisible by looking normal to AI",
+    "data_exhaust_as_weapon": "Port's own logs and sensors were exploited",
+    "human_obsolescence": "Petri and Sara's father both being displaced by automation"
+  },
+  "tone_notes": "Clinical, procedural, cold. Nordic noir atmosphere. Technical concepts explained clearly. Sense of being outmatched but not giving up. Dry humor in Sara and Emil's exchanges. No melodrama - just the creeping realization of how big this is."
+}

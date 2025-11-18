@@ -1,0 +1,53 @@
+{
+  "name": "Chen Wei",
+  "age": 35,
+  "role": "Logistics Coordinator, Limhamn Harbor",
+  "core_wound": "Left China for Sweden believing in meritocracy and clean systems. Found herself trapped between Chinese smuggling networks (who pressure her through family threats) and Swedish systems (who see her as perpetually foreign). No safe place to belong.",
+  "wants": "To extricate herself from the smuggling operation without getting killed or deported",
+  "needs": "To find the courage to trust Swedish authorities and testify, despite her well-founded fears",
+  "voice_markers": [
+    "Precise, formal Swedish - always grammatically correct but slightly unnatural",
+    "Uses logistics and systems terminology as comfort zone",
+    "Avoids contractions, speaks in complete sentences",
+    "Pauses before answering questions - calculating risks",
+    "When stressed, drops into Mandarin phrases under her breath"
+  ],
+  "contradiction": "Meticulous and rule-following in her legitimate work, but complicit in sophisticated smuggling operation. Lives compartmentalized life.",
+  "arc_position": 0.0,
+  "knowledge_state": [
+    "Expert in port logistics, container management, customs protocols",
+    "Knows how the adversarial ML attack on port systems works (was trained by smugglers)",
+    "Understands the smuggling network structure but only knows her direct contacts",
+    "Aware that smugglers have compromised her family's safety in China",
+    "Knows the port's physical layout and surveillance blind spots"
+  ],
+  "relationships": {
+    "Sara Lindqvist": "Unknown at start. Will be terrified of her initially, then gradually see her as potential protector.",
+    "Yusuf Hassan": "Unknown. Different criminal ecosystem.",
+    "Katarina Ek": "Unknown. Different criminal ecosystem.",
+    "Emil Bergström": "Unknown at start. Will be interviewed by him during investigation.",
+    "Smuggling contacts": "Terrified of them. Communicates through encrypted apps. Has never met the real decision-makers.",
+    "Legitimate colleagues": "Maintains professional distance. Afraid they'll discover her involvement."
+  },
+  "background": {
+    "education": "Logistics and supply chain management degree from Shanghai, additional certification in Sweden",
+    "family": "Parents and younger brother still in China. Their safety is leverage against her. Unmarried, no children.",
+    "residence": "Studio apartment in Limhamn, close to the port. Sparse, temporary feeling. She's never committed to staying.",
+    "immigration_status": "Permanent residency but not citizenship. Terrified of deportation."
+  },
+  "skills": [
+    "Port operations and container logistics",
+    "Customs regulations and shipping documentation",
+    "Systems analysis and process optimization",
+    "Mandarin, English, Swedish fluency",
+    "Risk assessment and contingency planning",
+    "Working under pressure and maintaining composure"
+  ],
+  "weaknesses": [
+    "Paralyzed by fear - struggles to take decisive action",
+    "Isolated - has no real support network in Sweden",
+    "Distrusts authorities based on Chinese government experience",
+    "Compartmentalizes emotions - will eventually break under pressure",
+    "Underestimates how much evidence exists against her"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "matrix": {
+    "Sara_Lindqvist": {
+      "Emil_Bergström": {
+        "type": "allies",
+        "power_dynamic": "equal colleagues, Sara slightly senior in rank but Emil has technical authority",
+        "tension": "Emil's cynicism vs Sara's determination. He worries she's fighting a losing battle.",
+        "evolution": "Will strengthen as cases get harder. Emil might find renewed purpose through Sara's persistence."
+      },
+      "Yusuf_Hassan": {
+        "type": "adversaries",
+        "power_dynamic": "cat and mouse - Sara has legal authority, Yusuf has technical superiority and youth",
+        "tension": "Sara understands his motivations (economic marginalization) but can't excuse his crimes. Yusuf underestimates her human insight.",
+        "evolution": "Grudging respect will develop. Maybe ends in Sara offering deal rather than pure prosecution."
+      },
+      "Chen_Wei": {
+        "type": "investigator_to_witness",
+        "power_dynamic": "Sara has all the power but needs Chen's cooperation",
+        "tension": "Chen's fear vs Sara's need for information. Trust must be earned.",
+        "evolution": "Sara will protect Chen and earn her trust, leading to testimony that cracks the smuggling case."
+      },
+      "Katarina_Ek": {
+        "type": "investigator_to_suspect",
+        "power_dynamic": "Sara has legal power, Katarina has moral defense (economic desperation)",
+        "tension": "Sara sees her father in Katarina - economic victim turned criminal. Personal parallel makes her both sympathetic and harsh.",
+        "evolution": "Complicated. Sara might advocate for leniency while still prosecuting. Katarina represents Sara's fear of what desperation does to good people."
+      }
+    },
+    "Emil_Bergström": {
+      "Yusuf_Hassan": {
+        "type": "technical_adversaries",
+        "power_dynamic": "Peers in skill, Yusuf has edge in innovation, Emil has resources",
+        "tension": "Emil might recognize Yusuf's technical signature. Professional respect despite being on opposite sides.",
+        "evolution": "Could develop into recruitment conversation - Emil trying to turn Yusuf informant or even hire him."
+      },
+      "Chen_Wei": {
+        "type": "interrogator_to_subject",
+        "power_dynamic": "Emil has technical knowledge to understand port systems, Chen has specialized knowledge",
+        "tension": "Emil's forensics vs Chen's careful compartmentalization",
+        "evolution": "Emil will be gentle, recognizing her fear. Might be the one who convinces Sara to offer protection."
+      },
+      "Katarina_Ek": {
+        "type": "investigator_to_suspect",
+        "power_dynamic": "Emil understands her technical limitations, which makes her crimes seem almost pathetic",
+        "tension": "Emil sees her as amateur hour compared to Yusuf, but she's still causing real harm",
+        "evolution": "Minimal - side case for Emil while Yusuf is his real focus"
+      }
+    },
+    "Yusuf_Hassan": {
+      "Katarina_Ek": {
+        "type": "parallel_criminals",
+        "power_dynamic": "Don't know each other. Yusuf is sophisticated; Katarina is amateur.",
+        "tension": "None directly. Represent different tiers of algorithmic crime.",
+        "evolution": "Might never meet. Thematic parallel rather than plot connection."
+      },
+      "Chen_Wei": {
+        "type": "parallel_criminals",
+        "power_dynamic": "No interaction. Different criminal ecosystems.",
+        "tension": "None",
+        "evolution": "No direct relationship. Both are examples of economic pressure creating crime."
+      }
+    },
+    "Chen_Wei": {
+      "Katarina_Ek": {
+        "type": "none",
+        "power_dynamic": "No relationship",
+        "tension": "None",
+        "evolution": "Parallel stories of economic crime, won't intersect"
+      }
+    }
+  },
+  "network_notes": {
+    "central_nodes": [
+      "Sara Lindqvist - connects all storylines as investigator",
+      "Emil Bergström - technical hub, connects to all cases through forensics"
+    ],
+    "isolated_clusters": [
+      "The three criminal operations are separate initially",
+      "Sara and Emil discover they're all using similar algorithmic exploitation techniques",
+      "This realization is a key plot development"
+    ],
+    "power_flows": [
+      "Police have legal authority but are technically outmatched",
+      "Criminals have technical power but are economically/socially vulnerable",
+      "Information is the real power - who knows what, when"
+    ],
+    "theme_reinforcement": {
+      "Sara_Emil": "Human insight vs technical capability - need both",
+      "Sara_criminals": "System creates crime, but individuals make choices",
+      "All_relationships": "Power is contextual - everyone has something the other needs"
+    }
+  }
+}

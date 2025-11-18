@@ -1,0 +1,224 @@
+{
+  "chapter": 2,
+  "title": "Interviews in the Cold",
+  "word_count": 2400,
+  "timeline": "Monday afternoon/evening, same day as Chapter 1",
+  "location": "Limhamn Harbor operations center",
+  "weather": "December cold, evening darkness",
+  "characters_present": [
+    "Sara Lindqvist",
+    "Emil Bergström",
+    "Margareta Svensson (port operations manager)",
+    "Jonas Persson (logistics coordinator)",
+    "Chen Wei (logistics coordinator)",
+    "Other port workers (interviewed off-screen)"
+  ],
+  "characters_mentioned": [
+    "Erik Lindqvist (Sara's father, deceased)",
+    "Sara's captain"
+  ],
+  "character_states": {
+    "Sara_Lindqvist": {
+      "location": "Limhamn Harbor operations center, then driving home",
+      "emotional_state": "Professional but increasingly aware of systemic vulnerability. Thinking about father's obsolescence paralleling current case.",
+      "knows": [
+        "Port workers made reasonable decisions that were exploited",
+        "Criminals understood the system better than the workers did",
+        "Shift transitions were deliberately targeted",
+        "Chen Wei is either very professional or potentially involved - can't tell yet",
+        "Manual override protocols are necessary but create vulnerabilities",
+        "They have until Friday before Customs takes over the case",
+        "Someone had operational knowledge of port workflows"
+      ],
+      "doesn't_know_yet": [
+        "Whether Chen Wei is actually involved or just careful",
+        "Who trained the ML models",
+        "Where the smuggled goods are now",
+        "Full scope of the operation",
+        "Connection to other algorithmic crimes"
+      ],
+      "arc_position": 0.08,
+      "skills_demonstrated": [
+        "Interview technique - putting subjects at ease",
+        "Pattern recognition across multiple testimonies",
+        "Reading people and their tells",
+        "Not jumping to conclusions despite suspicions"
+      ],
+      "personal_stakes": "Father's death at 62 after job loss to automation. Watching workers who adapted or were replaced."
+    },
+    "Emil_Bergström": {
+      "location": "Limhamn Harbor operations center with Sara",
+      "emotional_state": "Energized by technical analysis, depressed by human vulnerability. Cynicism showing more clearly.",
+      "knows": [
+        "How the phones simulate IoT sensors using ML models",
+        "Models were trained on real sensor data to include realistic imperfections",
+        "Every automated system is structurally vulnerable to adversarial attacks",
+        "Defenders must win every time, attackers only need to win once",
+        "The components are all legal - only the combination is criminal",
+        "Smugglers are probably long gone",
+        "They have 4 days to produce preliminary report"
+      ],
+      "doesn't_know_yet": [
+        "Who created the models",
+        "Source of the training data",
+        "Whether this is one group or multiple operators",
+        "Connection to other cases"
+      ],
+      "arc_position": 0.08,
+      "skills_demonstrated": [
+        "Deep technical forensics on ML models",
+        "Explaining complex concepts clearly to Sara",
+        "Recognizing sophisticated attack patterns",
+        "Understanding economic pressures on security systems"
+      ],
+      "burnout_trajectory": "More visible. 'You don't defend against that' and 'We're investigating a crime that's already over' comments show deepening cynicism."
+    },
+    "Chen_Wei": {
+      "location": "Limhamn Harbor, interviewed then returned to work",
+      "emotional_state": "Nervous but maintaining professional composure. Careful and precise in all responses.",
+      "knows": [
+        "She is being investigated",
+        "Her authorization decisions are being scrutinized",
+        "The ghost containers went through her shifts",
+        "Police are looking for patterns"
+      ],
+      "doesn't_know_yet": [
+        "Whether she is a suspect or just a witness",
+        "How much evidence police have",
+        "If they will discover her involvement"
+      ],
+      "arc_position": 0.08,
+      "behavior_patterns": [
+        "Brings her own documentation unprompted",
+        "Keeps paper logs as backup (habit from China)",
+        "Methodical and precise in her work",
+        "Grammatically perfect but slightly formal Swedish",
+        "Noticed in retrospect that exceptions came during shift transitions"
+      ],
+      "reader_knows": "She appears competent and careful, possibly nervous about being blamed, but no clear evidence of involvement yet",
+      "investigation_status": "Flagged for follow-up, not as suspect but as person of interest"
+    },
+    "Jonas_Persson": {
+      "location": "Limhamn Harbor",
+      "emotional_state": "Shaken by realization he authorized smuggling containers",
+      "role": "Example of worker doing job correctly but being exploited",
+      "arc_position": 0.05,
+      "status": "Supporting character showing pattern of exploitation"
+    },
+    "Margareta_Svensson": {
+      "location": "Limhamn Harbor operations center",
+      "emotional_state": "Defensive about port security, weary from automation transition",
+      "role": "Port operations manager, facilitating investigation",
+      "significance": "Represents management layer caught between automation promises and security realities"
+    }
+  },
+  "revealed_to_reader": [
+    "Port workers made individually reasonable decisions that collectively enabled smuggling",
+    "ML models were trained to be realistically imperfect - learned to simulate normal anomalies",
+    "Shift transitions were deliberately targeted for batch processing approvals",
+    "Every automated system has structural vulnerabilities to adversarial attacks",
+    "Chen Wei is meticulous with documentation - ambiguously suspicious or professional",
+    "Sara's father died after job loss to port automation - personal stakes",
+    "Police have 4 days before Customs takes over",
+    "Emil's cynicism is deepening - 'investigating a crime that's already over'",
+    "Attackers only need to win once; defenders must win every time"
+  ],
+  "planted": [
+    {
+      "element": "Chen Wei's nervous precision and careful documentation",
+      "planted_how": "Her behavior during interview could be professional caution or guilty fear",
+      "payoff_chapter": 16,
+      "significance": "First direct introduction of character who will later break and testify"
+    },
+    {
+      "element": "Service workers and automation displacement",
+      "planted_how": "Jonas, Margareta, and Sara's father all represent workers adapted or replaced",
+      "payoff_chapter": 12,
+      "significance": "Setup for invisible workers theme and data exhaust economy"
+    },
+    {
+      "element": "Emil's arms race observation",
+      "planted_how": "'Attackers can fail and iterate, only need to win once. Defenders must win every time.'",
+      "payoff_chapter": 12,
+      "significance": "Structural explanation for why police are always behind"
+    },
+    {
+      "element": "Turning Torso visual with wonder about ghosts",
+      "planted_how": "Sara sees it in distance, wonders what invisible things move through its smart systems",
+      "payoff_chapter": 12,
+      "significance": "Foreshadowing apartment burglaries case"
+    },
+    {
+      "element": "Inside operational knowledge",
+      "planted_how": "Sara notes timing and targeting suggests informed actor",
+      "payoff_chapter": 4,
+      "significance": "Will lead to suspicion of Chen Wei"
+    },
+    {
+      "element": "Legal components, criminal combination",
+      "planted_how": "Every piece is legal and accessible, only combination is criminal",
+      "payoff_chapter": 7,
+      "significance": "Setup for dark web 'crime as a service' revelation"
+    }
+  ],
+  "active_tensions": [
+    "Is Chen Wei involved or just careful?",
+    "Can they solve case before Customs takes over in 4 days?",
+    "Sara's determination vs Emil's cynicism about already being too late",
+    "Workers doing jobs correctly but being exploited systematically",
+    "Sara's personal connection to automation displacement affecting objectivity",
+    "Understanding the system vs actually catching the criminals"
+  ],
+  "world_changes": [
+    "Port operations center aware their shift transition timing is vulnerable",
+    "Nine port workers interviewed and nervous about their decisions",
+    "Deep background checks initiated on all logistics coordinators",
+    "Sara and Emil have small office at port for investigation duration"
+  ],
+  "technical_concepts_introduced": [
+    "ML models trained to simulate realistic imperfections",
+    "Statistical indistinguishability from real sensor data",
+    "Adversarial models learning what exceptions look like",
+    "Realistic noise and anomalies making fake data look authentic",
+    "Economic pressure toward trusting automated systems",
+    "Attack surface increasing with AI sophistication",
+    "Legal components vs criminal combinations"
+  ],
+  "locations_established": {
+    "Port_Operations_Center": "Coffee and electrical ozone smell. Wall screens showing schedules. Conference table. Window overlooking automated cranes and workers.",
+    "Makeshift_Office": "Storage room converted to investigation space. Desk, terrible coffee machine, Sara and Emil's base.",
+    "Port_Exterior": "High-visibility vests, workers moving between cargo stacks, automated cranes, evening shift arriving"
+  },
+  "investigation_progress": {
+    "case_name": "Limhamn Port Smuggling (Ghost Containers)",
+    "evidence_collected": [
+      "Interview transcripts from 9 port workers",
+      "Detailed forensics on phone ML models",
+      "Authorization logs cross-referenced with worker decisions",
+      "Chen Wei's paper documentation logs",
+      "Pattern analysis showing shift transition targeting"
+    ],
+    "leads": [
+      "Chen Wei flagged for follow-up - ambiguous behavior",
+      "Someone had operational knowledge of shift patterns",
+      "ML models required access to real sensor training data",
+      "All components legal and accessible - combination criminal",
+      "Deep backgrounds being run on all coordinators"
+    ],
+    "timeline_pressure": "4 days until Customs takes over case",
+    "next_steps": [
+      "Interview night shift workers",
+      "Talk to customs about missing cargo reports",
+      "Complete deep background checks",
+      "Finish forensic analysis of phones",
+      "Trace origin of ML model training data"
+    ]
+  },
+  "themes_developed": {
+    "invisibility_through_pattern": "Fake sensors invisible by looking statistically normal, including realistic anomalies",
+    "data_exhaust_as_weapon": "Real sensor data used to train adversarial models",
+    "human_obsolescence": "Sara's father, Jonas, Margareta - workers displaced or adapted. Now criminals making systems obsolete.",
+    "doing_everything_right_still_complicit": "Workers made correct decisions but system was exploited anyway"
+  },
+  "tone_notes": "Clinical procedural with emotional undercurrent. Sara's interview technique professional and empathetic. Emil comes alive with tech analysis, depressed by human vulnerability. Nordic noir atmosphere - fluorescent lights, terrible coffee, December darkness. No melodrama. Growing sense of being outmatched but continuing anyway. Symmetry between Sara's father's obsolescence and criminals making automation obsolete."
+}

@@ -1,0 +1,40 @@
+{
+  "genre": "techno-thriller crime fiction",
+  "setting": {
+    "time_period": "2027 - near future",
+    "primary_location": "Malmö, Sweden",
+    "secondary_locations": [
+      "Limhamn Harbor (port district)",
+      "Rosengård (immigrant neighborhood)",
+      "Turning Torso (luxury waterfront)",
+      "Västra Hamnen (Western Harbor tech district)"
+    ],
+    "atmosphere": "Nordic noir meets cyberpunk - cold, systematic, morally gray. Sleek smart city veneer hiding algorithmic exploitation. Scandinavian social democracy colliding with surveillance capitalism."
+  },
+  "rules": {
+    "technology_level": {
+      "ai_systems": "Narrow AI is ubiquitous in city infrastructure. Machine learning models manage ports, security, transportation, building systems. No AGI. All AI is specialized, pattern-matching, vulnerable to adversarial attacks.",
+      "surveillance": "Facial recognition standard in commercial buildings. Smart locks track resident patterns. IoT sensors everywhere generating data exhaust. Privacy laws exist but enforcement lags behind deployment.",
+      "automation": "Ports use autonomous cranes and container management. Delivery drones common. Most retail has automated inventory and security systems. Human workers still present but increasingly supervisory roles.",
+      "limitations": "All systems are hackable. ML models can be reverse-engineered. Adversarial attacks work. No 'unhackable' tech. Encryption is strong but implementation is often weak. Legacy systems create vulnerabilities."
+    },
+    "social_structures": {
+      "class_divide": "Wealthy tech workers in Turning Torso and new builds with smart home integration. Working class in Rosengård with older infrastructure but still surveilled. Service workers (cleaners, delivery, maintenance) are data-rich but economically poor.",
+      "law_enforcement": "Swedish police are professional but understaffed for cybercrime. Rely heavily on automated systems they don't fully understand. Collaborative with Europol but sovereignty issues slow cross-border cases.",
+      "crime_ecosystem": "Traditional organized crime (smuggling, drugs) now uses algorithmic tools. New class of 'algorithm brokers' sell exploits, trained models, and system access. Dark web markets for ML models and synthetic training data.",
+      "immigrant_communities": "Rosengård is predominantly immigrant, economically marginalized but tech-savvy younger generation. Some turn to algorithmic crime as white-collar path vs traditional street crime."
+    },
+    "investigation_rules": {
+      "evidence": "Digital forensics is standard. Logs can be faked but ML models leave artifacts. Training data can be reverse-engineered from model behavior. Physical evidence still matters - containers, phones, hardware.",
+      "jurisdiction": "Local police for street level. Economic crime division for fraud. National cybercrime center for major infrastructure attacks. Jurisdictional conflicts are common.",
+      "resources": "Police have forensics labs but often outsource AI analysis to contractors. This creates conflicts of interest and information leaks.",
+      "limitations": "Police are always reactive. Criminals innovate faster. Algorithmic crimes are hard to explain to judges and juries. Proof of intent is difficult when algorithms make decisions."
+    }
+  },
+  "themes": [
+    "Invisibility through pattern - how to disappear by looking normal to algorithms",
+    "Data exhaust as weapon - your behavioral patterns enable crimes against you",
+    "Human obsolescence - when both criminals and cops are just training data for the next system"
+  ],
+  "tone": "Clinical and precise, like a forensics report. Dry Swedish humor. No melodrama. Show the systems, show the exploits, show the human consequences. Morally gray - criminals are often sympathetic, cops are competent but overwhelmed. Technology is neutral; implementation is everything."
+}
